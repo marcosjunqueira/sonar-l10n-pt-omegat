@@ -1,0 +1,5768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines a project type for NetBeans modules, useful for developing plug-in extensions for NetBeans.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Define um tipo de projeto para módulos do NetBeans, que é útil para o desenvolvimento de extensões para o NetBeans. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes many wizards, samples, refactoring and other features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui vários assistentes e outros recursos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Help | Contents for details, including recent changes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja Ajuda | Conteúdo da ajuda para detalhes, incluindo mudanças recentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Plugin Development</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desenvolvimento de plugin do netBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module Reload Ant Task</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo Tarefa Ant para Recarregamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developing NetBeans</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desenvolvendo o NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permits reloading of NetBeans modules using Ant.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite recarregar módulos NetBeans utilizando Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides a special task &lt;nbinstaller&gt; which permits module reloading to be triggered by the Ant script rather than the IDE GUI.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece uma tarefa especial &lt;nbinstaller&gt; que permite que o recarregamento de módulos seja disparado pelo script do Ant em vez de pela interface gráfica do IDE. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used by Install/Reload in Development IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizado por Instalar/Recarregar na IDE de Desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install/Reload in Target Platform uses a --reload command-line parameter and does not rely on this module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar/Recarregar na Plataforma de Destino utiliza um parâmetro de linha de comando --reload e não se apóia nesse módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module Build Harness</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura para Contrução de Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you build external plug-in modules from sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite que sejam criados módulos externos de plug-ins a partir de código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the build harness used to develop NetBeans modules (with or without the IDE).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este é o construtor harness utilizado para desenvolver módulos para o NetBeans (com ou sem o IDE). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is normally used implicitly by NetBeans module projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É normalmene utilizado implicitamente pelos projetos de módulos do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For technical documentation, see harness/README.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para documentação técnica, veja harness/README.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Module Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatoração de Módulo do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional refactoring support for NetBeans module projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte adicional a refatoração para projetos de módulo do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes refactoring operations aware of NetBeans module semantics.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faz com que operações de refatoração reconheçam a semântica de módulos do NetBeans. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently supports Where Used queries and checks for class usages in manifest.mf and META-INF/services.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualmente suporta consultas &quot;Quando usado&quot; e verifica a utilização de classes em manifest.mf e META-INF/services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;{0}&lt;/b&gt; implements a global lookup service.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;b&gt;{0}&lt;/b&gt; implementa um serviço global de lookup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section {1}: &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seção {1}: &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path: {0} Attribute: &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho: {0} Atributo: &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path: &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho: &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path: {0} Attribute: {1} Value: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho: {0} Atributo: {1} Valor: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} implements a global lookup service, update.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} implementa um serviço global de lookup, atualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update {1}: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar {1}: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update section {1}: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seção de atualização {1}: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change layer attribute value &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar valor de atributo de camada &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename layer file &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear arquivo de camada &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} implements a global lookup service, remove.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} implementa um serviço global de lookup, remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete {1}: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir {1}: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete section {1}: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir seção {1}: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete layer entry for &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir entrada de camada para &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illustrates how to use the NetBeans Platform to create your own application.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ilustra como utilizar o NetBeans Platform para criar sua própria aplicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the PaintApp Tutorial for details.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja o tutorial PaintApp para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new Paint Application project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar um novo projeto Aplicativo Paint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample paint application based on the NetBeans platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplo de um aplicativo de desenho baseado na plataforma NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PaintApp Platform Sample</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplo da Plataforma PaintApp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample NetBeans platform application.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplo de aplicação da plataforma Netbeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paint Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicativo Paint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do Projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório do Projeto já existe e não está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder cannot be created.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta do Projeto não pode ser criada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder is not a valid path.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta do Projeto não é um caminho válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name is not a valid folder name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do Projeto não é um nome de pasta válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Project Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar Local do Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &amp;Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta &amp;do Projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Br&amp;owse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pr&amp;ocurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &amp;Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Localização do Projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the FeedReader Tutorial for details.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja o tutorial FeedReader para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundles a New Project sample for &quot;FeedReader&quot;, an application built atop the NetBeans Platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui uma amostra de Novo Projeto para o &quot;FeedReader&quot;, uma aplicação construída sobre a Plataforma NetBeans. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demonstrates a complete module suite with one functional module and several third-party libraries.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Demonstra uma suíte completa de módulos com um módulo funcional e várias bilblotecas de terceiros. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows how to use settings, window manipulation, actions, and more.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Demonstra como usar configurações, manipular janelas, trabalhar com ações, e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FeedReader Platform Application Sample</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>FeedReader: Amostra de Aplicação baseada no NetBeans Platform</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundles a demonstration application using the NetBeans Platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir uma aplicação de demonstração usando o NetBeans Platform.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulos do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Fol&amp;der:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta &amp;do Projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new FeedReader project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar um novo projeto Feedreader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timers API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de Timers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run-time watches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa observadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run-time Watches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa Observadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Module Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos de Módulos do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines an Ant-based project type for NetBeans modules and module suites.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Define um tipo de projeto baseado no Ant para suítes de módulos do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes many wizards and other features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui vários assistentes e outros recursos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source Packages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes de Código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Test Packages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes de Testes Unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functional Test Packages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes de Testes Funcionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performance Test Packages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes de Testes de Desempenho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Test Packages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} Pacotes de Testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This version of the IDE is too old to read metadata in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Essa versão da IDE é muito antiga para ler metadata em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Platform ({0})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plataforma Inválida ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (Default)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (Padrão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.0 update 1 / 5.5</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>5.0 atualizar 1 / 5.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.5 update 1</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>5.5 atualizar 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Public Packages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem Pacotes Públicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Javadoc cannot be produced for this module.&lt;br&gt;It is not yet configured to export any packages to other modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Javadoc não pode ser processado por esse módulo.&lt;br&gt;O módulo ainda não está configurado para exportar pacotes para outros módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Public Packages...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurar Pacotes Públicos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Harness Too Old</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arreio Muito Antigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are attempting to build a module or suite project which uses a new metadata format with an old version of the module build harness which does not understand this format.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você está tentando construir um módulo ou um projeto de suíte que usa usa um novo formato de  metadata com uma versão antiga de construção de módulo de arreio que não entende esse formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may either choose a newer NetBeans platform, or switch the harness used by the selected platform to use a newer harness (try using the harness supplied with the IDE).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Voce deve escolher uma nova plataforma NetBeans, ou mudar o arreio usado na plataforma selecionada para usar um novo arreio(tente usar o arreio sugerido com a IDE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean and Build</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar e Construir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build with Dependencies</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir com Dependências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build with Dependencies and Try</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir com Dependências e Testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deburar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Javadoc</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerar Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Architecture Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerar Descrição de Arquitetura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for Unused Bundle Keys</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificar Chaves de Bundle Não-usadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install/Reload in Target Platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar/Recarregar na Plataforma de Destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install/Reload in Development IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar/Recarregar no IDE de Desenvolvimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create NBM</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar NBM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Reloading a module in the running development IDE can be dangerous.&lt;br&gt;Errors in the module could corrupt your environment and force you to use a new user directory.&lt;br&gt;(In most cases it is wiser to use &lt;b&gt;Install/Reload in Target Platform&lt;/b&gt;.)&lt;br&gt;Do you really want to reload this module in your own IDE?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Recarregar um módulo em execução na IDE pode ser perigoso.&lt;br&gt;Erros no módulo poderão corromper seu ambiente e  forçar a usar um novo diretório de usuário.&lt;br&gt;(Em muitos casos é mais sensato ao usuário &lt;b&gt;Instalar/Recarregar uma Plataforma de Destino&lt;/b&gt;.)&lt;br&gt;Você realmente quer recarregar esse módulo na sua própria IDE?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Install/Reload in Development IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar Instalação/Recarregamento no IDE de Desenvolvimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run {0} Tests</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar {0} Testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run {0} Test Dist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar Teste de Distribuição {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build {0} Tests</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir {0} Testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measure {0} Test Coverage</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir {0} Cobertura de Testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot perform the operation while the module is being run/debugged;either exit the IDE being run or kill any running process and delete lock file if necessary.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode realizar a operação enquanto o módulo estiver executando/depurando;saia da IDE em execução ou encerre algum processo em execução e exclua o arquivo travado, se necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module project in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto de módulo em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extra Javadoc Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Javadoc Adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Importantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Test Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bibliotecas de Testes Unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module Manifest</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Manifesto do Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Architecture Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição de Arquitetura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>API Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudanças de API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Javadoc Overview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visão Geral do Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Script</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Script de Construção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Metadata</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Metadados do Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades do Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Per-user Project Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades do Projeto Específicas a cada Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suite Locator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizador da Suíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Per-user Suite Locator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizador de Suíte para cada Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Platform Config</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração da Plataforma do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Per-user NetBeans Platform Config</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração da Plataforma do NetBeans para cada usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Module Dependency...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Dependência de Módulo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Module Dependency</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Dependência de Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit &quot;{0}&quot; Dependency</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar Dependência &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broken platform ''{0}''</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plataforma inválida ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broken platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plataforma inválida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Javadoc for {0} not found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Javadoc para {0} não encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Javadoc</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation Dependency</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depende de Implementação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needed to &lt;strong&gt;compile&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Necessita &lt;strong&gt;compilar&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Major release version: &lt;strong&gt;{0}&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão principal da liberação: &lt;strong&gt;{0}&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification version: &lt;strong&gt;{0}&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão da Especificação: &lt;strong&gt;{0}&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include also tests of module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir também testes de módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compile-time dependency</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compilação de dependência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include dependencies recursively</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir dependencias recursivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Unit Test Dependency</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Dependência de Teste Unitário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir Tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean and Build All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar e Construir Tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar Tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build ZIP Distribution</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir Distribuição ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build JNLP Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir Aplicação JNLP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run JNLP Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar Aplicação JNLP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug JNLP Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurar Aplicação JNLP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create NBMs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar NBMs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Mac OS X Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir Aplicação Mac OS X </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Library Wrapper Module Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo Projeto de Módulo de Encapsulador de Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module &quot;{0}&quot; is already part of the module suite &quot;{1}&quot; [{2}].</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo &quot;{0}&quot; já faz parte da suíte de módulos &quot;{1}&quot; [{2}]. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you wish to remove the module from that suite and add it to &quot;{3}&quot; instead?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja remover o módulo desta suíte e adicioná-lo a &quot;{3}&quot; em vez disso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suite &quot;{0}&quot; already contains selected project &quot;{1}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suíte &quot;{0}&quot; já contém o projeto selecionado &quot;{1}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project &quot;{0}&quot; is part of a netbeans.org CVS tree.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O projeto &quot;{0}&quot; faz parte de uma árvore CVS de netbeans.org. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As such it cannot be added as a suite component.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Portanto não pode ser adicionado como um componente da suíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project &quot;{0}&quot; is not a NetBeans module project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O projeto &quot;{0}&quot; não é um projeto de módulos do NetBeans. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can only add NetBeans modules to a module suite.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Somente pode-se adicionar módulos do NetBeans a uma suíte de módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Existing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Existente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add New Library...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Nova Biblioteca...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add New...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Novo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Module Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo Projeto de Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening Selected Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo Projetos Selecionados...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;The module &lt;b&gt;{0}&lt;/b&gt; is set as a dependency in the following modules.&lt;br&gt;{1}&lt;br&gt;By removing this module from the suite the dependencies on this module&lt;br&gt;will be removed as well.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;O módulo &lt;b&gt;{0}&lt;/b&gt; está definido com uma dependência no módulo seguinte.&lt;br&gt;{1}&lt;br&gt;Revomendo esse módulo da suíte de dependências esse módulo&lt;br&gt;também será removido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The suite already contains a project with code name base &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A suíte já contém um projeto com nome base de código &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module suite project in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto de Suite de Módulos {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JNLP Descriptor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descritor JNLP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;The JNLP application cannot be built because this suite is not yet set up as a standalone application.&lt;br&gt;At least a branding name must be configured before building or running in JNLP mode.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;A aplicação JNLP não pode ser construída porque essa suíte ainda não foi configurada como uma aplicação independente.&lt;br&gt;Pelo menos um nome marcado deve ser configurado antes de construir ou executar em modo JNLP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;The ZIP file cannot be built because this suite is not yet set up as a standalone application.&lt;br&gt;At least a branding name must be configured before building an application ZIP.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;O arquivo ZIP não pode ser construída porque essa suíte ainda não foi configurada como uma aplicação independente.&lt;br&gt;Pelo menos um nome marcado deve ser configurado antes de construir uma aplicação ZIP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not Standalone Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é uma Aplicação Independente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Application...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurar Aplicação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incorrect icon size: {0}x{1} but expected {2}x{3}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho do ícone incorreto: {0}x{1} mas esperado {2}x{3}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Icon ({0}x{1}) selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum ícone ({0}x{1}) selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Icon</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar Ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected icon [size]:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar ícone [tamanho]:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates Generics Languages Framework nbs file for some specific mime type and file extensions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criação de Linguagem Genérica de arquivo Framework nbs para apenas um tipo específico de mime e arquivos de extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can define support for many editing features (Syntax Coloring, Indentation, Code Folding, Navigator, ...) inside the nbs file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode definir suporte para muitas edições(Sintaxe de Cor, Indentação, Pasta de Código, Navegador, ...)dentro do arquivo nbs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes a new wizard that may be either registered as a &lt;e0&gt;New File&lt;/e0&gt; wizard or called from a custom code (e.g. from an action representing global, popup menu, …).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faça um novo assistente que possa ser registrado com um outro &lt;e0&gt;Arquivo Novo&lt;/e0&gt; assistente ou chamado de um código habitual (e.g. de uma ação global representada, menu de pop-up, …).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a new NetBeans module which is just a wrapper for an existing JAR library.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar um nvo módulo NetBeans que é apenas um invólucro para uma biblioteca JAR existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other modules in the same suite can declare a dependency on the wrapper module to get shared access to library classes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Outros módulos na mesma suíte pode declarar dependência em um módulo invólucro para ter acesso compartilhado à classes de biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this template to add a new class library to the Library Manager of the user’s IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use esse modelo para adcionar uma nova classe de biblioteca para o Gerenciador de Bibliotecas para os usuários da IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a library you have already defined in your own IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione uma biblioteca que você já tenha definido em sua IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may include associated sources and/or Javadoc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve incluir código associado e/ou Javadoc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this template to include a new Options panel in this module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use esse modelo para incluir um novo painel de Opções nesse módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a new empty NetBeans Module Suite.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria um novo Módulo Suíte NetBeans vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this template to add a class which manages the module installation (and uninstallation) lifecycle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use esse modelo para adicionar uma classe que gerencie a instalação do módulo (e desinstale) o cicle de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this template to register an &lt;b0&gt;Update Center&lt;/b0&gt; with this module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use esse modelo para registrar um &lt;b0&gt;Centro de Atualização&lt;/b0&gt; com esse módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An &lt;b1&gt;Update Descriptor&lt;/b1&gt; (XML file) will be produced by &lt;c2&gt;Create NBMs...&lt;/c2&gt; on a module suite context menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um &lt;b1&gt;Update Descriptor&lt;/b1&gt; (arquivo XML) será producido por&lt;c2&gt;Criador NBMs...&lt;/c2&gt; num menu contextual de suíte de módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This XML file must be publicly accessible at some &lt;b3&gt;URL&lt;/b3&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esse arquivo XML pode ser associado publicamento a alguma &lt;b3&gt;URL&lt;/b3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the user installs a module with this template, the &lt;b4&gt;Auto Update&lt;/b4&gt; wizard will automatically look in the specified update center.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando o usuário instala um módulo com esse modelo, o assistente de &lt;b4&gt;Auto Atualização&lt;/b4&gt; será automaticamente mostrado numa central específica de atualização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this template to include JavaHelp in a module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use esse modelo para incluir JavaHelp num módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declares a file type which will be recognized by NetBeans, e.g. in folder views.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declara um tipo de arquivo que será reorganizado pelo NetBeans, e.g. visualizador de pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;c0&gt;DataObject&lt;/c0&gt; is the main controller of the file type’s behavior.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O &lt;c0&gt;DataObject&lt;/c0&gt; é o controlador principal de tipos de arquivo de comportamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a new singleton Window integrated into the Window System along with an Action in main menu that opens it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Crie uma nova Janela solitária integrada na Janela do Sistema ao longo de uma Action no menu principal que abre com ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a new empty NetBeans Module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria um novo Módulo NetBeans vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this template to add a new template to the &lt;b0&gt;New Project&lt;/b0&gt; wizard.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Usse esse modelo para adicionar um novo modelo para o &lt;b0&gt;Novo Projeto&lt;/b0&gt; assistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This could be used to bundle sample applications that use a special technology, or to set up some complex project infrastructure (such as for a freeform project).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esse poderá ser usado para empacotar amostra de aplicações que usa uma tecnologia especial, ou para montar alguma infraestrutura complexa de projeto(assim com para um projeto de forma livre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makes a NetBeans action (&lt;c0&gt;CallableSystemAction&lt;/c0&gt; or &lt;c1&gt;CookieAction&lt;/c1&gt;) which can be added to a menu, context menu, toolbar, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faça uma action NetBeans (&lt;c0&gt;CallableSystemAction&lt;/c0&gt; ou &lt;c1&gt;CookieAction&lt;/c1&gt;) que pode ser adicionada ao menu, menu de contexto, barra de ferramentas, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;dd...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A&amp;dicionar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Editar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remo&amp;ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Properties - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades do projeto - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Platform is Selected (Cannot List Module Dependencies)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Está Selecionada um Plataforma Inválida (Não é Possível Listar as Dependências do Módulo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} platform not found; switching to default.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} plataforma não econtrada; mudando para a padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previously set</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definida anteriormente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Códigos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>API Versioning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versionamento de APIs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Splash Screen</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tela Inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compilação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packaging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Empacotamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module &amp;Suite:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Suíte de Módulos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source &amp;Level:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Níve&amp;l de Código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suite &amp;Modules:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Módulos da Suíte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add Dependency...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar Dependência...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add New &amp;Library...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Nova Bib&amp;lioteca...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Packages Only to &amp;Friends:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportar Pacotes Apenas para Pacotes &amp;Amigáveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Manage Platforms...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciar Platafor&amp;mas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>M&amp;odule Dependencies:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dependências do M&amp;ódulo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided Tokens:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Símbolos Fornecidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided &amp;Tokens:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Símbolos &amp;Fornecidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;quired Tokens:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Símbolos Re&amp;queridos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must select at least one public package to export to friends.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser selecionado pelo menos um pacote público para exportação para os pacotes amigáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display &amp;Category:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Categoria de Exibição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome de Exibição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Long Description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição &amp;Longa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Short Description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>De&amp;scrição Curta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is not localized bundle for this module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há um bundle lozalizado para este módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Module Dependency</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar Dependência de Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Javadoc</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir &amp;Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Descrição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(try class or package names; JAR paths; display or code names)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(experimente nomes de classes ou de pacotes; caminhos de JARs; nomes de exibição ou de código)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Filter:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Module:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Módulo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Matching Filter Contents:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conteúdo com Correspondências no Filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no filter specified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>não há um filtro especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Non-API Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir Módulos &amp;Não-API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add New Friend Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Novo Módulo Amigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;ppend Implementation Versions Automatically</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Anexar Automaticamente Versões de Im&amp;plementação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto&amp;load</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Carga Automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Eager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ancioso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aj&amp;uda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;gular</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Norma&amp;l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code &amp;Name Base:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Base do &amp;Nome Código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Friend Module:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo &amp;Amigável:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Friends</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Amigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Implementation Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão de &amp;Implementação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include Packages in &amp;Classpath:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir Pacotes no &amp;Classpath:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ma&amp;jor Release Version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão &amp;Principal da Liberação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo do Módulo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pro&amp;vided Tokens:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Símbolos For&amp;necidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&amp;ublic Packages:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes P&amp;úblicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Specification Version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão da E&amp;specificação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Friend Module must be a valid code name base.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo Amigo deve ser um nome de código base válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Friend Module may not be blank.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo Amigo não pode estar em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Major Release Version must be blank or a nonnegative integer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Versão Principal da Liberação deve estar em branco ou ser um inteiro não-negativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation versions are recommended to be integers to work best with Auto Update.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versões de implementação são recomendados ser inteiros, por trabalharem melhor com a Atualização Automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Generate Debugging Info</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Gerar Informações de Depuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report Uses of &amp;Deprecated APIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reportar Uso de APIs &amp;Desaprovadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs &amp;Restart on Install</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Necessita de &amp;Reinicialização ao Instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Author:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Autor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home &amp;Page:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Página Inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;JAR File:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo &amp;JAR:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;License:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Licença:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NBM Package Metadata</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Metadados de Pacote NBM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected license file does not exist (or is not a regular file).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo de licença selecionado não existe  (ou não é um arquivo simples).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clusters and Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clusters e Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Included</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should this module be included in the suite or not?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo deve ser incluído na suíte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branding &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome de Branding:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application &amp;Title:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Título da Aplicação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use basic branding information for building</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar informações básicas de branding para a construção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application Icon (48x48):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícone da Aplicação (48x48):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização do Ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Splash Screen Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização da Tela Inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizado ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Azul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyan</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Azul claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza Escuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza Claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magenta</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Violeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orange</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Laranja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pink</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vermelho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellow</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Amarelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar Cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Color:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Cor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Colo&amp;r:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Co&amp;r:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Positioning:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Posicionamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Positio&amp;ning:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posicioname&amp;nto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Enabled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Habilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Size:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Tamanho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Splash Screen:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tela Inicial:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;startup messages here...&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;mensagens de inicialização aqui...&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;empty&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;vazio&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application name cannot be empty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da aplicação não pode estar vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application title cannot be empty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Título da aplicação não pode estar vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application name is not valid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da Aplicação não é válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font size  is not valid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da fonte inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text bounds  are not valid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limites do texto inválidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ProgressBar bounds  are not valid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limites da barra de progresso inválidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform &amp;Modules:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Módulos da Platforma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>M&amp;anage Platforms...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenci&amp;ar Plataformas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Collection of Add-on &amp;Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar Coleção de &amp;Módulos Adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Standalone &amp;Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar &amp;Aplicação Independente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclude IDE Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir Módulos do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Do you wish to exclude IDE-related modules from your application now?&lt;br&gt;You can always customize the list of platform modules included in your application in the &lt;b&gt;Libraries&lt;/b&gt; panel.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Gostaria de excluir da aplicação módulos relacionados ao IDE agora?&lt;br&gt;É possível personalizar a lista de módulos de plataforma incluídos na sua aplicação, no painel &lt;b&gt;Bibliotecas&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclude</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Progress Bar:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de Progresso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Text:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto de Execução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows also modules that have no API defined</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar também módulos que tem API indefinida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manages java platforms</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerencia plataformas java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chooses target java platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione a plataforma java de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removes module from its suite</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remove o módulo da suíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Java Platform:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plataforma &amp;Java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana&amp;ge Java Platforms...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Gerenciar Plataformas Java...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional Compiler &amp;Options:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Opções Adicionais do Compilador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable JDK 5 Warnings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilitar Avisos do JDK 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;You have turned on support for JDK 5 language features including generics.&lt;br&gt;Do you wish to enable compiler warnings (&quot;lint&quot;) available in JDK 5?&lt;br&gt;You can always customize compiler options in the &lt;b&gt;Compiling&lt;/b&gt; panel.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Você ligou no suporte para linguagem JDK 5  aspectos de inclusão generica.&lt;br&gt;Voc deseja habilitar avisos de compilador(&quot;lint&quot;) disponíveis no JDK 5?&lt;br&gt;Você pode sempre personalizar as opções do compilador em &lt;b&gt;Compilador&lt;/b&gt; painel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Warnings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilitar Avisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} in cluster {1} depends on an unknown module named {2}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} no cluster {1} depende de um módulo desconhecido chamado {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} depends on an unknown module named {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} depende de um módulo desconhecido chamado {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} in cluster {1} depends on module {2} in cluster {3} but this is excluded.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} no cluster {1} depende do módulo {2} no cluster {3} mas este foi excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} depends on module {1} in cluster {2} but this is excluded.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} depende do módulo {1} no cluster {2} mas este foi excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} in cluster {1} depends on module {2} but requests an incompatible major release version.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} no cluster {1} depende do módulo {2} mas requer uma versão incompatível da lLiberação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} depends on module {1} but requests an incompatible major release version.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} depende do módulo {1} mas requer uma versão incompatível da liberação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} in cluster {1} depends on module {2} but requests an incompatible specification version.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} no cluster {1} depende do módulo {2} mas requer uma versão de especificação incompatível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} depends on module {1} but requests an incompatible specification version.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} depende do módulo {1} mas requer uma versão de especificação incompatível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} in cluster {1} depends on module {2} but requests an incompatible implementation version.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {0} no cluster {1} depende do módulo {2} mas requer uma versão de implementação incompatível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {1} in cluster {2} requests the token {0} but all providers (e.g. module {3} in cluster {4}) are excluded.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {1} no cluster {2} requer o símbolo {0} mas todos os provedores (e.g. módulo {3} no cluster {4}) foram excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {1} requests the token {0} but all providers (e.g. module {2} in cluster {3}) are excluded.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {1} requer o símbolo {0} mas todos os provedores (e.g. módulo {2} no cluster {3}) foram excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {1} in cluster {2} requests the token {0} but there are no known providers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {1} no cluster {2} requer o símbolo {0} mas não há provedores conhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {1} requests the token {0} but there are no known providers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo {1} requer o símbolo {0} mas não há provedores conhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Module JAR:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>JAR do &amp;Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include &amp;Tests of Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir &amp;Testes de Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include Dependencies &amp;Recursively</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir Dependencias &amp;Recursivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include in &amp;Compile Classpath</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir Classpath na &amp;Compilação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>includes also tests of module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>inclui também testes de módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>includes dependencies recursively</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>inclui dependencias recursivamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>includes in compile classpath</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>inclui classpath na compilação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jar representing module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jar representando módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in &amp;Plugin Manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir em Gerenciador de &amp;Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to find suite in the &quot;{0}&quot; directory.Cannot get list of available module dependencies for the suite component module &quot;{1}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível encontrar diretório em &quot;{0}&quot;.Não pode capturar a lista para avaliar as dependências do módulo para o módulo do componente suíte &quot;{1}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans APIs used: {0} {1} {2} {3} {4} {5} {6} {7} {8} {9}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans APIs usadas: {0} {1} {2} {3} {4} {5} {6} {7} {8} {9}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module Development</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desenvolvimento de Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module Suite</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suíte de Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library Wrapper Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo de Encapsulador de Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add to Module Suite</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar à Suite de Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Manage...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Gerenciar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana&amp;ge...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ger&amp;enciar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set as &amp;Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir Co&amp;mo Projeto Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&amp;tandalone Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo Independen&amp;te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to Module Suite:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar à Suite de Módulos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name and Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome e Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Module configuration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração Básica do Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular suite must be chosen</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser escolhida uma suíte comum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected platform is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A plataforma selecionada é inválida. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may choose a valid one or resolve the invalid platform in NetBeans Platform Manager.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve escolher uma plataforma válida ou resolver a plataforma inválida no Gerenciador de Plataformas do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are classes in the default package in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existem classes no pacote default em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library JAR does not exist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>JAR de biblioteca não existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License file does not exist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de licença não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least one library JAR needs to be specified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pelo menos um JAR de biblioteca precisa ser especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creation of Library Wrapper Module inside of netbeans.org CVS tree is not supported yet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criação de Módulos de Encapsulador de Bibliotecas dentro da árvore de CVS do netbeans.org não é suportada ainda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project location may not be blank</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local do projeto não pode estar em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location must be an existing folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local deve ser um diretório existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location exists but is not writable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local existe mas não se pode escrever nele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name may not be blank</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome não pode estar em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &quot;{0}&quot; is not a regular suite.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto &quot;{0}&quot; não é uma suíte comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project folder already exists</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório do projeto já existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to create Project folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar diretório do projeto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose another one.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor escolha outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>library{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>biblioteca{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>module{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>modulo{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>suite{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>suíte{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Suite</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por Suíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório do Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local do Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set as Main Mroject</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir como Projeto Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciar plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage suite platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciar plataforma da suíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moudle Suite</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suíte de Módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standalone Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo Independente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suite Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo de Suíte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Module Configuration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração Básica do Módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Localizing Bundle:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote de &amp;Localização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module &amp;Display Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de Exibição do Mó&amp;dulo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;XML Layer:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;XML de Camada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suite Component with code name base &quot;{0}&quot; is already contained in the suite.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente da suíte com nome básico de código &quot;{0}&quot; já está incluído na suíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Name Base is not valid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Base do Nome Código é inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layer cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Camada não pode estar vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundle cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bundle não pode estar vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot use default package for layer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível usar o pacote default como uma camada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot use default package for bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível usar o pacote default como bundle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layer must have &quot;{0}&quot; extension.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Camada deve ter extensão &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundle must have &quot;{0}&quot; extension.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O pacote deve ter a extensão &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localizing Bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote de Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code name base</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Base do Nome Código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de Exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Camada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Library :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bib&amp;lioteca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li&amp;cense :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Li&amp;cença:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Libraries jars</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por JARs de bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse License file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por arquivo de Licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library jars</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>JARs de bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About ${DISPLAY_NAME}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobre ${DISPLAY_NAME}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaHelp Help Set</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conjunto de Ajuda do JavaHelp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Created Files:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos &amp;Criados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Modified Files:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos &amp;Modificados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file {0} already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaHelp Help Set Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel do Conjunto de Ajuda do JavaHelp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Created Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Criados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modified Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Modificados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Recognition</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reconhecimento de Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;MIME Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo &amp;MIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by &amp;Filename Extension</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>por &amp;Extensão de Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Extension(s):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Extensões:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by &amp;XML Root Element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>por Elemento Raiz de &amp;XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Recognition Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de Reconhecimento de Arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recognize by xml namespace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reconhecer por namespace XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re4cognize by extension</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reconhecer por extensão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extensão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIME type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo MIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name, Icon and Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome, Ícone e Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pac&amp;kage:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pa&amp;cote:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Icon:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ícone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class &amp;Name Prefix:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prefixo do &amp;Nome da Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name Prefix is empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prefixo está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name Prefix is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prefixo inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find icon.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícone não encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package is blank or malformed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote está em branco ou está mal-formado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} Arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty {0} file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name, Icon and Location Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de Nome, Ícone e Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do Pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon for file type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícone para tipo de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class Name prefix</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prefixo do Nome da Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Button for selecting icon</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de Procurar para seleção de ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not a valid MIME type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é um tipo MIME válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Namespace must be entered</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Namespace deve ser fornecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extension must be entered</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extensão deve ser fornecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid extension pattern.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrão de extensões inválido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be a list of extensions separated by commas.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser uma lista de extensões separadas por vírgulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inappropriate MIME type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo MIME inadequado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be one of text/&lt;something&gt;+xml or application/&lt;something&gt;+xml</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser texto/&lt;alguma coisa&gt;+xml ou aplicativo/&lt;alguma coisa&gt;+xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window Component</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente de Janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações Básicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Window Position :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição da &amp;Janela:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Open on Application Start</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Abrir na Inicialização da Aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a {0} window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é uma janela {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon for project template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícone para o modelo do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Component on IDE start</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir Componente na Inicialização do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select mode to put the component into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione em qual modo colocar o componente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Central de Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Center Declaration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declaração de Central de Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&amp;isplay Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de Ex&amp;ibição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;URL to Update Descriptor:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;URL do Descritor de Atualizações:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Update Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Central de Atualizações {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL cannot be empty!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL não pode ser vazia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the Display Name of the Update Center.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifica o Nome de Exibição da Central de Atualizações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The URL should link to Updates Descriptor (ie.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A URL deve apontar para o Descritor de Atualização (eg. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>xml file).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>arquivo xml).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid URL: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL inválida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Center Declaration Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de Declaração de Central de Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Panel to set URL to the Update Center and  its display name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel para definir a URL para a Central de Atualizações e seu nome de exibição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo Instalador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A module installer is already present in this module ({0}).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo Instalador já está presente neste módulo ({0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace this with a description what your wizard is supposed to do.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descreva qual a finalidade do seu assistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This information will be displayed in the New Wizard Description area.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta informação será exibida na área de descrição do novo assistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dynamic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dinâmico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Wizard Panels:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de Painéis do Assistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Custom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Dynamic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Dinâmico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New &amp;File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo &amp;Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Static</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;stático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N&amp;umber of Wizard Panels:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>N&amp;úmero de Painéis do Assistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de Registro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard Step Sequence:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seqüência de Passos do Assistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de Assistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Steps must be an integer (1 or greater).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de Passos deve ser um inteiro (1 ou maior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class Name Prefix</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prefixo do Nome da Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;enter label&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;forneça um rótulo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;nenhum&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category is malformed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categoria está mal-formada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ategory:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C&amp;ategoria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Display Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome &amp;da exibição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class Name Prefix must be a valid Java identifier.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prefixo do Nome da Classe deve ser um identificador Java válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display name must be entered.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da exibição deve ser fornecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java SE Library Descriptor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descritor de Biblioteca Java SE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Library:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bib&amp;lioteca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Manage Libraries...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gere&amp;nciar Bibliotecas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome da Biblioteca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library name cannot be empty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da biblioteca não pode estar vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library display name cannot be empty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de exibição da biblioteca não pode estar vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciar Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library {0} already exists</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A biblioteca {0} já existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Always Enabled (use CallableSystemAction)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sempre h&amp;abilitado (usar CallableSystemAction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Conditionally Enabled (use CookieAction)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Habilitado condicionalmente (usar CookieAction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User May Select &amp;Multiple Nodes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Usuário pode selecionar &amp;múltiplos nós</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Selects &amp;One Node</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Usuári&amp;o seleciona um nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de Action:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cookie Cla&amp;ss(es):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cla&amp;sse(s) de Cookies:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action Type selection panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel seletor do tipo de ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action always enabled radiobutton</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de opção sempre habilitado para ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actionconditionally enabled radiobutton</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de opção habilitado condicionalmente para ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cookie class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe de cookie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple nodes selectable checkbox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de seleção para múltiplos nós selecionáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only one node selectable checkbox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de seleção para único nó selecionável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Category:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Categoria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo do Conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Editor Context Menu Item</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Item de menu de contexto no &amp;editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;File Type Context Menu Item</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Item de menu de contexto para tipo de &amp;arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI Registration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registro da GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global &amp;Keyboard Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalho de &amp;teclado global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global &amp;Menu Item</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Item de &amp;menu global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global &amp;Toolbar Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de barra de ferramentas global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Strokes:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalhos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading data from Target Platform....</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando dados da plataforma de destino....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separator After</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Separador Depois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separator Before</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Separador Antes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toolbar:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI registration Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de registro da GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content Type in editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de contéudo no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position in editor menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição no menu do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include action in editor context menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir ação no menu de contexto do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Include action in file type's context menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incluir ação no menu de contexto do tipo de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content Type to add action into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de conteúdo ao qual adicionar a ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position of action in filetype context</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição da ação no menu de contexto de tipo de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add global keyboard shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar atalho de teclado global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global menu item checkbox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de seleção de item do menu global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gloabl keyboard shortcut checkbox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalho de teclado global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add keystroke</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove keystroke</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add/Remove keystrokes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar/Remover atalhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of defined keystrokes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista dos atalhos definidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select menu where to put action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar menu para ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position of action in menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posicionamento da ação no menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Separator After item in menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar separador depois de item no menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Separator Before item in menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar separador antes de item no menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select toolbar to place action into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar local para ação na barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position of action in toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição da ação na barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HERE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>AQUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SomeAction</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>AlgumaAção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome da classe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name, Icon, and Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome, Ícone e Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Shortcut:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Atalho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe já existe. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose another name or package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione outro nome ou outro pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class Name must be a valid Java identifier.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe deve ser um identificador válido de Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global Toolbar Button was checked in the previous panel but there is no selected Icon.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão global de barra de ferramentas foi selecionado no painel anterior, mas não há ícone selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No large icon (24x24) found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum ícone grande (24x24) encontrado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} not found in {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo &quot;{0}&quot; não foi encontrado em {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must specify a keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser especificado um atalho de teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name, Icon and Location panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de Nome, Ícone e Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action Display Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de Exibição da Ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for icon</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ta&amp;b</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A&amp;ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelo de Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Project panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel seletor de projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Project button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por botão do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select from opened projects combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar a partir de um combobox de projetos abertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Template Name :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do &amp;Modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&amp;isplay Name :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de Ex&amp;ibição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ategory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C&amp;ategoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Project :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name and Location Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de Nome e Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do Modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Projects opened</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum Projeto aberto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projects with external roots are not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos com raízes externas não são suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A project needs to be selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser selecionado um projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template Name is empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do Modelo está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template Name is invalid, not a Java identifier.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do Modelo inválido, não é um identificador Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans platform is missing required modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estão faltando módulos requeridos na plataforma NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No NetBeans Platform defined.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum NetBeans Platform definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mime type and extensions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo MIME e extensão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid mime type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo MIME invalido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid extensions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extensão inválida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte de Linguagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Mime Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo &amp;MIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Extensions:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Extensões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(write space separated list of extensions here)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(escreva as listas de separadores de espaço para extensões aqui)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Panel Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha o Tipo de Painel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;Miscellaneous Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar Painel em &amp;Miscelâneas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;Primary Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar Painel &amp;Primário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Title:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Título:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&amp;ool Tip:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>D&amp;ica:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category &amp;Label:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótu&amp;lo da Categoria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Icon (32x32):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ícone (32x32):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is blank.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} está vázio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tooltip</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da Categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon Path</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho do Ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category Label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulo da Categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Icon</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar Ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Miscellaneous Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar Painel em Miscelâneas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Primary Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar Painel Primário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add NetBeans Platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar NetBeans Platform</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add Platform...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar Plataforma...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fe&amp;char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;NetBeans Platforms</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Platformas do &amp;NetBeans </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Platform Manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciador de Plataformas do &amp;NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform &amp;Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta da Plataforma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome da Plataforma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Platform Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da &amp;Plataforma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Platforms:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Plataformas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform &amp;Javadoc:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Javadoc da Plataforma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform &amp;Sources:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte&amp;s da Plataforma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add F&amp;older...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adici&amp;onar Diretório...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add &amp;ZIP/Folder...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar &amp;ZIP/Diretório...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para &amp;Baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para &amp;Cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;move</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re&amp;mover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File does not exist or does not contain valid NetBeans Sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo não existe ou não contém código-fonte válido do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório da Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected platform was already added to the NetBeans Platform Manager.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A plataforma selecionada já foi adicionada ao Gerenciador de Plataformas do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Platform Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione Diretório da Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Platform Name cannot be blank</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Nome da Plataforma não pode estar em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Platform Name is already in use.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Nome da Plataforma já está em uso. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please choose a different name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor escolher um nome diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please choose a different name in the next step.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor escolher um nome diferente no próximo passo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected platform is not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A plataforma selecionada não é suportada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only platform versions 5.0 and higher are supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Somente plataformas 5.0 e mais recentes são suportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of defined platforms</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista e plataformas definidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório da Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Platform, enter name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Plataforma, fornecer nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Platform name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo nome da Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of javadocs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de javadocs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move down button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão para mover para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move up button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão para mover para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform chooser panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel seletor de plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform Name field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo de Nome de Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Harness supplied with &amp;IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Harness fornecido com a &amp;IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Harness supplied with P&amp;latform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Harness fornecido com a &amp;Platform</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Other:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Outro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Procurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected Harness &amp;Version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione a &amp;Versão do Harness:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade 5.0 Build Harnesses</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar Construtor Harnesses para o 5.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;You have some custom NetBeans platforms which are still set to use the 5.0 version of the module build harness.&lt;br&gt;While this version still works, you will be missing some functionality and fixes in the newer harness.&lt;br&gt;Do you wish to upgrade to the new harness for these platforms?&lt;br&gt;(You can always specify a harness in &lt;b&gt;NetBeans Platform Manager&lt;/b&gt;.)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Você tem algum plataforma NetBens habitual que ainda está configurada para usar  a versão 5.0 para o construtor de módulo harness.&lt;br&gt;Enquanto essa versão ainda estiver operando, você poderá perder alguns funcionalidades e dificuladades num novo harness.&lt;br&gt;Você deseja atualizar o novo harness para essa plataforma?&lt;br&gt;(Você sempre pode especificar em &lt;b&gt;Gerenciador de Plataforma do Netbeans&lt;/b&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML Layer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>XML de Camada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;this layer&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;esta camada&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;this layer in context&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;esta camada no contexto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please Wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;no such bundle: {1}&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;pacote inexistente: {1}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;separator&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;separador&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;instance from {0}&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;instância de {0}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;instance of {0}&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;instância de  {0}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localize Name...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome Localizado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localized display name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de exibição localizado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Localized Display Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher o Nome de Exibição Localizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick Icon...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher Ícone...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Layer File(s)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir Arquivo de Camada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;exported services&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;serviços exportados&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;all services&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;todos os serviços&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>META-INF services</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>serviços META-INF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The service {0} already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O serviço {0} já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add New Service...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar Novo Serviço...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Service Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Classe de Serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Class Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da &amp;Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione uma Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Meta-Inf Service</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar Serviço Meta-Inf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class name edit field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo de edição do nome da Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not find module {0} to depend on.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode encontrar o módulo {0} para criar dependência. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure it is included in your platform and not excluded from your suite.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Certifique-se que ele está incluído na sua plataforma e não foi excluído de sua suíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add library {0} to this module as it is.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível adicionar biblioteca {0} a este módulo da forma como está. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a library wrapper module for it and add that as a dependency.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Crie um módulo encapsulador de  biblioteca e o adicione como uma dependência .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add JAR {0} to this module as it is.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível adicionar o JAR {0} a este módulo como ele está. </seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

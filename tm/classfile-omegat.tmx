@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classfile Reader</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Leitor de arquivos de classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides read-only access to Java class files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece acesso somente-leitura a arquivos .class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Classfile Reader module provides direct read-only access to Java class files, showing all of a class's members and attributes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O modulo leitor de arquivos de classes fornece acesso somente-leitura a arquivos de classes Java (.class), mostrando todos os membros da classe e atributos.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

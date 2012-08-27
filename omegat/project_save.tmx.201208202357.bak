@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_1" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013545Z">
+        <seg>Ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action Plans</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024117Z">
+        <seg>Planos de ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate all</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021556Z">
+        <seg>Ativar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013550Z">
+        <seg>Ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013642Z">
+        <seg>Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a column</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021603Z">
+        <seg>Adicionar uma coluna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add filter</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025211Z">
+        <seg>Adicionar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced search</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025247Z">
+        <seg>Busca avançada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Age</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013646Z">
+        <seg>Idade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alert</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023638Z">
+        <seg>Alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alerts</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013649Z">
+        <seg>Alertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013651Z">
+        <seg>Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021737Z">
+        <seg>Todas as violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013655Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013705Z">
+        <seg>Qualquer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021750Z">
+        <seg>Você tem certeza?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ascending</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013719Z">
+        <seg>Crescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ask a question</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023901Z">
+        <seg>Faça uma pergunta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assigned to</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021802Z">
+        <seg>Designar para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assignee</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015629Z">
+        <seg>Responsável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authentication failed.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025135Z">
+        <seg>Falha na autenticação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T014218Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015643Z">
+        <seg>Voltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T014234Z">
+        <seg>Executar backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blocker</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015657Z">
+        <seg>Impeditivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015702Z">
+        <seg>Negrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build date</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015759Z">
+        <seg>Data da construção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build time</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015807Z">
+        <seg>Hora da construção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calendar</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015813Z">
+        <seg>Calendário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015815Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015817Z">
+        <seg>Categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015826Z">
+        <seg>Mudar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changelog</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015822Z">
+        <seg>Mudanças</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015833Z">
+        <seg>Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015853Z">
+        <seg>Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to add to favourites</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021847Z">
+        <seg>Clique para adicionar aos favoritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to remove from favourites</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021856Z">
+        <seg>Clique para remover dos favoritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Closed</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015859Z">
+        <seg>Fechado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015902Z">
+        <seg>Código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coding rules</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021835Z">
+        <seg>Regras de codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015904Z">
+        <seg>Cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015907Z">
+        <seg>Comparar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Components</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024142Z">
+        <seg>Componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023708Z">
+        <seg>Configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015911Z">
+        <seg>Configurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm password</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025110Z">
+        <seg>Confirmar senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuous integration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023417Z">
+        <seg>Integração contínua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015913Z">
+        <seg>Copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024149Z">
+        <seg>Cobertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015915Z">
+        <seg>Criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Created</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015918Z">
+        <seg>Criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021859Z">
+        <seg>Criado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Critical</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015938Z">
+        <seg>Crítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020000Z">
+        <seg>Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020003Z">
+        <seg>Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020045Z">
+        <seg>Dias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivate all</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021909Z">
+        <seg>Desativar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020051Z">
+        <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020109Z">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dependencies</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024205Z">
+        <seg>Dependências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Descending</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020204Z">
+        <seg>Decrescente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020212Z">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developer connection</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023631Z">
+        <seg>Conexão de desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directories</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020225Z">
+        <seg>Diretórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020229Z">
+        <seg>Diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020239Z">
+        <seg>Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023831Z">
+        <seg>Documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020259Z">
+        <seg>Executar download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplications</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024222Z">
+        <seg>Duplicidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020305Z">
+        <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit filter</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025216Z">
+        <seg>Edutar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Settings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024230Z">
+        <seg>Configurações de e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equals</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021948Z">
+        <seg>Igual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Event Categories</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024251Z">
+        <seg>Categorias de eventos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Events</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020309Z">
+        <seg>Eventos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>False</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020313Z">
+        <seg>Falso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>False-positive</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022008Z">
+        <seg>Falso-positivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>False-positives only</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022051Z">
+        <seg>Apenas falso-positivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Favourites only</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025753Z">
+        <seg>Apenas favoritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020316Z">
+        <seg>Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020319Z">
+        <seg>Arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020327Z">
+        <seg>Filtrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filters</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024253Z">
+        <seg>Filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022734Z">
+        <seg>Primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full source</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022134Z">
+        <seg>Código-fonte completo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Settings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024537Z">
+        <seg>Configurações gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020339Z">
+        <seg>Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater or equals</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022202Z">
+        <seg>Maior ou igual a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater than</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022207Z">
+        <seg>Maior que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groups</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024622Z">
+        <seg>Grupos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020343Z">
+        <seg>Ocultar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024459Z">
+        <seg>Histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023406Z">
+        <seg>Início</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Id</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020349Z">
+        <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inactive</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020357Z">
+        <seg>Inativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020404Z">
+        <seg>Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inheritance</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020411Z">
+        <seg>Herança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020414Z">
+        <seg>Chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020417Z">
+        <seg>Linguagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022732Z">
+        <seg>Último</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Less or equals</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022227Z">
+        <seg>Menor ou igual a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Less than</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022230Z">
+        <seg>Menor que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Libraries</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024945Z">
+        <seg>Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020419Z">
+        <seg>Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020423Z">
+        <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020426Z">
+        <seg>Carregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log in</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023702Z">
+        <seg>Entrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log out</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023704Z">
+        <seg>Sair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020436Z">
+        <seg>Login</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Major</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020456Z">
+        <seg>Grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage filters</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025227Z">
+        <seg>Gerenciar filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual Measures</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024419Z">
+        <seg>Medidas manuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual Metrics</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024337Z">
+        <seg>Métricas manuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual Rules</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024437Z">
+        <seg>Regras manuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020505Z">
+        <seg>Máximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minor</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020535Z">
+        <seg>Secundário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More actions</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020542Z">
+        <seg>Mais ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move left</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022236Z">
+        <seg>Mover à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move right</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022241Z">
+        <seg>Mover à direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Filters</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024201Z">
+        <seg>Meus filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Profile</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024443Z">
+        <seg>Meu perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020545Z">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New filter</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025201Z">
+        <seg>Novo filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022248Z">
+        <seg>Novas violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New window</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022253Z">
+        <seg>Nova janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022730Z">
+        <seg>Próximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No data</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022308Z">
+        <seg>Não há dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No lines match your filter criteria.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022558Z">
+        <seg>Não há linhas correspondentes aos critérios do filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No results</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022635Z">
+        <seg>Não há resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020548Z">
+        <seg>Nenhum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020551Z">
+        <seg>Desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020553Z">
+        <seg>Ligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020559Z">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020614Z">
+        <seg>Operações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020617Z">
+        <seg>Opcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020622Z">
+        <seg>Ordenação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023653Z">
+        <seg>Outro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Owner</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020627Z">
+        <seg>Dono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020639Z">
+        <seg>Pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packages</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020644Z">
+        <seg>Pacotes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page size</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022650Z">
+        <seg>Tamanho da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020651Z">
+        <seg>Parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020656Z">
+        <seg>Senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020659Z">
+        <seg>Caminho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023915Z">
+        <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powered by</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023824Z">
+        <seg>Produzido por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022728Z">
+        <seg>Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023714Z">
+        <seg>Imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023642Z">
+        <seg>Perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020709Z">
+        <seg>Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022738Z">
+        <seg>Nome do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020711Z">
+        <seg>Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quality Profile</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024836Z">
+        <seg>Perfil de qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quality Profiles</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024519Z">
+        <seg>Perfis de qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read-only connection</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023534Z">
+        <seg>Conexão só para leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember me on this computer</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025027Z">
+        <seg>Lembre-se de mim neste computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove this column</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022800Z">
+        <seg>Remover esta coluna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020722Z">
+        <seg>Renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020729Z">
+        <seg>Redefinir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020734Z">
+        <seg>Resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020737Z">
+        <seg>Resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020836Z">
+        <seg>Revisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020822Z">
+        <seg>Revisões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roles</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024447Z">
+        <seg>Regras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020856Z">
+        <seg>Regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020900Z">
+        <seg>Regras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021052Z">
+        <seg>Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save &amp; Close</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022825Z">
+        <seg>Salvar &amp; fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save &amp; Preview</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022844Z">
+        <seg>Salvar &amp; visualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021054Z">
+        <seg>Pesquisar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024043Z">
+        <seg>Segurança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021100Z">
+        <seg>Selecionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a metric</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022854Z">
+        <seg>Selecione uma métrica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select all</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021058Z">
+        <seg>Selecionar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set as default</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022908Z">
+        <seg>Definir como padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024450Z">
+        <seg>Configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shared</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021117Z">
+        <seg>Compartilhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shared by</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022913Z">
+        <seg>Compartilhado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021121Z">
+        <seg>Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show more</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022919Z">
+        <seg>Exibir mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021127Z">
+        <seg>Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024542Z">
+        <seg>Código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sources</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023429Z">
+        <seg>Códigos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021129Z">
+        <seg>Situação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024047Z">
+        <seg>Sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Administrators</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024329Z">
+        <seg>Administradores do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Info</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024605Z">
+        <seg>Informações do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021151Z">
+        <seg>Tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021154Z">
+        <seg>Modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This website may not display correctly.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024028Z">
+        <seg>Este site não pode ser exibido corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time Machine</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024619Z">
+        <seg>Máquina do tempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021156Z">
+        <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021201Z">
+        <seg>Para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>True</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021206Z">
+        <seg>Verdadeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Test File</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023310Z">
+        <seg>Arquivo de teste unitário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Test Files</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023356Z">
+        <seg>Arquivos de testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit test</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021227Z">
+        <seg>Teste unitário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021231Z">
+        <seg>Testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021436Z">
+        <seg>Desmarcar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect all</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021310Z">
+        <seg>Desmarcar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021444Z">
+        <seg>Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Center</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024655Z">
+        <seg>Central de Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021441Z">
+        <seg>Atualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021452Z">
+        <seg>Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024624Z">
+        <seg>Usuários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021455Z">
+        <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021459Z">
+        <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021541Z">
+        <seg>Visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Views</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021532Z">
+        <seg>Visualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021551Z">
+        <seg>Violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Violations Drilldown</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024649Z">
+        <seg>Detalhamento de violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been logged out.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025157Z">
+        <seg>Você foi desconectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your web browser is outdated.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023950Z">
+        <seg>Seu navegador está desatualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>since previous analysis</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023055Z">
+        <seg>desde a análise anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>since previous analysis ({0})</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023110Z">
+        <seg>desde a análise anterior ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>since previous version</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023157Z">
+        <seg>desde a versão anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>since previous version ({0})</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023204Z">
+        <seg>desde a versão anterior ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>since version {0}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023129Z">
+        <seg>desde a versão {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>since version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023145Z">
+        <seg>desde a versão {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>since {0}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022929Z">
+        <seg>desde {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} results</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020757Z">
+        <seg>{0} resultados</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">org/sonar/l10n/core.properties</prop>
+      <prop type="id">review_verb</prop>
+      <tuv lang="EN-US">
+        <seg>Review</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020842Z">
+        <seg>Revisar</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

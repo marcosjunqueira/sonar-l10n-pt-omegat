@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP Server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides infrastructure for testing applets, RMI applications, and so on.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece infra-estrutura para o teste de applets, aplicações RMI e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The HTTP Server module provides the infrastructure necessary for a variety of tasks, such as testing applets, testing RMI and JINI applications, and viewing Javadoc documentation in the external web browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo Servidor HTTP fornece a infra-estrutura necessária para uma variedade de tarefas, como o teste de applets, teste de aplicações RMI e JNI, e visualização de documentação Javadoc no browser externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Embedded HTTP server (not the server for running web applications)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor HTTP embutido (não é o servidor usado para executar aplicações web)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected Hosts:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Máquinas selecionadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any Host</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Qualquer máquina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hosts with Granted Access</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Máquinas com acesso permitido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hosts that are allowed to connect to the HTTP Server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Máquinas que podem se conectar ao Servidor HTTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Port</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Port number of the HTTP Server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de porta do servidor HTTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the HTTP Server is running.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', então o servidor HTTP está em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Grant Access Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir caixa de diálogo de liberação de acesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True user is asked to allow access from hosts without granted access.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', o usuário é solicitado para liberar acesso de máquinas sem acesso liberado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If False access is automatically denied.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'falso', acesso é recusado automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are not authorized to view this page.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não está autorizado a visualizar esta página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The HTTP server could not start.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O servidor HTTP não pôde ser iniciado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There might be another version of Servlet API on the classpath that clashes with version required by this server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pode haver outra versão da API de Servlets no classpath entrando em choque com a versão requerida pelo servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check that the port is not in use.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique se a porta está em uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check messages.log for more information.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique messages.log para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal HTTP server running on port {0,number,####}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor HTTP interno executando na porta {0,number,####}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal HTTP server stopped</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor HTTP interno parado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to perform this action, access to the internal web server from address {0} needs to be enabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para realizar esta ação, deve ser habilitado o acesso ao servidor web interno a partir do endereço {0}. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you wish to enable access from this address?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja habilitar o acesso a partir deste endereço?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base servlet for servlets which access IDE Open APIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servlet base para servlets que acessam as Open APIs do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only root can open port lower than 1024 on UNIX machines.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Somente root pode abrir uma porta com número abaixo de 1024 em máquinas UNIX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not a valid port number.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} não é um número de porta válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servlet for handling IDE Javadoc requests</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servlet para tratar requisições Javadoc do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot access requested resource.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível acessar o recurso solicitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Grant Access to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Li&amp;berar acesso a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Máquina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;ny Host</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Qualquer máqui&amp;na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Selected Hosts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Máquinas selecionadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this dialog box to specify the machines that are allowed to access the HTTP server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use esta caixa de diálogo para especificar as máquinas que têm acesso permitido ao servidor HTTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select hosts to grant access to.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar as máquinas para permitir o acesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de máquinas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a host to grant access to.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar uma máquina para permitir o acesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host selection.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select this option to use any host.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar esta opção para usar qualquer máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select this option to use selected hosts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar está opção para usar as máquinas selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grant Access Request</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Solicitação para permitir acesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Do Not Show This Dialog Next Time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não exibir esta caixa &amp;de dialogo na proxima vez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do Not Show This Dialog Next Time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não exibir esta caixa de dialogo na próxima vez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start HTTP Server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializar servidor HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop HTTP Server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar Servidor HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starts internal HTTP Server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializa servidor HTTP interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stops internal HTTP Server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pára servidor HTTP interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal HTTP server is already running.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor HTTP interno já está em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal HTTP server is not running.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor HTTP interno não está em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servlet 2.2 API Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca da API Servlet 2.2</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

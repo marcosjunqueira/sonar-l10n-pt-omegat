@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a new HTML file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria um novo arquivo HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit the file in the IDE's Source Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode editar o arquivo no Editor de Código-fonte da IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can view the file in a web browser by right-clicking the file's node in the Projects window and choosing View.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode visualizar o arquivo em um navegador web pelo clique do botão direito em nó de arquivos na janela de Projetos e escolhendo Visualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a new XHTML Strict file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria um novo arquivo XHTML Explícito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can validate against the DTD using the context menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode validar contra o DTD utilizando o menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports creation, editing, and viewing of HTML files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporta criação, edição, e visualização de arquivos HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The HTML module supports creation and editing of HTML files and enables you to view them in a web browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo HTML suporta criação e edição de arquivos HTML e habilita você a visualizá-los em um navegador web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Objetos HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encoding of the file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Codificação de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties of the text file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo texto de prioridades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XHTML File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML and XHTML Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;The encoding {1} specified in meta tag of the document {0} is invalid&lt;br&gt; or the document contains characters which cannot be saved using this encoding.&lt;br&gt; Do you want to save the file using{3} &lt;b&gt;{2}&lt;/b&gt; encoding?&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;A codificação {1} especificada na marcação meta do documento {0} é inválida&lt;br&gt; ou o documento contém caracteres que não podem ser salvos utilizando esta codificação&lt;br&gt; Vocês quer salvar o arquivo utilizando{3} &lt;b&gt;{2}&lt;/b&gt; codificação?&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;The encoding {1} specified in meta tag of the document {0} is invalid.&lt;br&gt;Do you want to load the file using &lt;b&gt;{2}&lt;/b&gt; encoding?&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;A codificação {1} especificada  em marcação meta do documento {0} é inválida.&lt;br&gt;Você quer carregar o arquivo utilizando &lt;b&gt;{2}&lt;/b&gt; codificação?&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;The {0} contains characters which will probably be damaged during conversion to the {1} character set.&lt;br&gt; Do you want to save the file using &lt;b&gt;UTF-8&lt;/b&gt; character set?&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;O {0} contém caractere que provavelmente será danificado durante conversão para o {1} conjunto de caracteres.&lt;br&gt; Você quer salvar o arquivo utilizando &lt;b&gt;UTF-8&lt;/b&gt; o conjunto de caracteres?&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Forms</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formulários HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folders:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretórios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No document selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Documento não selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select a document to insert the item into.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor selecionar um documento para inserir em seu interior o item </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;HTML/JSP Code Clips</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Fragmentos de código HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Protocol:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Protocolo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Text:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Texto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ta&amp;rget:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Des&amp;tino:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Br&amp;owse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protocol</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Protocolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protocol prefix of the constructed URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prefixo do protocolo do URL construído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL which the link is pointing to.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL que o link aponta para.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text visible to a user</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto visível para um usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frame name the referenced object is opened in.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome da moldura do objeto referenciado está aberto em.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse local objects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar objetos locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It returns a relative path from the edited document to the selected object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retorna um caminho relativo de um documento editado para um objeto selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Same Frame</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesmo quadro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parent Frame</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quadro pai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Label:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Rótulo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial State:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial State</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visible button label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulo visível do botão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de botão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial button state (disabled or not)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial do botão (desabilitado ou não)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto botão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão submeter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão redefinir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disabled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select if the button should be initially disabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar se o botão deveria estar inicialmente desabilitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;disabled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;submit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;submeter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;reset</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;redefinir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>s&amp;tandard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>p&amp;adrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>submit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>submeter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reset</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>redefinir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>standard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Value:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Valor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkbox object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto caixa de verificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkbox value representing its selection in the form data set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor da caixa de verificação representa esta seleção em forma de conjunto de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial checkbox state, default value is unselected and enabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial da caixa de verificação, valor padrão não está selecionado e habilitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select if the checkbox should be initially disabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar se a caixa de verificação deveria estar inicialmente desabilitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select if the checkbox should be initially selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar se a caixa de verificação deveria estar inicialmente selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Represents the checkbox selection in the form data set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Representa a seleção da caixa de verificação no formulário do conjunto de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Width:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Largura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File select object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto selecionador de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File select width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura do selecionador de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial file select state (disabled or not)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial do arquivo selecionado (desabilitar ou não)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select if the file select should be initially disabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar se o arquivo selecionado deveria estar inicialmente desabilitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Action:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Codificação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action performed on a form submission.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar ação no formulário de submissão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for an action.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por uma ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method with which a form is submitted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método com que um formulário está submetido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GET method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método GET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POST method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método POST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encoding type of form data set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de codificação do conjunto de dados do formulário. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>application/x-www-form-&amp;urlencoded encoding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>aplicativo/x-www-formulário-&amp;urlcodificado codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multipart/form-data encoding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrão de fonte de eventos de difusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto de formulário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Localização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Height:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Altura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Alternate Text:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Texto alternativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternate text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto alternativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização da imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image height</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Altura da imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternate text when the image cannot be shown.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto alternativo quando a imagem não pode ser mostrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse the images.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial &amp;Value:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor &amp;Inicial:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;password</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;hidden</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;oculto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;readonly</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;somente leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>password</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hidden</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>oculto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>readonly</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>somente leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto de entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial input value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor inicial da entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input type (text or password or hidden)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de entrada (texto ou senha ou oculto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada de senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hidden input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada oculta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial input state (disabled, readonly)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado da entrada inicial (desabilitar, somente leitura)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada desabilitada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Readonly input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada somente leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP &amp;Header</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Cabeçalho HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search &amp;Engines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mecanismos de busca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Content:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Conteúdo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP header</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cabeçalho HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search engines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismos de busca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of generated meta tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de meta marcação gerada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http header information</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>informação de cabeçalho http</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>information for the search engines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informação para os mecanismos de busca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>information name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>nome da informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>information content</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>conteúdo da informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Number of Items:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Número de itens:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbering Style:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo de numeração:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>default</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of items</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de itens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbering style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo de numeração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>arabic numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>números arábicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower alpha</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alfa minúsculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upper alpha</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alfa maiúsculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower roman</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Romano minúsculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upper roman</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Romano maiúsculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of items in the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de itens na lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbering style of items</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo de numeração dos itens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbering default to the level of nesting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Numeração padrão para o nível de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arabic numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Números arábicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Group:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Grupo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radio group to insert this radio into.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir esta opção  em grupo de opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value representing the selected radio button in the sent form data set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O valor representando o botão de opção selecionado enviado em  formulário do conjunto de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial state (selected, disabled)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial (selecionado, desabilitado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radio button initially selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de opção inicialmente selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radio button initially disabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de opção inicialmente desabilitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Options:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Visible Options:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Opções visíveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple Selections:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleções múltiplas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;allowed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;permitido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visible options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções visíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple selections</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleções múltiplas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>allowed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>permitido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial state</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar nome do objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of visible options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de opções visíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows more than one option to be selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permitir que mais de uma opção seja selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selected, more than one option can be selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando selecionado, mais de uma opção pode ser selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selected then initial state is disabled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando selecionado o estado inicial é desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Columns:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Colunas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Border Size:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Tamanho da borda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell &amp;Spacing:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Espaceamento de células:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell &amp;Padding:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Preenchimento de células:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Columns</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Border size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell spacing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaceamento de células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell padding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preenchimento de células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of space between the cells.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O montante de espaço entre as células.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of space between the border of the cell and its content.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O montante de espaço entre a borda da célula e o seu conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto da tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of columns</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de colunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Rows:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Linhas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rows</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of rows</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Border width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>r&amp;ead-only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>s&amp;omente leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Textarea object name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto da área de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial state (disabled, readonly)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado inicial (desabilitado, somente leitura)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selected, textarea is initially disabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando selecionada, a área de texto está inicialmente desabilitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selected, textarea is initially readonly.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando selecionada, a área de texto é inicialmente somente para leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disc</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>disco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>circle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>círculo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>square</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>quadrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordered List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista ordenada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unordered List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista desordenada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meta data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Metadados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formulário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-line Input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada multi-linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drop-down List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista suspensa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&amp;lt;select name=&quot;&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;lt;option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;lt;/option&amp;gt;&lt;br&gt;&amp;lt;/select&amp;gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&amp;lt;selecionar nome=&quot;&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;lt;option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;lt;/option&amp;gt;&lt;br&gt;&amp;lt;/select&amp;gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkbox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radio Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de opção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Select</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Wrapping Indentation Engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Motor de indentação com quebra de linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentation engine that automatically breaks lines after passing the text limit marker.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação que automaticamente quebra linhas depois de passar o limite do marcador de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Indentation Engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentation engine for HTML files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação para arquivos HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All &amp;Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir todos os &amp;comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse All C&amp;omments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar todos os c&amp;omentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir todos os comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar todos os comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains HTML editor implementation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém implementação do editor de HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Editor contains editing support for HTML files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor HTML contém suporte para edição de arquivos HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor do parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caractere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SGML Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário SGML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Argument</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Argumento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SGML Declaration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declaração SGML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário em bloco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Css Embedded in HTML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Css embutido em HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Javascript Embedded in HTML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Javascript embutido em HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação não suportada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfinished tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação não terminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpaired end tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fim da marcação sem paridade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unexpected character</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caractere inesperado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deprecated tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação obsoleta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deprecated attribute</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atributo obsoleto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand HTML Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir marcação HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse HTML Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar marcação HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand HTML Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir comentário HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse HTML Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar comentário HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case Sensitive Code Completion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar de código com distinção de maiúsculas/minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the completion query search will be case sensitive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se verdadeiro, auto-completar da consulta pesquisará com distinção de maiúsculas/minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion Natural Sort</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ordenação natural do auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the completion search results will be sorted naturally</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se verdadeiro, auto-completar dos resultados da pesquisa serão ordenados naturalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion Instant Substitution</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituição instantânea do auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, invocation of code completion perform instant substitution, if the search result contains only one item</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se verdadeiro, a invocação do auto-completar de código desempenha substituição instantânea, se o resultado da pesquisa contém só um item</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion Lowercase Substitution</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituição do auto-completar de código em letras minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, HTML Code Completion will be available in lower case.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se verdadeiro, o auto-completar código será disponibilizado em letras minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Folding Update Interval</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Intervalo de atualização do dobramento de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How long to wait (in milliseconds) when document content is changed before refreshing code folds.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguardar (em milisegundos) enquanto o conteúdo do documento é modificado antes da atualização dos dobramentos de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Folding Enabled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dobramento de código habilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If enabled, code folds are created.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se habilitado, dobramentos de código são criados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Editor Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca do editor de HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains HTML editor library implementation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém implementação da biblioteca do editor de HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Editor Library contains editing support for HTML files that can be used in standalone editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca do editor de HTML contém suporte de edição para arquivos HTML que pode ser utilizada em editor independente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to previous page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para a página anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to next page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para a próxima página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show javadoc in external web browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir javadoc em navegador navegador externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open source in editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código-fonte no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reformatting code</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reformatando código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Lexer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Analizador léxico HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lexical analysis for html language</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Análise léxica para a linguagem html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains html language lexical tokens definition plus the lexer that recognizes the html language.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém definição léxica dos símbolos da linguagem html mais o analizador léxico que reconhece a linguagem html.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

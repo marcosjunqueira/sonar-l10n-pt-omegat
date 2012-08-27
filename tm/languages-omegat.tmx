@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generic Languages Framework</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Framework genérico de linguagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Languages Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte à linguagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generic Support for Integration of Programming Languages into NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte genérico para integração de linguagens de programação dentro do NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Languages Manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciador de linguagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Syntax Definitions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definições de sintaxe do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Syntax</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sintaxe do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NBS File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo NBS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyword</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavra-chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identifier</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syntax error.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro de sintaxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unexpected character.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caractere inesperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inplace Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatoração embutida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Declaration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para declaração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tokens View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar símbolos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tokens</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Símbolos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a Tokens Browser window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é uma janela de navegação de símbolos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AST View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar AST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a AST Browser window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é uma janela de navegação AST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Rename on &amp;Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear também em &amp;comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renamear &lt;b&gt;{0}&lt;/b&gt; para &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fi&amp;nd Usages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P&amp;rocurar utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Usages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usages of &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizações de &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot perform rename on element at selected position.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode renomear elemento na posição selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find usages of element at selected position.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode encontrar utilizações do elemento na posição selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name has not been modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome não foi modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No changes will be performed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma alteração realizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New name must be entered.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo nome deve ser informado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not a valid JavaScript identifier.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} não é um identificador JavaScript válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mf Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos mf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Languages Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Oções de linguagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Code Folding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilita o dobramento de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.manifest file Editor Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte ao editor de arquivo .manifest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for editing .manifest files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para edição de arquivos .manifest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manifest File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo Manifest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manifest Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Manifest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Editor Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte ao editor de CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for editing CSS files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para edição de arquivos CSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inlined CSS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CSS embutido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selector</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escaped Number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de escape</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand CSS Rulesets</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir conjunto de regras CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse CSS Rulesets</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar conjunto de regras CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand CSS Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir comentários CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse CSS Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar comentários CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto de exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates empty YAML file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria um arquivo YAML vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit the file in the IDE's Source Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode editar o arquivo no editor de código-fonte do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change this template, choose Tools | Template Manager and open the template in the editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para alterar este modelo, escolha Ferramentas | Gerenciador de modelos e abra o modelo no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YAML Editor Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte ao editor YAML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for editing YAML files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para edição de arquivos YAML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YAML Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos YAML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YAML File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo YAML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sequence</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sequência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.diff File Editor Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte ao editor de arquivo .diff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for editing .diff files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para edição de arquivos .diff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bat Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Header</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cabeçalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Added Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha adicionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removed Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha removida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto puro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

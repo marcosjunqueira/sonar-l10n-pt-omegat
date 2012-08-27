@@ -1,0 +1,3142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE {display-version}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE NetBeans {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runtimes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tempo de execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing files irrelevant to the current platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo arquivos desnecessários para a plataforma atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Correcting files permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Corrigindo permissões de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrating Apache Tomcat {display-version} with existing NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integrando o Apache Tomcat {display-version} com IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot completely remove irrelevant files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover os arquivos desnecessários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot completely correct files permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível corrigir as permissões dos arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to integrate Apache Tomcat {display-version} with existing NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao integrar o Apache Tomcat {display-version} com IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing Apache Tomcat {display-version} IDE integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo integração do Apache Tomcat {display-version} com IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to remove Apache Tomcat {display-version} IDE integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover a integração do Apache Tomcat {display-version} com o IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apache Tomcat {display-version} Installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instação do Apache Tomcat {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose destination folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha a pasta de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install Apache Tomcat to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar o Apache Tomcat em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B&amp;rowse.....</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P&amp;rocurar.....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free, open source web server that is the reference implementation for Java servlet and JSP specifications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor web de código-fonte aberto que é implementação da referência de servlet Java e especificações JSP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting the appropriate JDK home</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definindo local home apropriado para o JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding IDE clusters to the active clusters list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando clusters IDE a lista de clusters ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating the productid file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando arquivo id do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating the license_accepted marker file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando arquivo de marcação de aceitação de licensa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating desktop shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando atalhos da Área de Trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Start Menu entries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando entradas do Menu Iniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating the netbeans.conf file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando o arquivo netbeans.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrating the IDE with existing GlassFish installations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integrando a IDE com instalações existes do GlassFish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrating the IDE with existing Apache Tomcat installations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integrando a IDE com instalações existentes do Apache Tomcat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing the license_accepted marker file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo o arquivo de marcação de licensa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing the productid file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo o arquivo productid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing desktop shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo atalhos da área de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing Start Menu entries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo entradas do Menu Iniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot set the selected JDK home</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível aplicar o local padrão selecionado para o JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add NetBeans IDE clusters to the active clusters list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível adicionar os cluster do NetBeans IDE á lista de clusters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create the productid file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar o arquivo de id do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create the license_accepted marker file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar o arquivo de marcação de licensa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create desktop shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar os atalhos da área de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create Start Menu entries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar as entradas do Menu Iniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot update the netbeans.conf file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possivel atualizar o arquivo netbeans.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to integrate the IDE with existing GlassFish installations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao integrar a IDE instalações existentes do GlassFish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to integrate the IDE with existing Apache Tomcat installations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao integrar a IDE com instalações existente do Apache Tomcat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove the license_accepted marker file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover o arquivo de marcação de licensa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove the productid file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover o arquivo de id do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove desktop shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover os atalhos da área de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove Start Menu entries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover as entradas do Menu Iniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It appears that an instance of the IDE is still running:
+a lock file exists at 
+{0}
+Please close all instances of the IDE prior to continuing with uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aparentemente uma cópia da IDE ainda está em execussão:
+um bloqueio de arquivo existe em
+{0}
+Por favor, feche todas as cópias da IDE para continuar com a desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t determine netbeans userdir so can`t check whether NetBeans IDE is running or not</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível resolver o diretório padrão do usuário, assim não foi possível verificar se a IDE NetBeans está sendo executada ou não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only IDE you need</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A única IDE que você precisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE {display-version} Installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação da IDE NetBeans {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the installation folder and JDK™ for the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione a pasta de instalação e o JDK™ para o IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install the NetBeans IDE to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar o IDE NetBeans em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P&amp;rocurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;JDK™ for the NetBeans IDE:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;JDK™ para o IDE NetBeans:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Br&amp;owse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pr&amp;ocurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Base IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Core components of an integrated development environment.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Núcleo de componentes de uma ambiente de desenvolvimento integrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot configure samples configuration properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível configurar as propriedades dos exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Platform, Enterprise Edition 5 Samples</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplos do Java Platform, Enterprise Edition 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java EE 5 Samples demonstrate the technologies and features specific to the Java Platform, Enterprise Edition 5.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplos Java EE 5 demonstram as tecnologias e recursos específicos para a Plataforma Java Edição Enterprise 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The features include annotations, EJB 3.0, persistence, security, and many others.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os recursos incluem anotações, EJB 3.0, persistência, segurança e muitos outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopping the application server default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parando o domínio padrão do servidor de aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Portlet Container installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando o instalador do Portlet Container</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to stop the application server default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao parar a execução do domínio padrão do servidor de aplicativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to run Portlet Container installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o instalador do Portlet Container</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Java Portlet Specification (JSR 168) is a standard for developing portal components with the Java programming language.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Java Portlet Specification (JSR 168) é um padrão para o desenvolvimento de componentes com a linguagem de programação Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Portlet Container {display-version} not only implements the Java Portlet Specification, but also provides a portlet driver, a lightweight portlet rendering environment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Portlet Container {display-version} não somente implementa a especificação Java Portlet Specification, mas também fornece um driver de portlet, um leve ambiente de renderização de portlet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t remove Mobility End-2-End file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover arquivo de Mobilidade End-2-End {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mobility</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mobilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comprehensive tool set for creating Java Micro Edition applications for cell phones and portable devices.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramenta para criação de aplicações Java Micro Edition para telefone celulares e dispositivos portáteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes visual designer, web services connection wizard, and tools for handling device fragmentation problems.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclue desenvolvimento visual, Assistente de conexão de serviços web, e ferramentas para manipulação de problemas de fragmentação de dispositivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopping the glassfish default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parando o domínio padrão do glassfish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running SWDP installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando instalador do SWDP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running SWDP uninstaller</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando desinstalador do SWDP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to stop the default glassfish domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao parar o domínio padrão do glassfish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to run SWDP installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o instalador do SWDP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to run SWDP uninstaller</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o desinstalador do SWDP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun Web Developer Pack {display-version}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote do Desenvolvedor Sun Web {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Sun Web Developer Pack helps you to leverage emerging web technologies and techniques to create interactive and dynamic web applications for the enterprise.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Pacote do Desenvolvedor Sun Web ajuda você a alavancar tecnologias emergentes na web e técnicas para criar aplicações web dinâmicas e interativas para a empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This toolkit is a collection of technologies for Ajax, Scripting and REST-based services development supported by a NetBeans plugin that simplifies the design and development of Rich Internet Applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estas ferramentas são um conjunto de tecnologias para o Ajax, Scripting e REST - serviços baseados desenvolvimento apoiado por um plugin NetBeans que simplifica a concepção e desenvolvimento de Aplicações Ricas para Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopping the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parando o domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Access Manager installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando o instalador do Gerenciador de Acessos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding the quick startup jvm option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando a opção de inicialização rápida da jvm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciando o domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing the quick startup jvm option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo a opção de inicialização rápida da jvm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting extra files created by Access Manager installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo arquivos adicionais criados pelo instalador do Gerenciador de Acessos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find out which JDK is used by the hosting application server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível descobrir qual JDK é utilizado pela aplicação hospedagem do servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to stop the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao parar o domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to run Access Manager installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o instalador do Gerenciador de Acessos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to add the quick startup jvm option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao adicionar a opção de inicialização rápida da jvm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to start the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao iniciar o domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to remove the quick startup jvm option</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover a opção de inicialização rápida da jvm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to delete extra files created by Access Manager installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover os arquivos adicionais criados pelo instalador do Gerenciador de Acessos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun Java System Access Manager 7.1 {display-version}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sun Java System Access Manager 7.1 {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun Java System Access Manager 7.1 integrates authentication and authorization services, policy agents, and identity federation to provide a comprehensive solution for protecting network resources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sun Java System Access Manager 7.1 integra serviços de autenticação e autorização, agentes de política, e identidade federativa para prover uma abrangente solução de proteção de recursos de rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These functions allow an Access Manager deployment to prevent unauthorized access to web service applications and web content.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estas funções permitem uma implantação de um Gerenciador de Acessos para impedir o acesso não autorizado á aplicações de serviço web e conteúdo web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating configuration files from templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando arquivos de configuração de modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding some extra files to the installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando arquivos extra para a lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrating Application Server {display-version} with existing NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integrando Application Server {display-version} com IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Application Server shortcuts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando atalhos do Servidor de aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun Microsystems/Application Server 9 PE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sun Microsystems/Application Server 9 PE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About Application Server PE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobre o Servidor de aplicação PE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Start Guide</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Guia de início rápido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online Documentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Documentação online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Default Server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializar o servidor padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Java DB</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializar Java DB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Default Server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar servidor padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Java DB</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar Java DB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample Applications</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicativos de exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing Application Server {display-version} integration from NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo integração do Servidor de Aplicação {display-version} com IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo o domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing Application Server {display-version} shortcuts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo atalhos do Servidor de Aplicação {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create configuration files from templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao criar os arquivos de configuração de modelos </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao criar o domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to add extra files to the installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao adicionar os arquivos extras na lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to integrate Application Server {display-version} with existing NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na integração do Servidor de Aplicação {display-version} com IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create Application Server shortcuts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao criar os atalhos do Servidor de Aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create Legal files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao criar os arquivos Legais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to remove Application Server {display-version} integration from NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover a integração do Servidor de Aplicação {display-version} com IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to delete the default domain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao criar o domínio padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to remove Application Server shortcuts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover os atalhos do Servidor de Aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun Java System Application Server {display-version} Installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação do Sun Java System Application Server {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the installation folder and server properties.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione a pasta de instalação e as propriedades do Servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install Sun Java System Application Server {display-version} to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar o Sun Java System Application Server {display-version} em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;JDK™ for application server:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;JDK™ para o servidor de aplicação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Admin &amp;Username:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Usuário admin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Admin &amp;Password:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Senha &amp;Admin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;etype Password:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>R&amp;epita a Senha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H&amp;TTP Port:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta H&amp;TTP:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP&amp;S Port:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta HTTP&amp;S:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Admin Port:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta A&amp;dmin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome de Usuário deve ser informado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username &quot;{0}&quot; is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de usuário &quot;{0}&quot; é inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username should be an alphanumeric string.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de Usuário deve ser alfa-numérico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password cannot be null.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve digitar uma senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password should be at least 8 characters long.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Senha deve conter pelo menos 8 caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password cannot start or end with whitespace characters.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Senha não deve iniciar ou terminar com espaços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As senhas informadas não coincidem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP port cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta HTTP deve ser informada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS port cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta HTTPS deve ser informada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Admin port cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta Admin deve ser informada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP port &quot;{0}&quot; is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta HTTP  &quot;{0}&quot; é inválida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP port should be an integer from 1 to 65535.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta HTTP deve ser um valor inteiro de 1 à 65535.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS port &quot;{0}&quot; is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta HTTPS &quot;{0}&quot; é inválida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS port should be an integer from 1 to 65535.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta HTTPS deve ser um valor inteiro de 1 à 65535.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Admin port &quot;{0}&quot; is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta Admin &quot;{0}&quot; é inválida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Admin port should be an integer from 1 to 65535.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Porta Admin deve ser um valor inteiro de 1 à 65535.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP port &quot;{0}&quot; is already occupied on this machine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A porta HTTP &quot;{0}&quot; já está sendo utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select another port.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, selecione outra porta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS port &quot;{0}&quot; is already occupied on this machine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A porta HTTPS &quot;{0}&quot; já está sendo utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Admin port &quot;{0}&quot; is already occupied on this machine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A porta Admin &quot;{0}&quot; já está sendo utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP port value equals the HTTPS port value.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Valor da porta HTTP é igual ao valor da porta HTTPS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They should be different.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione outro valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP port value equals the Admin port value.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A porta HTTP informada é igual Admin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS port value equals the Admin port value.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A porta HTTPS é igual ao valor da porta Admin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All ports on your system are occupied.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as portas em seu sistema estão sendo utilizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please free at least 6 ports which can be used by the initial domain.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, libere pelo menos 6 portas para ser utilizada pelo domínio padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Port {0} is already in use by {1}, please select another value.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Porta {0} já está sendo usada por {1}, por favor, selecione outra porta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun Java System Application Server {display-version}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor de Aplicação Sun Java System {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Sun Java System Application Server 9.1 is a Java EE 5 platform-compatible server for the development and deployment of Java EE applications and Java technology-based web services in large-scale production environments.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Sun Java System Application Server 9.1 é um servidor compatível com a plataforma Java EE 5 para o desenvolvimento e  implantação de aplicações baseadas na tecnologia Java EE e serviços web Java em ambientes de produção de larga escala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Essential tools for programming in Java, including an editor, debugger, profiler, refactoring support, and award winning drag-and-drop GUI design tool (formerly known as Project Matisse).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas exenciais para programação em Java, incluíndo um editor, depurador, Profiler, suporte a refatoração, e uma ferramenta de desenvolvimento visual arrastar-e-soltar(mais conhecido como Projeto Matisse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrating GlassFish {display-version} with existing NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integrando GlassFish {display-version} com as IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing GlassFish {display-version} integration from NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo integração do GlassFish {display-version} com as IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting extra files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo arquivos extra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to integrate GlassFish {display-version} with existing NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na integração do GlassFish {display-version} com as IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to remove GlassFish {display-version} integration from NetBeans IDEs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover a integração do GlassFish {display-version} com as IDEs NetBeans existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to delete extra files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao excluir os arquivos extras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GlassFish {display-version} Installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação do GlassFish {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install GlassFish to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar GlassFish em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;JDK™ for GlassFish application server:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;JDK™ para servidor de aplicação GlassFish:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, informe a senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify another port.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifique outra posta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Port {0} is already in use by {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A porta {0} já está em uso por {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify another value.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifique outro valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either .asadminpass or .asadmintruststore file exists in your home directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tanto o arquivo .asadminpass ou .asadmintruststore já existem em seu diretório de usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free, open source, production-quality application server that is also the reference implementation for Java EE 5 specification.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramenta de código-aberto, servidor de aplicação que está de acordo com a referência de implementação para a especificação Java EE 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web &amp; Java EE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Web e Java EE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools for creating Java web and enterprise applications compatible with the J2EE 1.3, J2EE 1.4, and Java EE 5 specifications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas para criação de aplicações Java web e enterprise compatíveis com especificações J2EE 1.3, J2EE 1.4, e Java EE 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes support for servlets, JSPs, tag libraries, Struts, Java Persistence API, Enterprise Java Beans, JAX-WS, and Java Server Faces.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclue suporte a servlets, JSPs, bibliotecas de marcação, Struts, API Java de Persistência,  Beans Enterprise Java, JAX-WS, e Java Server Faces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides visual drag-and-drop application development environment.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece um ambiente visual de desenvolvimento de aplicações arrastar-e-soltar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>API documentation (Javadocs) {display-version}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Documentação API (Javadocs) {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no description&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;sem descrição&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error running NetBeans updater</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro ao executar o atualizador do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portal Pack Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Portal Pacote de Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module supports full life-cycle of portlet application development inside NetBeans.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo suporta um completo ciclo de vida de desenvolvimento de uma aplicação portlet dentro do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this tool portlet developers can develop, package, deploy and test portlet inside their NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Usando esta ferramenta os programadores podem desenvolver, pacotes, implantar e testar portlets dentro da IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By automatic code and Deployment Descriptor generation, this tool helps developers to develop portlets quickly.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Através de código automático e a geração do Descritor de Implantação, esta ferramenta ajuda desenvolvedores a desenvolver rapidamente portlets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It provides a tight integration with portal servers to support deployment and undeployment of portlets on both local and remote server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ela oferece uma íntima integração com o Portal de servidores para apoiar à implantação e remoção de portlets tanto locamente como no servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registering access manager runtime in the IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrando gerenciador de acessos de tempo de execução na IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing access manager runtime registration from the IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo gerenciador de acesso de tempo de execução da IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to register access manager runtime in the IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao registrar gerenciador de acesso de tempo de execução na IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to remove access manager runtime registration from the IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover o gerenciador de acesso de tempo de execução da IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools for creating composite applications as part of a Service Oriented Architecture.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas para a criação de aplicações como parte de um Serviço Orientado a Arquitetura (SOA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides comprehensive BPEL support.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece suporte a BPEL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes graphical editor, debugger, and refactoring support.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui edit gráfico, depurador e suporte a refatoramento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your First Cup: An Introduction to the Java EE Platform {display-version}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seu primeiro contato: Uma introdução a plataforma Java EE {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your First Cup: An Introduction to the Java EE Platform provides detailed instructions for compiling and running your first program</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seu primeiro contato: Uma introdução a plataforma Java EE que provê informações detalhadas para você compilar e executar seu primeiro aplicativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete tool set for creating Ruby and Ruby on Rails applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramenta completa para a criação de aplicações Ruby e Ruby on Rail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes JRuby interpreter, Ruby on Rails framework, powerful editor, debugger, gem manager, and interactive Ruby shell.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>inclue interpretador JRuby, framework Ruby on Rails, super editor, depurador, gerenciador, e interatividade do Ruby com shell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports easily creating, modifying, and running Ruby on Rails applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporta fácil criação, modificação, e execução de aplicações Ruby on Rails.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun Java(TM) Wireless Toolkit {display-version} for CLDC</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sun Java(TM) Wireless Toolkit {display-version} para CLDC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Open ESB installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando instalador do Open ESB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running Open ESB uninstaller</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando desinstalador do Open ESB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to run Open ESB installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o instalador do Open ESB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to run Open ESB uninstaller</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o desinstalador do Open ESB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open ESB implements an Enterprise Service Bus (ESB) runtime using Java Business Integration (JBI) as the foundation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Open ESB implementa em tempo de execução um Enterprise Service Bus (ESB) usando Java Business Integration (JBI) como fundação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open ESB is an open standard, open-source product that offers a platform to build integration solutions based on service-oriented architecture (SOA).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Open ESB é um produto de código-fonte aberto, que oferece uma plataforma para contruir soluções com integração baseada no serviço orientado a arquitetura (SOA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools for developing C and C++ applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas para desenvolvimento de aplicações C e C++.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes project templates, support for existing projects, advanced editor, debug support, and makefile wizard for configuration management.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclue projetos modelo, suporte a projetos existentes, editor avançado, suporte a depuração, e assistente para gerenciamento de configurações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding options to the IDE configuration files for the proper work of UML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando opções para o IDE nos arquivos de configuração para o trabalho de UML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrate with Telelogic Doors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integrar com Telelogic Doors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to add options to the IDE configuration files for the proper work of UML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao adicionar as opções nos arquivos de configuração do IDE para o trabalho de UML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to integrate with Telelogic Doors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao integrar com o Telelogic Doors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing options, that UML used, from IDE configuration files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo opções, que são usadas pelo UML, dos arquivos de configuração do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canceling Telelogic Doors integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelando integração com Telelogic Doors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to remove UML-specific options from IDE configuration files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao remover opções específicas de UML dos arquivos de configuração do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to cancel Telelogic Doors integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao cancelar a integração com Telelogic Doors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unified Modeling Language tools that support drawing design diagrams, generating code, and automatic creation of design diagrams from existing code.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas da Linguagem de Modelagem Unificada que suportam desenho de diagramas, geração de código, e criação automática de design de diagramas de código existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running WSRP installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando instalador do WSRP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to run WSRP installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o instalador do WSRP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Services for Remote Portlets {display-version}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Serviços Web para Portlets Remotos {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Services for Remote Portlets {display-version} is a standard that provides web service-based access capability to portlets and enables interoperability among different portal server solutions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Serviços Web para Portlets Remotos {display-version} é um padrão que oferece serviço web baseado em acesso de capacidade para portlets e permite a interoperabilidade entre as diferentes soluções do servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WSRP is a presentation-oriented web service.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>WSRP é uma apresentação orientada para serviço web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike common web services that carry only the raw data as the result of a request, a WSRP response carries fully rendered markup to be included within a portal page.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diferentemente comum de serviços web que procedem apenas dos dados brutos como o resultado de um pedido, uma resposta WSRP exerçe plenamente a prestação de marcação para ser incluído dentro de uma página..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JDK installation finished with error code {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A instalação do JDK foi finalizada com o código de erro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JRE installation finished with error code {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação da JRE foi finalizada com o código de erro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JDK uninstallation finished with error code {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A desinstalação do JDK foi finalizada com o código de erro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JRE uninstallation finished with error code {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A desinstalação da JRE foi finalizada com o código de erro {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running JDK installer...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando instalador do JDK...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running JRE installer...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando instalador do JRE...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running JDK uninstaller...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando o desinstalador do JDK...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running JRE uninstaller...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando o desinstalador do JRE...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occured while JDK installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um erro ocorreu durante a instalação do JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occured while JDK uninstallation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um erro ocorreu durante a desinstalação do JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occured while JRE installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um erro ocorreu durante a instalação do JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occured while JRE uninstallation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um erro ocorreu durante a desinstalação da JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move installation files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível mover os arquivos de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java SE Developer Kit (JDK) {display-version} Installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação do Kit de Desenvolvimento Java SE (JDK) {display-version}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the installation folder for JDK</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione a pasta de instalação para o JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install the JDK™ to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar o JDK™ em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JDK cannot be installed in directory with spaces.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O JDK nçao pode ser instalado em diretórios com espaços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Java SE Development Kit (JDK) includes the Java Runtime Environment (JRE) and command-line development tools that are useful for developing applets and applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Kit de Desenvolvimento Java SE (JDK) inclui o ambiente de execução Java (JRE) e ferramentas de desenvolvimento de linha de comando, úteis para o desenvolvimento de applets e aplicações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Java BluePrints series defines the application programming model for end-to-end solutions using Java technology.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A série Java BluePrints define o modelo de programação de aplicação para soluções do início ao fim utilizando tecnologia Java .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The series contains guidelines, patterns, and code for real-world application scenarios, enabling you to build robust, scalable, and portable solutions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A série contém orientações, padrões, e códigos para aplicações no cenário do mundo real, possibilitando a você construir soluções robustas, escaláveis e portáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the code and applications included in these blueprints are NetBeans-ready.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos os códigos e aplicações incluídas nesta matriz estão prontas para o NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Install to start the installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Instalar para iniciar a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Uninstall to start the uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Desinstalar para iniciar a desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Installation Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} Pasta de Instalação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE Installation Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta de Instalação do IDE NetBeans:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components will be uninstalled:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes componentes irão ser removidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Installation Size:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho total da Instalação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Download Size:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho Total do Download:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} will be installed to the GlassFish folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} irá ser instalado na pasta do GlassFish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} will be installed to the NetBeans IDE folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} irá ser instalado na pasta do IDE NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;br&gt;Runtimes to remove with {0}:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;br&gt;Runtimes para remover com {0}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Uninstall</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Desinstalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient disk space for proper installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço insuficiente para a instalação apropriada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional {1} is required in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1} adicionais é necessário em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot check the free disk space</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível analisar o espaço livre no disco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not access product's configuration logic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível acessar a configuração lógica dos produtos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get the list of file system roots</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível obter a lista do sistema de arquivos raiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is set up to be installed to {1} which does not belong to any of the file system roots.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} deve ser instalado em {1}, que não pertence a nada do sistema de arquivos raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wizard does not have write access to {1}, the installation directory of {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Assistente não tem acesso de escrita para {1}, o diretório de instalação de {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please correct the permissions before proceeding.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, corrija as permissões antes de continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup Complete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Finish to finish the NetBeans IDE setup.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Finalizar para finalizar a instalação do IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;b&gt;Installation completed successfully.&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;b&gt;Instalação concluída com sucesso.&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;Warnings were encountered during the installation.&lt;/b&gt;&lt;br&gt;&lt;br&gt;For more details consult the installation log file:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;Advertências foram encontrados durante a instalação.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Para maiores detalhes consulte o log de instalação:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;&lt;b&gt;Errors were encountered during the installation.&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;For more details consult the installation log file:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;&lt;b&gt;Erros foram encontrados durante a instalação.&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Para maiores detalhes consulte o log de instalação:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To launch the IDE, use either the Start menu or the NetBeans desktop icon.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para iniciar o IDE, use o menu Iniciar ou o ícone do IDE NetBeans no desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change installed components and add NetBeans plugins, use Plugin Manager that is an integral part of NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para alterar componentes instalados e adicionar plugins do NetBeans, use o Gerenciador de Plugin que é uma parte integrada do IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To launch the IDE, use the NetBeans desktop icon.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para iniciar o IDE, use o ícone do NetBeans no desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To launch the IDE, use the NetBeans dock icon.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para iniciar o IDE, utilize o ícone do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java SE Development Kit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Kit de Desenvolvimento Java SE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Register the {0} to get the following benefits:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Notification of new versions, patches and updates&lt;/li&gt;&lt;li&gt;Special offers on Sun developer products, services and training&lt;/li&gt;&lt;li&gt;Access to early releases and documentation&lt;/li&gt;&lt;li&gt;Ability to track and manage your registered products on the SunConnection Inventory site&lt;/li&gt;&lt;/ul&gt;Registration is FREE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Registre o {0} para ter os seguintes benefícios:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Notificação de novas versões, correções e atualizações&lt;/li&gt;&lt;li&gt;Ofertas especiais em produtos, serviços e treinamentos Sun para desenvolvedores&lt;/li&gt;&lt;li&gt;Acesso antecipado à lançamentos e documentações&lt;/li&gt;&lt;li&gt;Possibilidade de rastrear e gerenciar seus produtos registrados no site SunConnection Inventory&lt;/li&gt;&lt;/ul&gt;O registro é gratuito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register the {0} after finishing the installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registre o {0} após o término da instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Uninstallation completed successfully.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Desinstalação concluída com sucesso.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;Warnings were encountered during the uninstallation.&lt;br&gt;&lt;br&gt;For more details consult the installation log file:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;Advertências foram encontradas durante a desinstalação.&lt;br&gt;&lt;br&gt;Para maiores detalhes consulte o log de instalação:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;Errors were encountered during the uninstallation.&lt;br&gt;&lt;br&gt;For more details consult the installation log file:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;span color=&quot;red&quot;&gt;Erros foram encontrados durante a desinstalação.&lt;br&gt;&lt;br&gt;Para maiores detalhes consulte o log de instalação:&lt;br&gt;{0}&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;br&gt;Some files could not be removed from the installation directories of the {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;br&gt;&lt;br&gt;Alguns arquivos não puderam ser removidos dos diretórios de instalação em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may need to remove them manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deverá removê-los manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Finalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;h2 style=&quot;color: #FF8E00; bold&quot;&gt;Welcome to the NetBeans IDE 6.0.1 Installer&lt;/h2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;h2 style=&quot;color: #FF8E00; bold&quot;&gt;Bem-vindo ao instalador do IDE NetBeans 6.0.1&lt;/h2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;h2 style=&quot;color: #FF8E00; bold&quot;&gt;Welcome to the NetBeans IDE 6.0.1 and {0} Installer&lt;/h2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;h2 style=&quot;color: #FF8E00; bold&quot;&gt;Bem-vindo ao instalador do IDE NetBeans 6.0.1 e {0}&lt;/h2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install the NetBeans IDE with the following packs and runtimes.&lt;br&gt;Click Customize to select the packs and runtimes to install.&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Instalador irá instalar o IDE NetBeans com os seguintes pacotes e runtimes.&lt;br&gt;Clique em Personalizar para selecionar os pacotes e runtimes.&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install the NetBeans IDE with the Mobility pack.&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Instalador irá instalar o IDE NetBeans com o pacote Mobilidade.&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install the NetBeans IDE with the Java SE pack.&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Instalador irá instalar o IDE NetBeans com o pacote Java SE.&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install the NetBeans IDE with the Web &amp; Java EE pack and selected application servers.&lt;br&gt;&lt;br&gt;Select the application servers to install with the IDE:&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador irá instalar o IDE NetBeans com o pacote Web e Java EE e servidores de aplicação selecionados.&lt;br&gt;&lt;br&gt;Selecione os servidores de aplicação para instalar com o IDE:&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install the NetBeans IDE with the Ruby pack.&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador irá instalar o IDE NetBeans com o pacote Ruby.&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install the NetBeans IDE with the C/C++ pack.&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador irá instalar o IDE NetBens com o pacote C/C++.&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install NetBeans IDE and Java SE Development Kit (JDK).&lt;br&gt;Click Customize to select the packs and runtimes to install.&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador irá instalar o NetBeans IDE e o Java SE Development Kit (JDK).&lt;br&gt;Clique em Personalizar para selecionar os pacotes e runtimes.&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install NetBeans IDE and Java SE Development Kit (JDK).&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador irá instalar o NetBeans IDE e o Java SE Development Kit (JDK).&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will install NetBeans IDE and Java SE Development Kit (JDK).&lt;br&gt;&lt;br&gt;Select the application servers to install with the IDE:&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador irá instalar o NetBeans IDE e o Java SE Development Kit (JDK).&lt;br&gt;Selecione os servidores de aplicação para instalar com o IDE:&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This account does not have sufficient privileges to install Java™.&lt;br&gt;Please login to an account with administrative permissions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta conta não tem privilégios suficientes para instalar o Java™.&lt;br&gt;Favor autenticar com uma conta com privilégios administrativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is already installed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} já instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click next if you want to proceed with NetBeans IDE installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em próximo se desejar proceder com a instalação do NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE {display-version} and {0} are already installed.&lt;br&gt;Click Cancel to exit the installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans IDE {display-version} e {0} já instalados.&lt;br&gt;Clique em Cancelar para sair da instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This account does not have sufficient privileges to install Java™.&lt;br&gt;Please login to an account with administrative permissions.&lt;br&gt;NetBeans IDE {display-version} is already installed.&lt;br&gt;Click Cancel to exit the installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta conta não tem privilégios suficientes para instalar o Java™.&lt;br&gt;Favor autenticar com uma conta com privilégios administrativos.&lt;br&gt;NetBeans IDE {display-version} e {0} já instalados.&lt;br&gt;Clique em Cancelar para sair da instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE {display-version} is already installed.&lt;br&gt;Click next if you want to proceed with JDK installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans IDE {display-version} já instalado.&lt;br&gt;Clique em próximo se desejar proceder com a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;span style=&quot;color: gray&quot;&gt;(Already Installed)&lt;/span&gt;&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;span style=&quot;color: gray&quot;&gt;(Já instalado)&lt;/span&gt;&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Customize...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Personalizar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation Size: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da Instalação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize Installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar Instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select packs and runtimes to install from the list below, unselect those you want to uninstall.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecione os pacotes e runtimes da lista para instalar, desmarque todos que você quer remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select packs and runtimes to install from the list below.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecione os pacotes e runtimes para instalar na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Un&amp;select packs and runtimes to uninstall from the list below.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>De&amp;marque os pacotes e runtimes da lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation size: {0}     Download Size: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da instalação: {0}     Tamanho do Download: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation size: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da instalação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a component to see its description.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione um componente para ver sua descrição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You did not select anything to install or uninstall.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não selecionou nada para instalar ou remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select at least one pack or runtime for installation or uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione pelo menos um pacote ou runtime para instalar ou remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You did not select anything to install.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não selecionou nada para instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select at least one pack or runtime for installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione pelo menos um pacote ou runtime para instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You did not select anything to uninstall.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não selecionou nada para remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select at least one pack or runtime for uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione pelo menos um pacote ou runtime para remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} is required to install {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1} é necessário para instalar {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} conflicts with {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} entra em conflito com {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is required by {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} é necessário para {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient disk space for downloading the installation data.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em disco insuficiente para baixar os dados da instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient disk space for extracting the installation data.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em disco insuficiente para extrair os dados da instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the available components are already installed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos os componentes disponíveis já estão instalados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Cancel to exit the installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Cancelar para finalizar o instalador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (Already Installed)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (Já instalado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuring the Installer...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurando o instalador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while NetBeans IDE installer initializes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, aguarde enquando o instalador do IDE  NetBeans inicializa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE 6.0.1 Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalador do NetBeans IDE 6.0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the installer installs NetBeans IDE and runtimes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, aguarde enquanto o instalador instala o IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It appears that the following instance of the NetBeans IDE is still running:
+{0}
+A lock file exists at 
+{1}
+Please close this NetBeans IDE prior to continuing with uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aparentemente a seguinte instância do IDE  NetBeans ainda está em execução:
+{0}
+Um arquivo travado existe em 
+{1}
+Por favor, feche o IDE NetBeans antes de continuar com a desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans branding cluster does not exist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O cluster marca NetBeans não existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t get netbeans userdir from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível obter o diretório do usuário de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to execute the JDK verification procedure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o procedimento de verificação do JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot download TestJDK.class from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível baixar TestJDK.class de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot canonize {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível canonizar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot configure parser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível configurar o analisador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot configure transformer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível configurar o transformador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something wrong with transformer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Algum erro ocorreu com o transformador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something wrong while parsing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Algum erro ocorreu durante a análise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not create domain - failed to create the password file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar o domínio - falha ao criar o arquivo de senhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;Could not create domain - error {0} occurred.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;Não foi possível criar o domínio - o erro {0} ocorreu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not create domain - the process returned {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar o domínio - o processo retornou {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not create domain - the process was killed due to timeout.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar o domínio - o processo foi finalizado devido ao tempo esgotado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deployment failed to finish in a timely manner</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Implatação não conseguiu terminar de forma atempada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding {0} to the active clusters list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando {0} a lista de clusters ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding {0} to the 'productid' file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando {0} para o arquivo 'productid'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing {0} from the productid file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo {0} do arquivo productid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing {0} from the active clusters list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo {0} da lista de clusters ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add {0} to the active clusters list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível adicionar {0} a lista de clusters ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add {0} to the 'productid' file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível adicionar {0} ao arquivo 'productid'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove {0} from the 'productid' file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover {0} do aruqivo 'productid'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove {0} from the active clusters list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover {0} da lista de clusters ativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory {0} is missing.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A instalação do diretório {0} está ausente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most likely it was deleted manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mais provável que foi excluído manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory {0} is in fact a file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A instalação do diretório {0} é de fato um arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most likely it was previously deleted manually and overwritten with a file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mais provável que foi anteriormente removido manualmente e sobrescrito com um arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory {0} is empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A instalação do diretório {0} está vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most likely its contents were deleted manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É provável que o conteúdo foi removido manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory cannot be detected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de instalação não pode ser detectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot initialize data for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível inicializar os dados de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load configuration logic for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível carregar a configuração lógica de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation location is not set for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação local não está definido para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation location is set to empty string for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação local está definido para string vazia para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create the local cache directory {0} for {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível criar o diretório cache local {0} para {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The local cache directory {0} for {1} is not a directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de cache local {0} para {1} não é um diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load product {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível carregar o produto {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration logic for {0} is not yet downloaded</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração lógica para {0} não foi baixada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation data is not cached for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dados da instalação para {0} não foram carregados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot extract installation data for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível extrair os dados de instalação de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot save installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível salvar a lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get component's wizard components</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível obter os componentes do Assistente de Componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create directory hierarchy for MacOS Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar a estrutura de diretórios para Aplicação MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get the installation files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível obter a lista dos arquivos de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover a lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete the file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover o arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove {0} from the system install manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover {0} do gerenciador de instalação do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot extract installation data -- not enough disk space in the target directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível extrair os dados da instalação -- não há espaço no diretório de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot clear installation data cache file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível limpar o arquivo de instalação {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration of {0} with the system package manager failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração de {0} com o gerenciador de pacotes do sistema falhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalling {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuring {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unconfiguring {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desfazendo configuração {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating legal artifacts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando artefatos Legais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running custom configuration logic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando lógica de configuração personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registering in the system package manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrando o pacote no sistema gerenciador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvando lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalador do NetBeans IDE</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

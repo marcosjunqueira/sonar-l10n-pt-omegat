@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External HTML Browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>tNavegador HTML externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The External Browser module enables the integration of external web browsers with the IDE for viewing Javadoc documentation and testing applets and web (JSP and servlet) applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de navegação externa habilita a integração de navegadores web com o IDE para a visualização de documentação Javadoc e teste de applets e aplicações web (JSP e servlet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It provides an alternative to the built-in HTML Browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece uma alternativa ao navegador HTML interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables integration of external web browsers with the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilita a integração de navegadores web externos com o IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running command {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando comando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot execute {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode executar {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check external browser configuration.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificar configuração do navegador externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting browser...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciando navegador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activating browser...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativando navegador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL Sent to browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL enviado ao navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browser Executable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador executável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command for executing the browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comando para a execução do navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimized for Mozilla browsers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Otimizado para navegadores Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimized for Firefox browsers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Otimizado para navegadores Firefox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML browser that is brought up in a separate process every time a URL is selected for display from within the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O navegador HTML é executado em um processo separado cada vez que uma URL é selecionada para exibição dentro do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Browser (command-line)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador externo (linha de comando)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create process.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde criar processo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the browser configuration.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifica a configuração do navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{URL} = URL of the page to be loaded by the web browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{URL} = URL da página à ser carregada pelo navegador web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to locate extbrowser.dll library.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível localizar a biblioteca extbrowser.dll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This library contains native code neceseary for using the external HTML browser on Windows platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta biblioteca contém código nativo necessário para a utilização do navegador HTML externo na plataforma Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimized for Internet Explorer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Otimizado para Internet Explorer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browser cannot be used on this platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O navegador não pode ser usado nesta plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not access the URL through the external browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível acessar a URL através do navegador externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browser activation timeout</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Timeout ao ativar o navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open URL timeout</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Timeout ao abrir URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DDE server timeout for WWW_Activate topic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Timeout do servidor DDE para o tópico WWW_Activate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DDE server timeout for WWW_OpenUrl topic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Timeout do servidor DDE para abrir o tópico WWW_OpenUrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Default System Browser&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Navegador padrão do sistema&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML browser using Windows registry to execute the right system-default browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador HTML usando o registro do Windows para executar o navegador padrão correto do sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timeout for launching the browser process</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Timeout ao lançar o processo do navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sets the amount of time IDE waits for a browser process to launch.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Define o tempo que o IDE espera pelo lançamento de um processo do navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimized for Netscape browsers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Otimizado para navegadores Netscape</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

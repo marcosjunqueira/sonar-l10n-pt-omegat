@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding, Searching, and Replacing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurando, pesquisando e substituindo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search word at insert point</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar palavra no ponto atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find next/previous in file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar próximo/anterior no arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find/Replace in file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar/substituir no arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find usages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find/replace in projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar/substituir no projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find usages results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados da procura de utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn off search result highlights</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desativar realce em pesquisas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-U, then U</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-U, então U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert selection to uppercase</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Converter seleção para maiúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-U, then L</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-U, então L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert selection to lowercase</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Converter seleção para minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-U, then S</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-U, então S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle case of selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar entre maiúsculas/minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alt-Shift-V</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-Shift-V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste formatted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar formatado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigating through Source Code</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegando através do código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to type/file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para tipo/arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to JUnit test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para teste JUnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to declaration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para declaração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle add/remove bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar entre adicionar/remover marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-Shift-Period/Comma</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-Shift-ponto/vírgula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next/previous bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcador próximo/anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-Period/Comma</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-ponto/vírgula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next/previous usage/compile error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próx./Ant. erro de uso/compilação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select in Projects/Files/Favorites</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar em Proj./Arq./Favoritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move caret to matching bracket</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para parêntese correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next/previous word match</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próx./ant. palavra correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go backward/forward/to last edit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para a edição ant./próx./última</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coding in Java</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Codificando em Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate code</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerar código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix all class imports</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Corrigir todas as importações da classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix selected class's import</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Corrigir a importação da classe selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Format selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formatar seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alt-Shift Left/&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alt-Shift Esq./&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right/Up/Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Direita/Para cima/Para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift lines left/right/up/down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover linhas para esquerda/direita/cima/baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-Shift-Up/D</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-Shift-Cima/D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy lines up/down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar linhas para cima/baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspect members/hierarchy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inspecionar membros/hierarquia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add/remove comment lines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar/remover comentário das linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete current line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir a linha atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coding in C/C++</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Codificando em C/C++</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluate expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avaliar expressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coding in Ruby</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Codificando em Ruby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump Rails action &gt; view</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pular ação Rails &gt; visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alt-Shift-Period/Comma</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alt-Shift-ponto/vírgula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Next/Previous element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar próximo/anterior elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-Shift-Space</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-Shift-Espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show documentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump from test file to file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir do arquivo de teste para o arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tab-Shift-Arrows</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tab-Shift-Setas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move through elements</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover através dos elementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Busca avançada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand/collapse elements</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir/contrair elementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show BPEL Mapper</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir BPEL Mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert attribute/operation into selected element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir atributo/operação no elemento selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit diagram into window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ajustar diagrama à janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Overview window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar janela de Visão geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select active UML diagram</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar o diagrama UML ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling, Testing, and Running</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compilação, testes e execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compile package/ file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compilar pacote/file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build main project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean &amp; build main project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar e construir projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set request parameters</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir parâmetros de requisição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create JUnit test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar testes JUnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run JUnit test on file/project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar testes JUnit no arquivo/projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run main project/file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar projeto principal/arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening and Toggling between Views</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo e alternando entre visualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle between &lt;s0/&gt;open documents</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar entre &lt;s0/&gt;documentos abertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximize window (toggle)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Maximizar janela (alternar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close currently selected window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar a janela selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close all windows</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar todas as janelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open contextual menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir menu contextual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undock window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desacoplar janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>debug</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>depurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start debugging main project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializar depuração do projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start debugging current file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializar depuração do arquivo corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start debugging test for file (JUnit)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializar depuração do teste para o arquivo (JUnit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop/Continue debugging session</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar/Continuar a sessão de depuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run to cursor location in file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar até a localização do cursor no arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step into/over</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Passar dentro/sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step out</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Passar fora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-Alt-Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-Alt-Cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to called method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o método chamado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ctrl-Alt-Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ctrl-Alt-Baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to calling method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o método invocador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New watch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo observador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When typing in the Source Editor, you can generate the text in the right-column of the following list by typing the abbreviation that is listed in the left-column and then pressing Tab.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando digitando no Editor de código-fonte, é possível gerar o texto da coluna da direita da lista abaixo apenas digitando a abreviação da coluna correspondente e então pressionar Tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Editor Code Templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelos de código para editor Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JSP Editor Code Templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelos de código para editor JSP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Change Default Settings:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para alterar as configurações padrões:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Tools &gt; Options from the main menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha Ferramentas &gt; Opções no menu principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For &lt;f0&gt;code templates&lt;/f0&gt;, s&lt;f1&gt;elect Editor and click the Code Templates tab.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para &lt;f0&gt;modelos de código&lt;/f0&gt;, s&lt;f1&gt;elecione Editor e clique na aba Modelos de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can also change the &lt;/f1&gt;&lt;f2&gt;expansion key&lt;/f2&gt;&lt;f3&gt;, from Tab to something else.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aqui você ainda pode alterar a &lt;/f1&gt;&lt;f2&gt;tecla de expansão&lt;/f2&gt;&lt;f3&gt;, de Tab para outra tecla.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For &lt;f0&gt;keyboard shortcuts&lt;/f0&gt;, s&lt;f1&gt;elect Keymap and choose a profile from the Profile drop-down list.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para &lt;f0&gt;atalhos de teclados&lt;/f0&gt;, s&lt;f1&gt;elecione Mapa de teclas e selecione o perfil a partir da lista Perfis.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Complete &lt;/f0&gt;List of Keyboard Shortcuts:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista &lt;f0&gt;completa &lt;/f0&gt;de atalhos de teclado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlights of NetBeans IDE 6.0 Keyboard Shortcuts &amp; Code Templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Destaques entre os atalhos de teclado &amp; modelos de código do NetBeans 6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gj Wielenga</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Michel Graciano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en-US</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>pt-BR</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

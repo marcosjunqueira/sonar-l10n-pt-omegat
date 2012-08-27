@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} more ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mais {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} less ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menos {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Fewer Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir menos plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show More Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir mais plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check plugin {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar o plugin {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload Catalog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recarregar catálogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>U&amp;ninstall</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desi&amp;nstalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Update</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>At&amp;ualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncheck Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deselecionar categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncheck All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deselecionar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Reload Catalog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Recarregar catálogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Activate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ativar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativar categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Deactivate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Desativar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivate Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desativar categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certified Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins certificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beta Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugin beta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Community Contributed Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugin contribuído pela comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inactive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application restart needed to complete installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É necessário reinicializar o aplicativo para completar a instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application restart needed to complete deactivation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É necessário reinicializar o aplicativo para completar a desativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is in read-only mode and cannot be checked</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} esta em modo somente leitura e não pôde ser verificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the locally downloaded plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar plugins baixados localmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove plugin from the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover o plugin da lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} plugin selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} plugin selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} plugins selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} plugins selecionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstall</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} operation will require restart of the application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A operação {0} necessitará da reinicialização do aplicativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your application is up-to-date!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seu aplicativo está atualizado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No plugins are available.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum plugin disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Reload Catalog for newest plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em 'Recarregar catálogo' para plugins mais recentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloaded</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Baixados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add Plugins...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar plugins...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalador do plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin {0} is already prepared to update/install.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O plugin {0} já está preparado para ser atualizado/instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin &quot;{0}&quot; is already installed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O plugin &quot;{0}&quot; já está instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugins &quot;{0}&quot; are already installed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os plugins &quot;{0}&quot; já estão instalados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin distribution files (*.nbm)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de distribuição de plugins (*.nbm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to connect to the Update Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível conectar à Central de atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check your proxy settings or try again later.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique suas configurações de proxy ou tente novamente mais tarde. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The server may be unavailable at the moment.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O servidor pode estar indisponível neste momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may also want to make sure that your firewall is not blocking network traffic.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique se o firewall não está bloqueando o tráfego na rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not all of the plugins have been successfully downloaded.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nem todos os plugins foram baixados com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tente novamente mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Proxy Configuration...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração de &amp;proxy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Try again</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Tentar novamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Igno&amp;rar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to connect to the {0} because of {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível conectar à {0} por causa de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Proxy Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações de &amp;proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Center Customizer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizador da central de atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Check for updates automatically</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifi&amp;car atualizações automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bridges</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncategorized</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não categorizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to remove following update center: &quot;{0}&quot;?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirma a exclusão da seguinte central de atualização: &quot;{0}&quot;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for updates automatically</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificar atualizações automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fe&amp;char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking for updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificando atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing the list of plugins...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializando a lista de plugins...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Provider</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo provedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Author:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Data:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código-fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Codinome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important note</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nota importante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição do plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Search:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pe&amp;squisar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Check Interval:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Intervalo de verifi&amp;cação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avançado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration of &amp;Update Centers:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Config&amp;uração das centrais de atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatically Check for Updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificar automaticamente por atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every Startup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sempre que iniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every Day</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todo dia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every Week</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Toda semana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every Two Weeks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A cada duas semanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every Month</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todo mês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nunca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Force install into shared directories</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Forçar instalação em diretórios compartilhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Write Permission</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permissão de escrita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shared directory {0} is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório compartilhado {0} é somente leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot install into the directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível instalar no diretório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No install directotory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem diretório de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No shared directories found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum diretório de instalação foi encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read NBM {0} because {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível ler o NBM {0} por cause de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aj&amp;uda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of Update Centers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista das centrais de atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of Update Centers allowing to activate or decativate selected Update Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista das centrais de atualizações a qual permite ativar ou desativar a Central de atualização selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin's details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detalhes do plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Panel contain name, version and description of selected plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O painel contém o nome, versão e descrição do plugin selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invoke {0} action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Invocar a ação {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detalhes do plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar por plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch between updates, available, installed and downloaded plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar entre atualizações de plugins disponíveis, instalados e baixados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin Manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciador de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin Manager for updating, installing and removing plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciador de plugins para atualização, instalação e remoção de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Center Customizer for editing update center name and URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizador para edição do nome e URL da central de atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The UI allows to browse the installation and contents of registered Update Centers, to download updates or new modules and to automatically install modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A UI permite exibir o conteúdo da instalação e das centrais de atualização registradas, possibilitando o download de atualizações e novos módulos e ainda a sua instalação automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Update UI</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>UI de atualização automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplies UI of Auto Update Services</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece UI para serviços de atualização automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking for updates...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificando atualizações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} updates found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} atualizações encontradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click here to make your application up-to-date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique aqui para atualizar seu aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} update found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} atualização encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the Plugin Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bem-vindo ao instalador de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer will download, verify and then install the selected plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador irá baixar, verificar e então instalar os plugins selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins will be installed:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins serão instalados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins will be updated:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins serão atualizados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing required modules for Plugin {0}:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faltando módulos obrigatórios para o plugin {0}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required modules for plugin {0} to complete activation:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulos requeridos para completar a ativação do plugin {0}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected plugins will be uninstalled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os plugins selecionados serão desinstalados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected plugins will be removed from the disk.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os plugins selecionados serão removidos do disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins will be uninstalled:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins serão desinstalados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected plugins will be activated.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os plugins selecionados serão ativados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins will be activated:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins serão ativados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected plugins will be deactivated.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os plugins selecionados serão desativados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins will be deactivated:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins serão desativados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait a while ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde um momento ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins will also be installed because one or more of the plugins you are about to install depend on them:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins serão também instalados pois um ou mais plugins a serem instalados dependem destes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins need to be deactivated because they require one or more of the plugins you are about to deactivate:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins serão desativados pois estes dependem de um ou mais plugins prestes a serem desativados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to continue with the installation, you need to agree with all of the license agreements associated with the particular plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para continuar com a instalação, é necessário concordar com todas as licenças associadas a cada plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I &amp;accept the terms in all of the license agreements.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Eu &amp;aceito os termos no contrato de todas as licenças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I &amp;do not accept the terms in all of the license agreements.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Eu não aceito os termos no contrato de to&amp;das as licenças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} License Agreement</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contrato de licença para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Agreement</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contrato de licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please read all of the following license agreements carefully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor ler com cuidado todos os contratos de licença a seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait until the installer downloads the requested plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor aguardar até que o instalador complete o download de todos os plugins necessários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Validar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait until the installer validates the downloaded plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor aguardar até que o instalador valide todos os plugins baixados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait until the installer completes the installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor aguardar até que o instalador complete a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation completed successfully</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação finalizada com sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Finish to quit the installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Finalizar para sair do instalador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart application to complete installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicializar o aplicativo para completar a instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart application to finish plugin installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicializar o aplicativo para completar a instalação do plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart application to complete deactivation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicializar o aplicativo para completar a desativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart application to finish plugin deactivation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicializar o aplicativo para completar a desativação do plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Restart Now</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Reinicializar agora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart &amp;Later</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicia&amp;lizar depois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Finalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Uninstall</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desi&amp;nstalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Plugin Installer has successfully installed the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador de plugins finalizou com sucesso a instalação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Plugin Installer has successfully uninstalled the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador de plugins finalizou com sucesso a desinstalação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Plugin Installer has successfully activated the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador de plugins finalizou com sucesso a ativação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Plugin Installer has successfully deactivated the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador de plugins finalizou com sucesso a desativação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstallation failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na desinstalação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activation failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na ativação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivation failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na desativação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstallation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait until the installer uninstalls all the selected plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor aguardar até que o instalador complete a desinstalação de todos os plugins selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait until the installer finishes deactivating all the selected plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor aguardar até que o instalador complete a desativação de todos os plugins selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait until the installer finishes activating all the selected plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor aguardar até que o instalador complete a ativação de todos os plugins selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstallation completed successfully</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalação finalizada com sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Finish to quit the plugin installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Finalizar para sair do instalador de plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivation completed successfully</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desativação finalizada com sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activation completed successfully</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativação finalizada com sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstallation failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na desinstalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivation failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na desativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activation failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na ativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalling plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalando plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activating plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ativando plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivating plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desativando plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show certificate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xibir certificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validation Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso de validação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Continue</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validation failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na validação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins are not signed:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins não estão assinados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following plugins are not trusted:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes plugins não são confiáveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Installing untrusted plugins is potentially insecure.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: Instalar plugins não confiáveis é potencialmente inseguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use unsigned or untrusted plugins at your own risk.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilize plugins não confiáveis por sua própria conta e risco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} plugins use own installer:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} plugins utilizam instalador próprio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading plugins...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Baixando plugins...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validating plugins...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Validando plugins...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing plugins...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando plugins...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is waiting for restart your application.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} está aguardando a reinicialização do aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;More further plugins could not be installed due to avobe problems.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;br&gt;Mais alguns plugins não puderam ser instalados, para evitar problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait until the installer finishes uninstalling the selected plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor aguardar até que o instalador complete a desinstalação dos plugins selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Next to continue installing the remaining selected plugins using the plugin installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Próximo para continuar com a instalação dos plugins remanescentes utilizando o instalador de plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Next to continue uninstalling the remaining selected plugins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Próximo para continuar com a desinstalação dos plugins remanescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Cancel to quit the plugin installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Cancelar para sair do instalador de plugins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha na instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing plugins using the plugin's installer...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando plugins utilizando o instalador do próprio plugin...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalling plugins using the plugin's installer...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalando plugins utilizando o instalador do próprio plugin...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Plugin Installer has successfully finished the installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador de plugins finalizou com sucesso a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation of {0} failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A instalação de {0} falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Plugin Installer has successfully finished the uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador de plugins finalizou com sucesso a desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstallation of {0} failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A desinstalação de {0} falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Networking problem in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Problemas de rede em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Establishing a connection ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estabelecendo conexão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking for updates in {0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificando atualizações em {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read NBM {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível ler o NBM {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;black&quot;&gt;&lt;b&gt;Module installed:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;black&quot;&gt;&lt;b&gt;Módulo instalado:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;black&quot;&gt;&lt;b&gt;Modules installed:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;black&quot;&gt;&lt;b&gt;Módulos instalados:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;gray&quot;&gt;&lt;b&gt;Module not yet installed:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;gray&quot;&gt;&lt;b&gt;Módulo ainda não instalado:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;gray&quot;&gt;&lt;b&gt;Modules not yet installed:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;gray&quot;&gt;&lt;b&gt;Módulos ainda não instalados:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;green&quot;&gt;&lt;b&gt;New module offered by the plugin:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;green&quot;&gt;&lt;b&gt;Novo módulo disponibilizado pelo plugin:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;green&quot;&gt;&lt;b&gt;New modules offered by the plugin:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;p&gt;&lt;font size=&quot;-1&quot; color=&quot;green&quot;&gt;&lt;b&gt;Novos módulos disponibilizados pelo plugin:&lt;/b&gt; &lt;br/&gt; {0}&lt;/font&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The AutoUpdate feature provides several services: download and install available updates of installed modules, search and install new modules from subscribed Update Centers, view and manage the modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O recurso de atualização automática fornece diversos serviços: baixar e instalar as atualizações disponíveis para os módulos já instalados, pesquisar e instalar novos módulos a partir das centrais de instalação disponíveis, bem como visualizar e gerenciar os módulos já instalados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Update Services</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Serviços de atualização automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for searching for module updates on Update Center and for downloading and installing modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte à pesquisa por atualização de módulos em centrais de atualização e também baixar e instalar os módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Update Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Central de atualização padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing to Unpack</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando para desempacotar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpacking File:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desempacotando arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalling files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalando arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deactivating files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desativando arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update is in progress.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualização em andamento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updater</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizador</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

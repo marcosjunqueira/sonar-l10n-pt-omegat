@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lucene Integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração do Lucene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundles Apache Lucene (a Search Engine).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes Apache Lucene (um mecanismo de pesquisa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module bundles Apache Lucene (a Search Engine).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo empacota o Apache Lucene (um mecanismo de pesquisa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commons Logging Integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração da Commons Logging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module bundles Apache Commons Logging.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo empacota a Apache Commons Loggin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module bundles Apache Commons Logging version 1.0.4 from http://jakarta.apache.org/commons/logging/.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo empacota a Apache Commons Logging versão 1.0.4. http://jakarta.apache.org/commons/logging/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swing Layout Extensions integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração de extensões de Swing Layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundles swing-layout library.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes da biblioteca swing-layout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module bundles Swing Layout Extensions library (from swing-layout.dev.java.net).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo empacota a biblioteca de extensões Swing Layout (de swing-layout.dev.java.net).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apache Resolver Library 1.2</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca Apache Resolver 1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apache Resolver library for development time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca Apache Resolver para tempo de desenvolvimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains Apache Resolver library 1.2</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém a biblioteca Apache Resolver 1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xerces Integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração do Xerces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundles Apache Xerces (an XML parser).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes Apache Xerces (um analisador XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module bundles Apache Xerces (an XML parser), a JAXP implementation with additional special features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo empacota  o Apache Xerces (um analisador XML), uma implementação JAXP com uma característica adicional especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freemarker Integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração do Freemarker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module bundles Freemarker.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo empacota o Freemarker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module bundles FreeMarker http://freemarker.sf.net and integratesit into NetBeans.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo empacota e integra o FreeMarker ao NetBeans. http://freemarker.sf.net.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scripting API Integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração da API Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module bundles the Scripting APIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo empacota as APIs Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module bundles the scripting APIs (javax.script package)produced by OpenJDK project,so other modules, running on Java5, can still make use of them.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo empacota as APIs Scripting (javax.script package), produzida no projeto OpenJDK, então outros móludos, executando sobre o Java5, ainda podem fazer uso delas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Secure Channel integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração do canal de segurança Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundles JSch (SSH implementation).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes JSch (implementação de SSH).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module bundles Java Secure Channel (an SSH implementation).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo empacota o canal de segurança Java (uma implementação de SSH).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

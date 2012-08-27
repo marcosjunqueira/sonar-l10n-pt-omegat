@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.sh files Editor Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte ao editor de arquivos .sh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Languages Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte à linguagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for editing .sh files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para edição de arquivos .sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sh File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo sh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyword</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavra-chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identifier</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unexpected character.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caractere inesperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.bat Files Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de arquivos .bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for .bat files editing.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para edição de arquivos .bat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bat File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bat Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates empty JavaScript file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria arquivo JavaScript vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit the file in the IDE's Source Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo pode ser editado no editor de código-fonte do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And you can run it using the editor context menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E executá-lo usando o menu de contexto do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change this template, choose Tools | Template Manager and open the template in the editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para mudar esse modelo, escolha Ferramentas | Gerenciador de modelos e abra o modelo no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates empty JSON file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria arquivo JSON vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JSON (JavaScript Object Notation) is a lightweight data-interchange format, subset of JavaScript.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>JSON (Notação de Objeto JavaScript) é um formato leve de intercâmbio de dados, subconjunto do JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is easy for humans to read and write, and widely used with Ajax applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>De fácil interpretação e edição por humanos, e amplamente utilizado em aplicativos Ajax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaScript Editor Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte ao editor de JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for editing JavaScript files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para edição de arquivos JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaScript Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaScript File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JSON File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Current Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir método atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Methods</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Methods</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Arrays</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir arrays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Arrays</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar arrays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syntax error.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro de sintaxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaScript Strings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Strings JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused Parameter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não usar parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variável local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused Local Variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não usar variável local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não usar método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular Expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expressão regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Separador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>String Escape Sequence</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seqüência string de escape</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versioning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support module for Versioning systems.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo de suporte para Sistemas de versionamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vers&amp;ioning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vers&amp;ionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Versioning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Versionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Versioning Labels</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir rótulos do &amp;versionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working Copy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cópia de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Previous Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para diferença anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Next Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para próxima diferença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Diff Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir janela de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Added Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir texto adicionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace With Original Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir pelo texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Original Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Restaurar texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Diff Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir barra lateral &amp;de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1#{0} line added|2#{0} lines added</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1#{0} linha adicionada|2#{0} linhas adicionadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1#{0} line changed|2#{0} lines changed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1#{0} linha alteradas|2#{0} linhas alteradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1#{0} line deleted|2#{0} lines deleted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1#{0} linha excluída|2#{0} linhas excluídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versioning Support Utilities</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilitários de suporte à versionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>prompt</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a message from list of messages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar uma mensagem a partir da lista de mensagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recent Commit Messages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagens de submissões recentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Versioning Output</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Saída do &amp;versionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versioning Output</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Saída do versionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versioning Output - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Saída do versionamento - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versi&amp;oning Systems:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistemas de versi&amp;onamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of all supported versioning systems</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de todos os sistemas de versionamento suportados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides functionality for viewing and keeping track of local changes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece funcionalidades para visualização e manutenção das alterações locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stores files that were created, modified or deleted in the IDE and enables recovery of recently stored data.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Armazena os arquivos criados, modificados ou excluídos no IDE, e possibilita ainda recuperar os dados armazenados recentemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Histórico local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implemets Local History for the IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Implementa um histórico local para o IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Local History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Histórico &amp;local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert the changes made since</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reverter as alterações realizadas desde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(YYYY-MM-DD hh:mm)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(DD-MM-YYYY hh:mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Revert to...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Reverter para...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert to...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reverter para...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reverter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert &amp;Deleted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rever&amp;ter exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Local History Versions Label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulos do histórico local de versões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Local History Version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão do histórico local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Deleted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo excluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the Label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir rótulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Local History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir histórico local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a LocalHistory window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é a janela do histórico local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Today</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hoje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yesterday</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ontem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 days ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>2 dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 days ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>3 dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 days ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>4 dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5 days ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>5 dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 days ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>6 dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Older than 6 days ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mais antigo que 6 dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Diff - Illegal selection&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Diff - Seleção ilegal&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Diff - No Version Selected&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Diff - Nenhuma versão selecionada&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Local &amp;History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir histórico local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete from History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert from History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reverter a partir do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} [Local History]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} [Histórico local]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Previous Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para diferença anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Next Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para próxima diferença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Folder History for</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir pasta de histórico para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(yyyy-MM-dd HH:mm)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(dd-MM-yyyy HH:mm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local History Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções do histórico local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Keep Local History Files for</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Manter o &amp;histórico local para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep Local History Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Manter o histórico local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies for how many days will be old versions kept in the history</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especificar por quantos dias as versões antigas serão mantidas no histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dias</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

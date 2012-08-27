@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge Visualizers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar visualizadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphical Merge Conflicts Resolver</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resolvedor de conflitos de mesclagem gráfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of Text of Unresolved Conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do texto de conflito não resolvido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The background color of text of unresolved conflict.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A cor de plano de fundo do texto de conflito não resolvido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of Text Applied To Resolve Conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do texto aplicado para resolver conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The background color of text applied to resolve the conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor de plano de fundo do texto aplicado para resolver o conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of Text Not Applied To Resolve Conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do texto não aplicado à resolução de conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The background color of text not applied to resolve the conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A cor de plano de fundo do texto que não se aplica na resolução do conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge Conflicts Resolver</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar resolvedor de conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conflict Resolver Component</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente resolvedor de conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphical resolver of merge conflicts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resolvedor gráfico de conflitos de mesclagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files With Conflicts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos com conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tabs of files with conflicts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abas de arquivos com conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Next Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxima difere&amp;nça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Previous Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diferença &amp;anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conflict: {0} of {1}, Unresolved: {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conflito: {0} de {1}, Não resolvido(s): {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The First File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O primeiro arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The content of the first file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O conteúdo do primeiro arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Second File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O segundo arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The content of the second file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O conteúdo do segundo arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Result of Merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O resultado da mesclagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The content of the result of the merge and resolved conflicts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O conteúdo do resultado dos conflitos resolvidos e de mesclagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Accept</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Aceitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acc&amp;ept &amp; Next</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ac&amp;eitar &amp; próximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accep&amp;t</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acei&amp;tar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept &amp; Ne&amp;xt</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aceitar &amp; pró&amp;ximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept the left option.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aceitar a opção da esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept the left option and go to the next conflict.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aceitar a opção da esquerda e ir para o próximo conflito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept the right option.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aceitar a opção da direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept the right option and go to the next conflict.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aceitar a opção da direita e ir para o próximo conflito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} está modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save it?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar arquivo? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} files are modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} arquivos estão modificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save them?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar arquivos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to save the merge result: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao salvar os resultados da mesclagem:  {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept changes and close dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aceitar alterações e fechar caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel changes and close dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar alterações e fechar caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aj&amp;uda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show help for this dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir ajuda para esta caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is modified, save it?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} está modificado, salvar arquivo? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not all conflicts in all files have been resolved.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nem todos os conflitos em todos os arquivos foram resolvidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} files are modified, save them?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} arquivos estão modificados, salvar arquivos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conflicts are not resolved.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conflitos não estão esolvidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close vizualizer anyway?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar visualizador assim mesmo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides the diff action to view file differences.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece a ação de comparação para visualizar diferenças em arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Diff module provides an action, that is enabled when two files are selected in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de Comparação fornece uma ação, a qual é ativada quando dois arquivos são selecionados no IDE. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is based on an external diff utility, that is executed to obtain the differences, which are then shown to the user graphically.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Isto é baseado num utilitário de comparação externo que é executado para obter as diferenças que serão exibidas graficamente para o usuário. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff Services</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Serviços de Comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff Engines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismos de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff Visualizers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizadores de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff and Merge Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de Comparação e de Mesclagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Di&amp;ff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Co&amp;mparar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diffing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appl&amp;y Diff Patch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apl&amp;icar correção de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parsing of the patch file failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Análise do arquivo de correção falhou: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select The Diff Patch For {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o arquivo de correção de comparação para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select The Diff Patch For Files In {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o arquivo de correção de comparação para os arquivos em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Correção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the diff patch file to apply.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o arquivo de correção de comparação à ser aplicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No differences found in file {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma diferença encontrada no arquivo {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application of the patch to ''{1}'' failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicação do arquivo de correção para &quot;{1}&quot; falhou: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patch application failed, it's not possible to write to {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A aplicação do arquivo de correção falhou, não é possível escrever em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following files are to be patched, but not found: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo de correção deveria ser aplicado nos seguintes arquivos, mas não foram encontrados: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The patch cannot be applied in the selected context.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo de correção não pode ser aplicado no contexto selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was originally generated relative to &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Isto foi originalmente gerado relativo a &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patch applied successfully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de correção aplicado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View applied changes?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar alterações aplicadas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(patched binary files will not be displayed)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(Arquivos binários com arquivo de correção aplicado não seram exibidos.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patch applied partially.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de correção aplicado parcialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following backup copies cannot be removed after successful application of a patch:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estas cópias de backup não poderão ser removidas após a completa aplicação do arquivo de correção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Reason(s):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} motivo(s):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No differences were found between {0} and {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma diferença foi encontrada entre {0} e {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff failed for {0} and {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A comparação falhou para {0} e {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Diff Visualizer is registered in the system.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum visualizador de comparação está registrado no sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Diff Engine is registered in the system.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum mecanismo de comparação está registrado no sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog allows you to choose patch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta caixa de diálogo permite você escolher o arquivo de correção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patch Files (*.diff, *.patch)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de correção (*.diff, *.patch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command-line Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha de comando de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An external diff engine that produces a list of differences in a format compatible with the UNIX diff command.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um mecanismo externo de comparação que produz uma lista de diferenças em um formato compatível com o comando diff do UNIX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The diff command ''{0}'' failed to execute in the system.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O comando de comparação ''{0}'' falhou ao executar no sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Diff Command</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O comando de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The command executed by the external diff engine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O comando executado pelo mecanismo de comparação externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Built-in Diff Service</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Serviço de comparação embutido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No differences were found between ''{0}'' and ''{1}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma diferença foi encontrada entre  ''{0}'' e ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no diff engines registered in the system</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não existem mecanismos de comparação registrados no sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no diff visualizers registered in the system</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não existem visualizadores de comparação registrados no sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Engine:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mecanismo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Visualizer:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Visualizador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computing differences:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Computando diferenças:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computing Differences...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Computando diferenças...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engine Property Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de propriedades do mecanismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose diff engine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha o mecanismo de comparação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visualizer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visualizer Property Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de propriedades do visualizador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose diff visualizer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha o visualizador de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff Component</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Differences between source files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diferenças entre arquivos de códigos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Diff Service Selector</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir seletor de serviço de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show panel with engine and visualizer selectors.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir painel com seletores de mecanismos e visualizadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxima diferença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diferença anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;-&gt; {1} [Diff]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;-&gt; {1} [Comparação]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff panel.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de comparação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphical Diff Viewer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador gráfico de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphical color viewer of differences between two sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador gráfico colorido das diferenças entre dois códigos-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Numbers Component</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente para número de linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component for displaying line numbers and annotations.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente para exibir o número das linhas e anotações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of Added Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do texto adicionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The background color of added text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do plano de fundo do texto adicionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of Removed Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do texto removido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The background color of removed text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A cor do plano de fundo do texto removido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of Changed Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do texto alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The background color of changed text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A cor do plano de fundo do texto alterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modo do contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number Of Context Lines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número das linhas do contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Textual Diff Viewer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador textual de comparaçào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Differences between two sources in plain text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diferenças entre dois códigos-fontes em texto simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modern Diff Viewer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador moderno de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays Diff of two files in a compact form</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir comparação de dois arquivos de uma forma compacta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no title&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem título&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Content Not Available&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Conteúdo não disponível&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Binary File&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Arquivo binário&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Built-in Diff Engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de comparação embutido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default built-in diff engine that computes differences between two sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de comparação embutido padrão que verifca as diferenças entre dois códigos-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignore Whitespaces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ignorar espaços em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If true then starting and trailing line whitespaces are ignored.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caso selecionado os espaços em branco no início e no final serão ignorados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Internal Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparação &amp;interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;External Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparação &amp;externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ig&amp;nore Whitespaces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ig&amp;norar Espaços em Branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Command:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphical Diff Viewer:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador gráfico de comparação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you choose a Diff executable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite você escolher um executável de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse For Diff Executable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por executável de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External diff command you have entered seems to be invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O comando de comparaçào externa que você digitou parece estar inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff functionality may be limited.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Funcionalidade de comparação pode ser limitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Comparar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foreground Chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor de primeiro plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor de segundo plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ca&amp;tegory:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ca&amp;tegoria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fo&amp;reground:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primei&amp;ro Plano:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Background:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Segundo &amp;plano:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Azul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyan</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Azul-claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza escuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magenta</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Violeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orange</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Laranja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pink</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vermelho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellow</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Amarelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Highlighting:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rea&amp;lce:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

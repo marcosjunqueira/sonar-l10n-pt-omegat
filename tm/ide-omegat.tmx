@@ -1,0 +1,2782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Centers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Centrais de atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's module which contains the declaration of NetBeans update centers for Autoupdate module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este é o módulo que contém a declaração das centrais de atualização do NetBeans para o módulo de atualizações automáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declares NetBeans autoupdate centers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declara as centrais de atualização do NetNeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Autoupdate Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de atualizações automáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3rd Party Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins de terceiros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin Portal</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Protal de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE Branding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branding do NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides NetBeans IDE specific branding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece o branding específico para o NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides branding files that modify the general NetBeans platform and other modules texts and icons to suit better to the NetBeans IDE style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Provê arquivos de marca própria que modificam a plataforma NetBeans e novos textos de módulos e ícones que se adequam melhor ao estilo do NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A {0} exception has occurred.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma exceção {0} ocorreu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please report this at http://www.netbeans.org/community/issues.html,
+including a copy of your messages.log file as an attachment.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, relate isto em http://www.netbeans.org/community/issues.html, incluindo uma cópia do seu arquivo messages.log como anexo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The messages.log file is located in your {1} folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo messages.log está localizado na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciando o NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Base IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content and branding for the specific release of NetBeans, including welcome screen, branding, definition of update centers, exception reporter, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conteúdo e branding para lançamentos específicos do NetBeans, incluindo a tela de boas-vindas, branding, a definição de centrais de atualizações, notificador de exceção, etc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE content and branding.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans IDE conteúdo e branding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Certified Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins certificados do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Beta Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins Beta do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Community Contributed Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plugins contribuídos pela comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE restart needed to complete installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É necessário reinicializar o IDE para completar a instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE restart needed to complete deactivation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É necessário reinicializar o IDE para completar a desativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} operation will require restart of the IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A operação {0} exigirá o reinício do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your IDE is up-to-date!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seu IDE está atualizado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalador do NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} updates found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} atualizações encontradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click here to make your IDE up-to-date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique aqui para atualizar seu IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} update found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} atualização encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the NetBeans IDE Plugin Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bem-vindo ao instalador de plugins do NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Finish to quit the NetBeans IDE installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Finalizar para sair do instalador do NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart NetBeans IDE to complete installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicialize o NetBeans IDE para completar a instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart NetBeans IDE to finish plugin installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicialize o NetBeans IDE para completar a instalação do plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart NetBeans IDE to complete deactivation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicialize o NetBeans IDE para completar a desativação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart NetBeans IDE to finish plugin deactivation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicialize o NetBeans IDE para completar a desativação do plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Restart IDE Now</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Reinicializar o IDE agora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart IDE &amp;Later</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reinicia&amp;lizar o IDE agora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans IDE Installer has successfully installed the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador do NetBeans IDE finalizou com sucesso a instalação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans IDE Installer has successfully uninstalled the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador do NetBeans IDE finalizou com sucesso a desinstalação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans IDE Installer has successfully activated the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador do NetBeans IDE finalizou com sucesso a ativação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans IDE Installer has successfully deactivated the following plugins:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador do NetBeans IDE finalizou com sucesso a desativação dos seguintes plugins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Next to continue installing the remaining selected plugins using the NetBeans IDE installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Próximo para continuar com a instalação dos plugins remanescentes utilizando o instalador do NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Cancel to quit the NetBeans IDE installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Cancelar para sair do instalador do NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans IDE Installer has successfully finished the installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador do NetBeans IDE finalizou com sucesso a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans IDE Installer has successfully finished the uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador do NetBeans IDE finalizou com sucesso a desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is waiting for restart IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} está esperando pela reinicialização do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE - README</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans IDE - LEIA-ME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>README</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>LEIA-ME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE is an integrated development environment (IDE) for writing, compiling, testing, and debugging desktop applications and web applications for the Java&lt;s0&gt;TM&lt;/s0&gt; platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O NetBeans IDE é um ambiente de desenvolvimento integrado (IDE) para escrever, compilar, testar e depurar aplicações desktop e aplicações web usando a plataforma Java&lt;s0&gt;TM&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE includes a full-featured text editor with syntax highlighting and error checking, visual design tools, Ant support, version control system support, and many other features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O NetBeans IDE inclui um editor de texto cheio de caracteristicas como sintaxe highlighting e verificação de erros, ferramentas de design visual, suporte ao Ant, suporte a sistemas de controle de versões, e muitos outros recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start the IDE (Microsoft Windows) use one of these methods:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para iniciar o IDE (Microsoft Windows) use um destes métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the NetBeans IDE icon on your desktop.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Duplo clique no ícone do NetBeans IDE em sua área de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Start &gt; All Programs &gt; NetBeans 6.0 &gt; NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha Iniciar &gt; Todos os programas &gt; NetBeans 6.0 &gt; NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start the IDE at the command line &lt;c0&gt;C:\&gt; &lt;/c0&gt;&lt;i1&gt;&lt;v2&gt;netbeans-install-directory&lt;/v2&gt;&lt;/i1&gt;&lt;c3&gt;\bin\netbeans.exe&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciar o IDE em linha de comando &lt;c0&gt;C:\&gt; &lt;/c0&gt;&lt;i1&gt;&lt;v2&gt;netbeans-install-directory&lt;/v2&gt;&lt;/i1&gt;&lt;c3&gt;\bin\netbeans.exe&lt;/c3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start the IDE (Solaris OS or Linux):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para iniciar o IDE (Solaris OS ou Linux):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type at the command prompt: &lt;i0&gt; &lt;c1&gt;/&lt;/c1&gt;netbeans-install-directory&lt;/i0&gt;&lt;c2&gt;/bin/netbeans&lt;/c2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Digite no prompt de comando &lt;i0&gt; &lt;c1&gt;/&lt;/c1&gt;netbeans-install-directory&lt;/i0&gt;&lt;c2&gt;/bin/netbeans&lt;/c2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To stop the IDE:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para parar o IDE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the IDE, choose File &gt; Exit.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A partir do IDE, escolha Arquivo &gt; Sair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To uninstall the IDE (Microsoft Windows)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para desistalar o IDE (Microsoft Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Add/Remove Programs utility.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use o utilitário Adicionar ou remover programas no Painel de controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not manually delete the directories and files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não exclua manualmente os diretórios e arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To uninstall the IDE (Solaris OS or Linux)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para desistalar o IDE (Solaris OS ou Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the provided uninstaller found at &lt;c0&gt;/&lt;/c0&gt;&lt;v1&gt;netbeans-install-directory&lt;/v1&gt;&lt;c2&gt;/_uninst&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use o desistalador fornecido que pode ser encontrado em &lt;c0&gt;/&lt;/c0&gt;&lt;v1&gt;netbeans-install-directory&lt;/v1&gt;&lt;c2&gt;/_uninst&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding Documentation for NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrando documentações para o NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release information on NetBeans IDE 6.0 can be found at at &lt;a0&gt;http://www.netbeans.org/community/releases/60/index.html&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informações sobre os lançamentos do NetBeans IDE 6.0 podem ser encontradas em &lt;a0&gt;http://www.netbeans.org/community/releases/60/index.html&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The index of IDE documentation can be found at &lt;a0&gt;http://www.netbeans.org/kb/index.html&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O índice da documentação do IDE pode ser encontrado em &lt;a0&gt;http://www.netbeans.org/kb/index.html&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document also provides links to further documentation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este documento também fornece links para mais documentações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help documentation is available within the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A documentação de ajuda está disponível dentro do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the main menu, choose Help &gt; Help Contents.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A partir do menu, escolha Ajuda &gt; Conteúdo da ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Help menu also provides links to other useful documents.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O menu Ajuda também fornece links para outros documentos úteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE user directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório do usuário do NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A default user directory is created the first time you start the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um diretório de usuário padrão é criado na primeira vez em que o IDE é iniciado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is used to store your user settings, options and runtime data for personal development servers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É usado para armazenar suas configurações de usuário, opções e dados de tempo de execução para os servidores pessoais de desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Microsoft Windows systems, this directory is found at &lt;c0&gt;\Documents and Settings\&lt;/c0&gt;&lt;i1&gt;user-id&lt;/i1&gt;&lt;c2&gt;\.netbeans\&lt;/c2&gt;&lt;i3&gt;version&lt;/i3&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nos sistemas Microsoft Windows, este diretório é encontrado em &lt;c0&gt;\Documents and Settings\&lt;/c0&gt;&lt;i1&gt;user-id&lt;/i1&gt;&lt;c2&gt;\.netbeans\&lt;/c2&gt;&lt;i3&gt;version&lt;/i3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Solaris and Linux, this directory is found at /&lt;i4&gt;&lt;v5&gt;$HOME&lt;/v5&gt;&lt;/i4&gt;&lt;c6&gt;/netbeans_user&lt;/c6&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No Solaris e no Linux, este diretório é encontrado em /&lt;i4&gt;&lt;v5&gt;$HOME&lt;/v5&gt;&lt;/i4&gt;&lt;c6&gt;/netbeans_user&lt;/c6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans: Credits</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans: Créditos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans Open Source project cannot exist without contributions from the community.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O projeto projeto Open Source NetBeans não poderia existir sem as contribuições da comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special credit is given to</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Créditos especiais são concedidos a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for releasing the source code to the NetBeans IDE to the public and paying the salaries of many people involved in this project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>por liberar o código-fonte do NetBeans IDE ao público e pagar o salário de muitas pessoas envolvidas neste projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional credit is given to the following people who contributed to this project (in alphabetical order and independent of the amount of their contributions):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Crédito adicional é dado às seguintes pessoas que contribuíram para este projeto (em ordem alfabética e independente da quantidade de suas contribuições):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Christina Ahrens &lt;i0&gt;(cahrens at the host mathworks dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Christina Ahrens &lt;i0&gt;(cahrens@mathworks.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Asgeir Orn Asgeirsson &lt;i0&gt;(asgeir at the host dimonsoftware dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Asgeir Orn Asgeirsson &lt;i0&gt;(asgeir@dimonsoftware.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Christopher Atlan &lt;i0&gt;(lordy at the host restoroot dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Christopher Atlan &lt;i0&gt;(lordy@restoroot.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carel Bast &lt;i0&gt;(Carel.Bast at the host nl dot compuware dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carel Bast &lt;i0&gt;(Carel.Bast@nl.compuware.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steve Benigan &lt;i0&gt;(benigan_steve at the host hotmail dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Steve Benigan &lt;i0&gt;(benigan_steve@hotmail.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chris Bishop &lt;i0&gt;(kit at the host bishop dot net dot nz)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chris Bishop &lt;i0&gt;(kit@bishop.net.nz)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Michael Bishop &lt;i0&gt;(mikebish at the host ecsi dot com dot au)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Michael Bishop &lt;i0&gt;(mikebish@ecsi.com.au)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mauro Botelho &lt;i0&gt;(mbotelho at the host ccsc dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mauro Botelho &lt;i0&gt;(mbotelho@ccsc.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vincent Brabant &lt;i0&gt;(vincent.brabant at the host skynet dot be)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vincent Brabant &lt;i0&gt;(vincent.brabant@skynet.be)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jeff Cantin &lt;i0&gt;(jdcantin at the host netbeans dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jeff Cantin &lt;i0&gt;(jdcantin@netbeans.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriele Carcassi &lt;i0&gt;(carcassi at the host netbeans dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gabriele Carcassi &lt;i0&gt;(carcassi@netbeans.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Benoit Cerrina &lt;i0&gt;(benoit.cerrina at the host writeme dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Benoit Cerrina &lt;i0&gt;(benoit.cerrina@writeme.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edwards &lt;i0&gt;(angjh at the host execpc dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Edwards &lt;i0&gt;(angjh@execpc.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nick Fortescue &lt;i0&gt;(nfortescue at the host netbeans dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nick Fortescue &lt;i0&gt;(nfortescue@netbeans.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fujimoto &lt;i0&gt;(fuji at the host bestnewspaper dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fujimoto &lt;i0&gt;(fuji@bestnewspaper.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carl L Gilbert &lt;i0&gt;(lamont_gilbert at the host rigidsoftware dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carl L Gilbert &lt;i0&gt;(lamont_gilbert@rigidsoftware.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kees van Ginkel &lt;i0&gt;(kees_van_ginkel at the host nl dot compuware dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Kees van Ginkel &lt;i0&gt;(kees_van_ginkel@nl.compuware.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Andrej Golovnin &lt;i0&gt;(golovnin at the host gmx dot net)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Andrej Golovnin &lt;i0&gt;(golovnin@gmx.net)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robert Greig &lt;i0&gt;(user at the host rgreig dot freeserve dot co dot uk)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Robert Greig &lt;i0&gt;(user@rgreig.freeserve.co.uk)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gunnar Grim &lt;i0&gt;(gugrim at the host netbeans dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gunnar Grim &lt;i0&gt;(gugrim@netbeans.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eric Hartmann &lt;i0&gt;(ehartmann at the host netbeans dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Eric Hartmann &lt;i0&gt;(ehartmann@netbeans.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Niclas Hedhman &lt;i0&gt;(niclas at the host ewarna dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Niclas Hedhman &lt;i0&gt;(niclas@ewarna.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leon Chiver &lt;i0&gt;(leon at the host level7 dot ro)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Leon Chiver &lt;i0&gt;(leon@level7.ro)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jonathan Keller &lt;i0&gt;(jhkeller at the host ucdavis dot edu)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jonathan Keller &lt;i0&gt;(jhkeller@ucdavis.edu)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Miloš Kleint &lt;i0&gt;(milos at the host ewarna dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Miloš Kleint &lt;i0&gt;(milos@ewarna.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jeff Keyser &lt;i0&gt;(JKeyser at the host telocity dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jeff Keyser &lt;i0&gt;(JKeyser@telocity.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arjan Kok &lt;i0&gt;(arjan_kok at the host nl dot compuware dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arjan Kok &lt;i0&gt;(arjan_kok@nl.compuware.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holger Krug &lt;i0&gt;(hkrug at the host netbeans dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Holger Krug &lt;i0&gt;(hkrug@netbeans.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jan Labrie &lt;i0&gt;(Jan_Labrie at the host nl dot compuware dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jan Labrie &lt;i0&gt;(Jan_Labrie@nl.compuware.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ross Lamont &lt;i0&gt;(rlamont at the host componentcorp dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ross Lamont &lt;i0&gt;(rlamont@componentcorp.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max Lobel &lt;i0&gt;(axobel at the host yahoo dot co dot jp)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Max Lobel &lt;i0&gt;(axobel@yahoo.co.jp)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jun Luo &lt;i0&gt;(junluo at the host nuance dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jun Luo &lt;i0&gt;(junluo@nuance.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roger Martin &lt;i0&gt;(neuralworks at the host home dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Roger Martin &lt;i0&gt;(neuralworks@home.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maxym Mykhalchuk &lt;i0&gt;(gandalf at the host prtech dot dp dot ua)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Maxym Mykhalchuk &lt;i0&gt;(gandalf@prtech.dp.ua)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Derrick Oswald &lt;i0&gt;(DerrickOswald at the host home dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Derrick Oswald &lt;i0&gt;(DerrickOswald@home.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>John Richardson &lt;i0&gt;(jrichard at the host zealand dot mv dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>John Richardson &lt;i0&gt;(jrichard@zealand.mv.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gerrit Riessen &lt;i0&gt;(Gerrit.Riessen at the host web dot de)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerrit Riessen &lt;i0&gt;(Gerrit.Riessen@web.de)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Michael Ruflin &lt;i0&gt;(mruflin at the host gmx dot de)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Michael Ruflin &lt;i0&gt;(mruflin@gmx.de)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wiebe Ruiter &lt;i0&gt;(weeb at the host weeb dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Wiebe Ruiter &lt;i0&gt;(weeb@weeb.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kai Rudiger Schobbert &lt;i0&gt;(KRS at the host logas dot de)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Kai Rudiger Schobbert &lt;i0&gt;(KRS@logas.de)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thomas Singer &lt;i0&gt;(thomas.singer at the host regnis dot de)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Thomas Singer &lt;i0&gt;(thomas.singer@regnis.de)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evan &quot;Hippy&quot; Slatis &lt;i0&gt;(Evan.Slatis at the host nl dot compuware dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Evan &quot;Hippy&quot; Slatis &lt;i0&gt;(Evan.Slatis@nl.compuware.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Christian Stein &lt;i0&gt;(stein at the host caladon dot de)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Christian Stein &lt;i0&gt;(stein@caladon.de)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ted Stockwell &lt;i0&gt;(ted.stockwell at the host acxiom dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ted Stockwell &lt;i0&gt;(ted.stockwell@acxiom.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>David Štrupl &lt;i0&gt;(david at the host solutions dot cz)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>David Štrupl &lt;i0&gt;(david@solutions.cz)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lukas Tadial &lt;i0&gt;(lukas.tadial at the host email dot cz)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lukas Tadial &lt;i0&gt;(lukas.tadial@email.cz)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alan Tai &lt;i0&gt;(Alan.Tai at the host chase dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alan Tai &lt;i0&gt;(Alan.Tai@chase.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gili Tzabari &lt;i0&gt;(l8r at the host email dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gili Tzabari &lt;i0&gt;(l8r@email.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rich Unger &lt;i0&gt;(runger at the host nuance dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rich Unger &lt;i0&gt;(runger@nuance.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vladimir Strigun &lt;i0&gt;(sva at the host netbeans dot org)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vladimir Strigun &lt;i0&gt;(sva@netbeans.org)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compaq Computer Corporation (several individuals) &lt;i0&gt;(NetBeans at the host compaq dot com)&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compaq Computer Corporation (vários indivíduos) &lt;i0&gt;(NetBeans@compaq.com)&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are not listed here but feel you should be, please &lt;a0&gt;let us know&lt;/a0&gt; and please give details of your contribution: for example, references to mailing list archives, Issuezilla, CVS commits, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se você não estiver listado aqui, mas sente que deveria ser, por favor, &lt;a0&gt;avise-nos&lt;/a0&gt; e dê detalhes de sua contribuição: por exemplo, referências arquivos de lista de e-mail, Issuezilla, commits no CVS, etc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many thanks also go to the people who contributed ideas or gave time to help others on the mailing lists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Muitos agradecimentos vão também para as pessoas que contribuíram com idéias ou tempo para ajudar os outros nas listas de discussão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE Platform consists of the modules in the Base IDE that do not naturally belong to any of its visible plugins, but are installed together with the plugins that require them.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A plataforma do IDE consiste de módulos do Base IDE que não pertencem naturalmente a nenhum dos seus plugins visíveis, mas estão instalados em conjunto com os plugins que necessitam deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The modules (NBMs) in IDE Platform are: Directory Chooser, External HTML Browser, External Libraries, General Online Help, General Options Dialog Panels, Generic Languages Framework, HTTP Server, IDE Defaults, Project UI, Refactoring API, Tag Based Editors Library, Timers API, and User Utilities.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os módulos (NBMs) na plataforma do IDE são: Selecionador de diretórios, navegador HTML externo, bibliotecas externas, ajuda online geral, painéis de diálogos de opções gerais, estrutura genérica de linguagens, servidor HTTP, padrões IDE, UI de projeto, API de refatoração, bibliotedas de editores baseados em Tag, API Timers e utilidades de usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE Platform</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plataforma do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE Defaults</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrões do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains font, color and shortcut defaults for IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém fontes, cores e atalhos padrões para o IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Earth</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Terra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City Lights</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Luzes da cidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables user to register to Sun Online Account</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite ao usuário cadastrar-se em conta Sun Online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inscrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Register</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Registrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration Reminder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lembrete de registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remind Me Later</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lembre-me mais tarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never Register</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nunca registrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take Control</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ter controle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register Your NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrar seu NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register the NetBeans IDE to get the following benefits:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrar o NetBeans IDE para obter os seguintes benefícios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notifications of new versions, patches and updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Notificações de novas versões, patches e atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special offers on Sun developer products, services and training</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ofertas especiais em produtos, serviços e treinamento para desenvolvedores Sun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access to early releases and documentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acesso a novos lançamentos e documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ability to track and manage your registered products on the SunConnection Inventory site</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Capacidade para monitorar e gerenciar os seus produtos registrados no inventário do site SunConnection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration is FREE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O registo é GRÁTIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Agreement</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contrato de licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please read the following license agreement carefully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, leia com cuidado o seguinte contrato de licença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you accept all terms of the agreement, click I Accept to start NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se você aceita todos os termos do contrato, clique em &quot;Eu aceito&quot; para iniciar o NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must accept the agreement to start NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve aceitar o contrato para iniciar o IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I &amp;Accept</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Eu &amp;aceito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sai&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel de licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diálogo de licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto da licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão aceitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to accept license and continue</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique para aceitar a licença e continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão rejeitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to reject license and exit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique para rejeitar a licença e sair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Upgrade imports your IDE environment and settings from previous versions of the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Atualização importa seu ambiente IDE e configurações de versões anteriores do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import IDE environment and settings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importa o ambiente e configurações do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup directory is not empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de backup não está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup directory has not been created.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de backup não pôde ser criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>README.html</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>README_pt_BR.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} not found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} não foi encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not a folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} não é uma pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup directory does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de backup não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importar de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source IDE must be one of these versions:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O IDE de origem deve ser de umas dessas versões:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update IDE Environments From Old Releases</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualiza os ambientes do IDE a partir de versões anteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup directory {0} already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de backup {0} já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the location of your previous IDE's user directory in the Previous IDE field.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informe a localização de seu diretório de usuário do IDE anterior no campo &quot;IDE anterior&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default location for IDE settings is:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O local padrão para as configurações do IDE é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Windows systems:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistemas Microsoft Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans 3.5.x software - &lt;userhome&gt;/.netbeans/3.5</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software NetBeans 3.5.x - &lt;userhome&gt;/.netbeans/3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans 3.4.x software - &lt;userhome&gt;/.netbeans/3.4</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software NetBeans 3.4.x - &lt;userhome&gt;/.netbeans/3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans 3.3.x software and earlier editions - user-specified directory
+UNIX systems:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software NetBeans 3.3.x e edições anteriores - diretório específico do usuário em sistemas UNIX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans 3.3.x software - &lt;userhome&gt;/nbuser33</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software NetBeans 3.3.x - &lt;userhome&gt;/nbuser33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans 3.2.x software - &lt;userhome&gt;/nbuser32</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software NetBeans 3.2.x - &lt;userhome&gt;/nbuser32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans software (3.0 and 3.1 releases) - IDE installation directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software NetBeans (versões 3.0 e 3.1) - diretório de instalação do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forte For Java software (3.0 and 4.0 releases) - &lt;userhome&gt;/nbuser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software Forte For Java (versões 3.0 e 4.0) - &lt;userhome&gt;/nbuser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forte For Java, release 2.0, software - IDE installation directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software Forte For Java, versão 2.0 - diretório de instalação do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sun ONE Studio 4 update 1 Community Edition software - &lt;userhome&gt;/ffjuser40ce</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software Sun ONE Studio 4 update 1 Community Edition - &lt;userhome&gt;/ffjuser40ce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: If you cannot locate your previous IDE's user directory, open your previous IDE and choose About from the Help menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nota: Se você não pode localizar seu diretório de usuário do IDE anterior, abra-a e escolha &quot;Sobre&quot; no menu &quot;Ajuda&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user directory location is listed under User Dir in the Details tab.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A localização do diretório de usuário está listada em &quot;Dir. do Usuário&quot; na aba &quot;Detalhes&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings imported successfully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações importadas com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The import procedure has failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O procedimento de importação falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importando ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Settings Status:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado da importação de configurações:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings Import Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente de importação de configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing old settings ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importando configurações antigas ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sair do IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciar o IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you wish to import settings from a previous installation?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja importar as configurações de uma instalação anterior?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you need to import settings?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Precisa importar as configurações?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, please import my settings from the previous version.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sim, favor importar minhas configurações da versão anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, skip the settings import.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não, ignore a importação das configurações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: It is not possible to import settings at a later time.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nota: Não é possível importar configurações em um momento posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This wizard lets you import your IDE environment and settings from previous versions of the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este assistente permite importar seu ambiente e configurações de uma versão anterior do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System recovered successfully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recuperação do sistema bem-sucedida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import failed, recovery started.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A importação falhou, recuperação iniciada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importação das configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locate Previous IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar IDE anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous IDE:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE anterior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You did not select a valid IDE directory or the version of the IDE is unknown.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não selecionou um diretório válido do IDE ou a versão do IDE é desconhecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Previous IDE Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione a localização do IDE anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Y</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Status do resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status of IDE settings import.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Situação da importação das configurações do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import settings status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado da importação de configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory {0} can not be found or mounted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório {0} não pôde ser encontrado ou montado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Were any of these IDEs previously installed on this system?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alguma destas IDEs estava previamente instalado em seu sistema?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, other versions of the IDE were installed on this system</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sim, outras versões do IDE estavam instalado neste sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, none of the above versions were previously installed on this system</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não, nenhuma das versões acima estava instalada neste sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans software (3.5.x, 3.4.x, 3.3.x, 3.2.x, 3.1 or 3.0 releases)
+Forte for Java software (4.0, 3.0 or 2.0 releases)
+Sun ONE Studio 4 update 1 software</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Software NetBeans (versões 3.5.x, 3.4.x, 3.3.x, 3.2.x, 3.1 ou 3.0)
+Software Forte for Java (versões 4.0, 3.0 ou 2.0)
+Software Sun ONE Studio 4 update 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you a returning user?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você é um usuário recorrente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings created by a previous version of the IDE were found on your system at {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As configurações criadas por uma versão anterior do IDE foram encontradas no seu sistema em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to import them?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja importá-las?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Import Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmação de importação de configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start &amp;Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Página inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome window providing basic information about IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A janela de boas-vindas fornece informações básicas sobre o IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows welcome content after the first startup of the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostra conteúdo de boas-vindas após a primeira inicialização do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Welcome module provides a screen with introductory information about using the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de boas-vindas fornece uma tela introdutória com informações sobre como utilizar o IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The screen appears when you start the IDE for the first time.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A tela aparece quando você inicia o IDE pela primeira vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose basic commands and open help topics directly from this screen.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode escolher comandos básicos e abrir tópicos de ajuda diretamente a partir desta tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome Screen</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tela de boas-vindas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to participate in NetBeans Users Satisfaction Survey now?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja participar do programa de satisfação do usuário NetBeans agora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Users Satisfaction Survey</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Programa de satisfação do usuário NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Survey</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remind Later</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lembre-me mais tarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Start Tutorial</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Guia de início rápido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O que há de novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a Tour</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faça um tour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Java Programming</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Programação Java em geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swing GUIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>GUIs Swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Apps</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicações web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mobile Apps</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicações móveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UML Modeling</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelagem UML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More Demos and Tutorials &gt;&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mais demonstrações e tutoriais &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open default web browser with documentation to learn more about {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir o navegador web padrão com a documentação para aprender mais sobre {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ARTICLES &amp; NEWS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ARTIGOS &amp; NOVIDADES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALL NEWS &gt;&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TODAS AS NOVIDADES &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all news</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir todas as novidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the list of all news articles in the default web browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir a lista de todas as notícias no navegador web padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALL ARTICLES &gt;&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TODOS OS ARTIGOS &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all articles</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir todos os artigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the list of all articles in the default web browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir a lista de todos os artigos no navegador web padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALL BLOGS &gt;&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TODOS OS BLOGS &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all blogs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir todos os blogs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the list of all blogs in the default web browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir a lista de todos os blogs no navegador web padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ALL DEMOS &gt;&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TODAS AS DEMONSTRAÇÕES &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all demos</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir todas as demonstrações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the list of all demos in the default web browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir a lista de todas as demonstrações no navegador web padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new sample project for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar um novo projeto de exemplo para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open default web browser with documentation to get started with {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir o navegador web padrão para começar com {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web link to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Link web para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open URL {0} in the default browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir a URL {0} no navegador padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show On Startup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir ao iniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Welcome Screen on startup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar a tela de boas-vindas na inicialização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkbox to show or hide the Welcome Screen on next NetBeans startup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de seleção para mostrar ou ocultar a tela de boas-vindas na próxima inicialização do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content is loading...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando conteúdo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while loading content</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro ao carregar o conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot connect to internet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível conectar-se a internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Proxy Configuration...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Configuração de proxy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recarregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My NetBeans</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Meu NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get Started</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try a Sample Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Experimente um projeto de exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Your IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seu IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn More About</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Saiba mais sobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recent Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos recentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Featured Demo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Demonstração em destaque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>News &amp; Tutorials</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Notícias &amp; tutoriais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add more tools into NetBeans IDE delivered by NetBeans team for Desktop, Web, Enterprise, Mobile Java development and Ruby, C/C++, SOA, UML development.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar mais ferramentas ao NetBeans IDE emitidas pela equipe do NetBeans equipe para desenvolvimento Desktop, Web, Enterprise e Mobile em Java e desenvolvimento Ruby, C/C++, SOA e UML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plus many third party plugins for enhanced productivity.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicione muitos plugins de terceiros para aumentar a produtividade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no screen shot available&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;nenhuma captura de tela disponível&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no recent project&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;nenhum projeto recente&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open recent project: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projeto recente: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Plugins &gt;&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar plugins &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI Form Examples</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplos de Formulários GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI Form Example Descriptions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição de exemplos de formulários GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This project contains three visual forms that were designed with the IDE's GUI Builder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este projecto inclui três formulários visuais, que foram feitos com o construtor de GUI do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can open these forms in the IDE, and you can view accompanying demos that show you how those forms can be created in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode abrir estes formulários no IDE, e ver que acompanham as demonstrações que mostram como os formulários podem ser criados no IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open an example form in the GUI Builder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para abrir um formulário de exemplo no construtor de GUI:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the IDE's Projects window, navigate to the default package node within the &lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Na janela de projeto do IDE, navegue até o nó do pacote padrão dentro do &lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source Packages directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório de pacotes de código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the node of the sample form you want to view.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dê um duplo clique no nó do exemplo de formulário que deseja exibir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE launches the GUI Builder and displays the chosen form.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O IDE inicializa o construtor de GUI Builder e mostra o formulário escolhido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contactar redação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This complex form is similar to Windows dialogs typically used to display and edit database information.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este complexo formulário é semelhante às janelas de diálogo, tipicamente usadas para exibir e editar informações de bases de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The example illustrates the full range of GUI Builder features, including alignment, anchoring, sizing, indentation, and runtime auto-resizing behavior.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O exemplo ilustra todas as funcionalidades do contrutor de GUI, incluindo o alinhamento, ancoragem, tamanho, tabulação, e comportamento de auto-redimensionamento em tempo de execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To view a detailed tutorial including flash demonstrations showing how to build this form, see &lt;a0&gt;GUI Building in NetBeans IDE 5.0&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para visualizar um tutorial detalhado incluindo demonstrações em flash mostrando como construir este formulário, consulte &lt;a0&gt;Contruindo GUI no NetBeans IDE 5.0&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Antenna Preferences</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preferências do Antenna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This example illustrates a type of table-based form commonly used to display related information in visually coherent groups.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este exemplo ilustra um tipo de tabela baseada em formulários comumente usados para exibir informações coerentes relacionadas visualmente em grupos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GUI Builder's advanced alignment features enable you to group and size non-adjacent components (such as labels, textfields, and buttons) consistently without the need to merge cells manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As características avançadas de alinhamento do construtor de GUI lhe permitem agrupar e redimensionar componentes não adjacentes (tais como rótulos, campos de texto e botões) sem a necessidade de fundir células manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To view a flash demonstration showing how to build this form, see &lt;a0&gt;GUI Form Example: Antenna Preferences Dialog&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para ver uma demonstração em flash mostrando como construir este formulário, consulte &lt;a0&gt;Exemplo de formulário GUI: Diálogo de preferências Antenna&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This simple form illustrates a straight-forward layout often used in various applications requiring basic search functionality.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este simples formulário ilustra um layout straight-forward, frequentemente utilizado em diversas aplicações que exijam funcionalidade de pesquisa básica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GUI Builder's alignment and sizing features enable you to quickly construct such forms while ensuring that they localize predictably.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As características de alinhamento e redimensionamento do construtor de GUI lhe permitem rapidamente construir tais formas, assegurando que se localizem no mesmo local onde são colocadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To view a flash demonstration showing how to build this form, see &lt;a0&gt;GUI Form Example: Find Dialog&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para ver uma demonstração em flash mostrando como construir este formulário, consulte &lt;a0&gt;Exemplo de formulário GUI: Diálogo de pesquisa&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Started with NetBeans IDE 6.0 Preview (Milestone 9)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Começando com NetBeans IDE 6.0 Preview (Milestone 9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This page contains pointers to NetBeans IDE documentation, both for the 5.5 and 6.0 versions of the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta página contém referências para a documentação do NetBeans IDE, tanto para as versões 5.5 e 6.0 do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The NetBeans IDE 5.5 tutorials may not be entirely up-to-date with the current state of the NetBeans IDE 6.0 builds, but they should point you in the right direction.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os tutoriais do NetBeans IDE 5.5 podem não estar totalmente atualizados com o estado atual do NetBeans IDE 6.0, mas eles devem derecioná-lo para a direção certa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the latest stable release of NetBeans IDE, &lt;a0&gt; download NetBeans IDE 5.5&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para a última versão estável do NetBeans IDE, &lt;a0&gt;faça o download do NetBeans IDE 5.5&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try It Out</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Experimentar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run through the 15-minute Quick Start Guide to learn the basics of working with NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar o guia de início rápido por 15 minutos para aprender os conceitos básicos de trabalho com o NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE Quick Start Guide</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Guia de início rápido do NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn More</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Saiba mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access our growing list of NetBeans IDE 6.0 tutorials and demos, go to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para participar da nossa crescente lista de tutoriais e demonstrações do NetBeans IDE 6.0, vá para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For NetBeans IDE 5.5 documentation, see:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para a documentação do NetBeans IDE 5.5, consulte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca de registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Integrated Development Environment 6.0.1</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans Ambiente de Desenvolvimento Integrado 6.0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas de desenvolvimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Register your NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrar seu NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you for installing the @@PRODUCT@@.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Obrigado por instalar o @@PRODUCT@@.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registering your product will give you the following benefits:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrando o seu produto obterá as seguintes vantagens:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification of new versions, patches, and updates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Notificação de novas versões, patches e atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product registration is FREE, quick and easy!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O registo do produto é GRATUITO, rápido e fácil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All you need is a Sun Developer Network or other Sun Online account.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tudo o que você precisa é uma conta da Sun Developer Network ou outra conta Sun Online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you don't already have one, you will be prompted to create one.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se você não tiver uma, será solicitado a criá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to be connected to the Internet to register this Sun product.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você precisa estar conectado à internet para registrar esse produto Sun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>respects your privacy.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>respeita sua privacidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will use your personal information for communications and management of your Sun Online Account, the services and applications you access using your Sun Online Account, and the products you register with your Sun Online Account.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iremos utilizar suas informações pessoais para comunicações e gestão da sua conta Sun Online, os serviços e aplicações que utilizam o acesso a sua conta Sun Online, e os produtos com que você cadastrou em sua conta Sun Online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on the data that will be collected as part of the registration process and how it will be managed see &lt;a0&gt;https://sunconnection.sun.com/inventory/privacy.jsp&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para obter mais informações sobre os dados que serão recolhidos como parte do processo de inscrição e como serão gerenciados consulte &lt;a0&gt;https://sunconnection.sun.com/inventory/privacy.jsp&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on Sun's Privacy Policy see &lt;a3&gt;http://www.sun.com/privacy/&lt;/a3&gt; or contact &lt;a4&gt;privacy@sun.com.&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para obter mais informações sobre a Política de Privacidade da Sun consulte &lt;a3&gt;http://www.sun.com/privacy/&lt;/a3&gt; ou entre em contato com &lt;a4&gt;privacy@sun.com.&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

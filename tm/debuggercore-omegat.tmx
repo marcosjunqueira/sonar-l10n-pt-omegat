@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger Core API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API do núcleo do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Debugger APIs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>APIs de depuração do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Debugging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depuração padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger Execution</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Execução do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Start Debugger Session</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciar &amp;sessão do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Stack</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pil&amp;ha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Debug Active Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Depurar projeto ativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&amp;ebug Profiles</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>D&amp;epurar perfis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>De&amp;bugging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>De&amp;purando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger Annotation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Anotações de depuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conditional Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção condicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled Conditional Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção condicional desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Program Counter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador do programa atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Múltiplos pontos de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple Disabled Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Múltiplos pontos de interrupção desabilitados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple Enabled and Disabled Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Múltiplos pontos de interrupção habilitados e desabilitados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Counter and a Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador de programa e um ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Counter and a Conditional Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador de programa e um ponto de interrupção condicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Counter and a Disabled Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador de programa e um ponto de interrupção desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Counter and a Disabled Conditional Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador de programa e um ponto de interrupção condicional desativado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Counter and Multiple Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador de programa e múltiplos pontos de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Program Counter and Multiple Disabled Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador de programa e múltiplos pontos de interrupção desabilitados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Call Site</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local de chamada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Program Counter In Expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador do programa atual na expressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expressão atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger Core - UI</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Núcleo do depurador - UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic shared debugger UI.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Interface gráfica básica compartilhada do depurador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger finished</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O depurador terminou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Watch Expression:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expressão do obser&amp;vador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Watch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo observador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Debugger:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Depurador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of the debugger to connect</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de depurador para conectar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connects debugger to some currently running process</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectar o depurador a alguns processos em execução atualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sessio&amp;ns</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sessõ&amp;es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Call Stac&amp;k</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pilha de c&amp;hamadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Local Variables</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variáveis &amp;locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Watches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Obser&amp;vadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Pontos de parada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Debug Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Depurar o projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run {0,choice,0#Project|1#&quot;{1}&quot; Project|1&lt;{0} Projects} in Debugger</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar {0,choice,0#projeto|1#&quot;{1}&quot; projeto|1&lt;{0} Projetos} no depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Debug {0,choice,0#File|1#&quot;{1}&quot;|1&lt;Files}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Depurar {0,choice,0#arquivo|1#&quot;{1}&quot;|1&lt;arquivos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug Test &amp;for {0,choice,0#File|1#&quot;{1}&quot;|1&lt;Files}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurar teste &amp;para {0,choice,0#o arquivo|1#&quot;{1}&quot;|1&lt;os arquvios}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New &amp;Watch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo obser&amp;vador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot debug class {0} (not executable).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode depurar a classe {0} (não executável).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger exception: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção do depurador: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Finish Debugger Session</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Terminar sessão do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Run in Debugger</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa&amp;r no depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step &amp;Into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Passar den&amp;tro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Into &amp;Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar no &amp;método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step O&amp;ver</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Passar so&amp;bre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step &amp;Out</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Passar f&amp;ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step Over &amp;Expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Passar sobre a &amp;expressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Continue</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Pause</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Pausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;un to Cursor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exec&amp;utar para o cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suspend</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suspender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Toggle Line Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Al&amp;ternar linha do ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resume</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retornar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finish</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Terminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Current</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tornar atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New &amp;Breakpoint...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo ponto de interrupção...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do método:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot attach.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode anexar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the parameters and try again.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique os parâmetros e tente novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illegal {0,choice,1#value|2#values} of {0,choice,1#argument|2#arguments}: {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,1#valor|2#valores} ilegal de {0,choice,1#argumento|2#argumentos}: {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Fixed Watch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar observador fixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make &amp;Caller Current</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tornar &amp;chamador atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Make Callee Current</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tornar cha&amp;mador atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Debugger Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela do &amp;depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Attach Debugger...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Anexar depurador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger exception</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Anexar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Breakpoint Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo do &amp;ponto de interrupção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakpoint Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible Actions When Reaching This Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Possíveis ações quando alcançar este ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New breakpoint of specified type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo ponto de interrupção de um tipo específico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilitar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desabilitar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New breakpoint on variable modification</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo ponto de interrupção em modificação de variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New breakpoint on variable access</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo ponto de interrupção em acesso de variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot attach to the specified host - host unknown.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode anexar ao computador especificado - computador desconhecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display As</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir como</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Binary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Binário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Cod&amp;e Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicar alteraçõ&amp;es do código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Pop Topmost Call</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retirar a última chamada da &amp;pilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sessions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sessões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Session Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of this session.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome desta sessão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hostname</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A name of computer this session is running on.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um nome de computador da sessão em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Em execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paused</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pausado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sessions View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pontos de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakpoints View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar pontos de parada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threads View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização de  threads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Call Stack</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pilha de chamadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Call Stack View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização da pilha de chamadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Observadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watches View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização de observadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Variables</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variáveis locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variables View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização de variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the class containing this breakpoint.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe contendo este ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the method this breakpoint is set on, if applicable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome do método deste ponto de interrupção está definido sobre, se aplicável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The line number this breakpoint is set on, if applicable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O número da linha deste ponto de interrupção está definido sobre, se aplicável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, this breakpoint is currently enabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se verdadeiro, este ponto de interrupção está habilitado atualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Valid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, this breakpoint points to a valid position.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se verdadeiro, este ponto de interrupção aponta para uma posição válida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Condition</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Condição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determines whether the suspend and print actions will be performed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Determina quando suspender e imprimir ações serão executados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>breakpoint [not valid]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ponto de interrupção [não válido]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the breakpoint group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de grupo do ponto de parada </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>not running</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não executando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>starting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>iniciando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>running</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>em execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stopped at a breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>parado no ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Represents all aspects of the debugger's current state and configuration.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Representa todos os aspectos do estado atual e da configuração do depurador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debugger State</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current status of the debugger.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado atual do depurador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Messages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostrar mensagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether the debugger shows information messages.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se o depurador mostra mensagens de informação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether the class the debugger is stopped at is shown in the Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se a classe a depurar está parada é mostrado no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote Debugging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depuração remota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote debugging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depuração remota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Memory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Memória total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total memory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Memória total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free Memory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Memória livre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free memory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Memória livre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source Path</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho do código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source path</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho do código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catch List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de catch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catch list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de catch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locals</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of this thread.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome desta thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running state of this thread.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado de execução desta thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack Depth</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Profundidade da pilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth of stack</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Profundidade da pilha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frame Index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Índice do quadro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frame index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Índice do quadro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suspended</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suspenso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thread Group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Grupo de threads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of this thread group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome deste grupo de threads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of Variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[No session]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[Sem sessão]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Not in scope]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[Fora de escopo]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Not initialized]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[Não inicializado]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo da variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifiers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value of variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor da variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First Index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primeiro índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First index of the field to be displayed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primeiro índice do campo a ser exibido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Length</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comprimento máximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum number of fields to be displayed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número máximo de campos a serem exibidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is in Scope</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Está no escopo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is in scope</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Está no escopo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Variable Access Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar ponto de interrupção de acesso a variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Variable Modification Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar ponto de interrupção de criação de variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variables</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All in One</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tudo em um</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A name used to identify the session.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um nome usado para identificar a sessão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A description of the current state of the session.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma descrição do estado atual da sessão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linguagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A name used to identify the thread.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um nome usado para identificar a thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A description of the current state of the thread.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma descrição do estado atual da thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suspended state</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado suspenso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The qualified name of the class that execution is within on the thread.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome qualificado da classe em que a execução está dentro da thread.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name of watch.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um nome de observador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The type as it is known to the runtime system.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo tal como é conhecido pelo sistema em tempo de execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current value of the watch.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor atual do observador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is In Scope</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Está no escopo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resumo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An identifier of the function or method corresponding to the frame.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um identificador de função ou método correspondente para o quadro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file and line number of the source code corresponding to the current instruction.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um arquivo e o número da linha do código-fonte correspondente a instrução atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name of the variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>um nome de variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current value of the variable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O valor atual da variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group of Breakpoints</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Grupo de pontos de parada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do ponto de parada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disables / enables breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desabilita / habilita o ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of call stack frame</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do frame da pilha de chamadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location of callstack frame</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização do frame da pilha de chamadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays value of toString() call</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe o valor da chamada toString()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of session</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer name this session is running on</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do computador da sessão em execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describes state of session</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descreve o estado da sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current language of session</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linguagem atual da sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of thread</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da thread</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describes state of thread</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descreve o estado da  thread</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is thread suspended by debugger</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A thread está suspensa pelo depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>= [No current context]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>= [Sem contexto atual]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of watch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do observador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of result</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value of watch expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor da expressão do observador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finish All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Terminar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Breakpoint ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo ponto de interrupção ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desabilitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Group Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir nome do grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of Group:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do grupo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the Name of Breakpoints Group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir o nome do grupo de pontos de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Watch ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo observador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TreeTableView Model</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelo de TreeTableView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluating...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Calculando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

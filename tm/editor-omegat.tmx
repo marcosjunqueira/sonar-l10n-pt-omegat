@@ -1,0 +1,6656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIME Lookup API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MIME Lookup API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The MIME lookup API.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O MIME lookup API.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The MIME Lookup module provides API for looking up MIME type dependent settings, services and other objects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo MIME Lookup implementa uma API para procurar por tipo MIME dependente de configurações, serviços e outros objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also provides SPI for implementing additional MIME type related data provider.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este também implementa SPI para implementação adicional do tipo MIME relatado pelo fornecedor de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIME Lookup On SystemFS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MIME Lookup em SystemFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default implementation of MimeDataProvider.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A implementação padrão do MimeDataProvider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The MIME Lookup On SystemFS module implements MimeDataProvider that looks up objects in the folder hierarchy on the System filesystem.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O MIME Lookup do módulo SystemFS implementa MimeDataProvider que procura objetos na hierarquia de pastas no sistema de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables editing of files in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilita a edição de arquivos no IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Editor module enables you to edit source files within the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo do editor habilita a edição de arquivos de código-fonte no IDE. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It provides syntax coloring for Java and HTML files, word matching, code completion, and other basic and advanced features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece destaque colorido de sintaxe para arquivos Java e HTML, correspondência de palavra, auto-completar de código, e outras características básicas e avançada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Indentation Engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Indentation Engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Wrapping Indentation Engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação com quebra de linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Code Folds</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dobramento de &amp;código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select in</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negative value is not allowed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor negativo não é permitido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is out of range</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor fora do intervalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de ferramentas {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toolbar contents customization</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar conteúdo da barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Separator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar separador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Goto Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerar pop-up de 'Ir para'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Fold Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerar pop-up de dobra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &amp;Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para &amp;código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Super &amp;Implementation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para super &amp;implementação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &amp;Declaration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para &amp;declaração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&amp;how Editor Toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exi&amp;bir barra de ferramentas do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show Line Numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Exibir número das linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Voltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Forward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Toggle Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Co&amp;mment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Co&amp;mentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Uncomment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Não Comentado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift &amp;Left</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deslocar à &amp;esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift &amp;Right</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deslocar à &amp;direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Formatar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert &amp;Next Matching Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>I&amp;nserir próxima palavra correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert &amp;Previous Matching Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir &amp;palavra correspondente anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &amp;All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar &amp;tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &amp;Identifier</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar &amp;identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Ne&amp;xt</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar pró&amp;ximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Pre&amp;vious</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar ante&amp;rior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find &amp;Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar &amp;seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start &amp;Macro Recording</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciar gravação da &amp;macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Macro Recordin&amp;g</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar &amp;gravação da macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove &amp;Trailing Spaces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover espaços em brancos pos&amp;teriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste F&amp;ormatted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar f&amp;ormatado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print to &amp;HTML...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imprimir em &amp;HTML...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print to HTML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imprimir em HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML File Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Line Numbers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir número das linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open generated HTML in browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir HTML gerado no navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print only selected text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imprimir somente o texto selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not create HTML file {0} in the folder {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo HTML {0} não pôde ser criado na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts the document to HTML file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Converte o documento para arquivo HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML file name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of HTML file, where the converted context will be saved</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo HTML, onde o contexto convertido será salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse the HTML file or directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar o arquivo HTML ou diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show line numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir número das linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print also the line numbers into the HTML document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Também imprimir o número das linhas no documento HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open generated HTML in browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir o HTML gerado no navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print only selected text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imprimir apenas o texto selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only selected text will be converted to HTML file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apenas o texto selecionado poderá ser convertido para um arquivo HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not open document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode abrir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwrite?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobrescrever?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identifier</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyword</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavra-chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>String</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>String</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Separador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Markup Element (Tag)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento de marcação (marcação)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Markup Attribute</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atributo de marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Markup Attribute Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor do atributo de marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entity Reference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Referência de entidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construtor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variável local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method Parameter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parâmetro de método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused Element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento não utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deprecated Element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento obsoleto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract Class or Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe abstrata ou método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static Element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento estático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private Element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento privado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protected Element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento protegido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public Element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guarded Block</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloco protegido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Block</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloco de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Bar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Bar (highlighted)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de status (realçado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incremental Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa incremental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Folding Bar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de código dobrável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Folding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dobramento de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realce da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Caret Row</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realce da linha do cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Limit Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha de limite de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Synchronized text blocks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Blocos de texto sincronizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor State</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor state.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estado do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abbreviations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abreviações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abbreviations for commonly typed key sequences.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abreviações para as sequências de teclas mais utilizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point Blink Rate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Taxa de Frequência do Ponto de Inserção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How fast the insertion point or overwrite caret blinks.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Qual a velocidade do ponto de inserção ou cursor de substituição deve piscar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do ponto de inserção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of the insertion point.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do ponto de inserção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwrite Caret Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do cursor de substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of the caret when in overwrite mode.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do cursor no modo de substituição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Italic Insertion Point</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção em itálico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the insertion point is italicized.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', o ponto de inserção será em itálico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Italic Overwrite Caret</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cursor de substituição em itálico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the caret is italicized when in overwrite mode.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', o cursor ficará em itálico quando estiver no modo de substituição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion point style.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo do ponto de inserção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwrite Caret</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cursor de substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style of caret when in overwrite mode.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo do cursor quando estiver no modo de substituição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fonts and Colors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes e cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fonts and colors for various elements displayed in the Source Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes e cores de vários elementos exibidos no editor de código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Tabs to Spaces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir tabulações para espaços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, automatically converts tabs in the document to spaces padded to the same column.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', converte automaticamente as tabulações no documento para espaços alinhado na mesma coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default font size for tokens not assigned value in Fonts and Colors property.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da fonte padrão para símbolos sem valor determinado nas propriedades Fontes e Cores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curly Brace on Next Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chaves na próxima linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curly brace on next line.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chaves na próxima linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Space Before Parentheses</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar espaço antes do parênteses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, add space before opening parenthesis.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', adiciona um espaço antes de abrir o parênteses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, highlight row where the insertion point is.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', realça a linha onde o estiver o ponto de inserção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Matching Bracket</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realçar parênteses correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight bracket that matches the bracket before the insertion point.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realçar o parênteses antes do ponto de inserção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentation Engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentation engine used for this type of editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de indentação utilizado para este tipo de editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Bindings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalhos de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actions bound to shortcut keys.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ações vinculadas ao atalho de teclas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Height Correction</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Correção da altura da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiplier by which to adjust line height.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Multiplicador pelo qual ajusta a altura da linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Número da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, line numbers in the document are displayed along the left side of the window.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', o número das linhas será exibido no lado esquerdo da janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click ellipsis button to display, edit, add, and remove macros.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique no botão reticências para exibir, editar, adicionar e remover macros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Margin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determines placement of margin.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Determina a localização da margem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print Fonts and Colors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes e Cores na Impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fonts and colors to use when printing document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes e cores à utilizar ao imprimir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print Line Numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imprimir Número das Linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, print line numbers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', imprime o número das linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll Find Insets</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deslocar suplemento da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies how much space to reserve on each side of text located with the Find command.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifica quanto espaço reservar em cada lado do texto localizado com o comando Localizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll Jump Insets</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suplemento de deslocamento de salto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much the view should jump in each direction when scrolling goes off screen.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quanto a exibição deve pular em cada direção quando rolar fora da tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Spaces per Indent</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de espaços por indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of spaces represented by one indentation level.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de espaços representados por um nível de indentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Bar Caret Delay</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tempo de espera do cursor da barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delay (in milliseconds) between time the caret stops moving and the update of its position in the status bar.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tempo de espera (em milisegundos) entre o tempo da pausa do movimento do cursor e a atualização da sua posição na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Bar Visible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visibilidade da barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the status bar (showing insert mode, line number, and so on) is displayed at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', a barra de status (exibindo modo de inserção, número das linhas, e mais) é exibida no final da janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tab Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da tabulação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of spaces per tab stop, for documents that contain real tabs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de espaços por parada de tabulação, para documentos que contenham tabulações reais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Limit Line Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor da linha de limite de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of the line showing the text limit.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor da linha que exibe o limite de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Text Limit Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir linha limite de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, display the text limit line.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', exibe a linha limite de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Limit Character Count</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contagem de caracter de limite do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Count of characters after which the text limit line is displayed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contagem de caracteres depois que a linha de limite de texto é exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global Key Bindings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalhos globais de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actions bound to shortcut keys for all editor types.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ações vinculadas ao atalho de teclas para todos os tipos de editores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, display the editor toolbar.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', exibe a barra de ferramentas do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Antialiasing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suavização do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, text antialiasing will be used for font rendering.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', a suavização do texto será utilizado na renderização de fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Folding Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades do dobramento de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Popup Completion Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela pop-up de auto-completar automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the completion window automatically appears when appropriate.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', a janela de auto-completar aparecerá automaticamente quando apropriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delay of Completion Window Auto Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tempo de espera da janela instantânea de auto-completar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How long to wait (in milliseconds) before automatically popping up the completion window.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quanto esperar (em milisegundo) antes de automaticamente exibir a janela instantânea de auto-completar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion Instant Substitution</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituição instantânea do auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, invocation of code completion performs instant substitution, if the search result contains only one item</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', a invocação do auto-completar de código realiza uma substuição instantânea, se o resultado da busca contiver apenas um item</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Popup Javadoc Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela instantânea de Javadoc automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the Javadoc window automatically appears when appropriate.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', a janela do Javadoc aparecerá automaticamente quando apropriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delay of Javadoc Window Auto Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tempo de espera da janela instantânea de Javadoc automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How long to wait (in milliseconds) before automatically popping up the Javadoc window.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quanto esperar (em milisegundos) antes de automaticamente exibir a janela Javadoc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Color of Javadoc Popup Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do segundo plano da janela instantânea do Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background color of Javadoc popup window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do segundo plano da janela instantânea do Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Javadoc Preferred Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho preferencial do Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferred size of Javadoc popup window.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho prefencial da janela instantânea do Javadoc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pair Character Completion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar par de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn on/off inserting of closing braces and other characters.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Liga/desliga inclusão de fechamento de chaves e outros caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular text in document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto regular no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regular text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>texto regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glyph and Line Number Margin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Margem do ícone e número da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line numbers and glyph icon maring along left side of document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número das linhas e ícones que estão à margem esquerda do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected text in document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto selecionado no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>selected text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text currently found during an incremental search.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto encontrado durante uma busca incremental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>incremental search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa incremental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find in selected block of code</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar em bloco selecionado de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>search selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlighted by Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realçado pela pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text highlighted after an incremental search.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto realçado após uma pesquisa incremental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>highlight search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realce da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bookmark in document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcador no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guarded block (cannot be edited).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloco protegido (não pode ser editado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>guarded block</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>bloco protegido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code folding icon in editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ícone do dobramento de código no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code folding side bar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra lateral do dobramento de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular status bar text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto regular da barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Wrapped</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Busca envolvida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold text in the status bar.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto em negrito na barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search wrapped</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Busca envolvida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Insertion Point Row</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realçar a linha do ponto de inserção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight the insertion point row.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realçar a linha do ponto de inserção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>row text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>linha de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Matching Bracket</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parênteses correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto puro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto puro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Erroneous Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto errôneo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Erroneous text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto errôneo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version of the options.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão das opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version of the Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão das opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple indentation engine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo simples de indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Bar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thin Vertical Bar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra vertical fina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solid Block</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloco sólido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inherit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Herdar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foreground Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do primeiro plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização de cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syntax:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sintaxe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coloring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coloração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DEFAULT</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actions:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ações:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keybindings:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalhos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort by Action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ordenar por ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort by Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ordenar por nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Keybinding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This shortcut sequence conflicts with sequence &lt;{0}&gt; bound to &quot;{1}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta sequência de atalhos entra em conflito com a sequência &lt;{0}&gt; associada à &quot;{1}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcut Sequence:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sequência do atalho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter Abbreviation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Forneça um abreviação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abbreviation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abreviação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expanded String</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>String expandida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abbreviation:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abreviação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expansion:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expansão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abbreviation &quot;{0}&quot; already exists for &quot;{1}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abreviação &quot;{0}&quot; já existe para &quot;{1}&quot;. \n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with &quot;{2}&quot;?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir por &quot;{2}&quot;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter Macro</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informar macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macro &lt;{0}&gt; already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Macro &lt;{0}&gt; já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace with the new content?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir pelo novo conteúdo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value should be in format [top[%],left[%],bottom[%],right[%]]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor deve ser no formato [top[%],left[%],bottom[%],right[%]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid value entered</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor informado é inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insets</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suplementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Superior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inferior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esquerdo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Direito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fonts &amp; Colors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes &amp; cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font, background color, foreground color.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte, cor do plano de fundo, cor do primeiro plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hit the action key to make the change.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pressione a tecla de ação para fazer a alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annotation Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de anotação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All registered annotation types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos os tipos de anotações registradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do realce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of the background highlight.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do plano de fundo do realçe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Highlight Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar cor de realçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the highlight color is used.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', a cor de realçe é utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of the text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wave Underline Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do sublinhado ondulado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color of the wave underline.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do sublinhado ondulado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Wave Underline</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar sublinhado ondulado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the wave underline is used.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', o sublinhado ondulado será utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inherit Foreground Colors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Herdar cores do primeiro plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, the foreground color is used.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', a cor do primeiro plano é utilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whole Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha inteira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, this annotation type is whole line annotation type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', este tipo de anotação é tipo de anotação de linha inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KitClass {0} has not defined method getContentType().</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>KitClass {0} não tem o métdo getContentType() definido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should not be displayed as node in Editor Settings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não deveria ser exibido como nó nas configurações do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Glyphs on Background</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desenhar ícones em segundo plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, annotation glyphs that are covered by another annotation glyph are drawn on the background under the Source Editor text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', ícones de anotação que forem cobertos por outro ícone de anotação serão desenhados em segundo plano no texto do Editor de Código-Fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glyph Icon Alpha</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alfa do ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Percentage of alpha value for the glyph icons that are drawn on the background.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Percentual do valor alfa para ícones que estão desenhados em segundo plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combine Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Combinar anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, annotation glyphs can be combined.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', ícones de anotação podem ser combinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Glyph Over Line Numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desenhar ícones sobre os números da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, glyph icons can be drawn over the line numbers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', ícones podem ser desenhados sobre os números da linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always Show Glyph Margin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sempre exibir margem do ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show glyph margin even when there are no annotations.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir margem do ícone mesmo que não exista anotações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incremental Search Forward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encaminhar pesquisa incremental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incremental Search Backward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa incremental para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Incremental Search Sidebar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar barra lateral da pesquisa incremental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incrementally Search Text (ENTER - Find Next, Shift+ENTER - Find Previous)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa de texto incremental (ENTER - Procurar próximo, Shift+ENTER - Procurar anterior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Next</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxi&amp;mo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Previous</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Anterio&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match &amp;Case</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Coincidir maiúsculas e minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whole &amp;Words</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavras &amp;inteiras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Regular Expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expressão &amp;regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Highlight Results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados r&amp;ealçados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go back to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Volta para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Voltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go forward to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avançar para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to last edit in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para última edição em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last edit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Última edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last Edit Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local da última edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mo&amp;ver para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para bai&amp;xo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dup&amp;licate Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dup&amp;licar para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplic&amp;ate Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Duplic&amp;ar para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains plain text editor implementation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém implementações para o editor de texto simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain Editor contains editing support for plain text files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor simples contém suporte para a edição de arquivos de texto simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain Editor Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca do editor simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains plain editor library implementation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém a implementação da biblioteca do editor simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain Editor Library contains editing support for plain text files that can be used in standalone editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca do editor simples contém suporte para arquivos texto simples que podem ser utilizados em um editor autônomo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the list of included fixed bugs please check &lt;A HREF=&quot;http://wiki.netbeans.org/wiki/view/NetBeans6.0PatchesInfo&quot;&gt;http://wiki.netbeans.org/wiki/view/NetBeans6.0PatchesInfo&lt;/A&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para a lista dos bus corrigidos favor verificar &lt;A HREF=&quot;http://wiki.netbeans.org/wiki/view/NetBeans6.0PatchesInfo&quot;&gt;http://wiki.netbeans.org/wiki/view/NetBeans6.0PatchesInfo&lt;/A&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;BR&gt; &lt;BR&gt; Editing support or various types of files: bat, diff, manifest, sh, css, html, images, Java Script, properties files, xml, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;BR&gt; &lt;BR&gt; Suporta edição ou vários tipos de arquivos: bat, diff, manifest, sh, css, html, images, Java Script, properties files, xml, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also contains various editor features, such as go to file, bookmarks, templates, error stripe, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Também contém várias características do editor como, ir para arquivo, marcador, modelos, lista de erros, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Edição de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editting support for various types of files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte à edição de vários tipos de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Code Templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de modelos de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains support for creation and using of code templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém suporte para a criação e uso de modelos de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Code Templates module allows to paste existing code templates into the editor text and create additional templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Módulo de Modelos de Código do Editor permite colar modelos de código existente dentro do texto do editor e criar modelos adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surround with ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Circundar com ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Surround with</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt; Circundar com ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abbreviation: &amp;nbsp;&lt;b&gt;{0}&lt;/b&gt;&amp;nbsp; [{1} for expansion]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abreviação: &amp;nbsp;&lt;b&gt;{0}&lt;/b&gt;&amp;nbsp; [{1} para expansão]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Library 2</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca do editor 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains core editor APIs and SPIs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém editor núcleo de APIs e SPIs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library includes implementations of the text document, view hierarchy and highlighting.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A biblioteca inclue implementação do texto do documento, exibir hierarquia e realçe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library is independent on the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A biblioteca é independente do NetBeans IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong position</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição errada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>found at</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>encontrado em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>not found</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>não encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of the document reached.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fim do documento alcançado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuing search from beginning.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Continuando pesquisa do início.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beginning of the document reached.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Início do documento alcançado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuing search from end.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Continuando pesquisa do final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of the selection reached.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fim da seleção encontrada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beginning of the selection reached.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Início da seleção encontrada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of {1} items replaced</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} de {1} ítens substituídos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular Expression Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro de expressão regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find What:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace With:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight Results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados realçados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlights all occurrences of the searched text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realçar todas ocorrências do texto pesquisado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tries to find text as you type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tenta encontrar o texto enquanto você digita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match Case</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coincidir &amp;maiúsculas e minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search the document only for text with the same capitalization.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar o documento somente para textos com a mesma inicial maiúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Case</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Maiúscula/minúscula inteligente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Matches case if at least one character in the searched text is uppercase.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Combina maiúscula/minúscula se ao menos um caracter no texto pesquisado for maiúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whole Words</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavras inteiras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Matches the searched text only to whole words in the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Combina o texto pesquisado somente para palavras inteiras no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Backwards</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searches backwards from the current cursor position.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa para trás da posição atual do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap Around</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Circular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continues search from the beginning if end of the document is reached.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Continua pesquisa do início se o fim do documento for alcançado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular Expressions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expressões regulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uses regular expressions to search the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utiliza expressões regulares ao pesquisar no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searches for occurrences in a selected block of text only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por ocorrências apenas no texto do bloco selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Guarded Sections</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de chaves correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides support for manipulating garded sections in a document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece suporte para manipulação das seções protegidas no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module allows clients to manipulate named guarded sections of a document that prevent user modifications of the document's content inside those sections.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo permite aos clientes manipular as chamadas seções protegidas de um documento que previne a modificação por usuários, do conteúdo do documento dentro das seções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annotations Cycling</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ciclo das anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug Filename and Line Number</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo e número da linha do depurador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Abbreviation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir abreviação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Abbreviation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Redefinir abreviação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Watch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo observador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Insertion Point to Bottom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover ponto de inserção para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Insertion Point to Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover ponto de inserção ao centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Insertion Point to Top</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover ponto de inserção para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll Insertion Point to Bottom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar ponto de inserção para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll Insertion Point to Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar ponto de inserção ao centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll Insertion Point to Top</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar ponto de inserção para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beep</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso sonoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Code Between Braces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar código entre chaves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match Bracket</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parênteses correspondentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Popup Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir menu pop-up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dump View Hierarchy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Despejar hierarquia de exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Co&amp;llapse All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reco&amp;lher todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Collapse Fold</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re&amp;colher dobramento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xpand All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xpandir todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Expand Fold</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Expandir dobramento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reco&amp;lher todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Fold</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re&amp;colher dobramento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xpandir todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Fold</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Expandir dobramento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build Tool Tip</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point Backward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to Beginning of Text on Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para início do texto na linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to Beginning of Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para início da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to Beginning of Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para início da palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to Beginning of Document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para início do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to End of Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para fim da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to End of Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para fim da palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to End of Document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para fim do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point Forward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para frente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to Next Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para próxima palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to Previous Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção palavra anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recortar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut from Insertion Point to Line Begining</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recortar do ponto de inserção para início da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut from Insertion Point to Line End</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recortar do ponto de inserção para fim da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Typed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrão Tipado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Next Character</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir próximo caracter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Previous Character</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir caracter anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simulate Escape Key</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Simular tecla escape</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fast Import</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importação rápida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Surround With try-catch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Circundar com try-catch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Next Occurrence</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar próxima ocorrência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Previous Occurrence</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar ocorrência anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar &amp;seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to First Non-whitespace Char</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para primeiro caracter desconsiderando espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Formatar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Declaration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para &amp;declaração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o &amp;código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Super Implementation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para super &amp;implementação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Line...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para linha...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start New Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciar nova linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Newline</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir nova linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Content</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Current Date and Time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir data e hora atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Tab</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir tabulação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump to Next Edit Cross Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pular para editar próxima janela transversal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump to Previous Edit Cross Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pular para editar janela transversal anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Last Non-whitespace Char</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para último caracter desconsiderando espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace Variable With its Getter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir variável com seu getter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace Variable With its is* Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir variável com seu método is*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace Variable With its Setter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir variável com seu setter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match Brace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página abaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página acima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Formatted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar f&amp;ormatado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re-indent Current Line or Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reindentar linha ou seleção atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Selection else Line up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover seleção para outra linha acima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Selection else Line down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover seleção para outra linha abaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Selection else Line up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar seleção para outra linha acima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Selection else Line down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar seleção para outra linha abaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Preceding Characters in Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir Caracteres Precedentes na Linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir Seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Tab</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir Tabulação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Trailing Spaces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover espaços em brancos posteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Previous Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir palavra anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Next Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir próxima palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll to Bottom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar para o final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll to Center</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar para o centro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll to Top</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar para o início</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar &amp;tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Identifier</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Next Parameter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar próximo parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection Backward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Beginning of Text on Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para início do texto na linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Beginning of Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para início da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Beginning of Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para início da palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Beginning of Document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para início do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Matching Bracket</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para parênteses combinados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to End of Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para final da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to End of Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para final da palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to End of Document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para final do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to First Non-whitespace Char</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para primeiro caracter desconsiderando espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection Forward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para frente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Last Non-whitespace Char</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para último caracter desconsiderando espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Matching Brace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para chaves correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Next Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para próxima palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Next Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para próxima página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection to Previous Page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para página anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção de volta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Selection Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extender seleção para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Dot</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir ponto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Read Only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir somente leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Writable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir escrita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Substitute Code Completion Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto substituto do auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift Line Left</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deslocar linha à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift Line Right</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deslocar linha à direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Code Completion Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir pop-up de auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show All Code Completion Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir todas pop-ups de auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Smart Code Completion Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir pequena pop-up de auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Documentation Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir pop-up da documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Popup Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir menu de pop-up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Code Completion Tip Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir pop-up de dica de auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Split Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dividir linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Macro Recording</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Iniciar gravação da &amp;macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Macro Recording</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar gravaçã&amp;o da macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch Case</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar &amp;maiúscula/minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Lowercase</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Uppercase</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para maiúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch Capitalization of Identifier</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar iniciais do identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch Capitalization of Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Altenar iniciais da palavra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Highlight Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar destaque da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Line Numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar número das linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Typing Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar modo de digitação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncomment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Não comentado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desfazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não-selecionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Matching Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxima palavra correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Matching Word</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavra anterior correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trailing spaces were removed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaços em branco posteriores foram removidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recording</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gravando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recorded Macro</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Macro gravada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty name of macro not allowed!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é permitido nome vazio para macros!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a keybinding for this macro</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adiocionar atalhos para esta macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove a keybinding from this macro</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover atalhos desta macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This shortcut sequence is already bound to this Macro.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta sequência de atalho já está associada à esta Macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Line:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modo de inserção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modo substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caret Position</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição do cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attempt to insert into guarded block at position {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tentativa de inserção em bloco protegido na posição {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attempt to remove from guarded block at position {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tentativa de remoção em bloco protegido na posição {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple annotations here [{0}] - click to cycle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Múltiplas anotações aqui [{0}] - clique para ciclo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glyph Gutter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de ícone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component for displaying line numbers and annotation glyphs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente para exibir número das linhas e ícones de anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Line Numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir número das linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela de auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please Wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Matching Item Found</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum item correspondente encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parâmetros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Also:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja também:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throws:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excessões:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Returns:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retornos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Author:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deprecated:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Obsoleto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code folding side bar shows text folds and allows their collapsing and expanding.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra lateral de dobramento de código exibe dobramentos de texto e o permite recolher e expandir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invoking {4} implemented as {3} thru {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Invocando {4} implementado como {3} através {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains Editor functionality independent on the IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém funcionalidade do editor independente no IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Library contains editor functionality generally independent on the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Biblioteca do editor contém funcionalidade geralmente independente no IDE NetBeans. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be reused for standalone editors.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pode ser reutilizado para editores autônomos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Indentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains indentation APIs and SPIs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém indentação de APIs e SPIs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module includes indentation and code formatting APIs and infrastructure.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo inclui APIs de indentação e formatação de código, e infra-estrutura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains support for editor settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém suporte para configurações do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Settings module contains support for retrieving settings of various editor kits.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo configurações do editor contém suporte para recuperar configurações de vários kits do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Settings Storage</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de configurações de armazenamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implements Netbeans editor settings storage</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Implementações do editor de configurações de armazenamento do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implements storage for Netbeans editor settings and defines the structure of editor setting files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Implementações de armazenamento para o editor de configurações do Netbeans e definição da estrutura dos arquivos de configurações do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also provides friend API for modules that need read/write access to the storage.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este também implementa uma API amigável para módulos que precisem o acesso à Leitura/Escrita para o armazenamento. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Editor Settings Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de configuração do editor do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Code Completion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de auto-completar de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains support for Code Completion in Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém suporte para auto-completar de código no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion is a submodule of Editor containing API, SPI and infrastructure for Code Completion./ The module is generic and can be used with any Swing based editor/</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar de código é um submódulo do editor que contém API, SPI e infraestrutura para auto-completar de código/ Este módulo é generico e pode ser usado com qualquer editor baseado em Swing. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No suggestions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem sugestões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to previous page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para a página anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to next page</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para a próxima página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show documentation in external web browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir documentação no navegador web externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open source in editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir código-fonte no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imported Items; Press {0} Again for All Items</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Itens importados; Pressione {0} novamente para todos os itens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completion invoked/ Explicit: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar invocado/ Explícito: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completion key selection {0} of index {1} implemented as {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar seleção da tecla {0} do índice {1} implementado como {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completion default selection of index {1} implemented as {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar a seleção padrão do índice {1} implementado como {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completion mouse selection of index {1} implemented as {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar seleção do mouse do índice {1} implementado como {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completion cancelled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar cancelado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete &amp;Code...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Completar &amp;código...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Documentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir &amp;documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show Method Parameters</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir parâmetro&amp;s dos métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press Alt-Enter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pressione Alt-Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fi&amp;x Code...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Co&amp;rrigir código...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hint invoked: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dica chamada: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No fixable error.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro não corrigível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot apply fix in a guarded block</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível aplicar a correção no bloco protegido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Hints (Experimental)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dicas no editor (Experimental)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Hints Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura de dicas no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The infrastructure and API for working with editor hints.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A infra-estrutura e API para trabalhar com dicas no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixable Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso corrigível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixable Verifier Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificador de avisos corrigíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verifier Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificador de aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixable TODO</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TODO corrigível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixable Hint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dica corrigível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixable Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro corrigível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Problem Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir janela de problema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Problem Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela de problema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a Problem window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é uma janela de problema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;On Project Open &lt;i&gt;requires restart&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Em projeto aberto &lt;i&gt;precisa ser reiniciado&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;On Demand</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Por demanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Lazy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Lento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Experimental Editor Highlights</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor experimental de realce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use org.netbeans.spi.highlighting (Editor Library 2) instead.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Usar org.netbeans.spi.highlighting (Biblioteca do editor 2) no lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Error Stripe</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de erros no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The API for the right hand side bar showing errors, hints, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A API para a barra lateral direita de exibição de erros, dicas etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The API for the right hand side bar showing errors, hints and other editor annotations.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A API para a barra lateral direita de exibição de erros, dicas e outras anotações no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Stripe</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No errors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} warning(s)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} aviso(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}  error(s)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}  erro(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} error(s), {1} warning(s)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} erro(s), {1} aviso(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annotation view side bar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra lateral de visualização de anotação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annotation view shows positions of text annotations with a document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A visualização de anotação exibe a posição das anotações dentro do texto do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Error Stripe Impl</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Implementação para lista de erros no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right hand side bar showing errors, hints, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A barra lateral direita para exibição de erros, dicas etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The implementation of the right hand side bar showing errors, hints and other editor annotations.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Implementação da barra lateral direita para exibição de erros, dicas e outras anotações no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Utilities</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilitários do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains various support classes for editor related modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém várias classes de suporte aos módulos relacionados a edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Utilities module contains various utility classes and methods for functionality related to editing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo utilitários do editor contém varias classes e métodos úteis para funcionalidades relacionada à edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próximo marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcador anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Document Bookmarks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover marcadores do documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Bookmarks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains support for bookmarks handling in the edited files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém suporte para a manipulação de marcadores nos arquivos editados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Bookmarks module contains support for adding/removing/jumping through the bookmarks in the edited source files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo editor de marcadores contém suporte para adicionar/remover/pular através dos marcadores do arquivo de origem em edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Code Folding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dobramento de código do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains support for Code Folding in Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém suporte para o dobramento de código no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Folding is a submodule of Editor containing API, SPI and infrastructure for Code Folding.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dobramento de código é um submódulo do editor que contém API, SPI e infra-estrutura para o dobramento de código. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module is generic and can be used with any Swing based editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo é genérico e pode ser utilizado por qualquer editor baseado em Swing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for highlighting matching braces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para realce de chaves correspondentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module adds support for highlighting matching areas of text in a document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo permite destacar as áreas correspondentes do texto no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These areas can be for example braces, brackets or parenthesis, but they can also be XML tags or others.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estas áreas podem ser por exemplo, chaves, colchetes ou parênteses, e além disso podem ser tags XML ou outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module implements highlighting and navigation (Jump-To) between the matching areas.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo implementa o realce e a navegação (ir para) entre as áreas correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The areas are automatically detected as the caret is moved through a document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As áreas são automaticamente detectadas a medida que o cursor se move dentro do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Braces Matching</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Correspondência entre chaves no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Braces matching (match)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Correspondência de chaves (combinação certa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Braces matching (mismatch)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Correspondência de chaves (combinação errada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insertion Point to Matching Brace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de inserção para chaves correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allowed Search Direction:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Direções de pesquisa permitidas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show parameters:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir parâmetros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Indentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xpand Tabs to Spaces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xpandir tabulações para espaços</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N&amp;umber of Spaces per Indent:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>N&amp;úmero de espaços por indentação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N&amp;umber of Spaces per Indent</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>N&amp;úmero de espaços por indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ta&amp;b Size:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da ta&amp;bulação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ta&amp;b Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da ta&amp;bulação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rig&amp;ht Margin:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Margem direi&amp;ta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rig&amp;ht Margin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Margem direi&amp;ta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code &amp;Templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Modelos de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remo&amp;ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Template &amp;on:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir m&amp;odelo para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Expander Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir atalho de expansão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Space</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift+Space</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Shift+Espaço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tem&amp;plates:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Modelos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xpanded Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto e&amp;xpandido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Language:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Linguagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expanded Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto expandido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Code Template Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diálogo de novo modelo de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate abbreviation not allowed!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é permitido abreviação duplicada!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty abbreviation not allowed!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é permitido abreviação em branco!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code template details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detalhes do modelo de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides the editor related panels in the Options dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece o painel mais comum nas opções de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides Tools | Options dialog panels such as Editor, Fonts and Colors, and Keymap.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece o painel de diálogo Ferramentas | Opções, como por exemplo as opções Editor, Fontes e cores, e Mapa de teclas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formulário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keymap Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções do mapa de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Keymap</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mapa de &amp;teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keymap</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mapa de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&amp;uplicate ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>D&amp;uplicar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Duplicar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dele&amp;te</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Restore</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Restaurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Restaurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actio&amp;ns</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Açõ&amp;es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Shortcuts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalho&amp;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;dd ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A&amp;dicionar ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actio&amp;ns:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Açõ&amp;es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Shortcuts:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalho&amp;s:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profiles</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Perfis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Keymaps</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mapa de &amp;teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Profile:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Perfil:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;View By</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Visualizado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Shortcut:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atal&amp;ho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Shortcut Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo para adicionar atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do perfil:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create New Profile Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo para criar novo perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcut already assigned to {0} Action.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalho já definido para a ação {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Clear</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tab</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A&amp;ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile with such name already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um perfil com este nome já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose different name, please.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor escolher um nome diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export IDE Actions to XML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportar ações do IDE para XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export IDE Shortcuts to XML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportar atalhos do IDE para XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Editor Shortcuts to XML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportar atalhos do editor para XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Shortcuts to HTML</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportar atalhos para HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Outro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gene&amp;ral</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ge&amp;ral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Use Code Folding:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Utilizar dobramento de código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse by Default:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dobrar por padrão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meth&amp;ods</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mét&amp;odos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inner Classes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classes internas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imports</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Javadoc Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentários &amp;Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Completion:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar de código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto &amp;Popup Completion Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela &amp;pop-up de auto-completar automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Single Proposals Automatically</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir proposta única automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case Sensitive Code Completion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar de código com distinção de maiúsculas/minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Deprecated Members In Code Completion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir membros obsoletos no auto-completar de có&amp;digo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Closing Brackets Automatically</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir fechamento de parênteses automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camel Case  Behavior</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comportamento do Camel Case</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Camel Case Navigation For Java</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilitar a navegação por palavras unidas e iniciadas por maiúscula para Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Example: Caret stops at J, T, N in &quot;JavaTypeName&quot; when using next/previous word actions)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplo: Cursor pára em J, T, N em &quot;JavaTypeName&quot; quando utilizada a ação de próxima palavra/palavra anterior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macro Co&amp;de:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Có&amp;digo da macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macro Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Macro Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo para nova macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Sh&amp;ortcut...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir atalh&amp;o...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate macro name not allowed!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é permitido nome duplicado para macros!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table of Macros</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela de macros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Fonts &amp; Colors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes &amp; cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Profile</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Perfil de cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Duplicate ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Duplicar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High&amp;lighting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rea&amp;lce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Syntax</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Sintaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;nnotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A&amp;notações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clone</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Efeitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linguagens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foreground Chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor de primeiro plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foreground</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primeiro plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor de segundo plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Segundo plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Efects Color Chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor de cor dos efeitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Efects Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor dos efeitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lang&amp;uage:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ling&amp;uagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ca&amp;tegory:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ca&amp;tegoria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fo&amp;reground:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primei&amp;ro plano:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Background:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se&amp;gundo plano:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effects:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Efeitos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effect Color:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor do efeito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Wave Underlined:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sublinhado em o&amp;nda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&amp;ont:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>F&amp;onte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Underlined</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sublinhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wave Underlined</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sublinhado ondulado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strike Through</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tachado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Negrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Itálico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inherited</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Herdado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizado ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Azul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyan</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Azul-claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza escuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Gray</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cinza claro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magenta</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Violeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orange</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Laranja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pink</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vermelho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellow</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Amarelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Languages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as linguagens</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

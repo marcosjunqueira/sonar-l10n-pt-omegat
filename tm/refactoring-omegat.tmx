@@ -1,0 +1,3616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactoring API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de Refatoração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ref&amp;actor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ref&amp;atorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Rename...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Renomear...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fi&amp;nd Usages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pr&amp;ocurar utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cop&amp;y...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cop&amp;iar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Safe Delete...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exclusão &amp;segura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Move...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>U&amp;ndo</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Des&amp;fazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red&amp;o</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refa&amp;zer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Tab</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar aba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close All Tabs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar todas as abas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Other Tabs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar outras abas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing usages view</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando a visualização das utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing refactoring preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando a inspeção da refatoração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactoring...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatorando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactoring Progress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatoração em andamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rerun {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re-executar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do &amp;Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Refatorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Usages&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem utilizações&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NEEDS REFRESH</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>REQUER ATUALIZAÇÃO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error: this occurrence is in a read-only block of text and cannot be refactored.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro: esta ocorrência está em um bloco somente leitura de texto e não pode ser refatorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error: this occurrence is in a read-only file and cannot be refactored.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro: esta ocorrência está em um arquivo somente leitura e não pode ser refatorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>occurrence</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ocorrência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>occurrences</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ocorrências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>errors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Find Usages Results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados da &amp;pesquisa de utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Refactoring Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização da &amp;refatoração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform the prepared refactoring action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar a ação refatoração preparada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close this window without performing any changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar esta janela sem executar nenhuma alteração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand all nodes in the tree</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expandir todos os nós da árvore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse all nodes in the tree</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar todos nós na árvore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh the refactoring data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar os dados da refatoração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Logical View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir visualização lógica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Physical View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir visualização física</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Occurence - Ctrl+Period</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxima ocorrência - Ctrl+Ponto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous Occurence - Ctrl+Comma</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorrência anterior - Ctrl+Vírgula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following warnings and errors were found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes avisos e erros foram encontrados. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can continue only with warnings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode continuar apenas com avisos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;List of Errors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Lista de erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prepare</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collecting data...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coletando dados...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collecting usages...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coletando utilizações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing data...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializando dados...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking parameters...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificando parâmetros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Usages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please Wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Refactor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Refatorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; &amp;Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt; &amp;Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next &gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próximo &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Visualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Find</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aj&amp;uda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Continuar mesmo assim?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error opening Source Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro ao abrir Editor de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is not enough memory to complete this task.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há memória suficiente para completar essa tarefa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source tree is too large.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Árvore de código-fonte é muito grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please increase -J-Xmx value in your etc/netbeans.conf and restart the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, acrescente o valor de -J-Xmx em seu etc/netbeans.conf e reinicie a IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exclusão segura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Preview not Available&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Visualização não disponível&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module {0} threw {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo {0} jogado {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please report a bug againts {0} module and attach your var/log/messages.log.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor reportar o problema para o módulo {0} e anexar o arquivo var/log/messages.log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Does Not Exist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo não existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proposed Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatoração sugerida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactored {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatorado {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait, classpath scanning in progress...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde, analise no classpath em andamento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning Project Classpaths</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lendo classpaths do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Refatoração para Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The original element being refactored is not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O elemento que está sendo refatorado não está disponível. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was deleted or significantly changed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este foi excluído ou alterado significativamente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usages cannot be collected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizações não podem ser coletadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot refactor unresolved elements</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível refatorar elementos não resolvidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot refactor code that is defined outside of an open project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível refatorar o código que está definido fora de um projeto aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was an error deleting &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreram erros enquanto apagava &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show Usages...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir utilizaçõe&amp;s...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>References to selected elements were found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Referências encontradas para elementos selecionados. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove all references to these elements in order to safely delete your class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remova todas referências dos elementos a fim de excluir sua classe com segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe Delete cannot be invoked from Class/Method References</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exclusão Segura não pode ser chamada de Referências de Classe/Método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe Delete can be invoked only on a Method, Field or Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exclusão segura pode ser chamada apenas em um Método, Campo ou Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected method cannot be safely deleted since it implements an abstract method {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O método selecionado não pode ter exclusão segura desde que ele implemente um método abstrado {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create interface &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar interface &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create declaration of method &lt;b&gt;{0}&lt;/b&gt; in the new interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar declaração de método &lt;b&gt;{0}&lt;/b&gt; na nova interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move method &lt;b&gt;{0}&lt;/b&gt; to the new interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover método &lt;b&gt;{0}&lt;/b&gt; para nova interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move field &lt;b&gt;{0}&lt;/b&gt; to the new interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover campo &lt;b&gt;{0}&lt;/b&gt; para a nova interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move inner class &lt;b&gt;{0}&lt;/b&gt; to the new interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover inner class &lt;b&gt;{0}&lt;/b&gt; para a nova interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &lt;b&gt;{0}&lt;/b&gt; to the extends clause of the new interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &lt;b&gt;{0}&lt;/b&gt; para a cláusula estendida da nova interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add &lt;b&gt;{0}&lt;/b&gt; to the implements/extends clause.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar &lt;b&gt;{0}&lt;/b&gt; para a cláusula de implementação/estendida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve the element.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível resolver o elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing to extract.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nada a extrair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method {0} must be public and not static.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O método {0} deve ser public e não static.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} member cannot be extracted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} membro não pode ser extraído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected type must be a class (cannot perform this operation on an interface, enum or annotation type).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo selecionado deve ser uma classe (não pode executar esta operação em uma interface, enum ou tipo de anotação).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Member &quot;{0}&quot; cannot be extracted into a super class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membro &quot;{0}&quot; não pode ser extraído dentro de uma classe super. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not belong to the source type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Isto não pertence ao tipo de código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create class &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar classe &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create declaration of method &lt;b&gt;{0}&lt;/b&gt; in the new super class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar declaração de método &lt;b&gt;{0}&lt;/b&gt; na nova super classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &lt;b&gt;{0}&lt;/b&gt; to the new super class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &lt;b&gt;{0}&lt;/b&gt; para a nova super classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set &lt;b&gt;{0}&lt;/b&gt; to the extend clause.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir &lt;b&gt;{0}&lt;/b&gt; para a cláusula estendida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot pull up any members.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode retirar nenhum membro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected type has no supertypes in the currently opened projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo selecionado está sem supertipos no projeto aberto atualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected type and its supertypes have no members that could be pulled up.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo selecionado e estes supertipos não têm membros que possam ser retirados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No members are selected to be pulled up.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum membro foi selecionado para retirar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No supertype is selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum supertipo foi selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target type is not a supertype of the source type, or the source code for the target type is not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo destino não é um supertipo do tipo de código-fonte, ou o código do código-fonte para o tipo destino não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Member &quot;{0}&quot; cannot be pulled up.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membro &quot;{0}&quot; não pode ser retirado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not belong to the source type or to one of the source type supertypes that are subtypes of the target type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Isto não pertence ao tipo de código-fonte ou a um dos supertipos do tipo de código-fonte que são subtipos do tipo destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Member &quot;{0}&quot; already exists in the target type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membro &quot;{0}&quot; já existe no tipo destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot pull up two members with the same signature.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode retirar dois membros com a mesma assinatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Member &quot;{0}&quot; is being moved to interface, but is not public.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membro &quot;{0}&quot; está sendo movido para interface, mas não é público</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add abstract method: &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar método abstrato: &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &lt;b&gt;{0}&lt;/b&gt; to the target type.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &lt;b&gt;{0}&lt;/b&gt; para o tipo destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy &lt;b&gt;{0}&lt;/b&gt; to the type &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar &lt;b&gt;{0}&lt;/b&gt; para o tipo &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove &lt;b&gt;{0}&lt;/b&gt; element.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir &lt;b&gt;{0}&lt;/b&gt; elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make method &lt;b&gt;{0}&lt;/b&gt; abstract.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fazer método &lt;b&gt;{0}&lt;/b&gt; abstrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change modifier from &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar modificador de &lt;b&gt;{0}&lt;/b&gt; para &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>private</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>privado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>package private</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>pacote privado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>protected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>protegido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot push down any members.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode colocar nenhum membro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected type has no subtypes in the currently opened projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo selecionado está sem subtipos no projeto aberto atualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected type has no members that could be pushed down.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo selecionado não tem membros que possam ser colocados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No members are selected to be pushed down.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum membro está selecioando para ser colocado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} already exists in {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} já existe em {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected type must be an inner type (cannot perform this operation on a top-level type).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo selecionado deve ser um tipo interno (não pode executar esta operação em um tipo de nível superior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field named &lt;b&gt;{0}&lt;/b&gt; already exists in this class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo nomeado &lt;b&gt;{0}&lt;/b&gt; já existe nessa classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inner class named &lt;b&gt;{0}&lt;/b&gt; already exists in the target class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe interna nomeada &lt;b&gt;{0}&lt;/b&gt; já existe na classe destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class being moved to the outer level uses members of its outer class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe que está sendo movida para o nível externo usa membros desta classe externa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should let the refactoring create an instance variable holding reference to the original outer class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deveria deixar a refatoração criar uma variável instância mantendo referência a classe externa original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the super types of the target class already defines an inner class named &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um dos supertipos da classe destino já define uma classe interna nomeada &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make this class an inner class of &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fazer esta classe um classe interna de &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make this class a top-level class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fazer esta classe uma classe nível máximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename this class to &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear esta classe para &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a new instance field named &lt;b&gt;{0}&lt;/b&gt; pointing to the original outer class, update class constructors.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar um novo campo instância nomeado &lt;b&gt;{0}&lt;/b&gt; apontando para a classe externa original, atualiza construtores da classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add constructor since the default constructor will not be available in the super class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar construtor desde que o construtor padrão não esteja disponível na super classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add explicit constructor invocation since the default constructor will not be available in the super class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar chamada explícita de construtor desde que o construtor padrão não esteja disponível na super classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change from private to package private.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar de privado para privado por pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Supertype of &lt;b&gt;{0}&lt;/b&gt; where possible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar Supertipo de &lt;b&gt;{0}&lt;/b&gt; onde possível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change type of &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar tipo de &lt;b&gt;{0}&lt;/b&gt; para &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change return type of &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar tipo de retorno de &lt;b&gt;{0}&lt;/b&gt; para &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change type of local variable(s) &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar tipo de variável(is) local(is) &lt;b&gt;{0}&lt;/b&gt; para &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type {0} is not visible within the body of {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo {0} não está visível dentro do corpo de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Supertype can only be invoked on valid types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar Supertipo somente pode ser chamados em tipos válidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No supertype selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum supertipo selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new class {0} in package {1} as a copy of {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar uma nova classe {0} no pacote {1} assim como uma cópia de {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename this type of object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível renomear este tipo de objeto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java package, method, field or class has to be selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote Java, método, campo ou classe deve estar selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method overrides or implements methods in super classes/interfaces.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este método substitui ou implementa métodos em classes/interfaces do super. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They will also be renamed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Eles também serão renomeados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method overrides or implements methods in super classes/interfaces, so its name cannot be changed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este método substitui ou implementa métodos em classes/interfaces do super, entretanto este nome não pode ser alterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method overrides or implements a method in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este método substitui ou implementa um método em {0}. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method is also overridden or implemented in {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este método também é substituído ou implementado em {1}. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you really want to perform this operation, invoke it on the method in {2}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se você realmente deseja executar esta operação, chame-a no método em {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are methods in subclasses/implementors of {0} that override or implement this method.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existem métodos em subclasses/implementações de {0} que substituem ou implementam este método. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, the original method &quot;{0}&quot; in {1} will be overridden by method &quot;{2}&quot; in {3}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomear, o método original &quot;{0}&quot; em {1} será substituído por &quot;{2}&quot; em {3}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, the original method {0} in {1} will be overridden by method &quot;{2}&quot; in {3} with weaker access privileges.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomear, o método original {0} em {1} será substituído por &quot;{2}&quot; em {3} com menores privilégios de acesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, the original {0} method &quot;{1}&quot; in {2} will be overridden by {3} method &quot;{4}&quot; in {5}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomear, o método {0} original &quot;{1}&quot; em {2} será substituído pelo  {3} método &quot;{4}&quot; em {5}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, the original final method &quot;{0}&quot; in {1} will be overridden by method &quot;{2}&quot; in {3}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomear, o método original final &quot;{0}&quot; em {1} será substituído por &quot;{2}&quot; em {3}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, method &quot;{0}&quot; in {1} will override the original method &quot;{2}&quot; in {3}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomear, o método &quot;{0}&quot; em {1} irá substituir o método original &quot;{2}&quot; em {3}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, method {0} in {1} will override the original method &quot;{2}&quot; in {3} with stronger access privileges.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomar, o método {0} em {1} irá substituir o método original &quot;{2}&quot; em {3} com maiores privilégios de acesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, {0} method &quot;{1}&quot; in {2} will override the original {3} method &quot;{4}&quot; in {5}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomear, {0} método &quot;{1}&quot; em {2} irá substituir o original {3} método &quot;{4}&quot; em {5}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After renaming, method &quot;{0}&quot; in {1} will override the original final method &quot;{2}&quot; in {3}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de renomear, método &quot;{0}&quot; em {1} irá substituiro método original final &quot;{2}&quot; em {3}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name has not been modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome não foi modificado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No changes will be performed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma alteração será executada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; is not a valid Java identifier.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; não é um identificador Java válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; is not a valid package identifier.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; não é um identificador de pacote válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package &quot;{0}&quot; already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote &quot;{0}&quot; já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível renomear. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inner class {0} already exists in class {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe interna {0} já existe na classe {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class {0} already exists in folder {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe {0} já existe na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method {0} with the same signature already exists in class {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método {0} com a mesma assinatura já existe na classe {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field {0} already exists in class {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo {0} já existe na classe {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} already used.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} já foi usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The field to be renamed hides a field in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O campo a ser renomeado esconde um campo em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new field will hide a field in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O novo campo ocultará um campo em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name has not been specified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome não foi especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move class(es) into the same package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível mover classe(s) dentro do mesmo pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename element in library file: &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível renomear elemento no arquivo biblioteca: &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename method &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível renomear método &quot;{0}&quot;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source file &quot;{1}&quot; not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de origem &quot;{1}&quot; não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attempt to rename native method &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tentativa de renomear método nativo &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Renaming a native method can cause UnsatisfiedLinkError on runtime.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear um método nativo pode causar um UnsatisfiedLinkError em tempo de execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot refactor &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível refatorar &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot search for usages of this type of object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode procurar por utilizações deste tipo de objeto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Java element has to be selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um elemento Java tem que ser selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A target package has not been specified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um pacote destino não foi especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected source does not contain any class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código-fonte selecionado não contém nenhuma classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can not move a class from a source file that contains multiple top-level classes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não pode mover uma classe de um arquivo de origem que contém múltiplas classes de nível superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class &quot;{0}&quot; within the same package is using feature &quot;{1}&quot; of class you want to move (&quot;{2}&quot;).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe &quot;{0}&quot; dentro do mesmo pacote está usando característica &quot;{1}&quot; da classe que você deseja mover (&quot;{2}&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class &quot;{0}&quot; within the same package is using {1} class you want to move (&quot;{2}&quot;).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe &quot;{0}&quot; dentro do mesmo pacote está usando a classe {1} que você deseja mover (&quot;{2}&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class &quot;{0}&quot; within the same package is using {1} constructor declared in class you want to move (&quot;{2}&quot;).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe &quot;{0}&quot; dentro do mesmo pacote está usando o construtor {1} declarado na classe que você deseja mover (&quot;{2}&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class you want to move (&quot;{0}&quot;) is using feature &quot;{1}&quot; of class &quot;{2}&quot; within the same package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe que você deseja mover (&quot;{0}&quot;) está usando característica &quot;{1}&quot; da classe &quot;{2}&quot; dentro do mesmo pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class you want to move (&quot;{0}&quot;) is using {1} class (&quot;{2}&quot;) within the same package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe que você deseja mover (&quot;{0}&quot;) está usando a classe {1} (&quot;{2}&quot;) dentro do mesmo pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class you want to move (&quot;{0}&quot;) is using {1} constructor declared in class (&quot;{2}&quot;) within the same package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe que você deseja mover (&quot;{0}&quot;) está usando o construtor {1} declarado na classe (&quot;{2}&quot;) dentro do mesmo pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package &quot;{0}&quot; is read only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote &quot;{0}&quot; é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class &quot;{0}&quot; already exists in the target package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe &quot;{0}&quot; já existe no pacote destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the move, it will not be possible to import classes in the original default package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depois de mover, não será possível importar classes no pacote padrão original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the class is moved to the default package, classes in other packages will not be able to import the moved class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se a classe é movida para o pacote padrão, classes em outros pacotes serão inabilitadas de importar as classes movidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} already exists in package {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} já existe no pacote {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The parent package has been selected as the destination.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este pacote pai tem que ser selecionado como destino. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no changes to be performed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não existe alteração para ser executada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A package cannot be moved into one of its subpackages or into itself.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um pacote não pode ser movido dentro de um destes subpacotes ou dentro dele mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default package cannot be moved.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote padrão não pode ser movido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move file from library: &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível mover arquivo da biblioteca: &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are references in project &quot;{0}&quot; to moved files, but source project &quot;{0}&quot; does not depend on target project &quot;{1}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Há referências no projeto &quot;{0}&quot; para mover arquivos, mas o código-fonte do projeto &quot;{0}&quot; não depende do projeto de destino &quot;{1}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projects need not compile.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos não precisam ser compilados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot encapsulate this type of object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível encapsular este tipo de objeto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A field has to be selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um campo deve estar selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No field found in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum campo encontrado em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot encapsulate an interface field.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível encapsular um campo interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getter and setter names have to be valid method names.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nomes para métodos get's e set's devem ser nomes válidos para método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The accessibility of created methods is private but some selected fields are referenced from other sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A acessibilidade de criar métodos é privado mas alguns campos selecionados são referenciados de outros códigos-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The refactoring might break your code since created methods have a default accessibility but some selected fields are referenced from other sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A refatoração pode brecar seu código desde os métodos criados que tenham uma acessibilidade padrão, mas alguns campos selecionados são referenciados de outros códigos-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot replace {0} in {1} with void setter in {2}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível substituir {0} em {1} com void setter em {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The getter already exists but with wrong return type {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O getter já existe mas com tipo de retorno incorreto {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The getter already exists in superclass.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O getter já existe na super classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The setter already exists but with wrong return type {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O setter já existe mas com tipo de retorno incorreto {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The setter already exists in superclass.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O setter já existe na super classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing to encapsulate.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nada a encapsular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to select some checkbox.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você tem que selecionar algum checkbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method overrides or implements methods in super classes/interfaces.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O método substitui ou implementa métodos em super classes/interfaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are methods in subclasses or implementors of {0} that override or implement the method.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existem métodos em subclasses ou implementações de {0} que substitue ou implementa o método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot use the Change Method Parameters refactoring on methods with variable arguments.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não pode utilizar a refatoração Alterar Parâmetros do Método em métodos com argumentos variáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to provide {0} for all new parameters.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você tem que fornecer {0} para todos os novos parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>parameter name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>nome do parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>parameter type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>tipo do parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>default values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>valores padrões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change signature.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível alterar assinatura. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructor with the same signature already exists in class {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construtor com mesma assinatura já existe na classe {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to provide values for the new parameters.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você tem que fornecer valores para os novos parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate parameter name ({0}).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de parâmetro duplicado ({0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name &quot;{0}&quot; is already used as a name of local variable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome &quot;{0}&quot; já é usado como um nome de variável local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change modifiers of method in interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível alterar modificadores de métodos em interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You changed the access modifier to {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você alterou o modificador de acesso para {0}. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method will not be accessible for some of references.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método não estará acessível para algumas referências. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sources will not compile after refactoring!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os códigos-fonte não serão compilados depois da refatoração!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change parameters of this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível alterar parâmetros deste objeto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A method or the constructor has to be selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um método ou o construtor tem que ser selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have not selected anything to find.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não selecionou nada para pesquisar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Find Usages, Find Overriding Methods, or both.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar Procurar utilizações, Procurar métodos de sobrecarga, ou ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot refactor read-only file &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível refatorar o arquivo somente leitura &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>@interface members may not have parameters.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>membros da @interface podem não ter parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change parameters of &quot;{0}&quot; which overrides method from library class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível mudar parâmetros de &quot;{0}&quot; que sobreescreve o método da classe biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Varargs can be used only in the final argument position.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Varargs podem ser usados apenas na posição final do argumento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Rename on &amp;Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear em &amp;comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Method &amp;Parameters...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar &amp;parâmetros do método...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Method Parameters</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar parâmetros do método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear &lt;b&gt;{0}&lt;/b&gt; para &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usages of &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizações de &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overriding Methods</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobreescrevendo métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search From Base Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar da classe base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find All SubTypes of &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar todos os subtipos de &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Direct SubTypes of &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar subtipos diretos de &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>de &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encapsula&amp;te Fields...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enca&amp;psular campos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encapsulate Fields</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encapsular campos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encapsulate fields in class &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encapsular campos na classe &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move source to package &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Move código-fonte para o pacote &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &quot;{0}&quot; to package &quot;{1}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &quot;{0}&quot; para o pacote &quot;{1}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to &quot;{0}&quot; package</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para o pacote &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add import {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adiconar importação {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove import {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover importação {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Class...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &amp;classe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Package...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover pacote...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class was moved into another package and refactoring is necessary.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe foi movida para dentro de outro pacote e a refatoração é necessária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple classes were moved into another package and refactoring is necessary.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Múltiplas classes foram movidas para dentro de outro pacote e a refatoração é necessária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Classes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move listed classes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover classes listadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Package</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover pacotes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move class &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt; package</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover classe &lt;b&gt;{0}&lt;/b&gt; para o pacote &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move package &lt;b&gt;{0}&lt;/b&gt; to &lt;b&gt;{1}&lt;/b&gt; package</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover pacote &lt;b&gt;{0}&lt;/b&gt; para o pacote &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move class {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover classe {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of &amp;Classes:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de &amp;classes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move package {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover pacotes {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;To Package:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para paco&amp;te:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package &quot;{0}&quot; is located in more than one project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote &quot;{0}&quot; está localizado em mais de um projeto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, select the desired package in the Package Chooser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, selecione o pacote desejado na Seleção de pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot proceed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package &quot;{0}&quot; is located only in read-only projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O pacote &quot;{0}&quot; está localizado apenas em projetos somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A package corresponding to the entered name cannot be found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um pacote que corresponde ao nome informado não pode ser encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;lt;default&amp;gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;lt;padrão&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open In Navigator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir no navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot refactor this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível refatorar esse objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File is empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find references.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível encontrar referências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;lt;anonymous class&amp;gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;lt;classe anônima&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;lt;initializer&amp;gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;lt;inicializador&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construtor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variável local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Method &lt;b&gt;{0}&lt;/b&gt; of class &lt;b&gt;{1}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Metódo &lt;b&gt;{0}&lt;/b&gt; da classe &lt;b&gt;{1}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Class &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Classe &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Constructor &lt;b&gt;{0}&lt;/b&gt; of class &lt;b&gt;{1}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Construtor &lt;b&gt;{0}&lt;/b&gt; da classe &lt;b&gt;{1}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Field &lt;b&gt;{0}&lt;/b&gt; of class &lt;b&gt;{1}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Campo &lt;b&gt;{0}&lt;/b&gt; da classe &lt;b&gt;{1}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Package &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Pacote &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Variable &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Variável &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original Index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Índice original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access &amp;Modifier:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Modificador de acesso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Parameters:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Parâmetros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method Signature Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização de assinatura de método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>R&amp;emover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para &amp;cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para &amp;baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter &quot;{0}&quot; is used within method body.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O parâmetro &quot;{0}&quot; é utilizado como corpo de método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you really want to delete &quot;{0}&quot;?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja mesmo excluir  &quot;{0}&quot;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change parameters of &lt;b&gt;{0}&lt;/b&gt; {1} to &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar parâmetros do {1} &lt;b&gt;{0}&lt;/b&gt; para &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>constructor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>construtor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Getter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar getter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Setter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar setter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;List of Fields to Encapsulate:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Lista de campos à encapsular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fields' &amp;Visibility:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Visibilidade dos campos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Accessors' Visibility:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visibilid&amp;ade dos métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Use Accessors Even When Field Is Accessible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Utilizar métodos de acesso quando o campo é acessível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pr&amp;oject:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pr&amp;ojeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Localização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find &amp;Usages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar &amp;utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find &amp;Overriding Methods</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar por métodos &amp;sobrescritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Search from Base Class [{0}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Procurar da classe base [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find &amp;All Subtypes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar &amp;todos os subtipos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find &amp;Direct Subtypes Only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar apenas subtipos &amp;diretos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add parameter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar parâmetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type new name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Digite um novo nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination Supertype</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Destino do supertipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Members To Pull Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membros para retirar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select members to Pull Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione os membros para retirar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Members To Push Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membros para colocar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select members to Push Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione membros para colocar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declare Field For Current Outer Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declarar campo para a classe externa atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inner Class Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declare Static</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declarar estático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da interface</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Members To Extract</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membros para extrair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Members To Extract Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição dos membros para extrair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superclass Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da superclasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superclass name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da superclasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supertype To Use</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Supertipo a utilizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Supertype to Use</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar supertipo a utilizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Class:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta classe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;default package&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;pacote padrão&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search in &amp;Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar em &amp;comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Usages Results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar resultados de utilizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refactoring Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização da refatoração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename &amp;Without Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear &amp;sem refatorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;Without Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &amp;sem refatorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;lt;not available&amp;gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;lt;não disponível&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete element(s) and keep references to them, if any.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir elemento(s) e manter referências a eles, se houver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete classes and and keep references to them, if any.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir classes e manter referências a eles, se houver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete method &lt;b&gt;{0}&lt;/b&gt; and keep references to that method, if any.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir método &lt;b&gt;{0}&lt;/b&gt; e manter referências para este método, se houver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete methods and keep keep references to them, if any.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir métodos e manter referências para eles, se houver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are references to &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existem referências para &lt;b&gt;{0}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Search for usages and delete {0} classes&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Procurar por utilizações e excluir classes {0}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Search for usages and delete {0} elements&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Procurar por utilizações e excluir elementos {0}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Delete {0} classes&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Excluir classes {0}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Delete {0}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Excluir {0}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Search for usages and delete &lt;b&gt;{0}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Procurar por utilizações e excluir &lt;b&gt;{0}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sa&amp;fe delete (with usage search)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exclusão se&amp;gura (com procura de utilização)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Safely delete &lt;b&gt;{0}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Exclusão segura de &lt;b&gt;{0}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Search In Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar em comentário&amp;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Warning: Attempting to delete &lt;b&gt;{0}&lt;/b&gt; from a reference.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Aviso: Tentando excluir &lt;b&gt;{0}&lt;/b&gt; de uma referência.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Safely delete constructor &lt;b&gt;{0}&lt;/b&gt; of class &lt;b&gt;{1}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Exclusão segura do construtor &lt;b&gt;{0}&lt;/b&gt; da classe &lt;b&gt;{1}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Safely delete variable &lt;b&gt;{0}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Exclusão segura da variável  &lt;b&gt;{0}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Safely delete method &lt;b&gt;{0}&lt;/b&gt; of class &lt;b&gt;{1}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Exclusão segura do método &lt;b&gt;{0}&lt;/b&gt; da classe &lt;b&gt;{1}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Safely delete field &lt;b&gt;{0}&lt;/b&gt; of class &lt;b&gt;{1}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Exclusão segura do campo &lt;b&gt;{0}&lt;/b&gt; da classe &lt;b&gt;{1}&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Interface</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extrair interface</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Interface &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extrair interface &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract &amp;Interface...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extrair &amp;interface...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Interface - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extrair interface - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da &amp;interace:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Members to Extract:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Membros para extrair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Member</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Membro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Superclass</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extrair superclasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Superclass &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extrair superclasse &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Extract Superclass...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Extrair superclasse...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extract Superclass - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extrair superclass - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superclass &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome da superclasse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Abstract</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tornar abstrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pull Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retirar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pull Up Members Of &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retirar membros de &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pull &amp;Up...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Retirar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination &amp;Supertype:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Destino do &amp;supertipo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pull Up Members of &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retirar membros de &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Members to Pull Up:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Membros para retirar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colocar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push Down Members Of &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colocar membros de &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push &amp;Down...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Colocar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push Down Members of &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colocar membros de &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Members to Push Down:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Membros para colocar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep Abstract</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Manter abstrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Supertype Where Possible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar supertipo onde possível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Supertype Where Possible - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar supertipo onde possível - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Supertype &amp;Where Possible...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar supertipo o&amp;nde possível...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supertype to Use:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Supertipo a utilizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Apply Rename on Comments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renome&amp;ar comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Inner to Outer Level</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover classe interna para um nível externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &lt;b&gt;{0}&lt;/b&gt; to Outer Level</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &lt;b&gt;{0}&lt;/b&gt; para nível externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Inner to Outer &amp;Level...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover níve&amp;l interno para externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Class Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da &amp;classe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &quot;{0}&quot; to Outer Level</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover &quot;{0}&quot; para nível externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Declare Field for the Current Outer Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Declarar campos para a classe externa atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Field Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do &amp;campo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Class &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar classe &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Copy Without Refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Copiar sem refatoração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename file, class, and constructors to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear arquivo, classe e construtores para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename class and constructors to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear classe e construtores para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename method to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear método para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename field to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear campo para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename parameter to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear parâmetro para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename local variable to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear variável local para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename attribute to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear atributo para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename type parameter to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear tipo de parâmetro para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename enumeration to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear enumeração para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename annotation type to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear tipo de anotação para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename folder &quot;{0}&quot; to &quot;{1}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear pasta &quot;{0}&quot; para &quot;{1}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change {0} parameters of {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar parâmetros do {0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scope:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escopo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NewClass</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NovaClasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot perform the {0} refactoring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível realizar a refatoração {0}</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Objetos de imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows thumbnail.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir miniatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Miniatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load the image</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível carregar a imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while loading the image (corrupted image?)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro durante carregamento de imagem (imagem corrompida?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file {0} was modified externally.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} foi modificado externamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload it?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recarrega-lá?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mais zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menos zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize Zoom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Enlarge Factor:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aum&amp;entar fator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Decrease Factor:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Diminuir fator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle grid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar grade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Zoom...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Zoom personalizado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid input values.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valores de entrada inválidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aquivos de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports viewing of image files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporta visualização de arquivos de imagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Image module provides support for viewing image files in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de Imagem fornece suporte para visualizar  imagens na IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It includes zoom and grid functions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui funções de grade e zoom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>N/D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom Toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de zoom</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

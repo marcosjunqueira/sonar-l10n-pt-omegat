@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lexer to Editor Bridge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponte do editor com o Lexer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables use of the lexer module with the current editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilita a utilização do módulo lexer com o editor atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the bridge module that allows the lexersproduced by the lexer module to be used with the current editor module.This is temporary solution until the editor module will be built on topof the lexer module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este é a ponte que permite aos lexers produzidos pelo módulo lexer serem utilizado com o módulo de edição atual. Esta é uma solução temporaria até que o módulo de edição seja construído sobre o módulo do lexer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables lexical analysis</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilita analise lexicais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Lexer module supports incremental lexing over a Swing document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo Lexer suporta aplicação lexer ao longo de um documento Swing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also supports batch lexing over stream inputs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Também suporta aplicação lexer em lote sobre entradas de fluxo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The produced token information can be used by editor for syntax coloring but also by other modules that require lexical analysis.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A informação de símbolo produzido pode ser utilizada pelo editor para coloração de syntaxe e também por outros módulos que necessitem de análise léxica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides LanguageProvider implementation that gets the language descriptions from MimeLookup so the languages can be registered in xml-layer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Disponibiliza uma implementação de LanguageProvider a qual obtem as descrições de linguagem a partir do MimeLookup, desta forma as linguagens podem ser registradas no XML de camada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lexer to NetBeans Bridge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lexer para Ponte NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows to search for language descriptions by using MimeLookup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite a pesquisa de descrições de linguagens através do MimeLookup</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

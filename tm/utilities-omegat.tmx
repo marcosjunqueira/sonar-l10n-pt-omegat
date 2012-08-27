@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Files (*.java)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Java (*.java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Files (*.txt)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos texto (*.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rejecting attempt by machine {0} to open a file in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rejeitando tentativa da máquina {0} de abrir um arquivo no IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening {0} ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} cannot be opened; will tell the launcher it is closed immediately.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} não pode ser aberto; o lançador será avisado de que o arquivo será fechado imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} was saved, but the Open File server was not running.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} foi salvo, mas o servidor para abrir arquivo não estava em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manually halt the launcher process.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Interromper manualmene o processo de lançamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Open File...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir arquiv&amp;o...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File &quot;{0}&quot; does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo &quot;{0}&quot; não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; is a directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; é um diretório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; is not a plain file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; não é um arquivo simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot open &quot;{0}&quot; - UNC paths are not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível abrir &quot;{0}&quot; - caminhos UNC não são suportados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/path/to/jdk/jre/bin/java -jar /path/to/openfile.jar file1.java file2.java ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>/caminho/para/jdk/jre/bin/java -jar /caminho/para/openfile.jar arquivo1.java arquivo2.java ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-host HOSTNAME_OR_IP
+	Specify the hostname to connect to (default localhost).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-host HOSTNAME_OR_IP
+	Especifica o nome da máquina para conexão (padrão: localhost).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-port NUMBER
+	Specify the UDP port to connect to (default 7318).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-port NUMBER
+	Especifica a porta UDP para conexão (padrão: 7318).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-canon
+	Canonicalize file names to absolute name (default).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-canon
+	Normalizar nomes de arquivos para nome absoluto (padrão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-nocanon
+	Do not alter file names; useful with -host.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-nocanon
+	Não alterar nome de arquivos; útil com -host.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-nowait
+	Return immediately (default).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-nowait
+	Retornar imediatamente (padrão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-wait
+	Wait for the file to be edited and saved before returning.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-wait
+	Aguardar o arquivo ser editado e salvo antes de retornar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-line LINE_NUMBER
+	Open next file at a specified line number (starting with 1).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-line LINE_NUMBER
+	Abrir o próximo arquivo em uma linha especificada (começa com 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-help
+	Show this help.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-help
+	Exibe esta ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} does not exist, or is not a plain file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} não existe, ou não é um arquivo simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not open {0}, UNC paths are not supported</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível abrir {0}, caminhos UNC não são suportados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not open file at a specific line.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível abrir o arquivo em uma linha específica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open File could not find {0} in {1} ;
+perhaps there was a non-directory path component?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir arquivo não encontrou {0} em {1} ;
+talvez não foi fornecido um componente que não seja uma caminho?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open File could not find {0} in the {1} directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir Arquivo não encontrou {0} no diretório {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No valid file has been selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi selecionado um arquivo válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server and External Tool Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações de servidores e ferramentas externas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens specified file(s), possibly at given location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abre arquivos especificados, possivelmente no local indicado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--open file1[:line1]...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>--open arquivo1[:linha1]...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing arguments to --open</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faltando argumentos para --open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Recent File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir arquivos recentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regular Expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expressão regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window displaying search results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela que exibe resultados de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of found files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de arquivos encontrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of found files, optionally with occurences of a given string</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de arquivos encontrados, opcionalmente com ocorrências de um texto informado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal scrollbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de rolagem horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical scrollbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de rolagem vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/hide context area</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe/Oculta área de contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggles display of the matching string's context</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterna exibiação de textos correspondentes ao contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the previous matching string</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o texto corresponente anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the next matching string</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o próximo texto correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Use This Criterion for Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Utilizar este critério para pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Sear&amp;ch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar pes&amp;quisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stops searching and displays files found so far</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para a pesquisa e mostra os arquivos encontrados até o momento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substitui&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performs replace of all matches selected with a checked check-box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa substituição de todas correspondências selecionadas com uma caixa de marcação já marcada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify Crit&amp;eria</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificar crit&amp;ério</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays a Find dialog which allows to modify the search criteria</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe uma janela de busca que lhe permite modificar os critérios de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show A&amp;ll Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir todos deta&amp;lhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays links to all found occurences of the pattern to the Output Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe ligações para as ocorrências encontradas do padrão da janela de saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Res&amp;ults</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Res&amp;ultados da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each tab contains different search criterion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cada tabulação contém diferentes critérios de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Panel which shows all enabled search types for user allowing to select appropriate criteria for new search.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Painel que exibe todos tipos de pesquisa habilitados para o usuário, permitindo selecionar o critério mais adequado para uma nova pesquisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot start a new search because the previous replace task has not finished yet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode iniciar uma nova pesquisa porque a tarefa de substituição anterior ainda não foi terminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} has been deleted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} foi excluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is a directory now</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} é um diretório agora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} has changed since the start of the search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} foi alterado após o início da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is too big</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} é muito grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} cannot be read</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} não pode ser lido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove From Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No matching files were found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum arquivo encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {0} matching file(s).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado {0} arquivo(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {1} match(es) in {0} file(s).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado {1} combinação(ões) em {0} arquivo(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {1} match(es) of &quot;{2}&quot; in {0} file(s).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado {1} combinação(ões) de &quot;{2}&quot; em {0} arquivo(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To be replaced with &quot;{3}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Será subistituído com &quot;{3}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {0} matching files so far.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado {0} arquivos até o momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search stopped to prevent the IDE from running out of memory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa parada para prevenir a execução do IDE além da memória disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finishing the previous search...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Terminando a pesquisa anterior...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cleaning the previous results...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpando os resultados anteriores...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing details of the previous results...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imprimindo detalhes dos resultados anteriores...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search cancelled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa cancelada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {0} matching file(s) [searching...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado {0} arquivo(s) [pesquisando]...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {1} match(es) in {0} file(s) [searching...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado {1} combinação(ões) em {0} arquivo(s) [pesquisando]...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>line {0}, column {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>linha {0}, coluna {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>line {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>linha {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{1} at line {2}, column {3}]  {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[{1} na linha {2}, coluna {3}]  {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[{1} line {2}]  {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[{1} linha {2}]  {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>position {0}:{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>posição {0}:{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replacing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituindo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace over files completed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituição de arquivos terminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following issues were found before replacing started:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes casos foram encontrados antes de iniciar a substituição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following issues were encountered while replacing:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os seguintes casos foram encontrados enquando substituia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some issues were found before the replace operation was started.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alguns casos foram encontrados antes que a operação de substituição fosse iniciada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rescan files?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reanalisar arquivos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot access file {0} - it is currently being accessed by another action.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode acessar o arquivo {0} - está sendo acessado por outra ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rescan</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reanalisar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>removed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>removido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No file selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum arquivo selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple items selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Itens múltiplos selecionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&amp;ath:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C&amp;aminho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show node in Explorer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir nó no Explorer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Detail</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para detalhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show in Filesystems</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir em &amp;Sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&amp;osition within the file:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P&amp;osição dentro do arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dialog for searching by criteria</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela para pesquisa por critérios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locates and highlights the file in Explorer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localiza e realça o arquivo no Explorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot display the corresponding node.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível exibir o nó correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find in Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar em projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find in Files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar em arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find in Pro&amp;jects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar em pro&amp;jetos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace in Files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir em arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repla&amp;ce in Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substitu&amp;ir em projetos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find in Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar em arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace in Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir em arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace in Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir em projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Criteria</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Critério básico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} nodes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} nós</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Containing &amp;Text:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contendo o &amp;texto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(* = any string, ?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(* = qualquer texto, ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>= any character,  = escape for * ?)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>= qualquer caractere,  = escape por * ?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;eplace With:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substitui&amp;r por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;File Name Patterns:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Padrões de nome de arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Example: *.java, FZP??.jsp)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(Exemplo: *.java, FZP??.jsp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(all files)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(todos arquivos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text to replace found matches with</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto para substituir correspondências encontradas com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Whole Words</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavras &amp;inteiras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If checked, matches not having word boundaries on both ends will be ignored</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se marcado, combinações que não tenham palavras limitadas em ambos finais serão ignoradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ase Sensitive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Distinção de M&amp;aiús&amp;cula/Minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether the fulltext search should be case-sensitive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se o texto completo de pesquisa deve ser maiúscula ou minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Regular Expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expressão &amp;regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If checked, the search pattern will be used as a regular expression</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se marcdao, o padrão da pesquisa será utilizado como uma expressão regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scope</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escopo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Utilities</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilitários do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for file searching, bookmarks.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte a pesquisa de arquivos, marcadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The User Utilities module provides miscellaneous pieces of functionality such as support for URLs (bookmarks), and file searching.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Módulo de utilitários do usuário fornece diversas peças funcionais como o suporte a URLs (marcadores), e pesquisa de arquivos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also provides the open file feature, which helps you open a file in a previously unmounted filesystem.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Também é fornecida a funcionalidade de abrir arquivo, que ajuda a abrir um arquivo num sistema de arquivos ainda não-montado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Objetos de URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This URL object does not contain a valid URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este objeto de URL não contém uma URL válida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; is not a valid URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; não é uma URL válida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open In New Window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir em nova janela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred during creation of the default bookmarks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu um erro ao criar marcadores padrões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bookmarks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stores user Web bookmarks.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Armazena marcadores Web do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo diretório:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder with name &quot;{0}&quot; already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório com nome &quot;{0}&quot; já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bookmark Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do marcador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Bookmark Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo nome do marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bookmark URL:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL do marcador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Bookmark URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova URL de marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separator</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Separador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Bookmark</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcador Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online &amp;Docs and Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Documentação e suporte online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home on the Web</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Home na Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Keyboard Shortcuts Card</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cartão de &amp;atalhos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL that the bookmark points to.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL apontada pelo marcador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome deste objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Bookmark URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir URL do marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF Document Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Objetos de documentos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PDF Viewer Not Found ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador de PDF não encontrado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE needs a PDF viewer application, such as Acrobat Reader.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O IDE precisa de uma aplicação de visualização de PDF, como o Acrobat Reader. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select an executable program to view PDF files with.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione um programa para visualizar arquivos PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details of the problem: {0}: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detalhes do problema: {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current viewer:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador atual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecionar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while parsing file {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro analisando o arquivo {0}. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not have the expected structure (DTD).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo não tem a estrutura esperada (DTD).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File &quot;{0}&quot; does not exist or is not a plain file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo &quot;{0}&quot; não existe ou não é um arquivo simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot open &quot;{1}&quot; specified in &quot;{0}&quot; - malformed URL.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível abrir &quot;{1}&quot; especificado em &quot;{0}&quot; - URL mal-formada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot open &quot;{1}&quot; specified in &quot;{0}&quot; - only URLs having protocol &quot;file&quot; are supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível abrir &quot;{1}&quot; especificado em &quot;{0}&quot; - apenas URLs com protocolo &quot;file&quot; são suportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump To</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Saltar para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An action to quicky navigate to a file or a type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma ação de navegação rápida para um arquivo ou um tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module provides actions which allows to navigate to a file in an open project by entering its name, or a type by entering its type name or a regular expression or CamelCase name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo fornece ações que permitem navegar por arquivos em um projeto aberto informando seu nome, ou um tipo informando seu nome de tipo ou uma expressão regular ou nome CamelCase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to File...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para arquivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select in Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Seleciar em projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File &amp;Name (prefix, wildcards: &quot;?&quot; &quot;*&quot;):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome de arquivo (prefixo, curingas: &quot;?&quot; &quot;*&quot;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Matching Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Co&amp;mbinando arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Case Sensitive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Distinção de Maiús&amp;cula/Minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Files Found&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum arquivo encontrado&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching Other Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisando outros projetos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Hidden Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir arquivos &amp;ocultos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Prefer Current Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Preferir projeto atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prefer Current Project ({0})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preferir projeto atual ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case Sensitive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Distinção de Maiúscula/Minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prefer Current Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preferir projeto atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Hidden Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir arquivos ocultos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Matching Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Combinando arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto procurado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Type allows you to jump to type declarations in other files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir tipo, lhe permite saltar para as declarações de tipos em outros arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usages of {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilização de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &amp;File...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para &amp;arquivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &amp;Type...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para &amp;tipo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Type Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Janela de navegação de tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens Dialog, which permits for quick browsing of Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir a janela, a qual lhe permite navegar rapidamente pelos tipos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Types Found&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum tipo encontrado&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type &amp;Name (prefix, camel case: &quot;AA&quot; or &quot;AbcAb&quot;, wildcards: &quot;?&quot; &quot;*&quot;, exact match: end with space) :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do tipo (prefixo, camel case: &quot;AA&quot; ou &quot;AbcAb&quot;, curingas: &quot;?&quot; &quot;*&quot;, combinação exata: termina com espaço) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types Found :</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos encontrados :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case &amp;Sensitive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Di&amp;stinção de Maiúscula/Minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Tests</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Tested Class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para classes testadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jumps to the corresponding test class or source class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salta para a classe ou fonte de teste correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate To Test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegar para o teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Testing Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas de teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An action to quicky navigate to a the test for a file, or the file for a test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma ação de navegação rápida para um teste de um arquivo, ou um arquivo de teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projects Searching</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa em Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for searching projects for files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte à pesquisa de arquivos em projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module provides functionality for searching projects for files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo fornece funcionalidades para a pesquisa de arquivos dentro de projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find/Replace &amp;in Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesqu&amp;isar/Substituir em Projetos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find/Replace in Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar/Substituir em Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Open Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pr&amp;ojetos abertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto pri&amp;ncipal</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

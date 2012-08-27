@@ -1,0 +1,6990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrates CVS actions into IDE workflow.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integra as ações do CVS com o fluxo de trabalho do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduces project level CVS (Concurrent Versioning System) features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Introduz as ações do CVS (Concurrent Versioning System) à nível de projeto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version control actions, such as diff, update, and commit aid in streamlining typical team development cycles.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ações de controle de versão, como comparação, atualização e submisão fazem parte do cotidiano de um time de desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Versioning installation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalação do versionamento CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to finish installing the new CVS Versioning functionality,
+the IDE needs to disable the existing versioning control functionality.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A fim de concluir a instalação da nova funcionalidade de versionamento CVS, o IDE precisa desabilitar a funcionalidade de controle de versão existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can switch back to the old versioning support
+by enabling old VCS Versioning modules (Tools &gt; Module Manager).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É possível alternar novamente para o sistema de versionamento antigo apenas habilitando os antigos módulos versionamento VCS (Ferramentas &gt; Gerenciador de Módulos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is strongly recommended to restart the IDE after this installation completes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É extremamente recomendado reinicializar o IDE após a instalação ser finalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import into &amp;CVS Repository...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importar no repositório &amp;CVS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir alteraçõe&amp;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Comparar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Update</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>At&amp;ualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update with De&amp;pendencies</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar com de&amp;pendências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Commit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Submeter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tag...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Marcação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&amp;witch to Branch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alte&amp;rnar para o Branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mer&amp;ge Changes from Branch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar Alterações a par&amp;tir do Branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View Revision...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar revisão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search &amp;History...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar &amp;histórico...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show &amp;Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir &amp;anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide &amp;Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar &amp;anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;vert Modifications</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re&amp;verter modificações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;vert Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re&amp;verter exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Ignore</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ignorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Un&amp;ignore</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não &amp;ignorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>De&amp;lete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exc&amp;luir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Resolve Conflicts...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Resolver conflitos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cha&amp;nge CVS Root...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alt&amp;erar raiz do CVS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignored</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ignorado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locally New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localmente novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Up to date</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remotely New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remotamente novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locally Deleted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localmente excluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locally Modified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localmente modificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remotely Modified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remotamente modificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remotely Deleted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remotamente excluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conflito local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locally/Remotely Modified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localmente/remotamente modificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS password</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Senha do CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tentar novamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aborting ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abortando ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fetching {1} {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Obtendo {1} {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;&lt;h3&gt;Connection Failed!&lt;/h3&gt;&lt;p&gt;Cannot connect to CVS repository using CVS root:&lt;br&gt;&lt;tt&gt;{1}&lt;/tt&gt;.&lt;br&gt;&lt;br&gt;The following problem(s) occured:{0}Check password and proxy configuration.&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;body&gt;&lt;h3&gt;Falha de conexão!&lt;/h3&gt;&lt;p&gt;Impossível conectar ao repositório CVS utilizando a raiz:&lt;br&gt;&lt;tt&gt;{1}&lt;/tt&gt;.&lt;br&gt;&lt;br&gt;Os seguintes problemas ocorreram:{0}Verifique a senha e configuração do proxy.&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection has failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A conexão falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dialog allows to change connection parameters.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diálogo permite alterar os parâmetros de conexão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE: [{0}] {1} started</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE: [{0}] {1} iniciado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE: [{0}] {1} finished</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE: [{0}] {1} finalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE: [{0}] {1} unhandled error:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE: [{0}] {1} erro não pode ser tratado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE: [{0}] {1} restarted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE: [{0}] {1} reinicializado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE: [{0}] {1} failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE: [{0}] {1} falhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDE: [{0}] {1} cancelled by user</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>IDE: [{0}] {1} cancelado pelo usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for previous CVS command.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguardando comando CVS anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command Failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O comando falhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Command failed with the following error:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O comando CVS falhou com o seguinte erro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command Warnings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avisos do comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS command finished with following warnings:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O comando CVS finalizou com os seguintes avisos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (Queued)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (Em fila)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH connection failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conexão SSH falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening SSH channel failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abertura de canal SSH falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error executing {0} on server.\nSet CVS_SERVER environment variable properly.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro executando {0} no servidor.\nAjuste corretamente a variável de ambiente CVS_SERVER.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening SSH connection failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abertura da conexão SSH falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH: close connection failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SSH: fechamento da coxexão falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EOF: SSH tunnel closed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>EOF: túnel SSH fechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to checkout revision {0} of {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível obter a revisão {0} de {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Annotation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Anotação do CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removendo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Message:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mensagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search for a case insensitive substring in commit messages or leave blank.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por uma substring que não diferencia letras maiúscula e minúscula nas mensagens do que foi submetido ou deixar em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Username:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Usuário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search for commits made by a given user or leave blank.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por submissões feitas por um usuário ou deixar em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;From:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;De:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find only commits starting from a specified tag, branch or a date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrar somente submissões iniciadas de uma tag especificada, branch ou uma data. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave blank otherwise.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deixar em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;To:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find only commits before a specified tag, branch or a date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar somente submissões antes de um tag especificada, branch ou uma data. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for starting tag or branch name from list of all tags and branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por tag ou nome de branch iniciando de uma lista de todas tags e branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P&amp;rocurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for ending tag or branch name from list of all tags and branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por tag ou nome de branch terminando de uma liasta de todas tags e branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&amp;earch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P&amp;esquisar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execute search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar busca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resumo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show search results as a single list of all found commits</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir resultados da pesquisa em uma única lista de todas submissões encontradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show search results as a tree view of all commits with possibility to easily diff any two revisions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir resultados da pesquisa como uma árvore de todas submissões com possibilidade de facilmente diferenciar quaisquer revisões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re&amp;sumo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Histórico de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Search History does not search deleted files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: O histórico de pesquisa não busca por arquivos excluídos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the Output window for details.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja a janela de Saída para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Search History will not search occurrences in deleted files due to problem in CVS server setup.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: O histórico de pesquisa não buscará ocorrências em arquivos excluídos devido à problemas na configuração do servidor CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See {0} how to work around this problem.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja {0} para saber como contornar este problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Results Yet - Search in Progress...&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem resultados ainda - pesquisa em andamento...&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Results - Search Not Performed&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem resultados - pesquisa não executada&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of found commits</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de submissões encontradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flat list of found commits sorted by file name and revision number.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista plana de submissões encontradas ordenados por nome de arquivo e número de revisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff {0} and {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparar {0} e {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparação para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rollback to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desfazer para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening {0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rollback Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desfazer alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rolling Back Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desfazendo alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparação para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Commit In &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar submissão em &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Commit in:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar submissão em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Commit in Open Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar submissão em projetos abertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(state: dead; file was removed in this revision)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(situação: morto; o arquivo foi removido nesta revisão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tags:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcações:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no branches&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;sem branches&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no tags&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;sem marcações&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Commit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar submissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Commit in &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar submissão em &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Rollback</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar desfazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to overwrite file &quot;{0}&quot; with revision {1}?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja sobrescrever o arquivo &quot;{0}&quot; com a revisão {1}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Revision</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Revisão do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revision and Name of the File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Revisão e nome do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Author of the Change</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autor da alteração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time of Change</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hora da alteração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbolic Names (branches, tags)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nomes simbólicos (branches, tags)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit Message</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagem de submisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Diff - No Revision Selected&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Comparação - nenhuma revisão selecionada&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Diff - Too many revisions selected&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Comparação - Mais de uma revisão selecionada&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Diff - Illegal selection&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Comparação - Seleção ilegal&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisando histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxima diferença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Next Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para próxima diferença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go To Previous Difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para diferença anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Copy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cópia local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>V&amp;iew Revision...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>V&amp;isualizar revisão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>V&amp;iew Files Revisions...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>V&amp;isualizar revisões de arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>V&amp;iew {0} Projects Revisions...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>V&amp;isualizar {0} revisões de projetos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Working Branch HEAD</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>HEAD do branch de &amp;trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tag / Branch / Revision:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Marcação / Branch / Revisão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for a Revision from list of existing Revisions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por uma revisão da lista de revisões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a specific Tag / Branch / Revision</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione uma marcação / branch / revisão específica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working Branch HEAD</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>HEAD do branch de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the Working Branch HEAD</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar o HEAD do branch de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the Tag Name which has to be selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especificar o nome da marcação que deve ser selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View Revision - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar revisão - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View Selected Revision</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar revisão selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the file in the selected revision in the editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abre o arquivo da revisão selecionada no editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit Message:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menssagem de submissão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &quot;{0}&quot; is not under CVS control.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto &quot;{0}&quot; não está sob o controle do CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search will be performed in the scope of &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pesquisa será executada no escopo de &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desfazer adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkout latest version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Checkout da última versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwrite changes?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir alterações?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirmation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not lock {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível bloquear {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to delete selected files?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja realmente excluir arquivos selecionados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Working Copy:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório de &amp;trabalho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Current CVS Root:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Raiz &amp;CVS atual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New CVS Root:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nova raiz CVS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rewrite CVS/Root Files To Contain New CVS Root String</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reescrever CVS/Arquivos da raiz para receber nova string de raiz CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel Operation And Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar operação e fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change CVS Root</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar raiz CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows to rewrite CVS/Root files with new CVS Root string</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite reescrever CVS/Arquivos da raiz com nova string de raiz CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Editar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;unknown&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;desconhecido&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rewriting roots...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reescrevendo raízes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning {0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Analizando {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rewriting {0} ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reescrevendo {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Root Rewritten Successfully</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Raiz CVS reescrita com sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Root Rewrite failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reescrita da raiz CVS falhou: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ommit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Su&amp;bmeter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ommit Files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter arquiv&amp;os...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ommit {0} Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter pr&amp;ojetos de {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing {0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo projetos de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no open projects under CVS control.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não existem projetos abertos no controle CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar todos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ommit All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter t&amp;odos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo todos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos os projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm settings and commit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar configurações e submeter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel commit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar submissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no files to commit.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há arquivos à submeter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog lets you review list files to commit, exclude or include individual files and write commit message describing your changes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta caixa de diálogo leva você a revisar lista de arquivos à submeter, excluíndo ou incluíndo arquivos individuais e escrevendo mensagem de submissão descrevendo suas alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit - {0} - multiple branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter - {0} - múltiplos branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit - {0} - &quot;{1}&quot; branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter - {0} - branch &quot;{1}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit &amp;Message:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Menssagem de submissão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of changes your are committing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição de alterações que você está submetendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recent Messages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagens recentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregar modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot commit remotely modified files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não pode submeter arquivos modificados remotamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Update first.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Execute Atualizar antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot commit files with conflicts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não pode submeter arquivos com conflitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit files and resolve conflicts first.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Edite os arquivos e resolva os conflitos antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Committing to multiple branches, see Sticky column.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: Submetendo múltiplos branches, veja a coluna Fixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing to &quot;{0}&quot; branch.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo ao branch &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Files to Commit:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Arquivos à submeter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lists files to commit along with their commit options which you can change.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista arquivos à submeter adiante com suas opções de submissão das quais você pode alterar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticky tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação fixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Situação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit Action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ação de submissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository path</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add as Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar como texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add as Binary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar como binário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclude from Commit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover da submissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Committing {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submetendo &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing Commit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando submissão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclud&amp;e from Commit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remov&amp;er da submissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit Message Template is empty, do you really want to insert Template into the Commit Message area?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O modelo de mensagem da submissão está vazio, você realmente deseja inserir a mensagem de submissão na área?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no CVS/Template file for files being committed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há arquivo CVS/modelo para arquivos a serem submetidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select A Commit Message</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione uma mensagem de submissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Recent Commit Messages</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mensagens de submissão recentes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Commit message is empty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: mensagem de submissão está vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog lets you choose further actions to do after you successfully checked out sources from CVS.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta caixa de diálogo leva você a escolher ações adicionais para fazer depois que você obter com sucesso os códigos-fonte do CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;b&gt;Checkout Completed&lt;/b&gt;&lt;p&gt;
+You can continue with: &lt;ul&gt;&lt;li&gt;opening an existing NetBeans project or &lt;li&gt;creating a new one from checked out sources.&lt;/ul&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;b&gt;Checkout completo&lt;/b&gt;&lt;p&gt;Você pode continuar com: &lt;ul&gt;&lt;li&gt;abrindo um projeto NetBeans existente ou &lt;li&gt;criando um novo a partir dos fontes verificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do Not Show This Message Again</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não exibir esta mensagem novamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Project...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Project...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking out</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning for Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurando por projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checkout Completed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Checkout completo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;{0} projects were checked out.&lt;p&gt;Do you want to open a project?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;{0} projetos foram obtidos.&lt;p&gt;Deseja abrir um projeto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Do you want to create an IDE project from the checked-out sources?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Deseja criar um projeto do IDE dos códigos-fonte obtidos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;{0} project was checked out.&lt;p&gt;Do you want to open the project?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;{0} projeto foi obtido.&lt;p&gt;Deseja abrir o projeto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dismiss the dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descartar caixa de diálogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to file explorer and select a project to open from checked out sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o explorador de arquivos e selecionar um projeto para abrir de códigos-fonte obtidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to project wizard to create a new project from checked out sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para o assistente de projeto para criar um novo projeto dos códigos-fonte obtidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not find project for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde encontrar projeto para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sho&amp;w All Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exib&amp;e todas as alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sho&amp;w Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibi&amp;r alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sho&amp;w Files Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibi&amp;r alterações de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sho&amp;w {0} Projects Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibi&amp;r {0} alterações de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dafault (-kkv)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Padrão (-kkv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Binary (-kb)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Binário (-kb)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default locker (-kkvl)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloqueador padrão (-kkvl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only keywords (-kk)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Palavras-chave somente (-kk)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only values (-kv)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valores somente (-kv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old values (-ko)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valores antigos (-ko)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyword substitution (-k):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituição de palavra-chave (-k):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message (-m):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Messagem (-m):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff {0} to {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparar {0} para {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Computando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait, fetching annotation comment...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde, recuperando comentário de anotação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;lt;unknown&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;lt;desconhecido&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Files &amp;History...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar &amp;histórico de arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search {0} Projects &amp;History...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar &amp;histórico de projetos {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Files &amp;Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir &amp;anotações dos arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show {0} Projects &amp;Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir &amp;anotações de projetos {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando anotações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not load revision of {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível carregar revisão de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide File &amp;Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar &amp;anotações do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Files &amp;Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar &amp;anotações de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide {0} Projects &amp;Annotations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar &amp;anotações de projetos {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} [Search History]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} [Pesquisar histórico]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fetching history</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recuperando histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fetching history of {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recuperando histórico de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Update Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>At&amp;ualizar arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Update {0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>At&amp;ualizar {0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualiando arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating {0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando {0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating Sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating Sources of All Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando fontes de todos projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing update...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando atualização...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Revert Modifications</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Reverter modificações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updat&amp;e All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atual&amp;izar todos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to overwrite selected files with their repository version?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja substituir arquivos selecionados por sua versão do repositório?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to rollback content of &quot;{0}&quot; to revision {1}?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja desfazer o conteúdo de &quot;{0}&quot; para revisão {1}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm overwrite</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Update operation created local conflicts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conflitos locais criados da operação de atualização do CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reverting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Revertendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Files Were Changed By The Update&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum arquivo alterado pela atualização&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Removido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merged</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update status of the file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar situação do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respository location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update results</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultados da atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays results of the Update command</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe os resultados do comando Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Update {0} - {1} ({2})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualização do CVS {0} - {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Ignore {0} files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ignorar {0} arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Un&amp;ignore {0} files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não &amp;ignorar {0} arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import &amp;Message:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mensagem de importação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Repository Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta do &amp;repositório:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Root:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Raiz do CVS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;Projects with multiple roots can not be imported.&lt;p&gt;The project consists of:&lt;p&gt;{0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;body&gt;Projetos com múltiplas raízes não pode ser importada.&lt;p&gt;O projeto consiste de:&lt;p&gt;{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[cannot HTML escape]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[não pode escapar do HTML]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I&amp;mport into Repository...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>I&amp;mportar no repositório...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Project Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções do projeto de importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Enter CVS Repository]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[Informar repositório CVS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta &amp;local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Checkout After Import</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Checkout depois da importação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder to &amp;Import:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta à &amp;importar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the local folder to import into CVS repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especificar a pasta local à importar dentro do repositório CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the repository folder to import the local folder into.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especificar a pasta do repositório à importar dentro da pasta local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder to Import</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta à importar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Root</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Raiz do CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read CVS/Root</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ler CVS/Raíz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read CVS/Repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ler CVS/Repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing .cvsignore</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando .cvsignore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not generate .cvsignore for unshareable files!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode gerar .cvsignore para arquivos que não podem ser compartilhados!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder must exist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta deve existir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder seems to be already versioned</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta parece já estar versionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import message required</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagem de importaçao requerida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify repository module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especificar módulo do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid repository module name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de módulo do repositório inválido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Br&amp;owse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proc&amp;urar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Folder to Import</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar pasta à importar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folders</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pastas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Project with De&amp;pendencies</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar projetos com de&amp;pendências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating with Dependencies</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando com dependências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing Update</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando atualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for local folder to import into repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por pasta local à importar no repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse CVS repository for folder to import your files into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar repositório CVS para pasta à importar seus arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks out imported files from repository after Import finishes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifica arquivos importados do repositório depois que a importação estiver finalizada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes your local files versioned immediately without the need of an explicit checkout later.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Isto faz seus arquivos locais versionados imediatemente sem a necessidade de um checkout explicito depois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local folder to import into repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta local à importar no repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path in CVS repository to import your files into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho no repositório CVS à importar seus arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message describing your import action.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagem que descreve sua ação de importação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you specify what local folder to import into what repository folder and give a descriptive message of your import.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite especificar qual pasta local à importar em qual pasta do repositório e fornece uma mensagem descritiva da sua importação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not copy CVS metadata</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode copiar metadado do CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show differences</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir diferenças</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dif&amp;f All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Com&amp;parar todos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diffing All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparando todos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Diff Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Comparar arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Diff {0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Comparar {0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diffing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diffing &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparando &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diffing Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparando arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diffing {0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparando {0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xport Diff Patch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xportar patch de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xport Files Diff Patch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xpotar patch de comparação de arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xport {0} Projects Diff Patch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xpotar patch de comparação de {0} projetos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting Diff Patch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportando patch de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting &quot;{0}&quot; Diff Patch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportando patch de comparação &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting Files Diff Patch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exporatndo patch de comparação de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting {0} Projects Diff Patch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportando patch de comparação de {0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In selected context there is nothing to export!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No contexto selecionado não há nada à exportar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patch Files (*.diff, *.patch)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Patch (*.diff, *.patch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff patch export failed!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportação de patch de comparação falhou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff patch exported {0} diffs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportado {0} comparações de patch de comparação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace existing {0} file?.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir arquivo {0} existente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparar todos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resol&amp;ve Conflicts...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resol&amp;ver conflitos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resol&amp;ve Conflicts in Files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resol&amp;ver conflitos nos arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current ({0} based)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atual ({0} baseado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} [ Diff ]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} [ Comparar ]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Fetching files from repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Recuperando arquivos do repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait ...&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No File Selected&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum arquivo selecionado&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show locally modified files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir arquivos modificados localmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show remotely modified files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir arquivos modificados remotamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote vs Local</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remoto vs Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show both locally and remotely modified files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir arquivos locais e remotos modificados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to next difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para próxima diferença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to previous difference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para diferença anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Binary File {0}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[Arquivo binário {0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Base Revision</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma revisão de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remotely Modified (Based On {0})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificado remotamente (baseado em {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locally Modified (Based On {0})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificado localmente (baseado em {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Conflict (Based On {0})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conflito local (baseado em {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No local changes&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem alterações locais&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No remote changes&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem alterações remotas&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No local or remote changes&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem alterações locais ou remotas&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No conflicts found in file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum conflito encontrado no arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Working File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de trabalho local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result after merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resultado depois de mesclagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No conflicts found in files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum conflito encontrado nos arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File &quot;{0}&quot; is marked as Local Conflict because it cannot be updated from repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo &quot;{0}&quot; está marcado com conflito local por quê não pode ser atualizado do repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File on disk is unknown to CVS and some other file with the same name exists in repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo no disco é desconhecido do CVS e alguns outros arquivos com o mesmo nome existem no repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should delete &quot;{0}&quot; or move it away from current location and then run Update again.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve excluir &quot;{0}&quot; ou mover da localização atual e então executar Atualizar novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh Diff</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refreshing CVS Status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando status no CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Diff Patch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exportar patch de comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you choose name and location of exported path file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite escolher o nome e localização do arquivo exportado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Expotar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versioning status of the resource</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Situação do versionamento do recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository location of the resource</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização do repositório do recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff view</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar comparação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows lists of files that have changed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe lista de arquivos que foram alterados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tag Files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de &amp;marcação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tag {0} Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto {0} de &amp;marcação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tagging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tagging &quot;{0}&quot;...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcando &quot;{0}&quot;...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tagging Files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcando arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tagging {0} Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcando {0} projetos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Branch Files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos &amp;branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Branch {0} Projects...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos {0} &amp;Branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branching Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branching de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branching {0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branching {0} de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Merge Changes from Branch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar alterações a par&amp;tir do branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merging Changes from Branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclando alterações do branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Switch to Branch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alte&amp;rnar para o branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Switch Files to Branch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar arquivo&amp;s para o branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Switch {0} Projects to Branch...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar {0} projeto&amp;s para o branch...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switching to Branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternando para o branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switching &quot;{0}&quot; to Branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudando &quot;{0}&quot; para o branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switching Files to Branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudando arquivos para branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switching {0} Projects to Branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudando projetos {0} para o branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog lets you specify the name of the tag and options related to tagging.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta caixa de diálogo permite especificar o nome da marcação e opções relacionadas à marcação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tag name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome &amp;da marcação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Avoid Tagging Locally Modified Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Evitar marcação de arquivos modificados localmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS makes sure that your working directory does not contain any locally modified files before tagging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CVS assegura que seu diretório de trabalho não contém qualquer arquivo modificado localmente antes de iniciar a marcação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Move Existing Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mover marcação existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the tag already exists it will be moved to tag current revisions of files in your working directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se a marcação já existe será movida para a revisão atual da marcação de arquivos em seu diretório de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Delete Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Excluir marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exclui a marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm settings and tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar configurações e marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for tag from list of existing tags.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por marcação da lista de marcações existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tagging {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is nothing to branch!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há nada para o branch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog lets you specify detailed settings for creating a new branch such as the name of the new branch or whether to tag the root of the branch.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta caixa de diálogo permite especificar configurações detalhadas para criação de um novo branch como o nome do novo branch ou se marcar a raiz do branch. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also instruct Netbeans to switch your sources to this branch after branching completes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você também pode instruir o Netbeans à mudar seus fontes para este branch depois do &quot;branching&quot; completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm settings and branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar configurações e branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Branch Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do &amp;branch:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Switch to This Branch Afterwards</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudar para e&amp;ste branch depois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updates working directory to newly created branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar o diretório de trabalho para o branch mais novo criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for branch name in list of all branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por nome do branch na lista de todos branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tag Before Branching</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcar an&amp;tes do branching</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag root of the branch for future reference</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação raiz do branch para referência futura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome da marcação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the tag that will be used to tag the root of the branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da marcação que será utilizada para marcar a raiz do branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branche Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the Branche Name you want to switch to</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especificar o nome do branche que você deseja alternar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the Tag Name which has to be set after branching</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especificar o nome da marcação que deve ser ajustada depois do branching</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog lets you specify to which branch you want to switch to.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta caixa de diálogo leva você a especificar para qual branch você deseja mudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch to Branch - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudar para Branch - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm dialog and switch to branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo de confirmação e mudança para branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch to &amp;Trunk</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudar para &amp;trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch your working files to trunk</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mudar seus arquivos de trabalho para o trunk...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch to &amp;Branch:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudar para o &amp;branch:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch your working files to an existing branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudar seus arquivos de trabalho para um branch existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for branch name to switch to in list of all branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por nome de branch para mudar na lista de todos branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the branch to switch to</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do branch a ser alternado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you specify settings for merging changes from one branch to another.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite especificar configurações para alterações mescladas de um branch para outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge Changes from Branch - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar alterações do  branch - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm dialog and merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo de confirmação e mesclagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar mesclagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current branch of your working directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O branch atual do seu diretório de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is the destination for changes you will be merging.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este é o destino para alterações que você estará mesclando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge from &amp;Trunk</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar de um &amp;trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge changes that were made in trunk into your working directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar alterações que foram feitas no trunk do seu diretório de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge from &amp;Branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar do &amp;branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merge changes that were made in a branch other than trunk into your working directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mesclar alterações que foram feitas em um outro branch à exceção do trunk do seu diretório de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the branch to merge from</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do branch à mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for source branch name in list of all branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por nome de branch da fonte na lista de todos branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Merge Only Changes Made after Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mesclar somente alterações feitas depois da marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only changes that were made after this tag will be merged into you working directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Somente alterações que foram feitas depois que esta marcação for mesclada no seu diretório de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for tag that marks start of changes you want to merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar por marcação que marca o início das alterações que você deseja mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag Nam&amp;e:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nom&amp;e da marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag &amp;after Merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>M&amp;arcação depois de mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag the source branch after merging to mark changes you have already merged</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marca o branch da fonte depois que a mesclagem marcar alterações que você já mesclou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for name of the tag that will be used to tag the source branch after merging</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procura pelo nome da marcação que será utilizado para marcar o branch de origem depois de mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag Trunk after Merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação Trunk depois de mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag &quot;{0}&quot; Branch after Merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação &quot;{0}&quot; do branch depois de mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of an existing tag that marks start of changes you want to merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de uma marcação existente que marca o início das alterações que você deseja mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of a new or existing tag that will be used to tag the head of source branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de uma marcação nova ou existente que você utilizará para marcar o cabeçalho do branch de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proc&amp;urar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} folders</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} pastas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Merge Changes Into Working Branch:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mesclar alterações no branch de trabalho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Starting From:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Iniciando de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Until:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Até:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag Na&amp;me:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No&amp;me da marcação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ta&amp;g &quot;name&quot; Branch After Merge</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marc&amp;ação &quot;name&quot; do branch depois de mesclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Br&amp;anching Point / Branch Root</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto Br&amp;anching / Raiz branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Tag / Revision:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Marcação / Revisão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tru&amp;nk HEAD</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>HEAD do Tru&amp;nk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bran&amp;ch Head:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Head do Bran&amp;ch:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tag / R&amp;evision:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação / R&amp;evisão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Use System Proxy Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Utilizar configurações de proxy do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H&amp;TTP Proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proxy H&amp;TTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;SOCKS Proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proxy &amp;SOCKS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&amp;roxy Host:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor P&amp;roxy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&amp;ort:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>P&amp;orta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proxy Server Requires &amp;Login</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor Proxy requer &amp;login</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Na&amp;me:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No&amp;me:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Password:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Senha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;No Proxy (direct connection)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Sem proxy (conexão direta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not access:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode acessar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used NetBeans HTTP proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proxy HTTP do NetBeans utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detected KDE HTTP proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proxy HTTP KDE detectado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detected direct connection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conexão direta detectada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proxy Configuration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração do Proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check if the proxy server requires authentication</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifica se o servidor proxy requer autenticação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP/IP port number of the proxy server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número da porta TCP/IP do servidor proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP/IP host name of the proxy server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da máquina TCP/IP do servidor proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use proxy settings defined in IDE or use operating system settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar configurações do proxy definidas no IDE ou utilizar configurações do sistema operacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect directly to server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectar diretamente ao servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect via HTTP proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectar via proxy HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect via SOCKS 4 or SOCKS 5 proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectar via proxy SOCKS 4 ou SOCKS 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username for authentication on proxy server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de usuário para autenticação no servidor proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password for authentication on proxy server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Senha para autenticação no servidor proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog lets you specify network connection parameters to use when connection to a given CVS server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta caixa de diálogo permite que você especifique os parametros de conexão da rede para utilizar quando conectado à um servidor CVS. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible options include: HTTP proxy, SOCKS proxy, direct connection or system default.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções possíveis incluem: proxy HTTP, proxy SOCKS, conexão direta ou padrão do sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aliases</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apelidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing has been found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nada foi encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Tags</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar marcações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Branches and Tags:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Branches e marcações:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not create temporary folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar pasta temporária</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not list CVS tags.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode listar marcações do CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you browse for name of a branch in list of all available branches.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite você procurar por nome de um branch na lista de todos branches disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branch browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador de Branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of all available branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de todos branches disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not create temporary folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar pasta temporária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse CVS Module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar módulo CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Repository Contents:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conteúdo do &amp;repositório:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Repository Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar pasta do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you browse for modules in list of all modules in repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite você procurar por módulos na lista de todos módulos no repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador de módulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of all modules in the repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>LIsta de todos módulos no repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Specify location of CVS repository defined by CVS root.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Entre com a localização do repositório CVS definido pela raiz do CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS &amp;Root:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Raiz do CVS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proxy &amp;Configuration...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Configuração de Proxy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Local Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar pasta local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only :pserver:, :local:, :ext: and :fork: connection methods supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Somente métodos de conexão suportados :pserver:, :local:, :ext: e :fork:.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot connect to: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível conectar: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check username, password and repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique o nome de usuário, senha e repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot access specified repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível acessar o repositório especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Specify the CVS module and branch to checkout from CVS repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Entre com o módulo e branch do CVS o qual deva ser obtido a partir do repositório CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Module:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Módulo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(empty means all modules)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(vazio significa todos os módulos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify location of local folder to checkout module into.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Define a pasta local onde o módulo obtido será copiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Local Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta &amp;local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(local CVS working directory)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(diretório de trabalho local do CVS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module to Checkout</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo a ser obtido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authentication in progress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autenticação em progresso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking network connection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificando conexão de rede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting CVS Server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectando ao servidor CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use internal SSH</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar SSH interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;member Password</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>L&amp;embrar senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Shell Command:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comando &amp;shell:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;body&gt;IDE directly supports following CVS root types:&lt;dl&gt;&lt;dt&gt;&lt;tt&gt;:pserver:username@hostname:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;for connecting to CVS pserver repositories&lt;/dd&gt;&lt;dt&gt;&lt;tt&gt;:ext:username@hostname:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;for connecting CVS repository using SSH, etc.&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;Following types require external &lt;tt&gt;cvs&lt;/tt&gt; program:&lt;dl&gt;&lt;dt&gt;&lt;tt&gt;:fork:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;for protocol access to local CVS repository&lt;/dd&gt;&lt;dt&gt;&lt;tt&gt;:local:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;for direct access to local CVS repository&lt;/dd&gt;&lt;dl&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;&lt;body&gt;O IDE suporta os seguintes tipos de raízes CVS:&lt;dl&gt;&lt;dt&gt;&lt;tt&gt;:pserver:username@hostname:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;para conexão à repositórios CVS pserver&lt;/dd&gt;&lt;dt&gt;&lt;tt&gt;:ext:username@hostname:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;para conectar ao CVS utilizando SSH, etc.&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;Os seguintes tipos requerem programas &lt;tt&gt;cvs&lt;/tt&gt; externos:&lt;dl&gt;&lt;dt&gt;&lt;tt&gt;:fork:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;para protocolo de acesso ao repositório CVS local&lt;/dd&gt;&lt;dt&gt;&lt;tt&gt;:local:/repository_path&lt;/tt&gt;&lt;/dt&gt;&lt;dd&gt;para acesso direto ao repositório CVS local&lt;/dd&gt;&lt;dl&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;dit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;ditar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &amp;Internal SSH</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar SSH &amp;interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &amp;External Shell</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar shell &amp;externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Repository Path:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho do &amp;repositório:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Access Method:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método de &amp;acesso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;User:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Usuário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H&amp;ost:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Máquin&amp;a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Port:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Porta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection method to use when connecting to this CVS server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Método de conexão utilizado ao tentar conectar ao servidor CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your username</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seu nome de usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host name of the CVS server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da máquina do servidor CVS. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of connection via SSH, host name of the SSH server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No caso de conexões via SSH, nome da máquina do servidor de SSH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP/IP port number of the CVS server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número da porta TCP/IP do servidor CVS. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of connection via SSH, port number of the SSH server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No caso de conexões SSH, número da porta do servidor SSH. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave blank for default port.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deixar em branco para porta padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path to CVS repository to connect to</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Camiho do repositório CVS a ser conectado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not create folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível criar a pasta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local working directory must be specified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório de trabalho local deve ser especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not write into:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível escrever em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path points to file but directory is expected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O caminho aponta para um arquivo, mas é esperado um diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you browse for local destination folder for checked out files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite navegar pela pasta de destino dos arquivos obtidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this panel you specify the CVS root of your repository and any parameters needed for making connection to it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Neste painel deve ser especificado a raiz do CVS do repositório, bem como todo e qualquer paramêtro necessário para que a conexão seja realizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test connection failed, suggesting to setup a proxy.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conexão de teste falhou, lembre-se de configurar o proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not write password file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível escrever no arquivo de senhas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately further actions need to read from it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infelizmente ações futuras necessitarão ler a partir deste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid CVS Root:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Raiz CVS inválida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verification stopped by user!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificação parada pelo usuário!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit CVS root string field by field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar a string da raiz do CVS campo a campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit connection parameters and proxy settings for connection to this CVS server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar os parâmetros de conexão e proxy para a conexão com o servidor CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your SSH password will be stored on disk so you won't have to enter it the next time you connect.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A senha SSH será gravada no disco para que não seja necessário informa-la durante a próxima conexão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your SSH password</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sua senha SSH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use external program or command to establish connection to this CVS server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar um programa externo ou comando para estabelecer uma conexão com este servidor CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User built-in implementation of SSH to establish connection to this CVS server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizar a implementação interna para estabelecer uma conexão SSH com este servidor CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External command to execute which will provide connection to this CVS server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comando externo o qual proverá conexão com este servidor CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your CVS password used for pserver authentication.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Senha do CVS utilizada para autenticação pserver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Netbeans uses system proxy &quot;{0}&quot; that cannot be changed here.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Netbeans utiliza o proxy do sistema &quot;{0}&quot; o qual não pode ser alterado aqui. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to unset it from your system environment first.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É necessário remover a variável de ambiente primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to configure proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível configurar o proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for modules to check out in the list of all modules in the repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procura pelos módulos a serem obtidos na lista completa de módulos do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for specific branch to check out in the list of all branches in the repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procura por um branch específico a ser obtidos na lista completa de branches do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for local folder to check out into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procura por uma pasta local onde serão copiados os arquivos obtidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the branch to check out.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do branch a ser obtido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave blank for default branch (trunk).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deixar em branco para branch padrão (trunk).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of modules to check out separated by semicolons (;).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de módulos a serem obtidos, separados por ponto e vírgula (;). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave blank to check out all modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deixar em branco para obter todos os módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local folder to check out selected modules into</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta local onde serão copiados os arquivos obtidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you pick modules to check out, specify a branch to check out and destination local folder for checked out files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite escolha de módulos, especificar um branch bem como a local de destino, dos arquivos obtidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit CVS Root</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar raiz do CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lets you edit CVS root string field by field, specifying connection method, username, password, CVS host and path to repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite editar a string da raiz do CVS campo a campo, especificando o método de conexão, usuário, senha, o servidor CVS bem como o caminho do repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse for external executable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar um executável externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse For External Executable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procura por um executável externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows CVS status of selected files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe a situação do CVS dos arquivos selecionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unknown age</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>idade desconhecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 second ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1 segundo atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} seconds ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} segundos atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 minute ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1 minuto atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} minutes ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} minutos atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 hour ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1 hora atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} hours ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} horas atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 day ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>1 dia atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} days ago</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of modified files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de arquivos modificados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lists all files that are not in sync with repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista todos os arquivos que não estejam sincronizados com o repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticky Tag</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marcação fixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticky Branch, Tag or Date</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branch fixo, marcação ou data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versioning status of the file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Situação de versionamento do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File location in repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização do arquivo no repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; branch</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branch &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multiple branches</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>múltiplos branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Added</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New In Repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo no repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modified In Repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificado no repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excluded</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Local Changes&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem alterações locais&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Remote Changes&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem alterações remotas&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Local/Remote Changes&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem alterações locais/remotas&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diff All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comparar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submeter todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh Status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show local changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe as alterações locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show repository changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe as alterações no repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe todas as alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refreshing Versioning view</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizando visualização de versionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticky</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticky Branch, Tag or Revision</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Branch fixo, marcação ou revisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caminho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pure file name without path</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apenas nome do arquivo, sem o caminho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last known CVS status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Última situação do CVS conhecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções do CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Variable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Status Label Format Variables:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variáveis de formatação do rótulo de &amp;situação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{status} - CVS status of the file (Modified, New, etc...)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{situação} - Situação CVS do arquivo (Modificado, Novo, etc...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{tag} - Sticky tag information: branch name, tag name, or date</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{marcação} - Colar informação da marcação: nome do branch, nome da marcação, ou data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{binary} - Binary flag: -kb CVS keyword substitution</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{binário} - Marca binária: -kb substituição de palavra-chave CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{revision} - CVS revision number (1.2, 1.5.2.2, etc.)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{revisão} - número da revisão CVS (1.2, 1.5.2.2, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Status Label Format:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formatação do rótulo da &amp;situação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&amp;dd Variable...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A&amp;dicionar variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply &quot;&amp;Exclude From Commit&quot; On New Files Automatically</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aplicar &quot;&amp;Excluir da submissão&quot; em novos arquivos automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Wrap Commit Messages To (characters):</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Q&amp;uebra automatica de mensagens de subimissão para (caracteres):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adds a new status variable to the status label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar uma nova variável de situação ao rótulo de situação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Newly created files will have to be manually included in commit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novos arquivos deverão ser incluídos manualmente ao submeter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commit messages longer than the specified number of characters will be wrapped to multiple lines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagens grandes de submissão maiores que o número de caracteres especificados serão quebrados em múltiplas linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definition of the status label shown beside versioned files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definição do rótulo de situação exibido dentro dos arquivos versionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS Client Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca para cliente do CVS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A CVS client library, that substitutes the client side of the native CVS executable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma biblioteca cliente CVS, a qual substitui o lado cliente de um cliente executável de CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The CVS Client Library module implements the client side of CVS server connection.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo biblioteca cliente CVS implementa o lado cliente da conexão do servidor CVS. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local connections are not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conexões locais não são suportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version Control</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Controle de versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No files have been specified for addition.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum arquivo a ser adicionado foi informado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aborted during request processing.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abortado durante o processo de requisição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aborted during connecting to the server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abortado durante conexão com o servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file {0} that is used for commit log message doesn't exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} que é utilizado para mensagens de log de submissão não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while reading file {0} that is used for commit log message.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro lendo arquivo {0} o qual é utilizado como arquivo de log de mensagens para a submissão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server closed connection.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O servidor fechou a conexão. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the output log for details.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique a saída do log para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The message may not be null nor empty!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A mensagem não pode ser nula nem vazia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module may not be null nor empty!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo não pode ser nulo ou vazio!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no module&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;sem módulo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The release tag may not be null nor empty!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A marcação de liberação não pode ser nula ou vazia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no release tag&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;sem marcação de liberação&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vendor tag may not be null nor empty!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O fornecedor não pode ser nulo ou vazio!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no vendor tag&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;sem marcação de fornecedor&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No files have been specified for removal.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foram especificados arquivos para exclusão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete file {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível excluir arquivo {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the .cvswrappers file in the home directory on the client</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>o arquivo .cvswrappers no diretório home do cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the environment variable CVSWRAPPERS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>variável de ambiente CVSWRAPPERS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while processing wrapper information from {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um erro ocorreu durante o processamento das informações do empacotador a partir de {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown host {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Máquina {0} desconhecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I/O error while connecting to host {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro de E/S enquanto conectando à máquina {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No route to host {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem rota para a máquina {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot connect to host {0}:{1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível conectar à máquina {0}:{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General error during authentication with host.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro geral durante a autenticação com a máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host name must not be null.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome da máquina não pode ser nulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authentication failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Autenticação falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Response from server was: &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A resposta do servidor foi: &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot verify server connection.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível verificar a resposta do servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot open server connection.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível abrir conexão com o servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong Password.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Senha incorreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Received unknown response from server:&lt;p&gt;&lt;tt&gt;{0}&lt;/tt&gt;&lt;p&gt;Check your setup please:&lt;ul&gt;&lt;li&gt;Are you connecting to supported CVS server?&lt;li&gt;Is not misconfigured &lt;tt&gt;CVS_SERVER{1}&lt;/tt&gt; environment variable?&lt;li&gt;For &lt;tt&gt;:local:&lt;/tt&gt; repositories:&lt;br&gt;What &lt;tt&gt;cvs&lt;/tt&gt; binary is executed?&lt;br&gt;It is defined by &lt;tt&gt;CVS_EXE{2}&lt;/tt&gt; environment variable.&lt;/ul&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Resposta desconhecida recebida do servidor:&lt;p&gt;&lt;tt&gt;{0}&lt;/tt&gt;&lt;p&gt;Verifique sua instalação:&lt;ul&gt;&lt;li&gt;Você está conectado ao servidor CVS suportado?&lt;li&gt;A variável de ambiente &lt;tt&gt;CVS_SERVER{1}&lt;/tt&gt; não está mal configurada?&lt;li&gt;Para repositórios &lt;tt&gt;:local:&lt;/tt&gt;:&lt;br&gt;Qual binário &lt;tt&gt;cvs&lt;/tt&gt; é executado?&lt;br&gt;É definido pela variável de ambiente &lt;tt&gt;CVS_EXE{2}&lt;/tt&gt;.&lt;/ul&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage: cvs [global options] command [command-options-and-arguments]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utlização: cvs [opções globais] comando [argumento-e-opções-de-comando]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specify {0} for a list of global options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>informe {0} para uma lista de opções globais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specify {1} for a list of possible commands</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>informe {1} para uma lista de comandos possíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specify {2} for a list of command synonyms</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>especifique {2} para uma lista de sinônimos de comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS global options (specified before the command name) are:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções globais do CVS (especificado antes do nome do comando) são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-H           Displays usage information for command.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-H           Exibe informação de utilização do comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-q           Cause CVS to be somewhat quiet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-q           Torna o CVS mais silencioso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-Q           Cause CVS to be really quiet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-Q           Torna o CVS realmente silencioso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r           Make checked-out files read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r           Torna arquivos obtidos como somente-leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-w           Make checked-out files read-write (default).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-w           Torna arquivos obtidos como leitura-escrita (padrão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-l           Turn history logging off.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-l           Desliga o histórico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-n           Do not execute anything that will change the disk.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-n           Não executa nada que altere o disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-t           Show trace of program execution -- try with -n.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-t           Exibe a trilha de execução do programa -- tente com -n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-v           Display JavaCVS version.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-v           Exibe a versão do JavaCVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-T tmpdir    Use 'tmpdir' for temporary files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-T tmpdir    Utiliza 'tmpdir' para arquivos temporários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-e editor    Use 'editor' for editing log information.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-e editor    Utiliza 'editor' para edição de informação do log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-d CVS_root  Overrides $CVSROOT as the root of the CVS tree.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-d CVS_root  Sobrescreve $CVSROOT como a raiz da árvore CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-f           Do not use the ~/.cvsrc file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-f           Não utiliza o arquivo ~/.cvsrc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-z #         Use compression level '#' for net traffic.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-z #         Utiliza compressão de nível '#' para tráfego na rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-s VAR=VAL   Set CVS user variable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-s VAR=VAL   Define variável do usuário CVS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS commands are:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os comandos CVS são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CVS command synonyms are:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os sinônimos de comandos CVS são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown command: ''{0}''</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comando desconhecido: ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>add [-k rcs-kflag] [-m message] files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>add [-k rcs-kflag] [-m mensagem] arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a new file/directory to the repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicona um novo arquivo/diretório ao repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilização: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-k      Use &quot;rcs-kflag&quot; to add the file with the specified kflag.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-k      Utilize &quot;rcs-kflag&quot; para adicionar o arquivo com o kflag especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-m      Use &quot;message&quot; for the creation log.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-m      Utilize &quot;mensagem&quot; para log de criação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>annotate [-lRf] [-r rev|-D date] [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>annotate [-lRf] [-r rev|-D data] [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the last revision where each source line was modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe a última revisão onde cada linha foi modificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-l      Local directory only, no recursion.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-l      Somente diretório local, não é recursivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-R      Process directories recursively.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-R      Processa os diretórios recursivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-f      Use head revision if tag/date not found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-f      Utiliza a revisão mais atual caso a marcação/data não for encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev  Annotate file as of specified revision/tag.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev  Anota o arquivo com a revisão/marcação especificada.        </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-D date Annotate file as of specified date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-D data Anota o arquivo com a data especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>checkout [-ANPRcflnps] [-r rev | -D date] [-d dir] [-j rev1] [-j rev2] [-k kopt] modules...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>checkout [-ANPRcflnps] [-r rev | -D data] [-d dir] [-j rev1] [-j rev2] [-k kopt] módulos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check out the sources from repository to local working directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carrega os códigos-fonte a partir do repositório remoto para o diretório de trabalho local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-A      Reset any sticky tags/date/kopts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-A     Redefine qualquer marcação/data/kopts fixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-N      Don't shorten module paths if -d specified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-N      Não encurta caminho dos módulos caso -d for especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-P      Prune empty directories.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-P      Remove diretórios vazios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-c      &quot;cat&quot; the module database.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-c      &quot;cat&quot; o banco de dados de módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-f      Force a head revision match if tag/date not found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-f     Força uma revisão de cabeçalho que combine se marcação/data não encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-l      Local directory only, not recursive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-l      Diretório local apenas, não recursivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-n      Do not run module program (if any).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-n      Não executar programa do módulo (se existir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-p      Check out files to standard output (avoids stickiness).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-p      Carrega os arquivos para a saída padrão (evita persistência).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-s      Like -c, but include module status.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-s      Igual -c, mas inclui o estado do módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev  Check out revision or tag.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev  Carrega a revisão ou marcação. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(implies -P) (is sticky)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(implica -P) (é fixo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-D date Check out revisions as of date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-D data Obtem revisões por data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-d dir  Check out into dir instead of module name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-d dir  Obtem em 'dir' ao invés do nome do módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-k kopt Use RCS kopt -k option on checkout.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-k kopt Utiliza a opção RCS kopt -k durante carregamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-j rev  Merge in changes made between current revision and rev.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-j rev  Mescla as alterações feitas entre a revisão corrente e rev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>commit [-nRlf] [-m msg | -F logfile] [-r rev] files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>commit [-nRlf] [-m msg | -F arquivolog] [-r rev] arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check files into the repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Submete os arquivos ao repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-n      Do not run the module program (if any).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-n      Não executar programa do módulo (se existir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-l      Local directory only (not recursive).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-l      Diretório local apenas, não recursivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-f      Force the file to be committed; disables recursion.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-f      Força o arquivo ser submetido; desabilita recursividade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-F file Read the log message from file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-F arquivo Obtem a mensagem de log a partir do arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-m msg  Log message.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-m msg  Mensagem de log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev  Commit to this branch or trunk revision.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev  Submete para este branch ou revisão do trunk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The message was not specified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A mensagem não foi especificada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please use -m or -F options.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilize as opções -m ou -F.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>diff [-lNR] [rcsdiff-options] [[-r rev1 | -D date1] [-r rev2 | -D date2]] [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>diff [-lNR] [rcsdiff-opções] [[-r rev1 | -D data1] [-r rev2 | -D data2]] [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show differences between local file and a revision, or between two revisions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe as diferenças entre arquivos locais e uma determinada revisão, ou entre duas revisões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-D d1   Diff revision for date against working file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-D d1   Diff da revisão para a data informada contra o arquivo de trabalho local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-D d2   Diff rev1/date1 against date2.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-D d2   Diff da rev1/data1 contra data2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-N      include diffs for added and removed files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-N      inclui diffs para arquivos adicionados e removidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev1 Diff revision for rev1 against working file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev1 Compara revisão para rev1 contra arquivo atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev2 Diff rev1/date1 against rev2.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev2 Diff de rev1/date1 contra rev2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>--ifdef=arg     Output diffs in ifdef format.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>--ifdef=arg     Saída diffs no formato ifdef.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(consult the documentation for the CVS server diff program for rcsdiff-options.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(consultar a documentação para programa diff do servidor CVS por rcsdiff-options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most popular is -c for context diffs but there are many more).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O mais popular é -c para diffs de contexto mas existem muito mais).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>export [-NPRfln] [-r rev | -D date] [-d dir] [-k kopt] module...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>export [-NPRfln] [-r rev | -D data] [-d dir] [-k kopt] módulo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export sources from CVS, without administrative files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exporta fontes do CVS, sem arquivos administrativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-l      Local directory only, not recursive.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-l      Diretório local apenas, não recursivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-R      Process directories recursively (default).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-R      Processa diretórios recursivamente (padrão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev  Export revision or tag.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev  Exporta revisão ou marcação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-D date Export revisions as of date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-D data Exporta revisões como data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-d dir  Export into dir instead of module name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-d dir  Exporta no dir ao invés do nome do módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>must specify a tag or date</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>deve especificar uma marcação ou data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>import [-d] [-k subst] [-I ign] [-m msg] [-b branch] [-W spec] repository vendor-tag release-tags...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>import [-d] [-k subst] [-I ign] [-m msg] [-b branch] [-W spec] repositório vendor-tag release-tags...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import sources into CVS repository, using a vendor branch.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importa fontes no repositório CVS, utilizando um branch do vendedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-d        Use the file's modification time as the time of import.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-d        Utiliza a hora de modificação do arquivo como hora da importação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-k sub    Set default RCS keyword substitution mode.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-k sub    Define modo de substituição da palavra-chave RCS padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-I ign    More files to ignore (!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-I ign    Mais arquivos à ignorar (!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to reset).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>à redefinir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-b bra    Vendor branch id.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-b bra    Id do branch do vendedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-m msg    Log message.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-m msg  Mensagem de log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-W spec   Wrappers specification line.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-W spec   Linha de especificação de Wrappers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>locbundlecheck -i &lt;localization&gt; [&lt;other annotate switches&gt;] [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>locbundlecheck -i &lt;localização&gt; [&lt;outras opções de anotação&gt;] [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detect what bundle keys need to be updated in localized resource bundles.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detectar que chaves do pacote precisam ser atualizadas em pacotes de recursos localizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-i locale The locale to check
+(all switches that can be applied to annotate can be specified here as well).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-i locale O local à verificar (todas opções que podem ser aplicadas à anotações podem ser especificadas aqui).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no files specified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>sem arquivos especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>illegal state</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>estado ilegal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} doesn't have a localized counterpart.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} não tem uma contrapartida localizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property &quot;{0}&quot; doesn't exist in localized file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade &quot;{0}&quot; não existe no arquivo localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property &quot;{0}&quot; was updated in the original file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade &quot;{0}&quot; foi atualizada no arquivo original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property &quot;{0}&quot; was removed from original file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade &quot;{0}&quot; foi removida do arquivo original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>log [-lRbhtN] [-d &lt;dates&gt;] [-r &lt;revisions&gt;] [-s &lt;states&gt;] [-w[logins]] [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>log [-lRbhtN] [-d &lt;datas&gt;] [-r &lt;revisões&gt;] [-s &lt;estados&gt;] [-w[logins]] [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print out history information for files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe na tela o histórico de informações dos arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-R      Only print name of RCS file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-R      Exibe apenas o nome do arquivo RCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-h      Only print header.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-h      Exibe somente o cabeçalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-t      Only print header and descriptive text.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-t      Exibe somente o cabeçalho e o texto descritivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-N      Do not list tags.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-N      Não lista as tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-b      Only list revisions on the default branch.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-b      Lista somente revisões no branch padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r[revisions]   Specify revision(s)s to list.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r[revisões]   Especifica revisões à lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-d dates        Specify dates (D1&lt;D2 for range, D for latest before).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-d datas        Especifica datas (D1&lt;D2 para intervalo, D para última anterior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-s states       Only list revisions with specified states.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-s estados       Lista apenas revisões com os estados especificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-w[logins]      Only list revisions checked in by specified logins.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-w[usuários]      Lista apenas revisões submetidas pelos usuários especificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rannotate [-lRf] [-r rev|-D date] files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>rannotate [-lRf] [-r rev|-D data] arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the last revision where each source line in repository was modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe a última revisão onde cada linha do arquivo de origem no repositório foi modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage: {0}
+Like annotate, but acts directly on files in repository, does not operate on check out sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilização: {0} Como anotação, mas age diretamente em arquivos no repositório, não opera em check out de fontes.        </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>remove [-lRf] [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>remove [-lRf] [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove a file from the repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exclui um arquivo do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-f      Delete the file before removing it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-f      Exclui o arquivo antes de remove-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-l      Process this directory only (not recursive).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-l      Processa somente o diretório (não é recursivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rlog [-lRbhtN] [-d &lt;dates&gt;] [-r &lt;revisions&gt;] [-s &lt;states&gt;] [-w[logins]] files...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>rlog [-lRbhtN] [-d &lt;datas&gt;] [-r &lt;revisões&gt;] [-s &lt;estados&gt;] [-w[usuários]] arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage: {0}
+Like log, but acts directly on files in repository, does not operate on check out sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilização: {0} Como log, mas age diretamente em arquivos no repositório, não opera em check out de fontes.        </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>status [-lRv] [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>status [-lRv] [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display status information on checked out files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe informações sobre o estado dos arquivos carregados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-v      Verbose format; includes tag information for the file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-v      Formato detalhado; inclui informações de marcações para o arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tag [-bcdFflR] [-r rev|-D date] tag_name [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>tag [-bcdFflR] [-r rev|-D data] nome_marcação [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a symbolic tag to checked out version of files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adiciona uma marcação simbólica às versões dos arquivos carregados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-b      Make the tag a &quot;branch&quot; tag, allowing concurrent development.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-b      Faz da marcação uma marcação &quot;branch&quot;, permitindo desenvolvimento concorrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-c      Check that working files are unmodified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-c      Verifica para que os arquivos locais não estejam modificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-d      Delete the given tag.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-d      Exclui a marcação informada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-F      Move tag if it already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-F      Move a marcação, caso esta já exista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev  Existing revision/tag.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev  Revisão/marcação existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-D date Existing date.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-D data Data existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rtag [-abdFflRn] [-r rev|-D date] tag_name [modules...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>rtag [-abdFflRn] [-r rev|-D data] nome_marcação [módulos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>update [-APdflRp] [-k kopt] [-r rev|-D date] [-j rev] [-I ign] [-W spec] [files...]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>update [-APdflRp] [-k kopt] [-r rev|-D data] [-j rev] [-I ign] [-W spec] [arquivos...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring working directory in sync with repository</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sincroniza o diretório de trabalho com o repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-C      Overwrite locally modified files with clean repository copies.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-C      Sobrescreve os arquivos locais com uma cópia limpa a partir do repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-d      Build directories, like checkout does.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-d      Constrói disretórios, similar ao comportamento do checkout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-p      Send updates to standard output (avoids stickiness).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-p      Envia as atualizações para a saída padrão (evita persistência).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-r rev  Update using specified revision/tag (is sticky).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-r rev  Atualiza utilizando a revisão/marcação informada (é fixa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-D date Set date to update from (is sticky).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-D data Define a data de partida da ataulização (é fixa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-I ign  More files to ignore (!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-I ign    Mais arquivos à ignorar (!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-W spec Wrappers specification line.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-W spec   Linha de especificação de Wrappers.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

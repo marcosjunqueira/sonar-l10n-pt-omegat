@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ar&amp;guments:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ar&amp;gumentos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Init Code Format:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato &amp;inicial do código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Non-Internationalization Regular Expression Format:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato de expressão regular &amp;não-internacionalizado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Internationalization Regular Expression Format:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato de expressão regular para &amp;internacionalização :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inte&amp;rnationalize...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inte&amp;rnacionalizar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Internationalization</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalize</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Internacionalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information About Found String</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informações sobre a string encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The key for your property is not valid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A chave para sua propriedade não é válida. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please choose another key.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Favor escolher outra chave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No hard-coded, non-internationalized strings were found in this file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum literal string não-internacionalizado foi encontrado neste arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document could not be opened.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O documento não pôde ser aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot internationalize.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível internacionalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalization</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerar campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generates field initialized with bundle for java sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gera campos internacionalizados com pacote para código-fonte Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente avançado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, displays an additional pane in wizard for generating fields that reference resource bundles.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', exibe um painel adicional no assistente, para geração de campos que referenciem conjunto de recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundle Init Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato inicial para pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The format used to initialize resource bundle fields.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O formato utilizado para inicializar campos de pacotes de recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I18n Search Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato de pesquisa de internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies which hard-coded strings need to be internationalized.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifica quais literais strings necessitam ser internacionalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I18n Test Wizard Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato do assistente de teste de internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifies which strings the Internationalization Test wizard checks for keys.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifica quais literais string o assistente de Testes de Internacionalização verifica procurando chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overwrite Resource Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobrescrever valor do recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overrides the values of any existing keys in the resource bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobrescreve os valores de quaisquer chaves existentes nos pacotes de recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I18n String Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato de string de internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default code format for constructing internationalized strings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato de código padrão para construção de strings internacionalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aj&amp;uda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;eplace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Subst&amp;ituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ignorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This panel allows you to choose or create a bundle, set the replace string format, and set property keys and values.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este painel permite você escolher ou criar um pacote, definir o formato do string de substituição e definir as chaves e valores para as propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fe&amp;char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any character of [:digit:] or [:alpha:] class</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer caractere da classe [:digit:] ou [:alpha:]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any letter.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer letra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>message format arguments.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>argumentos do formato da mensagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>space or tab.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>espaço ou tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any character with octal codes 000 through 037, or DEL (octal code 177).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer caractere com código octal de 000 até 037, ou DEL (código octal 177).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any digit.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer dígito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>field identifier initialized with bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>identificador do campo inicializado com pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any character that is not a [:alnum:] or [:punct:] class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer caractere que não seja uma classe [:alnum:] ou [:punct:].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hard-coded string to be found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>literal string a ser localizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java part.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>parte java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>java start.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>início de java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>key from resource.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>chave do recurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any lower case letter.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer letra minúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>package name of bundle separated by dots.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>nome do pacote, separado por pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>package name of bundle separated with slashes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>nome do pacote, separado com barras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any character from the [:space:] class, and any character that is not in the [:graph:] class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer caractere da classe [:space:], e qualquer caractere que não esteja na classe [:graph:].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any one of !</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer um de ! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name of target data object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>nome do objeto de dados alvo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The name of the file that is searched for the hard-coded string.)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(O nome do arquivo o qual é pesquisado procura do literal string)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any character of CR FF HT NL VT SPACE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer caractere de CR FF HT NL VT ESPAÇO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any upper case letter.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer letra maíuscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any hexa digit character.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>qualquer dígito hexadecimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Internationalized String</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir string internacionalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Internationalized &amp;String...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir &amp;string internacionalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot insert internationalized string in guarded block.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível inserir strings internacionalizadas em blocos protegidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplifies internationalization of applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Simplifica a internacionalização de aplicações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Internationalization module, combined with the Properties module, simplifies internationalization of Java applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de Internacionalização, combinado com o o módulo de Propriedades simplifica as internacionalização e aplicações Java. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It includes a wizard, which enables you to internationalize all of your Java at once, a test tool, which reports any missing key-value pairs, and an execution service, which enables you to set the locale in which the application is to run.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui um assistente que permite internacionalizar todo o seu código Java de uma vez, uma ferramenta de testes que reporta a ausência de pares chave-valor, e um serviço de execução que permite definir o locale no qual a aplicação é executada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fo&amp;rmat...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fo&amp;rmatar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Key:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C&amp;have:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace Code Format Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor do formato do código de substituição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Value:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Valor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This panel allows you to set  the code format of internationalized strings and set property keys and values.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este painel permite  definir o formato do código das strings internacionalizadas e  chaves e valores de propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commen&amp;t:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comen&amp;tário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Replace Code Format:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fo&amp;rmato do código de substituição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ar&amp;guments...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ar&amp;gumentos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecionar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Resource Bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar pacote de recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Filesystem:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Sistema de arquivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundle Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do pacote:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object &amp;Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This panel allows you to create new bundle or open and existing one.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este painel permite criar um novo pacote ou abrir um existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Códigos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar &amp;novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;File Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do &amp;arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tree View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização em árvore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tree view in file selector</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização em árvore no seletor de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File selector dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo para seleção de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No more hard-coded strings found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum literal string adicional foi encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching for hard-coded strings...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurando por literais string...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No hard-coded strings were found in this file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum literal string foi encontrado neste arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Init Code Format:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato &amp;inicial do código:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;&amp;default&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;pa&amp;drão&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Generate Field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Gerar campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameters...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parâmetros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fie&amp;ld:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ca&amp;mpo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Id&amp;entifier:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Id&amp;entificador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Init String:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>String &amp;inicial:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Init Code Format Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor do formato inicial do código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifiers:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificadores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arguments...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Argumentos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message Format Arguments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Argumentos de formato de mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ode:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Códig&amp;o:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the hard-coded strings found could not be replaced.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um dos literais string encontrados não pôde ser substituído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {0} hard-coded string evaluation error.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado erro {0}  de avaliação de literal string. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process it anyway?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Processar assim mesmo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template for creating a new properties file not found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi encontrado um modelo para criação de um novo arquivo de propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional changes in</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterações adicionais em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Source:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has No Additional Values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem valores adicionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify additional values.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificar valores adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify Found Strings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificar strings encontradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sources with hardcoded strings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Códigos-fonte com literais strings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hardcoded strings found in the selected source.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Literais strings encontrados no código-fonte selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Found Hard-Coded Strings:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Encontrados literais strings:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard-Coded String</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Strings literais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalizing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Internacionalizando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify Found Strings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modificar strings encontradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No hard-coded noninternationalized strings were found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum literal string não-internacionalizado foi encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No hard-coded noninternationalized strings found for this source.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum literal string não-internacionalizado foi encontrado neste código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize Property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalization &amp;Test Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente de &amp;testes de internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalization Test Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente de testes de internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Internationalized Strings With Missing Resource</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar strings internacionalizadas com recursos faltantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Sources to Test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar códigos-fonte para teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Resources for Sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar recursos para códigos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Internationalization Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente de &amp;internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalization Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente de internacionalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field generation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Geração de campo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Sources to Internationalize</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar códigos-fonte à internacionalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Next &gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Próximo &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves to next step of the wizard.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avança para o próximo passo do assistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; &amp;Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt; &amp;Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves to previous step of the wizard.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Retorna para o passo anterior do assistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finish</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Finalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &amp;Resource</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar &amp;recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &amp;All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecion&amp;ar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Resource</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the resource bundle(s) where you want to store each file's internationalized strings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o(s) pacote(s) de recursos onde serão armazenados os strings de internacionalização de cada arquivo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Select All to check one resource bundle for all files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique em Selecionar todos para marcar um pacote de recursos para todos os arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the resource bundle(s) that contain each file's internationalized string keys.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o(s) pacote(s) de recursos que contêm as chaves de internacionalização para cada arquivo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add Source(s)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar código(s)-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add arbitrary file or folder (recursively) to be processed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adiciona arbitrariamente arquivo ou pasta (recursivamente) a ser processada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove Source(s)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover código(s)-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove selected source from processing.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remove o código-fonte selecionado do processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of Sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de códigos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the source files that you want to internationalize.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione os arquivos código-fonte que você deseja internacionalizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the source files that you want to check for internationalized strings with missing keys.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione os arquivos códigos-fonte para os quais você deseja verificar a ocorrência de strings internacionalizadas com chaves faltantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystems:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistemas de arquivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected the resource bundle(s) to check for each file's internationalized strings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione os pacotes de recursos  as serem verificados à procura dos literais internacionalizados para cada arquivo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar códigos-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Sources to Test for Missing Resources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar os códigos-fonte à verificar recursos faltantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the buttons to add and remove source files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use os botões para adicionar e remover arquivos de códigos-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalized String</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>String internacionalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All internationalized strings have their keys.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as strings internacionalizadas têm suas respectivas chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All internationalized strings for this source have their keys.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as strings internacionalizadas para este código-fonte têm suas respectivas chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Found Strings with Missing Keys:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizado strings com chaves &amp;faltantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot insert strings with empty keys.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível inserir strings com chaves vazias. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please choose a nonempty key for this string.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor escolha uma chave não-vazia para esta string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found Strings with Missing Keys</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizado strings com chaves faltantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalization of Form</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Internacionalização de formulários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables internationalization of files created with the IDE's Form Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite a internacionalização de arquivos criados com o Editor de formulários do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Internationalization of Form module enables you to internationalize visual forms that you create in the IDE's Form Editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de internacionalização de formulários permite a internacionalização de formulários visuais criados no Editor de formulários do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalized Mnemonics</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mnemônicos internacionalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internationalized Index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Índice internacionalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource Bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote de recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource or key value is missing.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recurso ou valor de chave estão faltando. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid value.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[INVALID RESOURCE VALUE]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[VALOR INVÁLIDO DE RECURSO ]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KEY {0} : RB {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CHAVE {0} : PACOTE {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Properties File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar arquivo de propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do &amp;not internationalize this string</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Não internacionalizar este string</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No hard-coded string found in guarded block yet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum literal string foi encontrado ainda no bloco de código protegido.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

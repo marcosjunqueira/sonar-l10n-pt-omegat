@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search API for use by various modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de pesquisa para uso por vários módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module provides a Search API, which other modules rely on, but it does not provide any user-visible features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo fornece uma API de pesquisa, o qual outros módulos invocam, mas não fornece qualquer característica de visibilidade para o usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Types</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search prematurely stopped due to reaching current memory limit.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa interrompida prematuramente por ter alcançado o limite atual de memória.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

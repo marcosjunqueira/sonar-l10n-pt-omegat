@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Visual Editor Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte do Editor Visual CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS authoring support module for visual CSS editing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulo de suporte de autoria CSS para edição visual CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module provides support for CSS authoring to create CSS 2.1 style sheets.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo fornece suporte para autoria de CSS para criar folhas de estilo CSS 2.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Rule</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Css Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos Css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cascading Style Sheet</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Folha de estilo em cascata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates an empty cascading style sheet (CSS) document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria um documento de folha de estilo em cascata (CSS) vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use a CSS to format the information contained in your XML document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilize um CSS para formatar as informações contidas em seu documento XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Objetos CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rule List Action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ação de lista de regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Style Builder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alternar construtor de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Rule Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de regra de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Rule Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar tipo de regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vi&amp;sualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Element ID:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ID do elemento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Element:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rule</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Rule</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Rule Hierarchy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hierarquia de regra de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No preview available</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma visualização disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto de exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class CSS Rule Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de regra CSS da classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML element CSS Rule Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de regra CSS do elemento HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Element ID CSS Rule Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de regra CSS do ID do elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the rule up in the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover a regra para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the rule down in the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MOver a regra para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Rule cascade list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista em cascata de regras de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This list contains Style Rule cascade list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta lista contém a lista em cascata de regras de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Class Name Text Field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo texo do nome da classe de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Field to eneter the CSS Style Class Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo texto para informar o nome da classe do estilo CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional HTML element</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento HTML opcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional HTML element to be prepended before the CSS class name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento HTML opcional para ser colocado antes do nome da classe CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML element list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de elemento HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This list provides the list of HTML elements that can be added to the rule cascade list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta lista fornece a lista de elementos HTML que podem ser adicionados à lista em cascata de regras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Element ID text field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo texto do ID do elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text field to eneter the element ID that can be added to the rule cascade list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo para informar o ID do elemento que pode ser adicionado à lista em cascata de regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview label that displays the composed CSS cascaded rule list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulo de visualização que mostra a lista de regra em cascata do CSS composto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Check</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificar CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type Document (PENDING)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir Documento (PENDENTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type Data (PENDING)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inserir Dados (PENDENTE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS checking</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificação CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>finished</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>concluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>finished with warnings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>concluído com avisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>falhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check CSS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificar CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;!-- Look of this document is driven by a CSS referenced by an href attribute.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;!-- A aparência deste documento é determinada por uma referência CSS em um atributo href. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See http://www.w3.org/TR/xml-stylesheet/ --&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Veja http://www.w3.org/TR/xml-stylesheet/ --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style tag has been placed into clipboard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A marcação de estilo foi colocada na área de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy XML Style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar estilo XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy HTML Style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar estilo HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML check</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificar XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Not Set&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Não definido&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;value&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;valor&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Css Style &amp;Builder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cons&amp;trutor de estilo Css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Builder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construtor de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a Css Style Builder window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é uma janela do construtor de estilo Css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Css file is not parsed since it contains errors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo Css não é analisado se contiver erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Css Rule Selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma regra Css selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Segundo plano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Block</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloco de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Border</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Margin</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Outro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Font Family</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar família da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Image</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imagem de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rolar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal Position</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Position</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wide</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estendido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Font Families:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Famílias de fontes atuais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Disponível:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove selected fonts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover fontes selecionadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Family:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Família da fonte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espessura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variant</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Variação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sublinhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tachado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overline</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobrescrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Decorations</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem decorações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Side</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Padding</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visible</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Z Index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Índice Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direction</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Direção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal Alignment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alinhamento horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Align</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alinhamento vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word Spacing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaçamento entre palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Letter Spacing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaçamento entre letras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Height</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Altura da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Preview Available</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma visualização disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chosen Fonts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes escolhidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chosen Font family Set</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conjunto de família de fonte escolhida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit chosen font family set</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar conjunto de família de fonte escolhida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Family List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de família de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chosen Font Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da fonte escolhido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Size List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de tamanho de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Style Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de estilo da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Weight Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de espessura da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Variant Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de variação da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Underline Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de sublinhado da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Overline Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de sobrescrito da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Strike through Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de tachado da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set font no decoration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir fonte sem decoração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Size Unit List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de unidade de tamanho da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tile Option Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de opção de título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll option selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de opção de rolamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal Position Seletcion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da posição horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Position Seletcion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da posição vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizonal Position Unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da posição horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Position Unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da posição vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizonal Position Unit Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da posição horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to get values for the Vertical position units</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção para obter os valores para as unidades da posição vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side border style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo de borda dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side border style selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do estilo de borda dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side border width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da borda dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side border width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura das bordas dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side border width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da borda dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side border width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da borda dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side border style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo da borda superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side border style selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do estilo da borda superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side border width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da borda superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side border width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da borda superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side border width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da borda superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side border width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da borda superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side border style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo da borda inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side border style selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do estilo da borda inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side border width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da borda inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side border width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da borda inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side border width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da borda inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side border width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da borda inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side border style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo da borda esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side border style selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do estilo da borda esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side border width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da borda esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side border width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da borda esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side border width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da borda esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side border width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da borda esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side border style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estilo da borda direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side border style selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do estilo da borda direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side border width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da borda direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side border width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da borda direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side border width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da borda direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side border width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da borda direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side margin width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da margem dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side margin width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da margem dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side margin width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da margem dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side margin width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da margem dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side margin width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da margem superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side margin width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da margem superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side margin width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da margem superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side margin width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da margem superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side margin width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da margem inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side margin width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da margem inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side margin width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da margem inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side margin width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da margem inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side margin width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da margem direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side margin width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da margem direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side margin width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da margem direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side margin width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da margem direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side margin width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura da margem esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side margin width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da margem esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side margin width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da margem esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side margin width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da margem esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side padding width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura do preenchimento dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side padding width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura do preenchimento dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side padding width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura de preenchimento dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All side padding width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura de preenchimento dos lados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side padding width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura do preenchimento superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side padding width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura do preenchimento superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side padding width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura do preenchimento superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top side padding width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura do preenchimento superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side padding width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura do preenchimento inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side padding width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura do preenchimento inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side padding width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura do preenchimento inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom side padding width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura do preenchimento inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side padding width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura do preenchimento direto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side padding width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura do preenchimento direto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side padding width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura do preenchimento direto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right side padding width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura do preenchimento direto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side padding width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Largura do preenchimento esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side padding width selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura do preenchimento esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side padding width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura do preenchimento esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left side padding width unit selection combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura do preenchimento esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color browser button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de procura de cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button to launch the color chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão para lançar selecionador de cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selection Combo Box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the HTML4 predefoned color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção que permite escolher a cor pré-definida do HTML 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of currently available font families</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de família de fontes disponível atualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available font list combobox</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de lista de fonte disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available font list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de fonte disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of available fonts that can be added to the font families</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de fontes disponíveis que podem ser adicionadas à família de fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of fonts selected that are added to the current font families</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de fontes selecionadas que foram adicionadas à família de fontes atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add font</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove font</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the font up the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover fonte para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the font down the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover fonte para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add font family set to the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar conjunto de família de fonte à esta lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove font family set from the list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover conjunto de família de fonte à esta lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal Position selection combo box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da posição horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical position selection combo box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da posição vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color chooser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seletor de cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Style selection list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de seleção de estilo de fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Margin Width Field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo da largura da margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text field to enter the Margin Width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo texto para informar a largura da margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Margin width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura da margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the margin width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Padding width field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo da largura do preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text field to enter the padding width</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo texto para informar a largura do preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Padding width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da largura do preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the padding width unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura de preenchimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position mode combo box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do modo de posição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modo de posição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position top</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position top values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da posição superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position right</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position right values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da posição direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position bottom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position bottom values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da posição inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position left</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Posição esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position left values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da posição esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the width value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da largura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the height value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the visibility value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de visibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the zindex value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de índice z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visibility selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de visibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip top selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do clip superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip top value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor do clip superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip right selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do clip direito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip right value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor do clip direito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip bottom selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do clip inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip bottom value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor do clip inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip left selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do clip esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip left value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor do clip esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select horizontal alignment value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de alinhamento horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select vertical alignment value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de alinhamento vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select indentattion value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select text direction value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de direção do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select word spacing value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de espaçamento de palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select letter spacing value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de espaçamento de letras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select line height value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da altura da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Align unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de alinhamento vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select vertical alignment unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da unidade de alinhamento vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentation unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select indentation unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da unidade de indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word spacing unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade do espaçamento de palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select word spacing unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de espaçamento de palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Letter spacing unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de espaçamento de letras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select letter spacing unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de espaçamento de letras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line height unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de altura da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select line height unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de altura da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse background image file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar arquivo de imagem de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Border Width selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da largura da borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select border width values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos valores da largura da borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Border width unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da largura da borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select border width unit values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos valores da unidade de largura da borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal Align value selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de alinhamento horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical alignment value selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de alinhamento horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indentattion value selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text direction value selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de direção do texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>word spacing value selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de espaçamento de palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Letter spacing value selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor de espaçamento de letras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line height value selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da altura da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Image browse button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão de procura de imagem de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button to browse loacal files for background Image</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão para localizar arquivos locais de imagem de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background Image text field</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo texto de imagem de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat style selection combo box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do estilo de repetição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll option selection combo box</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da opção de rolagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text field to enter the  background image file name or URL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Campo texto para informar a URL ou o nome de arquivo da imagem de plano de fundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Decoration:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Decoração do texto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;Add selected fonts&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;Adicionar fontes selecionadas&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of Style Editors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de editores de estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This List displays the list of available Style Editors</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta lista exibe a lista de editores de estilo disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Border style table</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela de estilo de borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table that displays dropdown lists for various properties of the border style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela que exibe listas para várias propriedades do estilo de borda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Margin style table</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela de estilo de margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table that displays dropdown lists for various properties of the margin style</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela que exibe listas para várias propriedades do estilo de margem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Z-index selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção de índice-Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position top unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da posição superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position top unit values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos valores da unidade da posição superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position right unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da posição direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position right unit values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos valores da unidade da posição direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position bottom unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da posição inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position bottom unit values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos valores da unidade da posição inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position left unit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unidade da posição esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the position left unit values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos valores da unidade da posição esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade de largura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the width unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos valores da unidade de largura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade da altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the height unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da unidade da altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip top unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade do clip superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip top unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da unidade do clip superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip right unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade do clip direito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip right unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da unidade do clip direito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip bottom unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade do clip inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip bottom unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da unidade do clip inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clip left unit selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção da unidade do clip esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combo box to select the clip left unit value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção do valor da unidade do clip esquerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&amp;ss Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização C&amp;ss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a Css Preview window</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é uma janela de visualização Css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview of rule</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização de regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro de visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Families</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Famílias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Fonts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fontes web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preview of this CSS style property not supported</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização desta propriedade de estilo CSS não suportada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visual Web CSS Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor CSS do Web visual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS body text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Texto do corpo CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor da propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Property Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor da propriedade CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bold</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>negrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>color</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CSS Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>#comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End Brace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End brace of the CSS rule</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave final da regra CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Brace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave de abertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Begining brace of the CSS rule</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave de início da regra CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color for any unknown syntax</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cor para sintaxe desconhecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flying Saucer XHTML Renderer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Redenrizador Flying Saucer XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows to render XHTML documents using CSS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permitir renderizar documentos XHTML utilizando CSS</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

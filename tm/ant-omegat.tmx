@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports writing of build scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporta escrita de scripts de construção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ant module integrates Apache's Ant build tool into the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo Ant integra a ferramenta de build Apache Ant ao IDE. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant is a Java- and XML-based build tool, which you can use to write scripts to build, test, and deploy applications.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Ant é uma ferramenta de build baseada em Java e XML, que você usa para escrever scripts para construir, testar e implantar aplicativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Module Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações do módulo Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quiet</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Silencioso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verbose</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detalhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An&amp;t Home:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Home do An&amp;t:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save All Modified Files Before Running Ant</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Salvar todos os arquivos alterados antes de executar o Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re&amp;use Output Tabs from Finished Processes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re&amp;utilizar abas de saída de processos concluídos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always Show &amp;Output</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sempre m&amp;ostrar a saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Verbosity Level:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ní&amp;vel de detalhamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not a valid Ant installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} não é uma instalação válida do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not contain a file lib/ant.jar.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há um arquivo lib/ant.jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Default</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pa&amp;drão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Properties:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Templates for creating Ant projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelos para criação de projetos do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A custom Ant task.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma tarefa do Ant personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An empty Ant build script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um scrpt de build do Ant vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Build Script</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Script de Build do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Ant Task</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tarefa do Ant personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant &lt;project&gt; XML files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos XML &lt;project&gt; do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Scripts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Scripts do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIME Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo MIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The MIME type used for Ant files in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo MIME utilizado para arquivos Ant dentro do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ant MIME resolver recognizes this.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O resolvedor Ant MIME reconhece isto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may only execute Ant scripts residing on disk.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode executar somente scripts Ant que estejam no disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re-run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Re-executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building {0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construindo {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUILD SUCCESSFUL (total time: {0, choice, 0#| 1#1 minute | 2#{0} minutes }{1, choice, 0#0 seconds| 1#1 second| 2#{1} seconds})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CONSTRUÍDO COM SUCESSO (tempo total: {0, choice, 0#| 1#1 minuto | 2#{0} minutos }{1, choice, 0#0 segundos| 1#1 segundo| 2#{1} segundos})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finished building {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construção concluída {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUILD FAILED (total time: {0, choice, 0#| 1#1 minute | 2#{0} minutes }{1, choice, 0#0 seconds| 1#1 second| 2#{1} seconds})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CONSTRUÇÃO FALHOU (tempo total: {0, choice, 0#| 1#1 minuto | 2#{0} minutos }{1, choice, 0#0 segundos| 1#1 segundo| 2#{1} segundos})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build of {0} failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A execução de {0} falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUILD STOPPED (total time: {0, choice, 0#| 1#1 minute | 2#{0} minutes }{1, choice, 0#0 seconds| 1#1 second| 2#{1} seconds})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CONSTRUÇÃO PARADA (tempo total: {0, choice, 0#| 1#1 minuto | 2#{0} minutos }{1, choice, 0#0 segundos| 1#1 segundo| 2#{1} segundos})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build of {0} stopped.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Execução de {0} parada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Stop Build/Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar con&amp;strução/execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Stop Build/Run: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar con&amp;strução/execução: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Stop Build/Run...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar con&amp;strução/execução...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple build/run processes are running simultaneously.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estão sendo executados simultaneamente vários processos de construção/execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select the processes to stop:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecione os processos a serem parados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Build/Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar construção/execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Repeat Build/Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Repetir construção/execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat Build/Run: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Repetir construção/execução: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Repeat Build/Run: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Repetir construção/execução: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a &amp;Toolbar Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar um bo&amp;tão de barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Customize Generated Ant Code</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar &amp;código do Ant gerado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a &amp;Menu Item</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar um item de &amp;menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make Keyboard Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar atalho de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select an existing toolbar.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione uma barra de ferramentas existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new button will be added to it which runs the shortcut.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um novo botão será adicionado àquele que executa o atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press any key sequence in the supplied test area.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pressione qualquer seqüência de teclas na área de teste disponibilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, hold down Control and Shift and press F12.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por exemplo, segure Ctrl e Shift e pressione F12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The key sequence you choose will run the Ant shortcut.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A seqüência de teclas que você escolheu irá executar o atalho do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be sure to avoid conflicts with existing IDE keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tenha certeza de que não há conflitos com atalhos já existentes no IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Choose Tools | Options and click Keymap to see existing shortcuts.)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(Selecione ferramentas | Opções e clique em mapa de teclas para ver os atalhos existentes.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to Toolbar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar à barra de ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize Script</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar ao menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select an existing menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar um menu existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new menu item will be added to it which runs the shortcut.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um novo item de menu será adicionado àquele que executa o atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(type here)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(digite aqui)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Keyboard Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar atalho de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a &amp;Keyboard Shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar um atalho de te&amp;clado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select how you want the shortcut to be invoked, as well as whether you want to customize the generated Ant mini-script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione como você deseja que o atalho seja chamado, assim como se você deseja personalizar o mini-script Ant gerado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Basic Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configure opções básicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize the generated miniature Ant script below.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalize, abaixo, o mini-script gerado do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its default target will be run when the shortcut is invoked.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este alvo padrão será executado quando o atalho for chamado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project name may be used for display purposes, for example as the text of a menu item.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome do projeto pode ser usado para exibição, por exemplo como o texto de um item de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A typical customization would be to add nested &lt;property name=&quot;name&quot; value=&quot;value&quot;/&gt; elements to &lt;ant/&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma personalização típica seria adicionar elementos &lt;property name=&quot;name&quot; value=&quot;value&quot;/&gt; aninhados em &lt;ant/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize Generated Ant Script</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar o script gerado do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This area contains Ant script code for customizing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta área contém código de script Ant para personalização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type a key sequence here</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Digite aqui uma sequência de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select in this list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione na lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select destination for shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o destino para o atalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a menu item name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o nome de um item de menu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select toolbar button text:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o texto para o botão da barra de ferramentas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Shortcut to Ant Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar atalho para um alvo do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Ant not found: {0}&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Ant não encontrado: {0}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ERROR - Ant is misconfigured and cannot be run.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ERRO - O Ant está mal-configurado e não pode ser executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties of this Ant project file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades deste arquivo de projeto do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the Ant project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alvo padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Which target in the project is run by default.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O alvo do projeto que é executado como padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} [Ant project]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} [Projeto do Ant]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymous Ant project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto do Ant anônimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Shortcut...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar atalho...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A name by which to refer to this target.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um nome para se referir a este alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An end-user summary of what the target does, e.g. for usage summaries.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um resumo do que faz o alvo para usuários finais, por exemplo para resumos sobre a forma de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depends On</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depende de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of other targets that should be run before this target.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista dos outros alvos que devem ser executados antes deste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Illegal depends&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Dependências ilegais&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;cannot parse&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;não pode analisar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Targets</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Outros alvos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avançado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Ant Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar alvo do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &amp;target(s) to run:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar &amp;alvo(s) a executar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição do alvo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special Ant &amp;properties:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Propriedades especiais do Ant:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Verbosity level:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ní&amp;vel de detalhamento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Targets</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alvos do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displays targets in the current Ant build script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostra alvos no script Ant atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides basic integration for the Apache Ant build tool in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece integração básica para a ferramenta de construção Apache Ant dentro do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes support for editing Ant scripts and running targets.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui suporte para a edição de scripts Ant e execução de alvos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides infrastructure for free-form Ant-based projects, and some special tasks used by Ant-based Java projects of several kinds.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece a infra-estrutura para projetos de forma livre baseados no Ant, e algumas tarefas especiais usadas por aplicações Java, baseadas em Ant, de vários tipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for Ant build scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para scripts de build do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Debugger</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurador do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables debugging on Ant scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilita a depuração em scripts do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ant Debugger module allows you to debug Ant scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo depurador do Ant permite depurar scripts do Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Debug</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Depurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurar alvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug Ant Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Depurar alvo do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &amp;target(s) to debug:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione os &amp;alvo(s) à depurar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled Conditional Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção condicional desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção desabilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Call Stack Line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha da pilha de chamadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conditional Breakpoint</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ponto de interrupção condicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Program Counter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contador do programa atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alvo atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Ant Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alvo atual do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Ant Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próximo alvo do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Browser Ant Task</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tarefa Ant para navegador web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adds an Ant task &lt;nbbrowse&gt; to run inside NetBeans to open a web browser.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adiciona uma tarefa do Ant &lt;nbbrowse&gt; que executa dentro do NetBeans e abre um navegador web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines an Ant task, &lt;nbbrowse&gt;, which (when run inside NetBeans) will open your configured web browser on a URL.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Define uma tarefa do Ant, &lt;nbbrowse&gt;, que  (quando executada dentro do NetBeans) abre uma dada URL no navegador web configurado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helpful for making shortcut scripts that run some tests (e.g.) and then display HTML results.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Útil na criação de scripts de atalho que executam alguns testes (por exemplo) e então mostram resultados em HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;unknown&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;desconhecido&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopping build of {0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parando contruçao de {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopping build.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parando construção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stopping build of {0}...stopped.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parando construção de {0}... parado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>running...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>executando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input Handler</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciador de entradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input request was aborted by user.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A requisição de entrada foi interrompida pelo usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter input for the Ant script</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Forneça entradas para o script do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant-Based Project Support</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para projetos baseados no Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports all project types based on Ant as a build tool.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Oferece suporte a todos os tipos de projetos baseados no Ant como ferramenta de construção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides infrastructure and APIs for project types using the regular file layout and presumably doing Ant-based builds.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece infra-estrutura e APIs para tipos de projetos que usam a organização de arquivos padrão e que presumivelmente fazem builds baseados no Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot Write to File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode escrever no arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error parsing {0}: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro analisando {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An incompatible Xalan version has been detected on the IDE's classpath.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Foi detectada uma versão incompatível do Xalan no classpath do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE cannot start.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O IDE não pôde ser iniciado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please see http://wiki.netbeans.org/wiki/view/FaqXalanOnCP for more information.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor veja http://wiki.netbeans.org/wiki/view/FaqXalanOnCP para maiores informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file is used by a NetBeans-based IDE to track changes in generated files such as build-impl.xml.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este arquivo é utilizado por um IDE baseado no NetBeans para rastrear mudanças em arquivos gerados tais como o build-impl.xml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not edit this file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não edite este arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may delete it but then the IDE will never regenerate such files for you.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode excluir isto mas então o IDE nunca irá gerar novamente tais arquivos a você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeform Ant Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos de forma livre do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special project type for projects with preëxisting Ant scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de projeto especial para projetos com scripts Ant pré-existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permits the user to write a special project.xml file which describes the basic layout and functionality of an existing Ant-based project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite que o usuário escreva um arquivo project.xml especial, descrevendo o layout básico e a funcionalidade de um projeto existente baseado no Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports defining mappings of Ant target to IDE actions, the locations of source folders, the layout of the logical view, and so on.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporta a definição de mapeamentos de um alvo do Ant  para ações do IDE , as localizações das pastas fontes, o layout da visão lógica e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean and Build</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar e construir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Testar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generate Javadoc</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerar Javadoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redeploy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Reimplantar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deploy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Implantar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errors in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erros em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not use Project Properties customizer when editing this file manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não use o customizador de propriedades do projeto ao editar este arquivo manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Script file {0} cannot be found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de script {0} não encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Properties - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades do projeto - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Existing Ant Project Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Examinar pasta de projeto Ant existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Existing Ant Build Script</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Examinar script Ant existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse New Project Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Examinar nova pasta de projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the folder that contains the project's files and specify the location of the build script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o diretório que contém os arquivos do projeto e especifique a localização do script de construção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Localização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build &amp;Script:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Script de construção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify a name and location for the new project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifique um nome e um local para o novo projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set as &amp;Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir co&amp;mo projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Project Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta do &amp;projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a file chooser to Browse for folder containing existing Ant-based project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abre uma janela de escolha de arquivos para procurar por diretórios contendo um projeto existente baseado no Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Br&amp;owse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pr&amp;ocurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a file chooser to browse for an existing Ant build script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abre uma janela de escolha de arquivos para procurar um script Ant existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a file chooser to Browse for the location of the project folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abre uma janela de escolha de arquivos para procurar o local do diretório do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must specify the location of the project's files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve especificar o lugar dos arquivos de projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project location does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O local do projeto não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must specify an existing build script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve especificar um script de construção existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified build script does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O script de construção especificado não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected file is not a valid Ant script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo selecionado não é um script Ant válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project name must be set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto deve ser definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project folder must be set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta de projeto deve ser definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected project folder is already a NetBeans project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de projeto &quot;{0}&quot; selecionada já é um projeto do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project folder is already owned by NetBeans project {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório do projeto já pertence ao projeto do NetBeans {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project location is already owned by NetBeans project {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O local do projeto já pertence ao projeto do NetBeans {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder displays location of project folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A Pasta do Projeto exibe o local da pasta do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify Ant targets executed by common menu items.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifica alvos do Ant executados por itens comuns de menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B&amp;uild Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Constr&amp;uir projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Clean Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Limpar projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Generate Javadoc:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Gerar Javadoc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Run Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa&amp;r projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Test Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Testar projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Contextual &amp;Menu Items:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Itens de &amp;menu personalizados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remo&amp;ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A table specifying custom build targets available from the contextual menu on the project node.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma tabela que especifica alvos de build disponíveis a partir do menu de contexto no nó do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adds new custom build target to the Custom Menu Items table.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adiciona um alvo personalizado à tabela itens de menu personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removes selected custom target from the Custom Menu Items table.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remove o alvo personalizado da tabela de itens de menu personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Target</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alvo do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Rótulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build and Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir e executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name and Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome e local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build and Run Actions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ações de construir e executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categorias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No build target is associated with {0} action.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum alvo de construção associado à ação {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The free-form project requires a target representing the {0} action to invoke in your Ant script.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O projeto de forma livre precisa de um alvo representando a ação {0} para invocar em seu script do Ant .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the target to invoke.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione o alvo a ser chamado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ant Code Completion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar de código do Ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code completion for textual editing of Ant scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Auto-completar de código para a edição textual de scripts Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module permits you to use code completion when editing Ant scripts in the NetBeans source editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo permite a você usar o auto-completar de código ao editar scripts Ant no editor de código do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will suggest attributes and subelements that can be added to the current element you are editing.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo sugere atributos e sub-elementos que podem ser adicionados ao elemento que você esta editando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completion knows about all standard Ant tasks and types, as well as custom-defined tasks and types, and works with nested data structures just as Explorer-based editing of Ant scripts does.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O recurso auto-completar conhece todas as tarefas e tipos padrões do Ant, além de tarefas e tipos personalizados, e funciona com estruturas de dados aninhadas, da mesma forma que a edição de scripts do Ant no Explorer faz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The module requires either the XML Text or XML Tree modules (or both) to be enabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo requer ou o texto XML ou árvores de módulos XML (ou ambos) para ser habilitado.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

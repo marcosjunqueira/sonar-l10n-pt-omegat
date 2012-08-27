@@ -1,0 +1,2392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Task List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de tarefas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables the Task List window to scan for tasks in the main project or all opened projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Habilite a janela lista de tarefas para procurar por tarefas no projeto principal ou em todos os projetos abertos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Task List - Project Integration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de tarefas - Integração de projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show tasks for the main project and for the opened projects on which it depends</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe as tarefas para o projeto principal e para os projetos abertos que estão em dependencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opened Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos abertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show tasks for all opened projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe tarefas para todos os projetos abertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integrates the Task List window with Projects system</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integra a janela lista de tarefas com o sistema do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library Manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerenciador de bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library provider has thrown the following exception during library initialization, the created library may not work correctly.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O provedor de bibliotecas lançou a seguinte exceção durante a inicialização da biblioteca, a biblioteca criada pode não funcionar corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library provider has thrown the following exception during library removal.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O provedor de bibliotecas lançou a seguinte exceção durante a remoção da biblioteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bibliotecas externas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for organizing resources into libraries.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para organizar de recursos dentro de bibliotecas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Libraries module enables you to create, manage and use libraries in your project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo bibliotecas permite criar, gerenciar e usar bibliotecas em seu projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is useful if you share external resources among several projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Isto é útil se você compartilha recursos externos entre vários projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New Library...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nova biblioteca...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome da biblioteca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library &amp;Type:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Tipo da biblioteca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Li&amp;brary Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da bi&amp;blioteca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MyLibrary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Minha biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library {0} already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A biblioteca {0} já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library name is not valid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome da biblioteca não é válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library name contains invalid characters</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome da biblioteca contém caracteres inválidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Libraries</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bib&amp;liotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Libraries manager lets you create, modify and delete libraries in the library repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O gerenciador de bibliotecas permite criar, modificar e excluir bibliotecas no repositório de bibliotecas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Libraries:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bib&amp;liotecas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project UI</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>UI de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplies the basic user interface for projects in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Prove a interface de usuário básica para projetos na IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI infrastructure for working with projects in the IDE: the Projects and Files tabs, the project chooser dialog, the project-sensitive New File wizard, etc.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura GUI para trabalho com projetos na IDE: abas de projetos e arquivos, diálogos para escolher o projeto, assistente de novo arquivo para projetos, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project XML Schemas</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esquemas XML do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permits validation of project.xml and private.xml files from the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite a validação dos arquivos project.xml e private.xml para o IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecionar pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Folders:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Pastas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Folders</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisar pastas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projects - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pro&amp;jects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pro&amp;jetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} [Main]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} [Principal]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the project located in the selected folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abre o projeto localizado na pasta selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Project Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open as &amp;Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir como projeto &amp;principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open &amp;Required Projects:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projetos &amp;requeridos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;unrecognized project; missing plug-in?&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;projeto desconhecido; faltando plug-in?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder/File...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo/Pasta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Build</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C&amp;onstruir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ru&amp;n File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xecutar Arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Computer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projects with Existing Sources</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto com código-fonte existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Samples</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Licenses</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default License</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Licença padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source folder in {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta de código-fonte em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main project has not been set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O projeto principal não foi definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select the main project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecione o projeto principal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infinite Progress Bar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Barra de progresso indeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows some tasks are in progress.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostra algumas tarefas em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save &amp;All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>S&amp;alvar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save all.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Discard All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Descartar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard all.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descartar todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An exception occurred while saving</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu uma exceção ao salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of changed files for save</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de arquivos alterados para salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dialog for save any changes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diálogo para salvar algumas alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Categories:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Categorias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Projects:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Projetos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;File Types:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de &amp;arquivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Descrição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose File Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher tipo de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File types:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de arquivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only Show File Types Supported in Selected Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mostra apenas tipos de arquivo suportados no projeto selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome da pasta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fo&amp;lder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pas&amp;ta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pa&amp;rent Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta pa&amp;i:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proc&amp;urar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Created File:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo &amp;criado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Created Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta &amp;criada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loca&amp;tion:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Locali&amp;zação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New file wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo assistente de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose new file type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher novo tipo de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New project wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo assistente de projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose type of new project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher o tipo do novo projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolher projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;File Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do &amp;arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Empty File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo arquivo vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Folder Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da &amp;pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Name to Create</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo a criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder Name to Create</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da pasta a criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Templates:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Modelos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name and Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome e localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>new</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target folder does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de destino não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target folder is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de destino é somente-leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file {0} already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document node could not be found in the Projects tab.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O documento indicado não pôde ser encontrado na aba projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document node could not be found in the Files tab.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O documento indicado não pode ser encontrado na aba arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Múltiplos projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No main project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories of types new objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categorias para novos tipos de objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of categories of new objects which can be choosen</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de categorias de novos objetos que podem ser escolhidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types of new objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipos de novos objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of types of new objects which can be choosen</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de tipos de novos objetos que podem ser escolhidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of available projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de projetos disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folders:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pastas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tree contains the folders contained in the project's directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A árvore contém as pastas do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse folders to choose a target folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Explorar as pastas para escolher a pasta de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens also the projects of which depends the selected project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Também abrir os projetos dos quais depende o projeto selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of the subprojects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de sub-projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of the projects of which depends the selected project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de projetos dos quais depende o projeto selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The filename {0} is not permitted as it contains {1,choice,0#a slash (/) or a backslash (\)|1#a backslash (\)}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome do arquivo {0} não é permitido pois contém {1,choice,0#uma barra (/) ou uma barra invertida(\)|1#uma barra invertida (\)}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The folder name {0} is not permitted as it contains {1,choice,0#a slash (/) or a backslash (\)|1#a backslash (\)}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome da pasta {0} não é permitido pois contém {1,choice,0#uma barra (/) ou uma barra invertida (\)|1#uma barra invertida (\)}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create folder: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar a pasta: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Document in</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar documento em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Do you want to open project &lt;b&gt;{0}&lt;/b&gt;?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Deseja abrir o projeto &lt;b&gt;{0}&lt;/b&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Open Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmar abertura de projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening {2} {1} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo projetos {2} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Closing {2} {1} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechando projetos {2} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing {2} {1} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializando projetos {2} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All NetBeans Projects specific templates, you can find here templates of particular types of projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos os modelos específicos de projetos NetBeans, você pode localizar aqui modelos de tipos particulares de projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import of Existing Projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Importação de projetos existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a new folder on your disk.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria uma nova pasta em seu disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ne&amp;w Project...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No&amp;vo projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Project...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New File...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo arquivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New File...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo arquivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Outro...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Proj&amp;ect...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir proj&amp;eto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Project...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Required Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projetos requeridos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Close {0,choice,0#Project|1#&quot;{1}&quot;|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fe&amp;char {0,choice,0#Projeto|1#&quot;{1}&quot;|1&lt;{0} Projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close {0,choice,0#|1#|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar {0,choice,0#|1#|1&lt;{0} Projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,0#Project|1#&quot;{1}&quot;|1&lt;Project} Proper&amp;ties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Proprie&amp;dades do {0,choice,0#projeto|1#&quot;{1}&quot;|1&lt;projeto}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projeto recente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set as Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir como projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Node in Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar nó em projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Node in Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar nó em arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select in Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar em Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select in Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar em Arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build {0,choice,0#Project|1#&quot;{1}&quot; Project|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Construir {0,choice,0#Projeto|1#&quot;{1}&quot; Projeto|1&lt;{0} Projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean {0,choice,0#Project|1#&quot;{1}&quot; Project|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar {0,choice,0#Projeto|1#&quot;{1}&quot; Projeto|1&lt;{0} Projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean and Build {0,choice,0#Project|1#&quot;{1}&quot; Project|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar e construir {0,choice,0#projeto|1#&quot;{1}&quot; projeto|1&lt;{0} projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Generate Javadoc for {0,choice,0#Project|1#&quot;{1}&quot;|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Gerar javadoc para o {0,choice,0#projeto|1#&quot;{1}&quot;|1&lt;{0} projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test {0,choice,0#Project|1#&quot;{1}&quot;|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Testar {0,choice,0#projeto|1#&quot;{1}&quot;|1&lt;{0} projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Co&amp;mpile {0,choice,0#File|1#&quot;{1}&quot;|1&lt;Files}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Co&amp;mpilar {0,choice,0#arquivo|1#&quot;{1}&quot;|1&lt;arquivos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Stop Building</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar con&amp;strução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run {0,choice,0#Project|1#&quot;{1}&quot; Project|1&lt;{0} Projects}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executar {0,choice,0#projeto|1#&quot;{1}&quot; projeto|1&lt;{0} projetos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Build Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C&amp;onstruir projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Clean and Build Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpar e c&amp;onstruir projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Run Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa&amp;r projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir como projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Run {0,choice,0#File|1#&quot;{1}&quot;|1&lt;Files}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executa&amp;r {0,choice,0#arquivo|1#&quot;{1}&quot;|1&lt;arquivos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Test {0,choice,0#File|1#&quot;{1}&quot;|1&lt;Files}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Testar {0,choice,0#arquivo|1#&quot;{1}&quot;|1&lt;arquivos}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory does not contain any project.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório não contém nenhum projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Project of Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir pasta do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Project &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir projeto &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open {0} Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir {0} projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Main Project Con&amp;figuration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir como con&amp;figuração principal do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Configuration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Customize...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Personalizar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invoking {4} implemented as {3} thru {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Invocando {4} implementado como {3} através {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please save project's modified files before configuring project properties.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, salve os arquivos modificados do projeto antes de configurar as propriedades do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save modified files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar arquivos modificados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Free Group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Grupo livre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains any projects you like.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém alguns projetos favoritos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be updated manually or automatically.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pode ser atualizado manualmente ou automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Use Currently Open Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Usar projetos atualmente abertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Automatically Save Project List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar &amp;automaticamente a lista de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project and All &amp;Required Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto e todos os projetos &amp;requeridos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains a master project and all projects it requires, recursively.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém um projeto mestre e todos os projetos que ele requer, recursivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Master Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projeto &amp;mestre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Procurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&amp;older of Projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta de pr&amp;ojetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains any projects found beneath a given folder on disk.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém alguns projetos encontrados em uma pasta no disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fol&amp;der:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pas&amp;ta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Gro&amp;up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gr&amp;upo de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(none)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(nenhum)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New Group...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo grupo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Properties of &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Propriedades de &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Group Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades do grupo de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create New Group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar novo grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting project group: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar grupo de projeto: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening group &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo grupo &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Closing group</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechando grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Closing {0} old projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechando {0} projetos antigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening {0} new projects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo {0} novos projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading project &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lendo projeto &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save Current Project List Now</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Salvar agora a lista de projetos atuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Pasta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General API for accessing and loading IDE projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API para acessar e carregar projetos de IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most abstract API for working with all kinds of projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A API mais abstrada para trabalhar com todos os tipos de projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does not assume they have anything to do with either Ant or Java.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não assume que o projeto em questão trabalhe tanto com Ant ou mesmo Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does not work with the GUI, only with the internal recognition and loading of projects, and some of their basic characteristics.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não trabalha com o GUI, somente com o reconhecimento interno e carregamento de projetos, e algumas de suas características básicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens a dialog box where you can configure important project properties.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abre uma caixa de diálogo onde você pode configurar as propriedades importantes do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categoria de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Categories:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categorias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cleaning Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpando projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluindo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project {0} cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O projeto {0} não pode ser excluido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting Project:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluindo projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Yes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão mover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move project, reason: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível mover o projeto, motivo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot copy project, reason: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível copiar o projeto, motivo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename project, reason: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível renomear o projeto, motivo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete project &quot;{0}&quot;?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você tem certeza que deseja excluir o projeto &quot;{0}&quot;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Also Delete Sources Under &quot;{0}&quot; folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir t&amp;ambém os códigos-fonte da pasta &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre Delete Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso  de pré-exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also Delete Sources Under &quot;{0}&quot; folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluir também os códigos-fonte da pasta &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,0#Copy|1#Move} &quot;{1}&quot; To:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,0#Copiar|1#Mover} &quot;{1}&quot; para:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Fol&amp;der:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta &amp;de projetos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &amp;Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Local do projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,0#Copying Project|1#Moving Project}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,0#Copiando projeto|1#Movendo projeto}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Br&amp;owse</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pr&amp;ocurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Button</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Botão procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiando projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Movendo projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project has one or more external source roots and cannot be copied.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O projeto tem uma ou mais fontes externa e não pode ser copiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename &quot;{0}&quot;:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear &quot;{0}&quot;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Also Rename Project Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear t&amp;ambém a pasta do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Renaming Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomeando projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also Rename Project Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear também a pasta do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project location does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O local do projeto não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project folder already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta do projeto já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project name must be entered.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome do projeto deve ser informado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project location is read only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O local do projeto é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project name &quot;{0}&quot; is not a valid filename.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto &quot;{0}&quot; não é um nome de arquivo válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project UI API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de UI de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplies the APIs/SPIs for user interface of projects in the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece as APIs/SPIs para a interface de usuário de projetos no IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes APIs and SPIs for working with the GUI behavior of projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui APIs e SPIs para trabalhar com os comportamentos GUI de projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All implementation lives in the Projects UI module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Toda a implementação está no módulo UI de projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Queries API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de consultas gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acts as a general communication channel between modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Canal geral de comunicação entre os módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hosts queries which are not particularly domain-specific.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os servidores examinam o que não é particularidade de domínios específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permits different modules to obtain information about files in a flexible way.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite a diferentes módulos obter informações sobre arquivos de maneira flexível.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

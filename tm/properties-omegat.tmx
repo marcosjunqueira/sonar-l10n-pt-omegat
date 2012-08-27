@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates a resource bundle (.properties) file suitable for internationalizing applications by separating out all human-visible text strings from your code.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria um pacote de recursos de arquivos (.properties) adequados para internacionalização das aplicações, separando da visibilidade humana os textos, do seu código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource bundle files can also be used to collect other types of strings, such as properties for Ant scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos do pacote de recursos podem ser utilizados também para coletar outros tipos de strings, como por exemplo, propriedades para scripts Ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The created resource bundle contains only one locale, but you can add additional locales from the created file's contextual menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O pacote de recursos criado contém apenas uma localidade, mas você pode adicionar novas localidades no menu de arquivos criados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bundle can be edited in a text file (property-file format) for a specific locale or in a table that displays information for all locales.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O pacote pode ser editado em um arquivo texto (property-file format) para um local específico ou em uma tabela que mostra informações de todos os locais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This panel allows you to edit bundles.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este painel permite a edição de pacotes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Auto Resize</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Redimensionar &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New Property...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nova propriedade...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Comment:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Comentário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Key:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove Property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Value:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Valor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really delete property {0} ?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realmente excluir a propriedade {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This table shows keys and values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta tabela mostra chaves e valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de células</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the value here</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Digite o valor aqui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the comments here</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Digite os comentários aqui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This panel allows you to add new keys, values and comments.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este painel permite adicionar novas chaves, valores e comentários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Locales:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localidades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add Locale</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar localidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove Locale</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover localidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of locales in this bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de localidades deste pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name of the property resource bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>nome do pacote de recursos de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Locale</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Remover localidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to remove selected locales?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tem certeza que deseja remover as localidades selecionadas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog allows you to add and remove locales from this bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este diálogo permite que você adicione e remova localidades para este pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome deste objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determines if this object is a template (can make instances of itself).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Determina se este objeto é um modelo (pode criar instâncias de si mesmo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog allows you to search by criteria in bundles.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este diálogo permite que você pesquise por critérios em pacotes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Backward Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Pesquisa para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Highlight Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realce da pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match &amp;Case</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coincidir &amp;maiúsculas e minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Search by Rows</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Pesquisa por linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W&amp;rap Search</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa ci&amp;rcular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find &amp;What:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment above this property.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comente em cima desta propriedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key used by source code to access this property.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave usada pelo código para acessar essa propriedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localized value of this property.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor localizado desta propriedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The key could not be renamed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A chave não pode ser renomeada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another key with this name already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Outra chave com este nome já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Keys:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C&amp;haves:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add Key</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Remove Key</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Remover chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog allows you to add and remove keys from this bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este diálogo permite adicionar e remover chaves deste pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Country Code:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Código do país</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Language Code:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código do &amp;idioma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>L&amp;ocale:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>L&amp;ocalização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New File:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Predefined Locales:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localizações &amp;pré-definidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Variant:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Variação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog allows you to choose a locale.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este diálogo permite escolher uma localidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource Bundles</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacotes de recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports editing of .properties files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporta a edição de arquivos .properties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Resource Bundles module provides support for browsing .properties files in the Explorer and editing them in the Source Editor or in a table view.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de Pacotes de Recursos provê suporte para navegação em arquivos .properties no Explorer e para sua edição no editor de código-fonte ou em uma visão tabular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of extensions and MIME content types.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de extensões e tipos de conteúdo MIME.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Extensions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extensões de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Objetos de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource Bundle Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pacote de recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Locale</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova localidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locale...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localidade...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language {0} already exists in this bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Idioma {0} já existe para este pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening {0} ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo {0} está modificado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save it ?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salva-lo ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This entry cannot be renamed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta entrada não pode ser renomeada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste without value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar sem valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste with value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar com valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property {0} already exists in {1} locale.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade {0} já existe na localidade {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>default language</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>idioma padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>({0} - unknown language)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>({0} - idioma desconhecido)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} - unknown country</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} - país desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Discard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Descartar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Question</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pergunta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource Bundle Syntax Coloring</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realce de sintaxe para pacote de recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Edição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syntax coloring for .properties files in the source editor.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Realce de sintaxe para arquivos .properties no editor de código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Resource Bundle Syntax Coloring module provides syntax coloring in the source editor for .properties files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O pacote de recursos para realce de sintaxe, provê realce de sintaxe para arquivos .properties no editor de código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shadow Table Cell</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sombrear célula de tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shadows table cell for value if the key does not exist in that .properties file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sombrear célula de tabela se a chave não existe naquele arquivo .properties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equal sign</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sinal de igualdade</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

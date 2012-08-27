@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schema-to-Beans Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca Schema-to-Beans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library for representing XML as JavaBeans.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca para representar XML como JavaBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML data binding generator.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerador de vínculação de dados XML. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module is a library of support classes for generating beans corresponding to XML descriptors.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo é uma biblioteca de classes de suporte para geração de beans correspondente aos descritores XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(wrong enum declaration)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(declaração de enum errada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown type &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo &quot;{0}&quot; desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(more declaration than expected)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(mais declaração que esperada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Less declaration than expected: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Menos declaração que a esperada: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribute declaration not complete or incorrect</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Declaração de atributo incompleto ou incorreto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>character | should be used with enum</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>caractere | deve ser usado com enum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>failed parsing the ATTLIST {0} - {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>falha analisando o ATTLIST {0} - {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create two different properties with the same name on the same bean.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar duas propriedades diferentes com o mesmo nome no mesmo bean.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bean {0} has no property named {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O bean {0} não tem propriedade nomeada {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown property name: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de propriedade desconhecida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot write the tree as an XML stream: the bean is not attached to a DOM tree.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode escrever a árvore como um fluxo XML: o bean não está anexado à uma árvore DOM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to instanciate a bean: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao instanciar um bean: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>merger/mergee are not of the same class type: {0}/{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>merger/mergee não são do mesmo tipo de classe: {0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The property {0} is not a bean.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A propriedade {0} não é um bean.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detected in createAttribute, the beanProp is null for &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detectado em createAttribute, o beanProp é nulo para &quot;{0}&quot;.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It seems that createRoot hasn't been called yet.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parece que createRoot não foi chamado ainda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error: the schema object graph is null.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro: o gráfico do objeto do esquema é nulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create the file &quot;{0}&quot;, Exc: {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha criando arquivo &quot;{0}&quot;, Exc: {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to read the metaDD file &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha lendo arquivo metaDD &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create the directory &quot;{0}&quot; (already exists as a file).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde criar o diretório &quot;{0}&quot; (já existe como um arquivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Renamed property from &quot;{0}&quot; to &quot;{1}&quot; in &quot;{2}&quot;, due to duplicate names or a forbidden name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade renomeada de &quot;{0}&quot; para &quot;{1}&quot; em &quot;{2}&quot;, nome duplicado ou nome não permitido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the mdd information from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilizando a informação mdd de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Created directory {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório {0} criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The root element is ''{0}'' and its class is ''{1}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O elemento root é ''{0}'' e sua classe é ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipping generation due to generated files are newer than source files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ignorando geração devido à arquivos gerados mais novos que arquivos de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No changes made to file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma alteração feita no arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bad token ''{0}'' in finder expression.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Símbolo ruim ''{0}'' na expressão do localizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing &quot;on&quot; expression in finder ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faltando expressão &quot;on&quot; no localizador ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to find expression from finder, ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível encontrar expressão do localizador, ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parent node should not be null.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nó pai não pode ser nulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not an indexed property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem uma propriedade indexada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot add a null value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode adicionar um valor nulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid index value for a single type property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor do índice inválido para um único tipo de propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot insert an element which is already part of a graph.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde inserir um elemento o qual já faz parte de um gráfico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The element should be cloned first.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O elemento deve ser fechado primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown attribute {0} for property {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atributo {0} desconhecido para propriedade {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot change a #FIXED attribute.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode alterar um atributo #FIXED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified value ({0}) does not match one of the enumerated values: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O valor especificado ({0}) não combina com um dos valores enumerados: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not implemented yet</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não implementado ainda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The change for property &quot;{1}&quot; has been vetoed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A alteração para a propriedade &quot;{1}&quot; foi vetada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The property &quot;{0}&quot; has not been generated to support vetoable exceptions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A propriedade &quot;{0}&quot; não foi gerado para suportar exceções vetáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Node already referenced: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nó já referenciado: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property &quot;{0}&quot; already bound to a DOM node.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedade &quot;{0}&quot; já limitado para um nó DOM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DD creation failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criação DD falhou: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to find a bean class for the root element: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao encontrar uma classe bean para o elemento root: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to get the contructor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha para obter o construtor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to instanciate the bean class: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha para instanciar a classe bean: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DDParser cannot use a key name without value: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>DDParser não pode utilizar um nome de chave sem valor: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; is a final property but has not been declared at the end of the parsing String.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; é uma propriedade final mas não foi declarada no final da String analisada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; not found in the property list: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; não encontrado na lista de propriedade: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bean graph {0} is already in the registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gráfico do bean {0} já está no registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot register the graph {0} in the registry because the graph {1} is registered with the same ID: {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode registrar o gráfico {0} no registro porque o gráfico {1} está registrado com o mesmo ID: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot update the graph named {0} because it has not been found in the registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode atualizar o gráfico chamado {0} porque não foi encontrado no registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bean graph &quot;{0}&quot; entry not found in the registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entrada &quot;{0}&quot; do gráfico do bean não encontrada no registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graph name cannot be null</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do gráfico não pode ser nulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot nest brace-evaluation declaration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode aninhar a declaração brace-evaluation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot resolve {0} because there is no parent</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode resolver {0} porque não há pai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The parsing path specified ({0}) doesn''t resolve to a graph node element.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O caminho de análise especificado ({0}) não identifica um elemento de nó do gráfico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found {1}/{2} instead.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado {1}/{2} ao invés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No element found, path {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum elemento encontrado, caminho {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No root found for path {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum root encontrado para o caminho {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find a root for the parser (absolute path specified without parent graph)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde encontrar uma raiz para o analisador (caminho absoluto especificado sem gráfico pai)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No parent specified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum pai especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No root specified for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma raiz especificada para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot access the BaseBean node specified by {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode acessar o nó BaseBean especificado por {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wrapper class &quot;{0}&quot; specified for the property &quot;{1}&quot; has no String constructor and doesn''t implement the Wrapper interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A classe empacotadora &quot;{0}&quot; especificada para a propriedade &quot;{1}&quot; não tem construtor String e não implementa a interface Wrapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to instantiate an object of class &quot;{0}&quot; for property &quot;{1}&quot; using its String constructor with the value &quot;{2}&quot; : {3}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao instanciar um objeto da classe &quot;{0}&quot; para a propriedade &quot;{1}&quot; utilizando seu construtor String com o valor &quot;{2}&quot; : {3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type not supported ... {0} type: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo não suportado ... {0} tipo: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOMBinding already has a Node ({0}) - cannot sync the tree</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>DOMBinding já tem um Nó ({0}) - não pode sincronizar a árvore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown action: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ação desconhecida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} filename not specified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do arquivo {0} não especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} handler not specified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Manipulador {0} não especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputStream should not be null</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>InputStream não pode ser nulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn''t find the factory - try specifying a Document as the node value for the createGraph() method call.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde encontrar a fábrica - tente especificar um Document como o valor de nó para a chamada do método createGraph().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to get the Document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao obter o Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create the XML-DOM Document.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao criar o XML-DOM Document.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check your XML to make sure it is correct.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique o XML para ter certeza que ele está correto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current node has no binding: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nó atual não tem vínculo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The name {0} should start with a /</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O nome {0} deve começar com um /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find the specified bean because in the bean &quot;{0}&quot;, part of the bean name &quot;{1}&quot; has been removed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde encontrar o bean especificado porque no bean &quot;{0}&quot;, parte do nome do bean &quot;{1}&quot; foi removido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find the bean &quot;{0}&quot; within &quot;{1}&quot; - it might have been removed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde encontrar o bean &quot;{0}&quot; dentro do &quot;{1}&quot; - ele pode ter sido removido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown type: ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo desconhecido: ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create a new DOM root for ''{0}''!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao criar uma nova raiz DOM para ''{0}''!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOM graph creation failed: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criação do gráfico DOM falhou: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doc root ''{0}'' not found in the DOM graph!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Doc root ''{0}'' não encontrado no gráfico do DOM! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found ''{1}'' instead.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Encontrado ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The element ''{0}'' of type {1} has no value.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O elemento ''{0}'' do tipo {1} não tem valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate element in parsed schema: ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento duplicado no esquema analisado: ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No elements found as candidates for root element.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum elemento encontrado como candidato para elemento raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found node not referenced from root: ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nó encontrado não referenciado da raiz: ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schema is not valid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esquema não é válido.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A {0} is not allowed to contain a {1}: &quot;{2}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um {0} não permite conter um {1}: &quot;{2}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate element name, ''{0}'', at the same level in the schema is not allowed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de elemento duplicado, ''{0}'', no mesmo nível no esquema não é permitido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two elements have the same name, ''{0}'', but different contents.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dois elementos tem o mesmo nome, ''{0}'', mas conteúdos diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trying to call ''{0}'' on ''{1}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tentando chamar ''{0}'' em ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to find XML Schema type for ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao encontrar tipo de Esquema XML para ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid value, ''{0}'', for whiteSpace node.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor inválido, ''{0}'', para nó whiteSpace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to parse document at ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao analisar documento em ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to find definition for type ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível encontrar definição para tipo ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expected node ''{0}'', but found ''{1}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nó esperado ''{0}'', mas encontrado ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to find ref ''{0}'' from ''{1}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao encontrar ref ''{0}'' de ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}'' is not a good value for type ''{1}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>''{0}'' não é um bom valor para o tipo ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bad time/date parse of ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Análise de hora/data ruim para ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipping generation of class (as specified in the mdd file).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Geração da classe ignorada (como especificado no arquivo mdd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Unable to find referred to {0}, ''{1}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: Impossível encontrar menção {0}, ''{1}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating class {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gerando classe {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing to compile.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nada à compilar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling....</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Compilando....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to compile due to:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Impossível compilar devido à:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illegal name of schema, ''{0}''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome ilegal de esquema, ''{0}''.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It must be ''XMLSchema'' or ''DTD''.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser ''XMLSchema'' ou ''DTD''.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

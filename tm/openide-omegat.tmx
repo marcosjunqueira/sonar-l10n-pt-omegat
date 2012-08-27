@@ -1,0 +1,4734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compatibility APIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>APIs de compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some old classes that are now deprecated.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Algumas classes antigas que agora estão desaprovadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains some old API classes that have now been deprecated and can be replaced.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém algumas classes de API que agora estão desaprovadas e podem ser substituídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifically: ExplorerActions; ExplorerPanel; HttpServer; and WeakListener.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especialmente: ExplorerActions; ExplorerPanel; HttpServer; and WeakListener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The classes in this API are all deprecated and can be replaced by more modern APIs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as classes nesta API estão obsoletas e podem ser substituídas por APIs mais modernas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I/O APIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>APIs de E/S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open APIs relating to displaying output.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Open APIs relacionadas a exibição de saída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contains classes from org.openide.windows.* relating to creating output tabs, displaying output, and hyperlinking it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém classes de org.openide.windows.* relacionadas à criação de abas de saída, exibição de saída, e criando hiperlinks nela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module binds the Datasystems API with Scripting API.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo liga a API de sistemas de dados com a API Scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a result it is possible to use any scripting and templating language to generate templates.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Como resultado, é possível usar qualquer linguagem script para gerar modelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Templating</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelagem avançada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Templating not only for Datasystems</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelagem avançada não só para sistemas de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UI Utilities API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de utilitários para UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User interface utilities.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilitários da interface de usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helper methods for various UI related tasks.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Métodos de ajuda para várias tarefas relacionadas à UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load menu {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível carregar o menu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load menu item {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível carregar o item de menu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Localização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Voltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Início</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recarregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>i</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document: Done</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Documento: Concluído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception during initialization of HTML browser module</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção durante a inicialização do módulo de navegação HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Browser</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browser view</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualização do navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>N/A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Horizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap panels</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permutar painéis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset split line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Redefinir linha de divisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First panel {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Primeiro painel {0}. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second panel {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Segundo painel {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Untitled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown host: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Servidor desconhecido: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid URL: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URL inválida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No route to host: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma rota para o servidor: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invoking {4} implemented as {3} thru {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Invocando {4} implementado como {3} através {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actions APIs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>APIs de ações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definition of common actions for NetBeans</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definição de ações comuns para o NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides list of common actions used by any NetBeans application.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece lista de ações comuns usada por qualquer aplicação NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Add {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Adicionar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Print...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Im&amp;primir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pa&amp;ge Setup...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurar pá&amp;gina...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Undo {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desfa&amp;zer {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Redo {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Refazer {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cu&amp;t</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recor&amp;tar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Copy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Paste</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Co&amp;lar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Delete</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xcluir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>L&amp;ocalizar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &amp;Line...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ir para &amp;linha...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&amp;eplace...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Su&amp;bstituir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Execute</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Executar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Dock View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;ncaixar exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Undock View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Desencaixar exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Clone View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Clonar exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fechar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Next View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxi&amp;ma exibição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Previous View</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibição a&amp;nterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Renomear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;New Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Novo nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This object cannot be renamed from {0} to {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este objeto não pode ser renomeado de {0} para {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Garbage Collect</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coleta de lixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Text</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drop Shadow</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sombreamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overlay Grid</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sobrepor grade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Order...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar ordem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explore From &amp;Here</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xplore daqui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Workspaces</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Áreas de trabalho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Object &amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do objeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instantiate Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instanciar modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save &amp;In:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar &amp;em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pop-up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} saved.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were some problems while saving {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Houveram alguns problemas ao salvar {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New From Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo a partir do modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GC...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CL...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to force garbage collection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique para forçar a coleta de lixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Datasystems API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de sistema de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Open API for manipulating data objects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Open API do NetBeans para manipulação de objetos de dados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Datasystems API is a layer atop the Filesystems API which recognizes and groups data objects and gives them particular semantics.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A API de sistema de dados é uma camada sobre a API do sistema de arquivos que reconhece e agrupa objetos de dados e dá a eles semânticas particulares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once a part of the general Open APIs, it is now split into an independent module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Antigamente parte da Open API comum, agora, ela está dividida em um módulo independente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unrecognized File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo não reconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shared access</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acesso compartilhado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot save new ordering.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível salvar nova ordenação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete file {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível excluir o arquivo {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (→)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (→)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link to {3}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Link para {3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the object this link refers to.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto a que este link se refere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original Filesystem Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do sistema de arquivos original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the filesystem of the original object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do sistema de arquivos do objeto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome deste objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If True, this object is a template (can make instances of itself).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se 'verdadeiro', este objeto é um modelo (pode criar instâncias dele mesmo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A list of files represented by this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma lista de arquivos representados por este objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Length of this file in bytes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho deste arquivo, em bytes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Only applies to the first file listed in All Files.)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(Somente aplicável ao primeiro arquivo listado em 'Todos os arquivos'.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification Time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hora da modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When this file was last modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando este arquivo foi modificado pela última vez. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ordenação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorting and ordering settings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Determina como os objetos em um pacote devem ser ordenados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modo de ordenação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determines how objects in the package should be sorted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Determina como objetos em um pacote deveriam ser ordenados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsorted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não ordenado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Name (Packages First)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por nome (pacotes primeiro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Modification Time</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por hora de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By File Size</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por tamanho de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Move</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Mover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Instantiate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar &amp;instância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create &amp;Link</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar &amp;link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Serialize</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Serializar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Default instance</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instância pa&amp;drão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Name of file to serialize the instance to</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome do arquivo para serializar a instância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instance Serialization</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Serialização de instância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create New Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar nova pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NewFolder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nova pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} already exists in folder {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} já existe na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder {0} already exists in folder {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta {0} já existe na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file {1} seems to be too large ({2,choice,0#{2}b|1024#{3} Kb|1100000#{4} Mb|1100000000#{5} Gb}) to safely open.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {1} parece ser muito grande ({2,choice,0#{2}b|1024#{3} Kb|1100000#{4} Mb|1100000000#{5} Gb}) para abrir com segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening the file could cause OutOfMemoryError, which would make the IDE unusable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrir este arquivo poderá causar um erro OutOfMemoryError, o que tornaria o IDE inutilizável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you really want to open it?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você tem certeza de que deseja abrí-lo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML Configuration Files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivos de configuração XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error (recoverable)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro (recuperável)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FATAL ERROR</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ERRO FATAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML File</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#{0} &quot;{1}&quot; [{2}:{3}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>#{0} &quot;{1}&quot; [{2}:{3}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create folder; {0} is not a valid name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível criar a pasta; {0} não é um nome válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot copy {0}: The destination folder is the same as the source folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível copiar {0}: A pasta de destino é a mesma da origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot copy {0}: The destination folder is a subfolder of the source folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível copiar {0}: A pasta de destino é uma sub-pasta da pasta de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Wizard - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo assistente - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo assistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha o modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select a Template:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecione um modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing description...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializando descrição...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Template Description:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição do &amp;modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select a folder for the newly created object or enter the folder name below:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione uma pasta para o objeto recém criado ou digite o nome da pasta abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>s</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not remove source folder while moving.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível remover a pasta de origem ao movê-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;top folder&gt; [{0}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;pasta superior&gt; [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;default name&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;nome padrão&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folders</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pastas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unrecognized Objects</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Objetos desconhecidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action Instances</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instâncias de ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Object {0} cannot be copied.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: O objeto {0} não pode ser copiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: Object {0} cannot be moved.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: O objeto {0} não pode ser movido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(separator)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(separador)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java class name of the object being represented.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da classe Java do objeto que está sendo representado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are problems with saving the {0} bean.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existem problemas salvando o bean {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (Broken Link)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (Link quebrado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broken Link</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Link quebrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broken Link Filesystem</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Link para sistema de srquivos quebrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Unrecognized setting&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Configuração irreconhecível&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Object Copy Flavor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar tipo do objeto de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Object Cut Flavor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recortar tipo do objeto de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Object Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Novo nome de objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;default&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;padrão&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The popup menu for objects of type {0} could not be restored; using default settings.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O menu pop-up para objetos do tipo {0} não pôde ser restaurado; usando congurações padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loader</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot give {0} an empty name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível dar um nome vazio a {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No enabled filesystem.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum sistema de arquivos ativado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that you have at least one filesystem that is not read-only and is not hidden.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tenha certeza de que você tem pelo menos um sistema de arquivos que não é somente leitura e que não esteja oculto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target filesystem or folder does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O sistema de arquivos de destino não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target filesystem is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O sistema de arquivos de destino é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The file {0} already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem Action</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ação do sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instantiate</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar instância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save As Template...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar como modelo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save As Template</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar como modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Select the category in which the new template will appear:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Selecione a categoria na qual o novo modelo aparecerá:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Templates</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save &amp;All</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>S&amp;alvar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar pasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creation of the object from template failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A criação do objeto através do modelo falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Templates...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todos os modelos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening {0} ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Abrindo {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is modified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} está modificado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save it ?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salva-lo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,0#{1} [r/o]|1#{1} *|2#{1} [r/o] *|3#{1}}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,0#{1} [s/l]|1#{1} *|2#{1} [s/l] *|3#{1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1}:{2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1}:{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} was changed to read-only!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} foi alterado para somente leitura!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All changes will be discarded.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Todas as alterações serão descartadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can not save it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível salvá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file appears to contain binary data.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este arquivo parece conter dados binários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to open it in the text editor?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tem certeza que deseja abrí-lo no editor de texto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Binary File Detected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo binário detectado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sa&amp;ve As...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sal&amp;var Como...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save As action failed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao gravar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save As</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar como</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create the target folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível criar a pasta de destino {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explorer &amp; Property Sheet API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API do explorer e folha de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various view for displaying node structures.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Várias visualizações para exibir estruturas de nó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows definition of new views that display structures created using Nodes API.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite definição de novas visualizações que exibem estruturas criadas usando a API de nós.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explorer [{0}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Explorer [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not restore Explorer window; the root node &quot;{0}&quot; could not be restored correctly.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não foi possível restaurar a janela do Explorer; o nó raiz &quot;{0}&quot; não pode ser restaurado corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An Explorer view must not veto the empty selection.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma visualização do Explorer não deve vetar a seleção vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An explored context ({0}) must be within the root context ({1}).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um contexto explorado ({0}) deve estar dentro do contexto raiz ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot use null for node selection.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode usar nulo para seleção de nó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No element of a node selection may be null.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum elemento de uma seleção de nó deve ser nulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A node selection cannot contain nodes ({0}) not underneath the root ({1}).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma seleção de nó não pode conter nós ({0}), não dentro da raiz ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot have null root context.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode haver contexto raiz nulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete {0}?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tem certeza que deseja excluir {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete {0} and all of its contents?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tem certeza que deseja excluir {0} e todo o seu conteúdo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete these {0} items?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tem certeza que deseja excluir estes {0} itens?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Object Deletion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirme exclusão de objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Package Deletion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirme exclusão de pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Multiple Object Deletion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirme exclusão múltipla de objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete {0} (link to {3})?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tem certeza que deseja excluir {0} (link para {3})?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Link Deletion</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Confirmação de exclusão de link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Array of</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Matriz de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The property could not be set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A propriedade não pôde ser definida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not a valid value for {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} não é um valor válido para {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(No Property Editor)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(Nenhum editor de propriedades)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Properties&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhuma propriedade&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(r/</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(l/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(-/</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(-/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>w)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>-)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort by Category</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ordenar por categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort by Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ordenar por nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort by Type</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ordenar por tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Editable Properties Only</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir apenas propriedades editáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customizer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides help about the object whose properties are displayed in the property sheet</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece ajuda sobre o objeto cujas propriedades são exibidas na folha de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PropertyPanel:UserInfo]Using property &gt;&gt;{0}&lt;&lt; at design time throws an exception.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>[PropertyPanel:UserInfo]Usando propriedade &gt;&gt;{0}&lt;&lt; em tempo de design lança uma exceção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property Sheet</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Folha de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Item Available</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum item disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property Index:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Índice de propriedades:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset to &amp;default</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Redefinir para pa&amp;drão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in setter method of property: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção em método setter da propriedade: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in setter method of property {0}:
+{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção em método setter da propriedade {0}:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no custom editor&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum editor personalizado&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;no property editor&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum editor de propriedades&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Different Values&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Valores diferentes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected nodes have different values for this property.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os nós selecionados possuem valores diferentes para esta propriedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Value&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem valor&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No type&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum tipo&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invokes customizer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Chama personalizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid value: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valor inválido: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,0#Invalid value {1}|1#{1}}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,0#Valor inválido {1}|1#{1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Type: {1}{2,choice,0#|1# Bean: {3}|2# Beans: {3}}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} Tipo: {1}{2,choice,0#|1# Bean: {3}|2# Beans: {3}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para &amp;cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move &amp;down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para &amp;baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Hide Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Ocultar detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Show Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>E&amp;xibir detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indexed property value cannot be set</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O valor da propriedade indexada não pôde ser definido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Names</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Values</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;unreadable&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;ilegível&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>null</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>nulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error setting value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro definindo valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown Sorting Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Modo de ordenação desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore default value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Restaurar valor padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}{1}{2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}{1}{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the currently selected property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição da propriedade selecionada atualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the property currently being edited</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome da propriedade que está sendo editada atualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No description available.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma descrição disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nada selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Splitter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Separador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visual divider between the properties table and the description area.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Divisor visual entre a tabela de propriedades e a área de descrição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} equals {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} é igual a {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property group {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Grupo de propriedades {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple objects selected</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Múltiplos objetos selecionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click, or select and press CTRL-SPACE to open custom editor; right click for menu</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique, ou selecione e pressione CTRL-ESPAÇO para abrir o editor personalizado; clique com botão direito para menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Description Area</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir área de descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Description Area</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocultar área de descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Default Value</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Restaurar valor padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>esta propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illegal number format: &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato numérico ilegal: &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} - {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} - {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom editor: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor personalizado: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties table</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Property categories</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Categorias da propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table of editable properties representing the current object</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela de propriedades editáveis que representam o objeto atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can select different sets of properties of the current object to display in the property sheet</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pode selecionar diferentes conjuntos de propriedades do objeto atual para exibir na folha de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Search:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pesquisa rápida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse from root</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegar a partir da raiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse from current point</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegar a partir do ponto atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Raiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected Nodes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nós selecionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de renomeação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In-place editor of node name in the tree view</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor integrado de nome do nó na visualização de árvore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target did not accept the content of the transfer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O destino não aceitou o conteúdo da transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table of properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tabela de propriedades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No property</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma propriedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No property.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma propriedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bean: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bean: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Type: {1} Bean: {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} Tipo: {1} Bean: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Visible Columns</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar colunas visíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the Columns to Display in the List</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolhe as colunas a exibir na lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List Options</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opções da lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Visible Columns...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alterar colunas visíveis...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Classificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ascending</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ascendente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Descending</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descendente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Column</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coluna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Left</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover à esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Right</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover à direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no columns to change their visibility.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há nenhuma coluna para alterar sua visibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File System API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API do sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtual File System API.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API do sistema de arquivos virtual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows access to file like resources in a way independent on actual OS files.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite acesso a arquivos como recurso, de uma forma independente do sistema de arquivos atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports notification of changes on disk.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dá suporte a notificações de mudanças em disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inválido {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A raiz {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete root of filesystem {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível excluir a raiz do sistema de arquivos {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename root of filesystem {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível renomear a raiz do sistema de arquivos {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete file {0} in {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível excluir arquivo {0} em {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rename file {0} in {1} to {2}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível renomear o arquivo {0} em {1} para {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem {0} is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O sistema de arquivos {0} é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} in {1} is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} em {1} é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create file {0} because {1} on filesystem {2} is not a folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível criar arquivo {0} porque {1} no sistema de arquivos {2} não é uma pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder {0} already exists in {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta {0} já existe em {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create folder {0} in {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possivel criar a pasta {0} em {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} already exists in {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} já existe em {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create file {2}.{3} in folder {0} on filesystem {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível criar o arquivo {2}.{3} na pasta {0} do sistema de arquivos {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid lock [{0}] for file {1} in {2} with current lock [{3}].</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloqueio [{0}] inválido para arquivo {1} em {2} com bloqueio atual [{3}].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot modify filesystem.attributes file:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível modificar o arquivo filesystem.attributes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {1} cannot be found in folder {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {1} não pode ser encontrado na pasta {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {2} cannot be locked because it is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {2} não pode ser bloqueado porque ele é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read from file {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível ler do arquivo {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error in file {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro no arquivo {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error in JAR file {1}: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro no arquivo JAR {1}: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown JAR</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>JAR desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-Filesystem</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Multi-sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} not found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo &quot;{0}&quot; não foi encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another application may have moved the file or changed the name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Outra aplicação pode ter movido ou renomeado o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid XML FileSystem.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistema de arquivos XML Inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read DefaultAttributes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível ler DefaultAttributes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internal error: unreachable code.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro interno: código inatingível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder copying not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cópia de pasta não suportada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FileSystem element must be the root element.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O elemento FileSystem precisa ser o elemento raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribute &quot;name&quot; is missing</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Está faltando o atributo &quot;nome&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inaccurate number of parameters</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Número de parâmetros inexato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown element.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Elemento desconhecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicated FileObject:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>FileObject duplicado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} in {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} em {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dialogs API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de diálogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handles dialogs and wizards.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Manipula caixas de diálogo e assistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module handles the dialog and wizard infrastructure used in NetBeans.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo manipula toda a infra-estrutura de caixas de diálogo e assistentes usada no NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A {0} exception has occurred.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma exceção {0} ocorreu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please report this at http://www.netbeans.org/issues.html, including a copy of your messages.log file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, relate isto em http://www.netbeans.org/issues.html, incluindo uma cópia do arquivo messages.log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The messages.log file is located in your {1} folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo messages.log está localizado na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unexpected Exception</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção inesperada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Question</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pergunta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options Align</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alinhamento de opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>n/a</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>n/a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next &gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próximo &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,1#Moves to next step of the wizard.|2#Next step: {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,1#Avança para o próximo passo do assistente.|2#Próximo passo: {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1}}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; &amp;Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt; Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,-1#Moves to previous step of the wizard.|0#Previous step: {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,-1#Volta ao passo anterior do assistente.|0#Passo anterior: {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Finalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Input line</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Linha de entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} wizard ({1})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0,choice,0#{1}: {2}|1#{0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0,choice,0#{1}: {2}|1#{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1}: {2}}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1}: {2}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steps</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window System API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API do sistema de janelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>API for managing components on a screen.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API para gerenciamento de componentes em uma tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides OS and MDI/SDI neutral abstraction API over concept of components that are displayed to the user.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece API com abstração neutra de SO e MDI/SDI sobre o conceito de componentes que são exibidos ao usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot assign component to EMPTY</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível atribuir componente para VAZIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown close operation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Operação de fechamento desconhecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invoking {2} implemented as {3} with {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Invocando {2} implementado como {3} através de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Computer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>might be because your user directory is on a Windows UNC path (issue #46813)?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>pode ser porque o seu diretório de usuário está em um caminho UNC do Windows (issue #46813)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If so, try using mapped drive letters.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Em caso afirmativo, tente usar unidades mapeadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master Filesystem</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sistema de arquivos mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merges multiple filesystem providers into a single logical tree.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Une múltiplas fontes de sistemas de arquivos em uma simples árvore lógica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creates mounts for disk roots and then splices in other filesystems such as VCS mounts, providing a single wrapper FileSystem for them all.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cria montagens para raízes do disco e então divide em outros sistemas de arquivos como se fossem montagens VCS, fornecendo um simples sistema de arquivos empacotador para todas elas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FolderLoader for MasterFileSystem</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>FolderLoader para MasterFileSystem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot copy root of filesystem {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível copiar a raís do sistema de arquivos {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move root of filesystem {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível mover a raíz do sistema de arquivos {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem {1}  cannot be mounted on the root {0}, because Filesystem {2} is already mounted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O sistema de arquivos {1} não pode ser montado na raiz {0}, porque o sistema de arquivos {2} já está montado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem {1}  cannot be mounted on the root {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O sistema de arquivos {1} não pode ser montado na raiz {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem {0}  cannot be unmounted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O sistema de arquivos {0} não pôde ser desmontado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create file {0} in folder {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível criar o arquivo {0} na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This file already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este arquivo já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create folder {0} in folder {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possivel criar a pasta {0} na pasta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This folder already exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta pasta já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid lock [{0}] for file {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bloqueio inválido [{0}] para o arquivo {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root cannot be locked.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A raiz não pode ser bloqueada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get exclusive access to {0} (probably opened for reading).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível obter acesso exclusivo para {0} (provavelmente aberto para leitura).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get shared access to {0} (probably opened for writing).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é possível obter acesso compartilhado para {0} (provavelmente aberto para escrita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is already locked.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} já está bloqueado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is already locked (lock {1} exists).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} já está bloqueado (bloqueio {1} existe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} cannot be written to because it is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} não pode ser escrito porque ele é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Module System API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API do sistema de módulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>APIs for getting information about installed modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>APIs para obter informação sobre módulos instalados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows to get list of installed modules, inspect their properties and dependencies.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite obter a lista de módulos instalados, inspecionar suas propriedades e dependências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Utilities API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de utilitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Utilities API.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API básica de utilitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various helper methods and basic concept definitions including actions, lookup, image handling, parallel execution and branding support.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Vários métodos auxiliares e definições básicas de determinados conceitos, incluindo ações, lookup, manipulação de imagens, execução paralela e suporte a 'branding'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOP</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SUPERIOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEFT</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ESQUERDA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BOTTOM</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>INFERIOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RIGHT</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>DIREITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CENTER</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>CENTRO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEADING</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>LEADING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRAILING</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>TRAILING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NORTH</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NORTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NORTH_EAST</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NORDESTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EAST</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>LESTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOUTH_EAST</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SUDESTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOUTH</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SUL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOUTH_WEST</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SUDOESTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEST</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>OESTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NORTH_WEST</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NOROESTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HORIZONTAL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>HORIZONTAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERTICAL</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>VERTICAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOG_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>LOG_OPTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FLASH_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>FLASH_OPTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BUFFERED_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>BUFFERED_OPTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NONE_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>NONE_OPTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SINGLE_SELECTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SELEÇÃO_ÚNICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SINGLE_INTERVAL_SELECTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SELEÇÃO_INTERVALO_ÚNICO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MULTIPLE_INTERVAL_SELECTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>SELEÇÃO_INTERVALO_MÚLTIPLO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTO_RESIZE_OFF</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>AUTO_REDIMENSIONAMENTO_DESATIVADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTO_RESIZE_LAST_COLUMN</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>AUTO_REDIMENSIONAMENTO_ÚLTIMA_COLUNA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTO_RESIZE_ALL_COLUMNS</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>AUTO_REDIMENSIONAMENTO_TODAS_COLUNAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DO_NOTHING_ON_CLOSE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>FAZER_NADA_AO_FECHAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HIDE_ON_CLOSE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>OCULTAR_AO_FECHAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISPOSE_ON_CLOSE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>DESCARTAR_AO_FECHAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DEFAULT_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>OPÇÃO_PADRÃO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YES_NO_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>OPÇÃO_SIM_NÃO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YES_NO_CANCEL_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>OPÇÃO_SIM_NÃO_CANCELAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK_CANCEL_OPTION</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>OPÇÃO_OK_CANCELAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ERROR_MESSAGE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MENSAGEM_ERRO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INFORMATION_MESSAGE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MENSAGEM_INFORMAÇÃO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING_MESSAGE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MENSAGEM_AVISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QUESTION_MESSAGE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MENSAGEM_QUESTIONAMENTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PLAIN_MESSAGE</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>MENSAGEM_SIMPLES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An HTTP server is already registered.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um servidor HTTP já está definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot use two servers at once.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não pode utilizar dois servidores ao mesmo tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A module attempted to unregister an HTTP server provided by another module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um módulo tentou cancelar o registro de um servidor HTTP fornecido por outro módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to nowhere</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>para lugar nenhum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No server registered.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum servidor registrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>too many arguments</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>muitos argumentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unmatched braces in the pattern at position</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>chaves não comparável no padrão, na posição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>object for key {0} was not found</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>o objeto para a chave {0} não foi encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ClassFinder already set.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ClassFinder já definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An attempt was made to look up a localized manifest attribute named: {0}
+This name is in an invalid format.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma tentativa de consultar um um atributo, localizado no manifesto, chamado: {0}
+Este nome está em um formato inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are running the Macintosh MRJ on MacOS X,
+make sure that your locale settings are valid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se você está rodando um Macintosh MRJ em um MacOS X,
+tenha certeza que suas configurações regionais sejam válidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualmente: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Cannot load translation table: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>AVISO: Não pêde carregar a tabela de tradução: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Progress cursor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cursor de progresso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple Objects Flavor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de objetos múltiplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Enumeration API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Antiga API de enumeração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enumeration API that is in wrong package.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de enumeração que está no pacote errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enumeration API that is in wrong package, org.openide.util.enum and as such it cannot be compiled with Java 1.5, because enum is a keyword.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de enumeração a qual encontra-se num pacote incorreto, org.openide.util.enum e então não pode ser compilada com Java 1.5, por enum ser uma palavra reservada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is replaced by class org.openide.util.Enumerations.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Substituída por class org.openide.util.Enumerations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use org.openide.util.Enumerations instead of this module.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use org.openide.util.Enumerations ao invés deste módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execution API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Execution API from the Open APIs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de execução das APIs abertas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consists of parts of the org.openide.execution.* package from the Open APIs.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Consiste em partes do pacote org.openide.execution.* das APIs abertas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings Options API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API das opções de configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support for storing preferences.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Suporte para armazenar preferências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides classes that simplify storage of settings between multiple invocation of NetBeans based application.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece classes que simplificam o armazenamento de configurações entre múltiplas invocações de aplicações baseadas no NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use org.openide.util.NbPreferences instead.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Use preferivelmente org.openide.util.NbPreferences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception when invoking property getter on {0}.{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção enquanto executava o método 'getter' de propriedade em {0}.{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nodes API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de nós</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>API for defining generic tree-like structures.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API para definição de estruturas genéricas tipo árvore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides abstraction over tree-like structures by defining Node - the generic extensible interface that can then be displayed by the Explorer API.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece abstração para estruturas tipo árvore pela definição de Nó - a interface genérica extensível que pode então ser exibida pela API do Explorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expert</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especialista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties of this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades deste objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expert properties of this object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Propriedades especiais deste objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Order</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mudar ordem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show these fields in this order:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir esses campos nesta ordem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move up</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move down</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mover para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the object.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Node</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Colar nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Index</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiar índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please Wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text API</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generic API wrapping Swing based EditorKits.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>API genérica empacotando EditorKits baseandos em swing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide support for defining components that embed Swing text editors.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece suporte para definição de componentes que incorporam editores de texto swing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print Settings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurações de impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing {2} at {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Imprimindo {2} em {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Página {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap Lines</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quebrar linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should lines be wrapped?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As linhas devem ser quebradas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Header Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato do cabeçalho da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, &quot;Top of page {0} (printed on date {1}) of file {2}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por exemplo, &quot;Topo da página {0} (impresso na data {1}) do arquivo {2}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Footer Format</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Formato do rodapé da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, &quot;Bottom of page {0} (printed on date {1}) of file {2}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por exemplo, &quot;Final da página {0} (impresso na data {1}) do arquivo {2}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Header Font</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte do cabeçalho da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the page header font.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Define a fonte do cabeçalho da página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Footer Font</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte do rodapé da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the page footer font.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Define a fonte do rodapé da página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Header Alignment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alinhamento do cabeçalho da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Header Alignment - LEFT, CENTER, RIGHT.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alinhamento do cabeçalho da página - ESQUERDA, CENTRO, DIREITA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Footer Alignment</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alinhamento do rodapé da página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Footer Alignment - LEFT, CENTER, RIGHT.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alinhamento do rodapé da página - ESQUERDA, CENTRO, DIREITA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Ascent Correction</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Correção de elevação da linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiplier to correct the line ascent.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Multiplicador para corrigir a elevação da linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page number {0} was printed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A página de número {0} foi impressa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print Job Progress</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Progresso da impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current printer job was aborted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A impressão atual foi abortada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printer problem: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Problema na impressora: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} é somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document {0} could not be loaded.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O documento {0} não pôde ser carregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descartar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to insert empty string</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Incapaz de inserir uma string vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: File {0} was not found or could not be accessed.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso: O arquivo {0} não foi encontrado ou não pôde ser acessado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {0} was modified externally.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo {0} foi modificado externamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reload it?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Recarregá-lo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}:{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}:{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have specified an invalid file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Foi especificado um arquivo inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the path.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verifique o caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Código-fonte</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

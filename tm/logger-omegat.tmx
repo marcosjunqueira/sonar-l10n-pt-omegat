@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Testing Tools</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ferramentas de teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception Reporter</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Relator de exceção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows automatic reporting of exceptions to our UI Gestures Server</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Permite relatório automático de exceções para nosso servidor de gestos de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Username:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de &amp;usuário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to get informed about the state of this problem, you need to be a registered user.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se desejar receber informações sobre a situação deste problema, você precisa ser um usuário registrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are not registered, you can</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se você não é registrado, você pode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>register here,</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>registrar-se aqui,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dialog for reporting issues</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo para relatar problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report Dialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo para relatório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans user name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de usuário do NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans user name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome de usuário NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should fill this field if you are a registered user.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É necessário preencher este campo se você for um usuário registrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should write short summary of the exception</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>É necessário escrever um resumo sobre a exceção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can describe here what you were doing when this issue rised.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrever aqui o que você estava fazendo quando este problema ocorreu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Su&amp;mmary:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resu&amp;mo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Describe what you were doing when the exception occured:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Descrever o que você estava fazendo quando a exceção ocorreu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Issue summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resumo do problema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment area</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Área de comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or you can send the report as a guest.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>ou você pode enviar um relatório como visitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The report contains UI gesture data collected prior to the exception.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O relatório contém dados de gestos de UI coletados antes da exceção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Password:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Senha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send &amp;Report as a Guest</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enviar &amp;relatório como um visitante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username or password is wrong</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Usuário ou senha inválidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Your NetBeans.org username)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>(Seu usuário do NetBeans.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting to UI Gestures Collector</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectando ao coletor de gestos de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading initial welcome page.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando página de boas-vindas inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit UI Logs</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enviar logs de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit {0} Logged UI Events for Evaluation...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enviar {0} de eventos UI logados para avaliação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logs uploaded to server, see what hints the server has for you...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Logs enviados ao servidor, veja quais dicas o servidor tem para você...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module is capable of collecting various information about user actions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo é capaz de coletar várias informações sobre ações do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It contains UI elements that allow inspection and submission of these data to the collecting server.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Contém elementos UI que permite a inspeção e envio destes dados para o servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UI Gestures Collector Infrastructure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Infra-estrutura do coletor de gestos de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UI Gestures Collector</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Coletor de gestos de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UI Gestures</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Gestos de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message Parameters</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parâmetros de mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Param #{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parâmetro #{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows value of message parameter #{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibe o valor do parametro da mensagem #{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Quando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time when the event happened</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Hora em que o evento ocorreu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logger Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do logger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the logger that generated the event</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do logger que gerou o evento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Messagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The actual message from the log</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A mensagem atual do log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collects Information about UI Gestures</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Informação coletada sobre gestos de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (&lt;i&gt;Toolbar Action&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (&lt;i&gt;Ação da barra de ferrametnas&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (&lt;i&gt;Menu Action&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (&lt;i&gt;Ação do menu&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (&lt;i&gt;Keyboard Action&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (&lt;i&gt;Ação do teclado&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (&lt;i&gt;Exception&lt;/i&gt;)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (&lt;i&gt;Exceção&lt;/i&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabled Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulos habilitados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled Modules</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Módulos desabilitados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The operating system is {0}, virtual machine {1}, NetBeans version {2} and user name {3}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O sistema operacional é {0}, máquina virtual {1}, NetBeans vesão {2} e usuário {3}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Configuration</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of disabled modules {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de módulos desabilitados {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of enabled modules {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lista de módulos habilitados {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E&amp;xit without Getting Statistics</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sai&amp;r sem obter as estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remind &amp;Later</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Lembrar depois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Review and Report Problem</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Revisar e reportar problema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload of log to {0} failed!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Envio do log para {0} falhou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload of log to {0} failed, please report the problem at http://www.netbeans.org/community/issues.html</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Envio do log para {0} falhou, por favor relate o problema para http://www.netbeans.org/community/issues.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uploading log file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enviando arquivo de log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending logs...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Enviando logs...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reading reply...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Lendo resposta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structured</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Estruturado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conectando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Record:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exibir registro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to UI Gestures Collector</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Bem-vindo ao coletor de gestos de UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the entry page to the world of statistics.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta é a página de entrada ao mundo das estatísticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;UI Gestures Collector&lt;/b0&gt; is a portal that allows you to find new tips on how to use NetBeans, discover what developers using the same technologies do the most, and also submit feedback to the NetBeans development team.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O &lt;b0&gt;Coletor de gestos de UI&lt;/b0&gt; é um portal que permite você encontrar novas dicas de como utilizar o NetBeans, descobrir ainda o que desenvolvedores usando a mesma tecnologia utilizam mais, e também enviar comentários ao time de desenvolvimento do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic idea is that you tell the server what you do, and the server, based on received data can generate metrics, statistics, or provide an advice targeted directly to you on how to use the NetBeans IDE in a better way.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A idéia básica é que você informe ao servidor o que você faz, e o servidor, baseado nestes dados, poder gerar métricas, estatísticas e ainda prover relatórios diretamente à você de como poder aproveitar o NetBeans IDE da melhor forma possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now submit data about the UI actions you did in the IDE until now, and if you do so, the server records them and gives you some statistics.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode enviar agora dados sobre as ações de UI as quais você utilizou no IDE até o momento, e se você fizer isso, o servidor irá armazená-los e retornar algumas estatísticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right now the whole system is in development mode, so we are still mostly collecting data, but some basic information comparing your usage to average usage of all participants in the program shall nevertheless be available.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>No momento o sistema como um todo encontra-se em modo de desenvolvimento, por isso, o trabalho maior no momento é sobre coleta de dados, mas algumas informações básicas comparando sua utilização média e uso de todos os participantes no programa, no entanto, devem estar disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However your computer seems to be disconnected from the network.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Entretanto seu computador aparenta estar desconectado da rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is why we cannot connect to the server that could handle your submition request.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este é o motivo de não conseguir conectar ao servidor o qual pode tratar de sua submissão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reportDialog</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Caixa de diálogo de relatório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Proxy</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir Proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;amp;Submit Data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;amp;Enviar dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;amp;Hide Data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;amp;Ocultar dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;amp;View Data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;amp;Visualizar dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;amp;Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UI Handler Library</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Biblioteca de manipulação de UI</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

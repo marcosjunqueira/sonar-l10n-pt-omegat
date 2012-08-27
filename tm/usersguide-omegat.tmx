@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java SE Samples</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplos Java SE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides Java SE application samples.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fornece exemplos de aplicações Java SE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This module provides Java SE samples available through Sample Setup Wizard.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este módulo fornece exemplos de aplicações Java SE disponíveis através do Assistente de Definição de Exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anagram Game</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Jogo de anagramas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI Form Examples</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplos de formulários GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mars Rover Viewer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizador de veículo marciano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Client Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Editor de clientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name and Location Panel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do Projeto e Painel de Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name and Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome e local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SampleApplication{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>AplicacaoExemplo{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Localização do projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta do projeto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Project Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurar a localização do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Project Location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecionar local do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Name is not valid folder name.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nome do projeto não é um nome de diretório válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório do projeto já existe e não está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set as Main Project</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definir como projeto principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple game application built with basic Swing components such as JFrame, JLabel, and JTextField.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um jogo simples desenvolvido com componentes básicos do Swing, como JFrame, JLabel, e JTextField.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also contains a JUnit test class.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Também contém uma classe de teste JUnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple editor of client information.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um simples editor de informações do cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demonstrates use of &lt;b0&gt;Beans Binding&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Demonstra o uso de &lt;b0&gt;Vinculação de beans&lt;/b0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Includes examples of converters and validators.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inclui exemplos de conversores e validadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Java 2 Standard Edition Sample Projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Projetos de exemplo da plataforma Java 2 Standard Edition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java GUI Form samples illustrating NetBeans GUI Builder features on three typical UI layouts commonly used by developers.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exemplos de formulários GUI em Java que ilustram os recursos do gerador de GUI do NetBeans, em três formatos tipicamente usados por desenvolvedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple image viewer adapted from the SingleFrameExample5 application that is packaged with the &lt;b0&gt;Swing Application Framework&lt;/b0&gt; library.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um visualizador simples de imagens adaptado a partir da aplicação SingleFrameExample5, que é empacotada junto a biblioteca &lt;b0&gt;Swing Application Framework&lt;/b0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demonstrates use of actions, background tasks, resource maps, and other framework features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Demonstra o uso de ações, tarefas em segundo plano, mapas de recursos e outras funcionalidades desse framework.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple text editor adapted from the DocumentExample application that is packaged with the &lt;b0&gt;Swing Application Framework&lt;/b0&gt; library.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um editor de textos simples adaptado a partir da aplicação DocumentExample, que é empacotada junto a biblioteca &lt;b0&gt;Swing Application Framework&lt;/b0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demonstrates use of actions, resource maps, and other framework features.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Demonstra o uso de ações, mapas de recursos e outras funcionalidades deste framework. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help &amp;Contents</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Conteúdo da ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Timer (temporizador)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Online Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ajuda online geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online documentation for the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Documentação online para o IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The General Online Help module (code-named usersguide) provides online and context-sensitive documentation for basic IDE features such as editing files, updating the IDE, and configuring the IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O módulo de Ajuda online (guia de uso) provê documentação online e sensível a contexto para os recursos básicos do IDE como edição de arquivos, atualização e configuração do IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ajuda</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

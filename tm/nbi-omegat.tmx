@@ -1,0 +1,3730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current platform is not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A plataforma atual não é suportada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load the engine properties file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode carregar o arquivo de propriedades do motor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required parameter missing for command line argument &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faltando parametro obrigatório para argumento de linha de comando &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;look-and-feel-class-name&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;look-and-feel-class-name&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;target-component-uid&gt; &lt;target-component-version&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;target-component-uid&gt; &lt;target-component-version&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid parameter for command line argument &quot;{0}&quot; -- &quot;{1}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parametro inválido para argumento de linha de comando &quot;{0}&quot; -- &quot;{1}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;language&gt;[_&lt;country&gt;[_&lt;variant&gt;]]&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;language&gt;[_&lt;country&gt;[_&lt;variant&gt;]]&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified state file &quot;{1}&quot;, does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo de estado especificado &quot;{1}&quot;, não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; parameter is ignored.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parametro &quot;{0}&quot; ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;state-file-path&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;state-file-path&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified state file &quot;{1}&quot;, exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo de estado especificado &quot;{1}&quot;, existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified target file &quot;{1}&quot;, exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo de destino especificado &quot;{1}&quot;, existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;target-file-path&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;target-file-path&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;userdir-path&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;userdir-path&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;target-platform&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;target-platform&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;remote-registry-url&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;remote-registry-url&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;properties-file-path&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;properties-file-path&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should be &quot;{0} &lt;bundle-properties-file-path&gt;&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deve ser &quot;{0} &lt;bundle-properties-file-path&gt;&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{1}&quot; option is required when using &quot;{0}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Opção &quot;{1}&quot; é obrigatória quando utilizar &quot;{0}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&quot;{0}&quot; will be ignored.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&quot;{0}&quot; será ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create local directory: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar diretório local: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local directory exists and is a file: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório local já existe e é um arquivo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read local directory - not enought permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ler o diretório local - sem permissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot write to local directory - not enought permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode escrever no diretório local - sem premissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans Installer is already running</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O Instalador do NetBeans já está em execução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It seems that another instance of the installer is already running.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma outra instância do instalador já está em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not recomended that you run multiple installers at the same time.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não é recomendado que você execute múltiplas instâncias do instalador ao mesmo tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you still want to start another instance of the installer?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você ainda deseja iniciar outra instância do instalador?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't create lock for the local registry file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar trava para o arquivo de registro local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create the default Wizard instance.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha criando a instância do Assistente padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to load wizard components from {0}, using classloader {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao carregar componentes do assistente de {0}, utilizando carregador de classes {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to load wizard component from XML element {0}, using classloader {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao carregar componentes do assistente do elemento XML {0}, utilizando carregador de classes {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to attach custom error handler to the EDT.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao anexar maniputador de erros personalizado ao EDT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown UI mode - {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mode UI desconhecido - {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move backward in silent UI mode.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode voltar em modo UI silencioso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot move backward - the wizard is already at the first element.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode voltar - o assistente já está no primeiro elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current parser - {0} - does not support schemas.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O processador atual - {0} - não suporta esquemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interrupted while waiting</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Interrompido enquando aguardava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalador do IDE NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBeans IDE Installer Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição do instalador do IDE NetBeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Help!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aj&amp;uda!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; &amp;Back</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt; &amp;Voltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Next &gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Próxi&amp;mo &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Finalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to cancel?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja realmente cancelar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An InterruptedException occured.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu uma InterruptedException.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canceling, finishing the current operation...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelando, terminando a operação atual...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Localização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B&amp;rowse ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegado&amp;r ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &amp;following locations were found by the search algorithm:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>As localizações a seguir &amp;foram encontradas pelo algorítimo de bsuca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No compatible applications were found.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma aplicação compatível foi encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Components Selection</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Seleção dos componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the components that you want to install.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Marque os componentes que você deseja instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect those you want to uninstall.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desmarque aquels que você deseja desinstalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect the components that you want to uninstall.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desmarque os componentes que você deseja desinstalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feature Description</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Descrição da característica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text/plain</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>texto/puro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation size: {0}     Download Size: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da instalação: {0}     Tamanho do download: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation size: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho da instalação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No feature selected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma característica selecionada...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select at least one feature for installation or uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione ao menos uma característica para isntalação ou desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select at least one feature for installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecine ao menos uma característica para instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select at least one feature for uninstallation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione ao menos uma característica para desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} is required to install {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1} é obrigatório instalar {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} conflicts with {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} conflito com {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is required by {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} é requerido por {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient disk space for downloading the installation data.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em disco insuficiente para fazer download dos dados para instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional {1} is required in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicional {1} é requerido em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient disk space for extracting the installation data.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em disco insuficiente para extrair dados da instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot check the free disk space</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode checar o espaço em disco livre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose destination folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha a pasta de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Installation location:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local&amp;ização da instalação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation folder cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação não pode ser limpa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation folder is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação especificada é inválida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation folder cannot contain the exclamation mark (!).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação não pode conter uma marca de exclamação (!).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation folder has to be in absolute path form.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação especificada tem que ser em forma de caminho absoluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation folder cannot be canonized.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação especificada não pode ser canonizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation location is not a folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O local de instalação especificado não é uma pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation folder is not readable.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação especificada não pode ser lida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation folder is read-only.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação especificada é somente-leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation folder is not empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação especificada não está vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified installation folder must end with &quot;.app&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta de instalação especificada deve terminar com &quot;.app&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough disk space.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem espaço em disco suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional {1} required in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicional {1} requerido em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot obtain confguration logic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode obter lógica de configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features Setup</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração de características</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the program features that you want to install.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione as características do programa que você deseja instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Features Setup:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configuração de características:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Desktop &lt;span color=&quot;gray&quot;&gt;(includes JDK 6)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Desktop &lt;span color=&quot;gray&quot;&gt;(inclui JDK 6)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Web &lt;span color=&quot;gray&quot;&gt;(includes JDK 6 and GlassFish)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Web &lt;span color=&quot;gray&quot;&gt;(inclui JDK 6 e GlassFish)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Mobility &lt;span color=&quot;gray&quot;&gt;(includes JDK 6)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Mobilidade &lt;span color=&quot;gray&quot;&gt;(inclui JDK 6)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;C/C++ &lt;span color=&quot;gray&quot;&gt;(includes JDK 6 - required for NetBeans IDE)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;C/C++ &lt;span color=&quot;gray&quot;&gt;(inclui JDK 6 - requerido para o IDE NetBeans)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Enterprise &lt;span color=&quot;gray&quot;&gt;(all of the above plus EJB, SOA, UML and Collaboration)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;html&gt;Enterprise &lt;span color=&quot;gray&quot;&gt;(todos incluem EJB, SOA, UML e Colaboração)&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each feature setup contains the essential NetBeans tools - textual and visual editors, debugger, profiler, testing, versioning and database support.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cada configuração de característica contém as ferramentas essenciais do NetBeans - suporte à editores textuais e visuais, depurador, profiler, teste, versionamento e banco de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add or remove features later using the NetBeans plugin center available in NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode adicionar ou remover características depois usando a central de plugin do NetBeans disponível no IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;JDK Home Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pasta HOME do &amp;JDK:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;List of suitable JDKs found on this machine:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Lista de  JDKs encontrado nesta máquina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The path to the JDK cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O caminho para o JDK não pode ser vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified JDK folder {0} is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta do JDK especificada {0} é inválida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified JDK folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta do JDK especificada {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified JDK folder {0} does not contain JDK.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta do JDK especificada {0} não contém JDK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified JDK folder {0} contains JRE, but a full JDK is required.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta do JDK especificada {0} contém o JRE, mas um JDK completo é requerido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified JDK folder {0} contains JDK version &quot;{1}&quot;, while the minimum is JDK &quot;{2}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta JDK especificada {0} contém o JDK versão &quot;{1}&quot;, mas o mínimo é &quot;{2}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified JDK folder {0} contains JDK version &quot;{1}&quot;, while the maximum is JDK &quot;{2}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta JDK especificada {0} contém o JDK versão  &quot;{1}&quot;, mas o máximo é  &quot;{2}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified JDK folder {0} contains JDK from the unsupported vendor ({1}).</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A pasta JDK especificada {0} contém o JDK de um fornecedor não suportado ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supported vendors are &quot;{2}&quot;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os fornecedores suportados são &quot;{2}&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An unknown error occured while validating the path.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um erro desconhecido ocorreu ao validar o caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer could not find a compatible JDK installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador não pode encontrar uma instalação do JDK compatível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum required version is {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>A versão mínima requerida é {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify JDK folder manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Especifique manualmente a pasta JDK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} (used by {1})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} (usado por {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please review the license agreements for the selected components.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Revise o acordo de licença para os componentes selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I &amp;accept the terms of the license agreements</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Eu &amp;aceito os termos do acordo de licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation Wizard - Select Components</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente de instalação - Selecionar componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select the components you want to install.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Selecione os componentes que você deseja instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unselect those that you plan to uninstall.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desmarque aqueles que você planeja desinstalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This component requires: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este componente requer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This component conflicts with: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Este componente está em conflito com: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Download Size: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho total do download: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Required Disk Space: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Total de espaço em disco necessário: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Component Selected&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Nenhum componente selecionado&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You did not select anything to install or uninstall.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você não selecionou nada para instalar ou desinstalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} is required to install component {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1} é requerido para instalar o componente {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor selecione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please unselect it.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor desmaque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is required by component {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} é requerido pelo componente {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Post-Create Bundle Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resumo do Pacote Pós-Criação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation wizard has successfully performed the selected actions.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O assistente de instalação executou com sucesso as ações selecionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some errors were encountered in the course of bundle creation process.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alguns erros foram encontrados no curso do processo de criação do pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components were successfully bundled:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir foram empacotados com sucesso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components failed to be bundled:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir falharam a serem empacotados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View &amp;Log</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar &amp;log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Send Log</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Enviar Log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation Wizard - Post-Install Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assistente de instalação - Resumo de Pós-Instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some warnings were encountered in the course of installation/uninstallation process.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alguns avisos foram encontrados no curso do processo de instalação/desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some errors were encountered in the course of installation/uninstallation process.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alguns erros foram encontrados no curso do processo de instalação/desinstalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components were successfully installed:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir foram instalados com sucesso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components installed with warnings:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir foram instalados com avisos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components failed to install:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir falharam ao instalar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components were successfully uninstalled:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir foram desinstalados com sucesso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components uninstalled with warnings:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir foram desinstalados com avisos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following components failed to uninstall:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Os componentes a seguir falharam ao desinstalar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View &amp;Details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Visualizar &amp;detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log file is not available</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo de log não disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some files could not be removed from the installation directories of the {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Alguns arquivos não puderam ser removidos dos diretórios de instalação do {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may need to remove them manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você deve remover manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-Create Bundle Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resumo do Pacote Pre-Criação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wizard has collected all required data to proceed with creating of the bundle.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O assistente coletou todos os dados requeridos para continuar com a criação do pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please review your choice.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, revise suas escolhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To continue, click Next.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para continuar, clique Próximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You chose to create a bundle with the following components:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você escolheu criar um pacote com os componentes a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total download size: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tamanho total do download: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required disk space: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em disco necessário: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Create</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-Install Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Resumo Pre-Instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation wizard has collected all required data to proceed with installation/uninstallation of the selected components.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O assistente coletou todos os dados requeridos para continuar com a instalação/desinstalação dos componentes selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You chose to install the following components:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você escolheu instalar os componentes a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You chose to uninstall the following components:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você escolheu desinstalar os componentes a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;Install</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&amp;Instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient disk space for proper installation.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Espaço em disco insuficiente para instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not access product's configuration logic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode acessar lógica de configuração do produto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get the list of file system roots</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode receber a lista de raízes do sistema de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is set up to be installed to {1} which does not belong to any of the file system roots.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} está configurado para ser instalado em {1} o qual não pertence à nenhuma raiz do sistema de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wizard does not have write access to {1}, the instalaltion directory of {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O assistente não tem acesso de escrita em {1}, o diretório de instalação de {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please correct the permissions before proceeding.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Corrija as permissões antes de continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Agreement</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Acordo de Licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please read the following license agreement carefully.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Por favor, leia o acordo de licença a seguir atentamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I &amp;accept the terms in the license agreement</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Eu &amp;aceito os termos no acordo de licença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not access configuration logic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode acessar a lógica de configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No Text&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>&lt;Sem texto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to verify input</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou verificando entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cache Engine...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mecanismo de cache...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard caches the engine.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente armazena o mecanismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot cache the installer engine</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode armazenar o mecanismo do instalador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Bundle...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando pacote...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard creates a bundle with the selected components.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente cria um pacote com os componentes selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a redistributable bundle at {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando um pacote de distribuição em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add installer engine to the bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionar o mecanismo do instalador ao pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding {0} ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Adicionando {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create the bundle</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou ao criar o pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Native Launcher...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando lançador nativo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard creates a launcher for the jar file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente cria um lançador para o arquivo jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create the native launcher</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou ao criar o lançador nativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating MacOSX Application Launcher...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando lançador de aplicação MacOSX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard creates a app launcher for the jar file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente cria um lançador de aplicação para o arquivo jar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to create the app launcher</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou ao criar o lançador de aplicativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing Configuration Logic...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando a lógica de configuração...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard prepares the configuration logic.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente prepara a lógica de configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading configuration logic for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fazendo download da lógica de configuração para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extracting configuration logic for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extraindo lógica de configuração para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to download installation logic for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou ao fazer download da lógica de configuração para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not install {0}, since the installation of {1} failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode instalar {0}, uma vez que a instalação {1} falhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing Installation Data...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando dados para instalação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard prepares the installation data.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente prepara os dados para instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading installation data for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fazendo download dos dados para instalação de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extracting installation data for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extraindo os dados para instalação de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to download installation data for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou ao fazer download dos dados para instalação de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initializing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Inicializando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the setup wizard initializes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente de configuração inicializa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot initialize registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode inicializar registro </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finalizing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Finalizando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the setup wizard finilizes.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assinstente de configuração finaliza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot finalize registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode finalizar registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard installs the selected components.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente instala os componentes selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing {0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canceling, rolling back {0}...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Cancelando, desfazendo {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching for Java™ Installations...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurando por instalações do Java™...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard searches your system for existing Java™ installations.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente procura em seu sistema por instalações do Java™ existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing locations list...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando lista de locais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Verificando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching for installed JDKs...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurando por JDKs instaladas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} by {2})</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1} por {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} &lt;span color=&quot;red&quot;&gt;(non-final)&lt;/span&gt; by {2})&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{1} &lt;span color=&quot;red&quot;&gt;(non-final)&lt;/span&gt; por {2})&lt;/span&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalling...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the wizard uninstalls the selected components.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o assistente desinstala os componentes selecionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalling {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not uninstall {0}, since the uninstallation of {1} failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode desinstalar {0}, uma vez que a desinstalação de {1} falhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source component UID is not set</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fonte do componente UID não definido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component with the given uid {0} does not exist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente com o uid fornecido {0} não existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not access configuration logic for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode acessar lógica de configuração para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A terrible and weird error happened - installer's execution mode is not recognized</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um erro terrível ocorreu - o modo de execução do instalador irreconhecível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation details</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Detalhes de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Componente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Situação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading log file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando arquivo de log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read log file {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ler arquivo de log {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log contents are not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Conteúdo do log não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot parse system property - {0}, its value - {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode processar propriedades do sistema - {0}, seu valor - {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to download wizard icon from URI - {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha recebendo ícone do assistente do URI - {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot set the default close operation</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ajustar a operação de fechamento padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error writing to the log file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro escrevendo no arquivo de log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logging disabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Log desabilitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An unexpected exception happened in thread {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Uma exceção inesperada aconteceu na linha de execução {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Critical Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro crítico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An unknown error occured.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu um erro desconhecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Exceção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can get more details about the issue in the installer log file:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode obter maiores detalhes sobre este caso no arquivo de log do instalador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An file entry {0} exists and is not a file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existe um arquivo informado {0} e não é um arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An directory entry {0} exists and is not a directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Existe um diretório informado {0} e não é um diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extracting {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extraindo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load xml files list for extraction</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode carregar os arquivos xml para extração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory {0} is an existing file, cannot unjar</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório {0} é um arquivo existente não pode desfazer o jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying directory: {0} to: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiando diretório: {0} para: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copying file: {0} to: {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Copiando arquivo: {0} to: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot close stream</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode fechar o fluxo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source {0} is not readable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Origem {0} não pode ser lida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination {0} is not a file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Destino {0} não é um arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination {0} cannot be created</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Destino {0} não pode ser criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination {0} is not writable</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinto {0} não pode ser escrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving {0} to {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Movendo {0} para {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get free disk space amount at {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode obter total de espaço em disco em {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot close jar {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode fechar o jar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create directory {0}, it is an existing file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar o diretório {0}, é um arquivo existente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create directory {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar o diretório {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplied file {0} is not a jar archive</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo fornecido {0} não é um arquivo jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holy crap, this jvm does not support SHA1</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta jvm não suporta SHA1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Holy crap, this jvm does not support MD5</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Esta jvm não suporta MD5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something very unexpected - a security exception during accessing file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Algo inesperado - uma exceção de segurança durante acesso ao arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apagando arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting directory {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Apagando diretório {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pack200 finished with error
+Error code: {0}
+Stdout: {1}
+Stderr: {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Pack200 terminado com erro
+Código do erro: {0}
+Stdout: {1}
+Stderr: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpack200 finished with error
+Error code: {0}
+Stdout: {1}
+Stderr: {2}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Unpack200 Terminado com erro
+Código do erro: {0}
+Stdout: {1}
+Stderr: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot parse property - {0}, its value - {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode processar a propriedade - {0}, seu valor - {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not activate the cross-platform look and feel - proceeding with whatever look and feel was the default.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ativar o cruzamento - plataforma de aparência e funcionalidade - continuando com a aparência e funcionalidade padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not activate the defined look and feel - falling back to the default cross-platform one.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ativar a aparência e funcionamento definido - voltando para o cruzamento padrão - única plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t initialize UI</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode inicializar o UI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot force the use of GTK look and feel</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode forçar o uso da aparência e funcionalidade do GTK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot parse pattern: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode processar o padrão: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot obtain default applications location</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nâo pode obter a localização dos aplicativos padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot parse status: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode processar a situação: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Platform &quot;{0}&quot; is not recognized.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Plataforma &quot;{0}&quot; não é reconhecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t load bundle from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode carregar o pacote de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no files in {0)</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não existem arquivos em {0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not a directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} não é um diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory {0} does not exist</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Diretório {0} não existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No bundled or external jar files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum pacote ou arquivos jar externos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find JVM file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode encontrar o arquivo JVM {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t find class {0} in bundled files and no external ones were specified</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode encontrar a classe {0} nos arquivos empacotados e nenhum externo foi especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No specified main class among bundled files</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhuma classe principal especificada dentre os arquivos empacotados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No bundled files - can`t get output file name</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sem arquivos empacotados - não pode obter o nome do arquivo de saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t get launcher icon from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode obter o ícone do lançador de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot access native method</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode acessar o método nativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified percentage - {0} is invalid.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O percentual especificado - {0} é inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The total percentage of the 
+composite progress (sum of the own percentage and the percentages of the 
+children) cannot be less than {1} and greater than {2}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O percentual total do progresso de composição (soma do percentual do proprietário e os percentuais filhos) não podem ser menor que {1} e maior que {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The total percentage of the 
+progress cannot be less than {1} and greater than {2}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O total percentual do progresso não pode ser menor que {1} e maior que {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not installed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não instalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To be installed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To be uninstalled</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para desinstalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installed Successfully</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalado com sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installed With Warnings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalado com avisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to Install</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao instalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalled Successfully</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalado com sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uninstalled With Warnings</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desinstalado com avisos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to Uninstall</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao desinstalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to download frame icon from URI - {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha recebendo ícone do quadro do URI - {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to set the frame icon.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao ajustar o ícone do quadro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to execute the JDK verification procedure</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao executar o procedimento de verificação do JDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode apagar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot download TestJDK.class from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode fazer download de TestJDK.class de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot canonize {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode canonizar {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading from {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Fazendo download de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The proxy types {0} and {1} conflict</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O tipo de proxy {0} e {1} em conflito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URI cannot be null</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>URI não pode ser nulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to connect through {0} to {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou ao conectar através de {0} para {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to configure proxy {0} for {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falhou ao configurar o proxy {0} para {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading local registry [{0}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando registro local [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to load the local registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao carregar o registro local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The local registry ({0}) could not be loaded, or was loaded partially.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O registro local ({0}) não pode ser carregado, ou foi carregado parcialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer can continue to work normally, but doing so may result in a corrupted global registry.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador pode continuar o trabalho normalmente, entretanto fazendo isto poderá resultar em um registro global corrompido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Yes to continue, No to exit the installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Escolha Sim para continuar, Não para sair do instalador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading bundled registry [{0}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando registro empacotado [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to load the bundled registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao carregar o registro empacotado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bundled registry ({0}) could not be loaded, or was loaded partially.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O registro empacotado ({0}) não pode ser carregado, ou foi carregado parcialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading remote registry [{0}]</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando registro remoto [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to load the remote registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Falha ao carregar o registro remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The remote registry ({0}) could not be loaded, or was loaded partially.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O registro remoto ({0}) não pode ser carregado, ou foi carregado parcialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete the cached installation data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode apagar os dados da instalação armazendados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving local registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvando registro local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving to {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvando para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing target component</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Faltando componente de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified target component - {0}/{1}
+was not found in the registry.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O componente de destino especificado - {0}/{1}
+não foi encontrado no registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O instalador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>can continue as if the target component was not specified.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>pode contiuar como se o componente de destino não fosse especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Yes to continue, No to exit the installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Clique Sim para continuar, Não para sair do instalador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validation Problem</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Problema de validação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It seems that the installation of {0} is corrupted.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Parece que a instalação de {0} está corrompida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The validation procedure issued the following warning:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O procedimento de validação causou o aviso a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to mark this product as not installed and continue?</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Deseja marcar este produto como não instalado e continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you click No the installer will exit.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se você clicar Não o instalador irá sair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that these products that depend on {2} will also be disabled: {3}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Observe que estes produtos que dependem em {2} também serão desabilitados: {3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No components matching the requirement: {0} requires {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nenhum componente combina com os requerimentos: {0} requer {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyclic dependency: {0}, {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dependência ciclica: {0}, {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading registry properties</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando propriedades do registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading component: uid={0}, version={1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Carregando componante: uid={0}, versão={1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load components</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode carregar componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not finalize registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode finalizar o registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load registry document</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nâo pode carregar o documento do registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create local product cache directory {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar o diretório de armazenamento local do produto {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local product cache directory exists and is a file : {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de armazenamento local do produto existe e é um arquivo : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read local product cache directory {0} - not enought permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ler o diretório de armazenamento local {0} - sem permissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot write to local product cache directory {0} - not enought permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode escrever no diretório de armazenamento local {0} - sem permissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create local registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar o registro local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local registry {0} is a directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registro local {0} é um diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot read local registry {0} - not enough permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode ler o registro {0} - sem permissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot write local registry {0} - not enough permissions</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode escrever no registro {0} - sem permissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot parse platform from &quot;{0}&quot;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode processar a plataforma de &quot;{0}&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load registry</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode carregar o registro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uknown dependecy type {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tipo de dependência desconhecida {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory {0} is missing.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de instalação {0} está faltando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most likely it was deleted manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Normalmente apagado manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory {0} is in fact a file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de instalação {0} é um arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most likely it was previously deleted manually and overwritten with a file.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Normalmente foi apagado anteriormente manualmente e sobrescrito por um arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory {0} is empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de instalação {0} está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most likely its contents were deleted manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Normalmente seu conteúdo foi apagado manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation directory cannot be detected.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de instalação não pode ser detectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot initialize data for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode inicializar dados para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot load configuration logic for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode carregar lógica de configuração para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation location is not set for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local de instalação não está ajustado para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation location is set to empty string for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Local de instalação está definido com string vazia para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create the local cache directory {0} for {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar o diretório de armazenamento {0} para {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The local cache directory {0} for {1} is not a directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O diretório de armazenamento local {0} para {1} não é um diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not load product {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode carregar produto {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration logic for {0} is not yet downloaded</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ainda não foi feito download da lógica de configuração para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation data is not cached for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Dados para instalação não armazenados em cache para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot extract installation data for {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode extrair dados para instalação de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot save installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode salvar lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get component's wizard components</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode obter componanetes do assistente de componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create directory hierarchy for MacOS Application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar hierarquia de diretórios para Aplicações MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot get the installation files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nâo pode obter a lista de arquivos da instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode excluir a lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot delete the file</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode escluir o arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove {0} from the system install manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode remover {0} do gerenciador de instalação do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot extract installation data -- not enough disk space in the target directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde extrair dados da instalação -- sem espaço em disco suficiente no diretório de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot clear installation data cache file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode limpar o arquivo de armazenamento de dados da instalação {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration of {0} with the system package manager failed</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Integração de {0} com gerenciador de pacote do sistema falhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Instalando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuring {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unconfiguring {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Desconfigurando {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating legal artifacts</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando artefatos legais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running custom configuration logic</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando lógica de configuração personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registering in the system package manager</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Registrando no gerenciador de pacote do sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving installed files list</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Salvando a lista de arquivos instalados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Excluindo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java SE Development Kit (JDK) was not found on this computer
+JDK 6 or JDK 5 is required for installing the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Java SE Development Kit (JDK) não foi encontrado neste computador JDK 6 ou JDK 5 são necessários para instalação do IDE NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that the JDK is properly installed and run installer again.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Assegure que o JDK está instalado e execute a instalação novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can specify valid JDK location using {0} installer argument.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode especificar a localização do JDK utilizando o argumento do instalador {0} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To download the JDK, visit http://java.sun.com/javase/downloads</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Para download do JDK, visite http://java.sun.com/javase/downloads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Runtime Environment (JRE) was not found at the specified location {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Java Runtime Environment (JRE) não foi encontrado no local especificado {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported JVM version at {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão JVM não suportada em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try to specify another JVM location using parameter {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Tente especificar outra localização de JVM utilizando o parametro {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is not enough free disk space to extract installation data
+{0} MB of free disk space is required in a temporary folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não há espaço em disco livre suficiente para extrair os dados da instalação
+{0} MB de espaço livre é necessário em uma pasta temporária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean up the disk space and run installer again.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Limpe espaço em disco e execute o instalador novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can specify a temporary folder with sufficient disk space using {1} installer argument</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Você pode especificar uma pasta temporária com espaço em disco suficiente utilizando o argumento do instalador {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installer file {0} seems to be corrupted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O arquivo do instalador {0} parece estar corrompido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can`t run NetBeans Installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Nâo pode executar o instalador do NetBeans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An external file with necessary data is required but missing:
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Um arquivo externo com dados necessários é obrigatório mas faltando:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot create temporary directory {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar diretório temporário {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot extract bundled JVM</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde extrair a JVM embutida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot unpack file {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde desempacotar o arquivo {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot verify bundled JVM, try to search JVM on the system</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde verificar a JVM embutida, favor tentar procurar por uma JVM diretamente no sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running the installer wizard...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando o assistente do instalador...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuring the installer...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurando o instalador ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extracting installation data...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extraindo dados para instalação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preparing bundled JVM ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Preparando JVM embutida...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching for JVM on the system...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurando por um JVM no sistema...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage:</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Utilização:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}	&lt;dir&gt;	Using java from &lt;dir&gt; for running application</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}	&lt;dir&gt;	Utilizando java de &lt;dir&gt; para execução da aplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}		Use verbose output</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}		Utilizar visualização de saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}	&lt;out&gt;	Redirect all output to file &lt;out&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}	&lt;out&gt;	Redirecionar todas saídas para o arquivo &lt;out&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}		Disable free space check</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}		Desabilitar verficação de espaço em disco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}	[dir]	Extract all bundled data to &lt;dir&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}	[dir]	Extrair todos dados empacotados para &lt;dir&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If &lt;dir&gt; is not specified then extract to the current directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se &lt;dir&gt; não especificado então extrair no diretório corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}	&lt;dir&gt;	Use &lt;dir&gt; for extracting temporary data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}	&lt;dir&gt;	Utilizar &lt;dir&gt; para extração de dados temporários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;cp&gt;	Append classpath with &lt;cp&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;cp&gt;	Adicionar classpath com &lt;cp&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;cp&gt;	Prepend classpath with &lt;cp&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;cp&gt;	Colocar no classpath com &lt;cp&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}	&lt;locale&gt;	Override default locale with specified &lt;locale&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}	&lt;local&gt;	Sobrescrever o local padrão com o especificado &lt;local&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}		Show this help</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}		Exibir esta ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Runtime Environment (JRE) was not found
+There is no JRE at the specified location {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Java Runtime Environment (JRE) não foi encontrado
+Não existe nenhum JRE no local especificado {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported Java VM version
+The Java VM at {0} has the unsupported version</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Versão Java VM não suportada
+A Java VM em {0} tem uma versão não suportada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't create temporary directory
+The temporary directory for extracting data {0} was not created</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pode criar o diretório temporário
+O diretório temporário para a extração de dados {0} não foi criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installer file is corrupted
+Installer file {0} seems to be corrupted</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Arquivo do instalador corrompido
+O arquivo do instalador {0} parece estar corrompido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data extraction error
+Can't create file {0}!</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Erro de extração de dados
+Não pode criar o arquivo {0}!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following error occured :
+{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu o erro a seguir:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occured while running java process
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu um erro ao executar o processo java
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot prepare bundled JVM to run the installer.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Não pôde preparar a JVM embutida para executar o instalador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most probably the bundled JVM is not compatible with the current platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>O mais provável é que a JVM embutida seja imcompatível com a atual plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occured while verifying bundled JVM.
+Most probably the bundled JVM is not compatible with the current platform.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Ocorreu um erro durante a verificação da JVM embutida.
+O mais provável é que a JVM embutida seja imcompatível com a atual plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;output-file&gt;
+	Redirect output to file &lt;output-file&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;arquivo-de-saída&gt;
+	Redireciona o arquivo de saída para o arquivo &lt;arquivo-de-saída&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;javahomedir&gt;
+	Run jar file using JVM from &lt;javahomedir&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;javahomedir&gt;
+	Execute o arquivo jar utilizando a JVM de &lt;javahomedir&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}
+	Use verbose output</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}
+	Utilizar visualização de saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;temp-dir&gt;
+	Use &lt;temp-dir&gt; for extracting data</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;temp-dir&gt;
+	Utilizar &lt;temp-dir&gt; para extração de dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} [directory]
+	Extract all bundled data to the specific directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} [diretório]
+	Extrair todos dados empacotados para o diretório específco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If directory is not specified then extract to the current directory</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Se o diretório não está especificado então extrair no diretório corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;classpath&gt;
+	Append classpath with &lt;classpath&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;classpath&gt;
+	Adicionar classpath com &lt;classpath&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;classpath&gt;
+	Prepend classpath with &lt;classpath&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;classpath&gt;
+	Colocar no classpath com &lt;classpath&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}
+	Disable free space check</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}
+	Desabilitar verificação de espaço em disco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} &lt;locale&gt;
+	Override system default locale with &lt;locale&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0} &lt;local&gt;
+	Sobrescrever o local padrão do sistema com &lt;local&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}
+	Show help message</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>{0}
+	Exibir mensagem de ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating temporary directory ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Criando diretório temporário ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extracting data ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Extraindo dados ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding JVM on your system ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Procurando a JVM no seu sistema ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting command options ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Definindo opções de comando ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running JVM ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Executando JVM ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait while the launcher prepares data to run the installer ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Aguarde enquanto o lançado prepara os dados para executar o instalador ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuring the installer ...</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Configurando o instalador ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit Installer</seg>
+      </tuv>
+      <tuv lang="PT-BR">
+        <seg>Sair do instalador</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
