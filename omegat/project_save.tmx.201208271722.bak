@@ -6,14 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
-        <seg>"{0}" can not be renamed because "{1}" is the key of an existing resource.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170025Z">
-        <seg>"{0}" não pode ser renomeado porque "{1}" é a chave de um recurso existente.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&amp;Delta; over {0} days</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122014Z">
@@ -414,14 +406,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>An error occurred while renaming the key "{0}": {1}</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170059Z">
-        <seg>Ocorreu um erro ao renomear a chave "{0}": {1}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>An error occurred while trying to display the widget "{0}".</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135900Z">
@@ -454,14 +438,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Are you sure that you want to set the profile "{0}" as default ?</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171714Z">
-        <seg>Deseja realmente definir o perfil "{0}" como padrão?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Are you sure you want to delete the snapshot created on "{0}"?</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210554Z">
@@ -470,26 +446,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Are you sure you want to delete this {0}?</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171340Z">
-        <seg>Deseja realmente excluir este {0}?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Are you sure you want to remove "{0}" from this snapshot?</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210634Z">
         <seg>Deseja realmente remover "{0}" desse instantâneo?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Are you sure you want to rename "{0}", as well as all its modules and resources ?</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170616Z">
-        <seg>Deseja realmente renomear "{0}", bem como todos os seus módulos e recursos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,26 +630,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Bulk update can not be performed</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170940Z">
-        <seg>A atualização em massa não pode ser realizada</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Bulleted point</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T120051Z">
         <seg>Ponto com marcador</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>By</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170649Z">
-        <seg>Por</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,22 +878,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Compare on chart</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171445Z">
-        <seg>Comparar no gráfico</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Compare profiles</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171609Z">
-        <seg>Comparar perfis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Complexity</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141422Z">
@@ -1066,14 +994,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T134536Z">
         <seg>Criar painel de projeto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Create {0} profile</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171649Z">
-        <seg>Criar perfil {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,14 +1174,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Delete {0}</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171232Z">
-        <seg>Excluir {0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Dependencies</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024205Z">
@@ -1430,30 +1342,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Distribution chart</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171436Z">
-        <seg>Gráfico de distribuição</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Distributions</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171428Z">
-        <seg>Distribuições</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Do you really want to perform the bulk update on project keys?</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170922Z">
-        <seg>Deseja realmente realizar a atualização em massa nas chaves do projeto?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Do you want to delete this comment?</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182403Z">
@@ -1530,14 +1418,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122318Z">
         <seg>Devido às configurações de segurança, alguns resultados não estão sendo exibidos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Duplicate key</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170840Z">
-        <seg>Chave duplicada</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,22 +1594,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020309Z">
         <seg>Eventos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ex.: "com.myNewCompany"</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170710Z">
-        <seg>Ex.: "com.myNewCompany"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Ex.: "org.myCompany"</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170704Z">
-        <seg>Ex.: "org.myCompany"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2582,14 +2446,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>New profile</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171601Z">
-        <seg>Novo perfil</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>New severity:</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T183412Z">
@@ -2674,14 +2530,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142428Z">
         <seg>Não há histórico</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>No key contains the string to replace ("{0}").</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171007Z">
-        <seg>Nenhuma chave contém a string a substituir ("{0}").</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,14 +2758,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Optional configuration file</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171634Z">
-        <seg>Arquivo de configuração opcional</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Order</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020622Z">
@@ -3086,14 +2926,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Please type a profile name.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171830Z">
-        <seg>Por favor, digite um nome de perfil.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Plugin</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T114131Z">
@@ -3150,22 +2982,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Profile "{0}" created.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171724Z">
-        <seg>Perfil "{0}" criado.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Profile "{0}" is deleted.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171847Z">
-        <seg>O perfil "{0}" foi excluído.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Progress</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201148Z">
@@ -3218,30 +3034,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024519Z">
         <seg>Perfis de qualidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Quality profile successfully updated.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171213Z">
-        <seg>O perfil de qualidade foi atualizado com sucesso.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Quality profiles</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171556Z">
-        <seg>Perfis de qualidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Quick wins</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171513Z">
-        <seg>Vitórias rápidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3330,14 +3122,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T200616Z">
         <seg>Reaberto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Replace</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170624Z">
-        <seg>Substituir</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,14 +3266,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T143333Z">
         <seg>Resposta para a Classe</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Restore profile</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171616Z">
-        <seg>Restaurar perfil</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,14 +3486,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Select the quality profile to be used when analyzing the "{0}" project:</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171120Z">
-        <seg>Selecione o perfil de qualidade a ser utilizado ao analisar o projeto "{0}":</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Select version</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T133855Z">
@@ -3738,22 +3506,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022908Z">
         <seg>Definir como padrão</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Set as default (for all users)</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171456Z">
-        <seg>Definir como padrão (para todos os usuários)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Set it as default or link it to a project to use it for next measures.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171757Z">
-        <seg>Defini-lo como padrão ou vinculá-lo a um projeto para usá-lo para próximas análises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3810,22 +3562,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021121Z">
         <seg>Exibir</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Show date</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171405Z">
-        <seg>Exibir data</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Show event</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171418Z">
-        <seg>Exibir evento</seg>
       </tuv>
     </tu>
     <tu>
@@ -4078,22 +3814,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The bulk update allows to replace a part of the current key(s) by another string on the current project and all its submodules - if applicable.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170427Z">
-        <seg>A atualização em massa permite substituir uma parte das chaves atuais por outra string no projeto atual e todos os seus sub-módulos - se for o caso.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The current project can not be updated with the following profile: "{0}".</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171149Z">
-        <seg>O projeto atual não pode ser atualizado com o seguinte perfil: "{0}".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The date should be entered using the following pattern: 'day/month/year'.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201841Z">
@@ -4110,22 +3830,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The key has successfully been updated for all required resources.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170147Z">
-        <seg>A chave foi atualizada com sucesso para todos os recursos necessários.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The key of the "{0}" project is currently "&lt;b&gt;{1}&lt;/b&gt;".</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170508Z">
-        <seg>A chave do projeto "{0}" está atualmente "&lt;b&gt; {1} &lt;/ b&gt;".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The new key can not be blank for "{0}".</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120827T202229Z">
@@ -4134,50 +3838,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The new key is the same as the original one ("{0}"), nothing has been updated.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T165950Z">
-        <seg>A nova chave é igual à original ("{0}"), nada foi alterado.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The replacement of "{0}" by "{1}" is impossible as it would result in duplicate keys (in red below):</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170758Z">
-        <seg>A substituição de "{0}" por "{1}" é impossível pois isso resultaria em chaves duplicadas (abaixo em vermelho):</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The resources will be updated as follows (updated keys in bold):</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170831Z">
-        <seg>Os recursos serão atualizados da seguinte forma (chaves atualizadas em negrito):</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The snapshot is deleted.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210515Z">
         <seg>O instantâneo foi excluído.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The two fields can not be blank for the bulk update.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170222Z">
-        <seg>Os dois campos não podem estar em branco para a atualização em massa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The update has been canceled.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170042Z">
-        <seg>A atualização foi cancelada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,22 +3942,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This operation can not be undone.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171300Z">
-        <seg>Esta operação não pode ser desfeita.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This profile already exists: {0}.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171821Z">
-        <seg>Este perfil já existe: {0}.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>This project should be reanalyzed to remove these obsolete duplicated blocks.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151130Z">
@@ -4378,14 +4026,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201048Z">
         <seg>Até a data</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Top risk</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171531Z">
-        <seg>Alto risco</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,14 +4494,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>default</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171216Z">
-        <seg>padrão</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>directories</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142236Z">
@@ -5122,14 +4754,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T202118Z">
         <seg>{0} de {1} revisões resolvidas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>{0} profiles</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171624Z">
-        <seg>{0} perfis</seg>
       </tuv>
     </tu>
     <tu>
