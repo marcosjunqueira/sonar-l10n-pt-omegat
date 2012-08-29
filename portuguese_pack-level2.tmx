@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>"{0}" can not be renamed because "{1}" is the key of an existing resource.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170025Z">
+        <seg>"{0}" não pode ser renomeado porque "{1}" é a chave de um recurso existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>&amp;Delta; over {0} days</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T122014Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T135719Z">
         <seg>({0} segundos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>, incl.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172339Z">
+        <seg>, incl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,10 +142,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A server ID is linked to the IP address of the hosting machine that runs Sonar.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032242Z">
+        <seg>O ID do servidor está ligado ao endereço IP do servidor que executa o Sonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>API</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T141109Z">
         <seg>API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Accessors</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032731Z">
+        <seg>Aceessores</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +282,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T151828Z">
         <seg>Adicionar medida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add note</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030911Z">
+        <seg>Adicionar nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +422,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>All rules</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030304Z">
+        <seg>Todas as regras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>All violations</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T021737Z">
@@ -402,6 +450,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T201755Z">
         <seg>Já existe neste projeto um plano de ação com este nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An error occurred while renaming the key "{0}": {1}</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170059Z">
+        <seg>Ocorreu um erro ao renomear a chave "{0}": {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +494,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Are you sure that you want to delete the profile "{0}" ?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172126Z">
+        <seg>Deseja realmente excluir o perfil "{0}"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Are you sure that you want to set the profile "{0}" as default ?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171714Z">
+        <seg>Deseja realmente definir o perfil "{0}" como padrão?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Are you sure you want to delete the snapshot created on "{0}"?</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T210554Z">
@@ -446,10 +518,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Are you sure you want to delete this {0}?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171340Z">
+        <seg>Deseja realmente excluir este {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Are you sure you want to remove "{0}" from this snapshot?</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T210634Z">
         <seg>Deseja realmente remover "{0}" desse instantâneo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Are you sure you want to rename "{0}", as well as all its modules and resources ?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170616Z">
+        <seg>Deseja realmente renomear "{0}", bem como todos os seus módulos e recursos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +598,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Associated projects</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172239Z">
+        <seg>Projetos associados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Associated reviews will not be deleted.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T201418Z">
@@ -538,6 +634,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T134449Z">
         <seg>Painéis disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Available projects</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172231Z">
+        <seg>Projetos disponíveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,10 +734,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Bulk update can not be performed</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170940Z">
+        <seg>A atualização em massa não pode ser realizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Bulleted point</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T120051Z">
         <seg>Ponto com marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170649Z">
+        <seg>Por</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +806,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Change password</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032518Z">
+        <seg>Alterar senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Change severity</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T183345Z">
@@ -698,6 +826,22 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T211726Z">
         <seg>Registro de alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Changelog from</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025606Z">
+        <seg>Registro de alterações desde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Changes in review assigned to me or created by me</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032418Z">
+        <seg>Alterações na revisão atribuídas a mim ou criado por mim</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +866,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T015853Z">
         <seg>Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Classes distribution /complexity</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033221Z">
+        <seg>Distribuição de classes /complexidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,10 +1030,90 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Compare on chart</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171445Z">
+        <seg>Comparar no gráfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Compare profiles</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171609Z">
+        <seg>Comparar perfis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Complexity</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T141422Z">
         <seg>Complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity /class</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033108Z">
+        <seg>Complexidade /classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity /file</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033139Z">
+        <seg>Complexidade /arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity /method</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033126Z">
+        <seg>Complexidade /método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity /paragraph</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033153Z">
+        <seg>Complexidade /parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity average by class</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033119Z">
+        <seg>Complexidade média por classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity average by file</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033146Z">
+        <seg>Complexidade média por arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity average by method</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033133Z">
+        <seg>Complexidade média por método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Complexity average by paragraph</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033203Z">
+        <seg>Complexidade média por parágrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +1150,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Confirm new value</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032539Z">
+        <seg>Confirmar novo valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Confirm password</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T025110Z">
@@ -942,10 +1182,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Copy rule</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030608Z">
+        <seg>Copiar regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Coverage</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024149Z">
         <seg>Cobertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Coverage by unit tests</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033506Z">
+        <seg>Cobertura por testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Coverage of new/changed code</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033542Z">
+        <seg>Cobertura de código novo/alterado</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1262,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Create {0} profile</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171649Z">
+        <seg>Criar perfil {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Created</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T015918Z">
@@ -1042,6 +1314,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020000Z">
         <seg>Personalizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cyclomatic complexity</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032745Z">
+        <seg>Complexidade ciclomática</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1406,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Default profile is "{0}".</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171858Z">
+        <seg>O perfil padrão é "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Default severity</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T121133Z">
@@ -1170,6 +1458,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T201351Z">
         <seg>Excluir este plano de ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Delete {0}</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171232Z">
+        <seg>Excluir {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1522,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T023631Z">
         <seg>Conexão de desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032629Z">
+        <seg>Desenvolvedores</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1646,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Distribution chart</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171436Z">
+        <seg>Gráfico de distribuição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Distributions</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171428Z">
+        <seg>Distribuições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to delete this note?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030923Z">
+        <seg>Deseja realmente excluir esta nota?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Do you really want to perform the bulk update on project keys?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170922Z">
+        <seg>Deseja realmente realizar a atualização em massa nas chaves do projeto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Do you want to delete this comment?</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182403Z">
@@ -1422,6 +1758,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Duplicate key</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170840Z">
+        <seg>Chave duplicada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Duplication</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032705Z">
+        <seg>Duplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Duplications</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024222Z">
@@ -1486,6 +1838,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Edit note</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030908Z">
+        <seg>Editar nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Edit rule</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030310Z">
+        <seg>Editar regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Editing profile</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172149Z">
+        <seg>Editando perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Efferent (outgoing) couplings</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T205653Z">
@@ -1496,8 +1872,8 @@
       <tuv xml:lang="EN-US">
         <seg>Email</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T135306Z">
-        <seg>Email</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032402Z">
+        <seg>E-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1882,30 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024230Z">
         <seg>Configurações de e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Email prefix</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031636Z">
+        <seg>Prefixo de e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Email was sent to {0}</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031924Z">
+        <seg>O e-mail foi enviado para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Emails will come from this address.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031528Z">
+        <seg>E-mail virão a partir deste endereço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1998,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Ex.: "com.myNewCompany"</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170710Z">
+        <seg>Ex.: "com.myNewCompany"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ex.: "org.myCompany"</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170704Z">
+        <seg>Ex.: "org.myCompany"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Exclusions</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T164415Z">
@@ -1610,6 +2026,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T151315Z">
         <seg>Expandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Extend description</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030905Z">
+        <seg>Expandir descrição</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,10 +2110,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Files distribution /complexity</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033253Z">
+        <seg>Distribuição de arquivos /complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Filter</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020327Z">
         <seg>Filtrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Filter by name:</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032635Z">
+        <seg>Filtrar por nome:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,6 +2182,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Fixed IP Address</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032138Z">
+        <seg>Endereço IP fixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Follow</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T113901Z">
@@ -1750,10 +2198,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>For example "smtp.gmail.com".</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031136Z">
+        <seg>Por exemplo "smtp.gmail.com"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For example - "noreply@sonarsource.com".</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031556Z">
+        <seg>Por exemplo - "noreply@sonarsource.com".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>For instance, '31/12/2011'.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T201910Z">
         <seg>Por exemplo, "31/12/2011".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>From address</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031513Z">
+        <seg>Endereço de envio</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +2270,46 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Generate ID</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031935Z">
+        <seg>Gerar ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generated Lines</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032801Z">
+        <seg>Linhas geradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generated lines of code</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032819Z">
+        <seg>Linhas de código geradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generated non Commenting Lines of Code</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032846Z">
+        <seg>Linhas de código geradas mas não comentadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generating ID...</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031942Z">
+        <seg>Gerando ID...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Global</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020339Z">
@@ -1834,6 +2346,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024622Z">
         <seg>Grupos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>HTML is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030518Z">
+        <seg>HTML é permitido</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,10 +2438,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Identification</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031109Z">
+        <seg>Identificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If Maven and Sonar are installed with default parameters on the same box, just launch the command &lt;code&gt;mvn sonar:sonar&lt;/code&gt; to analyse your first project.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T150606Z">
         <seg>Se o Maven e o Sonar foram instalados com os parâmetros padrão na mesma máquina, basta executar o comando mvn &lt;code&gt;sonar:sonar&lt;/code&gt; para analisar seu primeiro projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the server IP address was to change, the server ID will have to be regenerated.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032326Z">
+        <seg>Se o endereço IP do servidor foi alterado, o ID do servidor terá que ser regenerado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,10 +2494,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Inherit rules configuration from the profile</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172746Z">
+        <seg>Herdar configuração de regras a partir do perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Inheritance</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020411Z">
         <seg>Herança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inherited</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030657Z">
+        <seg>Herdado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inherited from parent</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030531Z">
+        <seg>Herdado de</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,10 +2550,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>It is used for example to obtain a license key for the SonarSource's commercial plugins.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032053Z">
+        <seg>É usado, por exemplo, para obter uma chave de licença para plugins comerciais da SonarSource.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Java</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T135325Z">
         <seg>Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Just copy it from the profiles page.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030430Z">
+        <seg>Basta copiá-lo a partir da página de perfis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2622,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Leave blank to disable email sending.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031150Z">
+        <seg>Deixe em branco para desativar o envio de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Less or equals</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022227Z">
@@ -2078,6 +2662,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Line coverage</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033627Z">
+        <seg>Cobertura de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Lines</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T142147Z">
@@ -2094,6 +2686,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Lines to cover</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033552Z">
+        <seg>Linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Link</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T200708Z">
@@ -2106,6 +2706,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020423Z">
         <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>List of projects explicitly associated to this Quality profile :</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172321Z">
+        <seg>Lista de projetos explicitamente associadas a esse perfil de qualidade:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2798,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Management</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032715Z">
+        <seg>Gerenciamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Manual Measures</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024419Z">
@@ -2226,6 +2842,30 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T114049Z">
         <seg>Mim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031853Z">
+        <seg>Mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Methods</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032755Z">
+        <seg>Métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Methods distribution /complexity</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033242Z">
+        <seg>Distribuição de métodos /complexidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2938,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T135723Z">
         <seg>Mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>More about this rule on profile "{0}"</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031104Z">
+        <seg>Mais informações sobre esta regra no perfil "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,6 +3054,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Name for the new profile</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172103Z">
+        <seg>Nome para o novo perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Name of the organisation</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032131Z">
+        <seg>Nome da organização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Nb Lines</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T151259Z">
@@ -2418,6 +3082,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T151532Z">
         <seg>Nova regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New coverage</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033510Z">
+        <seg>Nova cobertura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +3118,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>New lines to cover</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033600Z">
+        <seg>Novas linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New name</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172054Z">
+        <seg>Novo nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New profile</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171601Z">
+        <seg>Novo perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New rule</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030307Z">
+        <seg>Nova regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>New severity:</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T183412Z">
@@ -2454,10 +3158,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>New uncovered lines</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033621Z">
+        <seg>Novas linhas descobertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New value</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032528Z">
+        <seg>Novo valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>New violations</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022248Z">
         <seg>Novas violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New violations on my favourite projects introduced during the first differential view period</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032457Z">
+        <seg>Novas violações em meus projetos favoritos introduzida durante o primeiro período de visualização diferencial</seg>
       </tuv>
     </tu>
     <tu>
@@ -2490,6 +3218,22 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T140047Z">
         <seg>Nenhum alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No alerts.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032503Z">
+        <seg>Nenhum alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No changes has been done on this quality profile.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025517Z">
+        <seg>Nenhuma alteração foi feito neste perfil de qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +3278,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>No key contains the string to replace ("{0}").</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171007Z">
+        <seg>Nenhuma chave contém a string a substituir ("{0}").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>No lines match your filter criteria.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022558Z">
@@ -2546,6 +3298,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T140602Z">
         <seg>Não há novas linhas para cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No projects are explicitly associated to the profile "{0}".</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172301Z">
+        <seg>Nenhum projeto foi explicitamente associado ao perfil "{0}".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +3366,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Non Commenting Lines of Code</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032855Z">
+        <seg>Linhas de código não comentadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020548Z">
@@ -2654,6 +3422,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Not inherited</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030635Z">
+        <seg>Não herdado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Not used</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T133930Z">
@@ -2662,10 +3438,82 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Note that server may ignore this setting (like does GMail).</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031620Z">
+        <seg>note que o servidor pode ignorar essa configuração (como no GMail).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Note that these changes will impact all users and all projects.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T150726Z">
         <seg>Note que essas alterações afetarão todos os usuários e projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032546Z">
+        <seg>Notificações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Number of files</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032752Z">
+        <seg>Número de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Number of generated lines</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032807Z">
+        <seg>Número de linhas geradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Number of paragraphs</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032917Z">
+        <seg>Número de parágrafos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Number of skipped unit tests</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033433Z">
+        <seg>Número de testes unitários ignorados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Number of statements</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033100Z">
+        <seg>Número de instruções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Number of unit test errors</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033409Z">
+        <seg>Número de erros de testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Number of unit tests</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033323Z">
+        <seg>Número de testes unitários</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,6 +3530,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T211404Z">
         <seg>Chave antiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Old value</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032525Z">
+        <seg>Valor antigo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,6 +3570,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182457Z">
         <seg>Somente falsos positivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Only in {0}</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030137Z">
+        <seg>Somente em {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,6 +3622,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Optional - as above, enter your password if you use authenticated SMTP.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031411Z">
+        <seg>Opcional - assim como acima, digite sua senha se você utilizar SMTP autenticado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Optional - if you use authenticated SMTP, enter your username.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031336Z">
+        <seg>Opcional - se você usar SMTP autenticado, digite seu nome de usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Optional configuration file</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171634Z">
+        <seg>Arquivo de configuração opcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Order</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020622Z">
@@ -2766,10 +3654,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Organisation</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032126Z">
+        <seg>Organização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Organisation and/or IP address are not valid.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032358Z">
+        <seg>Organização e/ou endereço IP não são válidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Original severity</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031040Z">
+        <seg>Severidade original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Original value</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031034Z">
+        <seg>Valor original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Other</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T023653Z">
         <seg>Outro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Overrides</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030744Z">
+        <seg>Substituições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Overrides parent definition</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030549Z">
+        <seg>Substitui a definição pai</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,6 +3758,54 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Paragraph distribution /complexity</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033309Z">
+        <seg>Distribuição de parágrafos /complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Paragraphs</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032910Z">
+        <seg>Parágrafos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; changed from &lt;b&gt;{1}&lt;/b&gt; to &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030130Z">
+        <seg>O parametro &lt;b&gt;{0}&lt;/b&gt; foi alterado de &lt;b&gt;{1}&lt;/b&gt; para &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; reset to default value (was &lt;b&gt;{1}&lt;/b&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030102Z">
+        <seg>O parâmetro &lt;b&gt;{0}&lt;/b&gt; foi redefinido para o valor padrão (era &lt;b&gt;{1}&lt;/b&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; set to &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025934Z">
+        <seg>O parâmetro &lt;b&gt;{0}&lt;/b&gt; foi alterado para &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; was &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025927Z">
+        <seg>O parâmetro &lt;b&gt;{0}&lt;/b&gt; era &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Parameters</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020651Z">
@@ -2834,6 +3818,30 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020656Z">
         <seg>Senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Password can not be empty</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032601Z">
+        <seg>A senha não pode estar vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Password changed</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032554Z">
+        <seg>Senha alterada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Password mismatch</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032610Z">
+        <seg>Incompatibiliade de senhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +3910,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Please check the organisation and the IP address.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032003Z">
+        <seg>Por favor, verifique a organização e o endereço IP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Please configure the widget &lt;b&gt;{0}&lt;/b&gt;.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T134305Z">
@@ -2926,6 +3942,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Please type a profile name.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171830Z">
+        <seg>Por favor, digite um nome de perfil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please upload a backup file.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171957Z">
+        <seg>Por favor, envie um arquivo de backup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Plugin</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T114131Z">
@@ -2938,6 +3970,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T023915Z">
         <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Port number to connect with SMTP server.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031213Z">
+        <seg>Número da porta para conectar com o servidor SMTP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,6 +4022,62 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Profile "{0}" associated to {1} projects.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172014Z">
+        <seg>Perfil "{0}" associado a {1} projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profile "{0}" created.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171724Z">
+        <seg>Perfil "{0}" criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profile "{0}" is created but not activated.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171924Z">
+        <seg>O perfil "{0}" foi criado, mas não foi ativado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profile "{0}" is deleted.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171847Z">
+        <seg>O perfil "{0}" foi excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profile inheritance</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172221Z">
+        <seg>Herança de perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profile name can not be blank.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172039Z">
+        <seg>O nome do perfil não pode estar em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Profile version</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025710Z">
+        <seg>Versão do perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Progress</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T201148Z">
@@ -3022,6 +4118,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Public API</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032922Z">
+        <seg>API pública</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Public documented API (%)</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032939Z">
+        <seg>API pública documentada (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Public undocumented API</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032957Z">
+        <seg>API pública não documentada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Quality Profile</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024836Z">
@@ -3034,6 +4154,30 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024519Z">
         <seg>Perfis de qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quality profile successfully updated.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171213Z">
+        <seg>O perfil de qualidade foi atualizado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quality profiles</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171556Z">
+        <seg>Perfis de qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Quick wins</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171513Z">
+        <seg>Vitórias rápidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,6 +4270,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170624Z">
+        <seg>Substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Reports events on the project life cycle such as versions and alerts.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T141922Z">
@@ -3214,6 +4366,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031044Z">
+        <seg>Repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020729Z">
@@ -3270,6 +4430,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Restore profile</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171616Z">
+        <seg>Restaurar perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Result</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020734Z">
@@ -3282,6 +4450,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020737Z">
         <seg>Resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Revert to parent definition</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030629Z">
+        <seg>Reverter para a definição do pai</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,6 +4526,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Rule deleted</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030807Z">
+        <seg>Regra excluída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rule inherited from profile "{0}"</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030942Z">
+        <seg>Regra herdada do perfil "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rule is not valid: &lt;br/&gt;{0}</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030801Z">
+        <seg>A regra não é válida: &lt;br/&gt;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Rule overrides parent definition from profile "{0}"</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031028Z">
+        <seg>A regra substitui a definição do perfil "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Rules</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020900Z">
@@ -3370,6 +4578,46 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T142042Z">
         <seg>Regras em conformidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SCM</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032711Z">
+        <seg>SCM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SMTP host</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031121Z">
+        <seg>Servidor SMTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SMTP password</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031341Z">
+        <seg>Senha SMTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SMTP port</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031153Z">
+        <seg>Porta SMTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>SMTP username</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031320Z">
+        <seg>Nome de usuário do SMTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,10 +4654,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Save Email Settings</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031725Z">
+        <seg>Salvar configurações de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Save changes</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032550Z">
+        <seg>Salvar alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Save {0} Settings</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T135300Z">
         <seg>Salvar configurações de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Saving</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031732Z">
+        <seg>Salvando</seg>
       </tuv>
     </tu>
     <tu>
@@ -3486,10 +4758,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Select the quality profile to be used when analyzing the "{0}" project:</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171120Z">
+        <seg>Selecione o perfil de qualidade a ser utilizado ao analisar o projeto "{0}":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Select version</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T133855Z">
         <seg>Selecionar versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Send Test Email</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031908Z">
+        <seg>Enviar e-mail de teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sending Test Email</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031913Z">
+        <seg>Enviando e-mail de teste</seg>
       </tuv>
     </tu>
     <tu>
@@ -3510,6 +4806,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Set as default (for all users)</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171456Z">
+        <seg>Definir como padrão (para todos os usuários)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Set it as default or link it to a project to use it for next measures.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171757Z">
+        <seg>Defini-lo como padrão ou vinculá-lo a um projeto para usá-lo para próximas análises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Set parent</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172706Z">
+        <seg>Definir pai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024450Z">
@@ -3518,10 +4838,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Settings are saved.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031746Z">
+        <seg>As configurações foram salvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Severity</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T114318Z">
         <seg>Severidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Severity changed from {0}&lt;b&gt;{1}&lt;/b&gt; to</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025953Z">
+        <seg>A severidade foi alterada de {0}&lt;b&gt;{1}&lt;/b&gt; para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Severity set to {0}&lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025941Z">
+        <seg>A severidade foi alterada para {0}&lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Severity was {0}&lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025946Z">
+        <seg>A severidade era {0}&lt;b&gt;{1}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +4914,22 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T021121Z">
         <seg>Exibir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Show date</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171405Z">
+        <seg>Exibir data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Show event</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171418Z">
+        <seg>Exibir evento</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,6 +5070,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Skipped unit tests</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033418Z">
+        <seg>Testes unitários ignorados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Source</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024542Z">
@@ -3722,6 +5098,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T114523Z">
         <seg>St.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Statements</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033055Z">
+        <seg>Instruções</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +5146,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T114700Z">
         <seg>Sub visualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031844Z">
+        <seg>Assunto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +5206,70 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Test Configuration</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031805Z">
+        <seg>Testar configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Test Message from Sonar</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031850Z">
+        <seg>Mensagem de teste do Sonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tests</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032644Z">
+        <seg>testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tests=Integration Tests</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032657Z">
+        <seg>Testes=Testes de Integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The ID is not valid anymore.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031950Z">
+        <seg>O ID não é mais válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Server ID is a unique identifier of this Sonar instance.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032019Z">
+        <seg>O ID do servidor é um identificador exclusivo desta instância do Sonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The bulk update allows to replace a part of the current key(s) by another string on the current project and all its submodules - if applicable.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170427Z">
+        <seg>A atualização em massa permite substituir uma parte das chaves atuais por outra string no projeto atual e todos os seus sub-módulos - se for o caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The current project can not be updated with the following profile: "{0}".</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171149Z">
+        <seg>O projeto atual não pode ser atualizado com o seguinte perfil: "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The date should be entered using the following pattern: 'day/month/year'.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T201841Z">
@@ -3830,10 +5286,82 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The key has successfully been updated for all required resources.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170147Z">
+        <seg>A chave foi atualizada com sucesso para todos os recursos necessários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The key of the "{0}" project is currently "&lt;b&gt;{1}&lt;/b&gt;".</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170508Z">
+        <seg>A chave do projeto "{0}" está atualmente "&lt;b&gt; {1} &lt;/ b&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The new key can not be blank for "{0}".</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120827T202229Z">
+        <seg>A nova chave não pode estar em branco para "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The new key is the same as the original one ("{0}"), nothing has been updated.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T165950Z">
+        <seg>A nova chave é igual à original ("{0}"), nada foi alterado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The replacement of "{0}" by "{1}" is impossible as it would result in duplicate keys (in red below):</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170758Z">
+        <seg>A substituição de "{0}" por "{1}" é impossível pois isso resultaria em chaves duplicadas (abaixo em vermelho):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The resources will be updated as follows (updated keys in bold):</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170831Z">
+        <seg>Os recursos serão atualizados da seguinte forma (chaves atualizadas em negrito):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The snapshot is deleted.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T210515Z">
         <seg>O instantâneo foi excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The two fields can not be blank for the bulk update.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170222Z">
+        <seg>Os dois campos não podem estar em branco para a atualização em massa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The update has been canceled.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170042Z">
+        <seg>A atualização foi cancelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The valid addresses are :</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032340Z">
+        <seg>Endereços válidos são:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +5462,62 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This is a test message from Sonar</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031900Z">
+        <seg>Esta é uma mensagem de teste do Sonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This operation can not be undone.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171300Z">
+        <seg>Esta operação não pode ser desfeita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This prefix will be prepended to all outgoing email subjects.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031717Z">
+        <seg>Este prefixo será colocado no início do assunto para todos os e-mail de saída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This profile already exists: {0}.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171821Z">
+        <seg>Este perfil já existe: {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This profile can not be edited.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172657Z">
+        <seg>Este perfil não pode ser editado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This profile can not be updated but it can be used as a template for your own configuration.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030400Z">
+        <seg>Este perfil não pode ser editado, mas pode ser utilizado como um modelo para a sua própria configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This profile name already exists.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172049Z">
+        <seg>Este nome de perfil já existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This project should be reanalyzed to remove these obsolete duplicated blocks.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T151130Z">
@@ -4022,6 +5606,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Top risk</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171531Z">
+        <seg>Alto risco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Total</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T141625Z">
@@ -4062,10 +5654,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Two fields have to be provided to generate the ID : organisation name and one of the IP addresses of the machine that hosts this server.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032122Z">
+        <seg>Dois campos têm que ser fornecidos parra gerar o ID: nome da organização e um dos endereços IP da máquina que hospeda o servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Unassigned</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T150857Z">
         <seg>Não atribuído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Uncovered lines</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033610Z">
+        <seg>Linhas descobertas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4110,6 +5718,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Unit test errors</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033346Z">
+        <seg>Erros dos testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Unit test success</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T140651Z">
@@ -4126,10 +5742,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Unit tests details</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033458Z">
+        <seg>Detalhes do teste unitário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unit tests duration</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033332Z">
+        <seg>Duração dos testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Unknown assignee</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T151749Z">
         <seg>Responsável desconhecido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unknown rule</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030813Z">
+        <seg>Regra desconhecida</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +5858,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T021441Z">
         <seg>Atualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Use secure connection</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031224Z">
+        <seg>Utilizar uma conexão segura</seg>
       </tuv>
     </tu>
     <tu>
@@ -4358,6 +6006,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Whether to use secure connection and its type.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031308Z">
+        <seg>Se pretende utilizar conexão segura e seu tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Why is it a false-positive ?</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182649Z">
@@ -4374,10 +6030,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>With different configuration</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030155Z">
+        <seg>Com diferentes configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With same configuration</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030201Z">
+        <seg>Com as mesmas configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Without false positives</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182537Z">
         <seg>Sem falsos positivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wrong old password</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032622Z">
+        <seg>A senha antiga está errada</seg>
       </tuv>
     </tu>
     <tu>
@@ -4394,6 +6074,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T025157Z">
         <seg>Você foi desconectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You must provide address where to send test email</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031841Z">
+        <seg>Você deve fornecer o endereõ de teste para onde os e-mails serão enviados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4486,6 +6174,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>default</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171216Z">
+        <seg>padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>directories</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T142236Z">
@@ -4502,10 +6198,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>empty</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030552Z">
+        <seg>vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>errors</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T140716Z">
         <seg>erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>expand/collapse</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030511Z">
+        <seg>expandir/recolher</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,6 +6254,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>last version {0} ({1})</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025654Z">
+        <seg>última versão {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>line coverage</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T140212Z">
@@ -4570,6 +6290,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T142240Z">
         <seg>métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>no version</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025627Z">
+        <seg>Nenhuma versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,10 +6462,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>version {0} ({1})</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T025702Z">
+        <seg>versão {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>{0} Deletion</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T164444Z">
         <seg>{0} exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} found in active rules</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030446Z">
+        <seg>{0} encontrado em regras ativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} found in inactive rules</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030456Z">
+        <seg>{0} encontrado em regras inativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,10 +6502,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>{0} overriding</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172647Z">
+        <seg>{0} sobrescritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} profiles</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171624Z">
+        <seg>{0} perfis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>{0} results</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020757Z">
         <seg>{0} resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} rules have a different configuration</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030300Z">
+        <seg>{0} regras têm uma configuração diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} rules have been activated.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030827Z">
+        <seg>{0} regras foram ativadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} rules have been deactivated.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030852Z">
+        <seg>{0} regras foram desativadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} rules only in</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030239Z">
+        <seg>{0} regras somente em</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
