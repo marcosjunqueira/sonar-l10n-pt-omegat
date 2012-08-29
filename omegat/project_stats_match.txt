@@ -1,0 +1,9 @@
+29/08/12 11:34
+                     	Segmentos	Palavras	Caracteres (sem espaços)	Caracteres (incluindo espaços)	
+Repetições:          	      555	    3150	                   17464	                         20202	
+Correspondência exata	     1231	    3883	                   21265	                         23876	
+95%-100%:            	       22	      34	                     216	                           228	
+85%-94%:             	        0	       0	                       0	                             0	
+75%-84%:             	       25	      90	                     497	                           562	
+50%-74%:             	     2358	   25201	                  133991	                        157238	
+Sem correspondência: 	      898	   12493	                   69278	                         80988	
