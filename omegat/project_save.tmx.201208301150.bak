@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -808,16 +808,16 @@
       <tuv lang="EN-US">
         <seg>Blocker</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141920Z">
-        <seg>Muito alta</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015657Z">
+        <seg>Impeditivo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Blocker violations</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T142130Z">
-        <seg>Violações muito altas</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141747Z">
+        <seg>Violações impeditivas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,16 +1624,16 @@
       <tuv lang="EN-US">
         <seg>Critical</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141922Z">
-        <seg>Alta</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015938Z">
+        <seg>Crítico</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Critical violations</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T142135Z">
-        <seg>Violações altas</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141808Z">
+        <seg>Violações críticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,14 +1746,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182051Z">
         <seg>Filtros padrão</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Default is 20.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T153209Z">
-        <seg>O padrão é 20.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2402,14 +2394,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122749Z">
         <seg>Adotar qualidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Empty file</seg>
-      </tuv>
-      <tuv lang="PT" changeid="Vinicius" changedate="20120830T150733Z">
-        <seg>Arquivo vazio</seg>
       </tuv>
     </tu>
     <tu>
@@ -3152,16 +3136,16 @@
       <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141936Z">
-        <seg>Muito baixa</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020404Z">
+        <seg>Informação</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Info violations</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T143307Z">
-        <seg>Violações muito baixas</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141850Z">
+        <seg>Violações informativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3544,16 +3528,16 @@
       <tuv lang="EN-US">
         <seg>Major</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141928Z">
-        <seg>Média</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020456Z">
+        <seg>Grave</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Major violations</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T142139Z">
-        <seg>Violações médias</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141822Z">
+        <seg>Violações graves</seg>
       </tuv>
     </tu>
     <tu>
@@ -3688,16 +3672,16 @@
       <tuv lang="EN-US">
         <seg>Minor</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141932Z">
-        <seg>Baixa</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020535Z">
+        <seg>Secundário</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Minor violations</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T143301Z">
-        <seg>Violações baixas</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141834Z">
+        <seg>Violações secundárias</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,14 +4666,6 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171634Z">
         <seg>Arquivo de configuração opcional</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Optional.</seg>
-      </tuv>
-      <tuv lang="PT" changeid="Vinicius" changedate="20120830T151106Z">
-        <seg>Opcional.</seg>
       </tuv>
     </tu>
     <tu>

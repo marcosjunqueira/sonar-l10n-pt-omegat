@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2394,6 +2394,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122749Z">
         <seg>Adotar qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty file</seg>
+      </tuv>
+      <tuv lang="PT" changeid="Vinicius" changedate="20120830T150733Z">
+        <seg>Arquivo vazio</seg>
       </tuv>
     </tu>
     <tu>
