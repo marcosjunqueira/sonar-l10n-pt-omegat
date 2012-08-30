@@ -808,16 +808,16 @@
       <tuv xml:lang="EN-US">
         <seg>Blocker</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T015657Z">
-        <seg>Impeditivo</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T141920Z">
+        <seg>Muito alta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Blocker violations</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T141747Z">
-        <seg>Violações impeditivas</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T142130Z">
+        <seg>Violações muito altas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,16 +1624,16 @@
       <tuv xml:lang="EN-US">
         <seg>Critical</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T015938Z">
-        <seg>Crítico</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T141922Z">
+        <seg>Alta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Critical violations</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T141808Z">
-        <seg>Violações críticas</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T142135Z">
+        <seg>Violações altas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1746,14 @@
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182051Z">
         <seg>Filtros padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Default is 20.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T153209Z">
+        <seg>O padrão é 20.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,16 +3144,16 @@
       <tuv xml:lang="EN-US">
         <seg>Info</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020404Z">
-        <seg>Informação</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T141936Z">
+        <seg>Muito baixa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Info violations</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T141850Z">
-        <seg>Violações informativas</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T143307Z">
+        <seg>Violações muito baixas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3528,16 +3536,16 @@
       <tuv xml:lang="EN-US">
         <seg>Major</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020456Z">
-        <seg>Grave</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T141928Z">
+        <seg>Média</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Major violations</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T141822Z">
-        <seg>Violações graves</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T142139Z">
+        <seg>Violações médias</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,16 +3680,16 @@
       <tuv xml:lang="EN-US">
         <seg>Minor</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020535Z">
-        <seg>Secundário</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T141932Z">
+        <seg>Baixa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Minor violations</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T141834Z">
-        <seg>Violações secundárias</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T143301Z">
+        <seg>Violações baixas</seg>
       </tuv>
     </tu>
     <tu>
