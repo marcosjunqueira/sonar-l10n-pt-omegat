@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>Accessors</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135759Z">
-        <seg>Acessores</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032731Z">
+        <seg>Aceessores</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,24 +432,24 @@
       <tuv lang="EN-US">
         <seg>Advanced search</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140017Z">
-        <seg>Pesquisa avançada</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025247Z">
+        <seg>Busca avançada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Afferent (incoming) couplings</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140149Z">
-        <seg>Acoplamentos aferentes (entrada)</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T205703Z">
+        <seg>Acoplamentos aferente (entrada)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Afferent couplings</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140152Z">
-        <seg>Acoplamentos aferentes</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145823Z">
+        <seg>Acoplamentos aferente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,8 +1672,8 @@
       <tuv lang="EN-US">
         <seg>Dashboard</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140209Z">
-        <seg>Painel</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135542Z">
+        <seg>Painal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,8 +2272,8 @@
       <tuv lang="EN-US">
         <seg>Edit filter</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135845Z">
-        <seg>Editar filtro</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025216Z">
+        <seg>Edutar filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -2536,8 +2536,8 @@
       <tuv lang="EN-US">
         <seg>False positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140056Z">
-        <seg>Falsos-positivo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144957Z">
+        <seg>Falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3512,8 +3512,8 @@
       <tuv lang="EN-US">
         <seg>Login</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135737Z">
-        <seg>Usuário</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020436Z">
+        <seg>Login</seg>
       </tuv>
     </tu>
     <tu>
@@ -4592,8 +4592,8 @@
       <tuv lang="EN-US">
         <seg>Only false positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140033Z">
-        <seg>Somente falsos-positivo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182457Z">
+        <seg>Somente falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6096,8 +6096,8 @@
       <tuv lang="EN-US">
         <seg>Showing false positives only</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140106Z">
-        <seg>Exibindo apenas falsos-positivo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182600Z">
+        <seg>Exibindo apenas falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6112,8 +6112,8 @@
       <tuv lang="EN-US">
         <seg>Shows all the false positives found on the project.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140117Z">
-        <seg>Exibe todos os falsos-positivo encontrados no projeto.</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T145028Z">
+        <seg>Exibe todos os falsos positivos encontrados no projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6768,8 +6768,8 @@
       <tuv lang="EN-US">
         <seg>Time changes</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135841Z">
-        <seg>Mudanças no tempo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122619Z">
+        <seg>Alterações de horário</seg>
       </tuv>
     </tu>
     <tu>
@@ -7336,8 +7336,8 @@
       <tuv lang="EN-US">
         <seg>Without false positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140044Z">
-        <seg>Sem falsos-positivo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182537Z">
+        <seg>Sem falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
