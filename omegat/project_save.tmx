@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_1" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3202,6 +3202,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145533Z">
         <seg>Instabilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient branch coverage by unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124406Z">
+        <seg>Cobertura de branch insuficiente por testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient comment density</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124550Z">
+        <seg>Densidade de comentários insuficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient line coverage by unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124720Z">
+        <seg>Cobertura de linha insuficiente por testes unitários</seg>
       </tuv>
     </tu>
     <tu>
@@ -6522,6 +6546,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170508Z">
         <seg>A chave do projeto "{0}" está atualmente "&lt;b&gt; {1} &lt;/ b&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum required branch coverage ratio.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124747Z">
+        <seg>A taxa de cobertura de branch mínima exigida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum required comment density.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124700Z">
+        <seg>A densidade de comentários mínima exigida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum required line coverage ratio.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124739Z">
+        <seg>A taxa de cobertura de linha mínima exigida.</seg>
       </tuv>
     </tu>
     <tu>
