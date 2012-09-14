@@ -70,6 +70,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// this is bad
+import java.io.File;
+public class Foo {}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133137Z">
+        <seg>// isso é ruim
+import java.io.File;
+public class Foo {}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/class</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141621Z">
@@ -882,6 +894,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123750Z">
         <seg>Evitar comparações desnecessárias em uma expressão booleana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid unused import statements.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133110Z">
+        <seg>Evite declarações de importação não utilizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,6 +2902,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170704Z">
         <seg>Ex.: "org.myCompany"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133116Z">
+        <seg>Exemplo</seg>
       </tuv>
     </tu>
     <tu>

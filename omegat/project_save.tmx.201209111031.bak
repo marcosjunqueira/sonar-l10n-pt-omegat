@@ -70,6 +70,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>// this is bad
+import java.io.File;
+public class Foo {}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133137Z">
+        <seg>// isso é ruim
+import java.io.File;
+public class Foo {}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/class</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141621Z">
@@ -126,6 +138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p&gt;Only project measures are checked against thresholds.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T125324Z">
+        <seg>&lt;p&gt;Somente medidas de projeto são verificadas em relação limites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dashboard already exists with the same name</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T134804Z">
@@ -142,10 +162,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A prefix for static variables</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122302Z">
+        <seg>Um prefixo para variáveis ​​estáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A server ID is linked to the IP address of the hosting machine that runs Sonar.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032242Z">
+        <seg>O ID do servidor está ligado ao endereço IP do servidor que executa o Sonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A suffix for static variables</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122305Z">
+        <seg>Um sufixo para variáveis ​​estáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A warning is triggered when this value is reached.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130500Z">
+        <seg>Um aviso é disparado quando esse valor for atingido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>API</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141109Z">
         <seg>API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract Class Without Abstract Method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125807Z">
+        <seg>Classe abstrata sem método abstrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract class without any methods</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124717Z">
+        <seg>Classe abstrata sem nenhum método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstractness</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142149Z">
+        <seg>abstratividade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accessors</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135759Z">
+        <seg>Acessores</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +282,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active false-positive reviews</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143114Z">
+        <seg>Revisões ativas de falsos-positivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active open and reopened reviews</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143135Z">
+        <seg>Revisões ativas abertase reabertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active reviews</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144903Z">
@@ -210,6 +310,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T145037Z">
         <seg>Revisões ativas por desenvolvedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active unassigned reviews</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143158Z">
+        <seg>Revisões ativas não atribuídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active unplanned reviews</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T151004Z">
+        <seg>Revisões ativas não planejadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +350,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201104Z">
         <seg>Adicionar plano de ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add an event</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130701Z">
+        <seg>Adicionar um evento</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +390,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151828Z">
         <seg>Adicionar medida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add note</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030911Z">
+        <seg>Adicionar nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,16 +476,24 @@
       <tuv lang="EN-US">
         <seg>Advanced search</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025247Z">
-        <seg>Busca avançada</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140017Z">
+        <seg>Pesquisa avançada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Afferent (incoming) couplings</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T205703Z">
-        <seg>Acoplamentos aferente (entrada)</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140149Z">
+        <seg>Acoplamentos aferentes (entrada)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Afferent couplings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140152Z">
+        <seg>Acoplamentos aferentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +510,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023638Z">
         <seg>Alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alert is created.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130558Z">
+        <seg>Um alerta foi criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alert is deleted.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130615Z">
+        <seg>Um alerta foi excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alert is updated.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130609Z">
+        <seg>Um alerta foi atualizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All rules</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030304Z">
+        <seg>Todas as regras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All violations</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021737Z">
@@ -422,6 +594,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error is triggered when this value is reached.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130523Z">
+        <seg>Um erro é disparado quando esse valor for atingido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while renaming the key "{0}": {1}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170059Z">
@@ -434,6 +614,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135900Z">
         <seg>Ocorreu um erro ao tentar exibir o widget "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An indication on the value of the project for the business</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150756Z">
+        <seg>Um indício sobre o valor do projeto para o negócio</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +662,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171714Z">
         <seg>Deseja realmente definir o perfil "{0}" como padrão?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete the selected resources?</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130930Z">
+        <seg>Deseja realmente excluir o recurso selecionado?</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authors by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142555Z">
+        <seg>Autores por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Dashboards</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T134449Z">
@@ -610,6 +814,94 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172231Z">
         <seg>Projetos disponíveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Array Loops</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123610Z">
+        <seg>Evitar laços em matriz (array)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Assert As Identifier</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125248Z">
+        <seg>Evite Assert como identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Constants Interface</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125344Z">
+        <seg>Evite Interface com constantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Deeply Nested If Stmts</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125015Z">
+        <seg>Evite blocos IF profundamente aninhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Enum As Identifier</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122917Z">
+        <seg>Evite Enum como identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Rethrowing Exception</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131120Z">
+        <seg>Evitar lançar a exceção novamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Thread Group</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125128Z">
+        <seg>Evitar Thread Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Throwing Null Pointer Exception</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124801Z">
+        <seg>Evitar lançar Null Pointer Exception</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Using Native Code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125037Z">
+        <seg>Evite utilizar códico nativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid unnecessary comparisons in boolean expressions</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123750Z">
+        <seg>Evitar comparações desnecessárias em uma expressão booleana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid unused import statements.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133110Z">
+        <seg>Evite declarações de importação não utilizadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,10 +930,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blank comments</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131400Z">
+        <seg>Comentários em branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blocker</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015657Z">
-        <seg>Impeditivo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141920Z">
+        <seg>Muito alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blocker violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T142130Z">
+        <seg>Violações muito altas</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +966,78 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015702Z">
         <seg>Negrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boolean Instantiation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123850Z">
+        <seg>Instanciação de Booleano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boolean Inversion</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122702Z">
+        <seg>Inversão Booleana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branch coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132722Z">
+        <seg>Cobertura de branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branch coverage by Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133442Z">
+        <seg>Cobertura de branches por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branch coverage hits</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132858Z">
+        <seg>Cobertura de branches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branch coverage of new/changed code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132832Z">
+        <seg>Cobertura de branches de código novo/alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branches by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132911Z">
+        <seg>Branches por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branches to cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132551Z">
+        <seg>Branches a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branches to cover by Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133350Z">
+        <seg>Branches a cobrir por testes de integração</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +1098,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burned budget</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150658Z">
+        <seg>Orçamento gasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Business value</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150716Z">
+        <seg>O valor do negócio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170649Z">
@@ -738,6 +1134,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015813Z">
         <seg>Calendário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Call Super In Constructor</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125605Z">
+        <seg>Invocar Super no construtor</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +1178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change password</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032518Z">
+        <seg>Alterar senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change severity</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T183345Z">
@@ -786,6 +1198,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T211726Z">
         <seg>Registro de alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changelog from</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025606Z">
+        <seg>Registro de alterações desde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes in review assigned to me or created by me</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032418Z">
+        <seg>Alterações na revisão atribuídas a mim ou criado por mim</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,10 +1234,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Class distribution /LCOM4</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142326Z">
+        <seg>Distribuilão de classes /LCOM4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class distribution /RFC</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142258Z">
+        <seg>Distribuilão de classes /RFC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classes</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015853Z">
         <seg>Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classes distribution /complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033221Z">
+        <seg>Distribuição de classes /complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear selection of all {0} resources</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130805Z">
+        <seg>Limpar seleção de todos os {0} recursos</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +1294,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021856Z">
         <seg>Clique para remover dos favoritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clone method must implement Cloneable</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125414Z">
+        <seg>Método Clone deve implementar Cloneable</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +1378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code size - cyclomatic complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122831Z">
+        <seg>Tamanho do código - complexidade ciclomática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coding rules</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021835Z">
@@ -942,6 +1418,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comment lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131444Z">
+        <seg>Linhas de comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commented lines of code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131632Z">
+        <seg>Linhas de código comentadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commented-out LOC</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131611Z">
+        <seg>LOC comentado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141022Z">
@@ -958,10 +1458,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comments (%)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131502Z">
+        <seg>Comentários (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comments balanced by ncloc + comment lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131541Z">
+        <seg>Comentários em relação a ncloc + linhas de comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comments that do not contain comments</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131417Z">
+        <seg>Comentários que não contêm comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commits</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150529Z">
+        <seg>Submissões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compare</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015907Z">
         <seg>Comparar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compare Objects With Equals</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131224Z">
+        <seg>Compar objetos com Equals</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1526,70 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141422Z">
         <seg>Complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity /class</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033108Z">
+        <seg>Complexidade /classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity /file</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033139Z">
+        <seg>Complexidade /arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity /method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033126Z">
+        <seg>Complexidade /método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity /paragraph</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033153Z">
+        <seg>Complexidade /parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity average by class</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033119Z">
+        <seg>Complexidade média por classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity average by file</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033146Z">
+        <seg>Complexidade média por arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity average by method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033133Z">
+        <seg>Complexidade média por método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complexity average by paragraph</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033203Z">
+        <seg>Complexidade média por parágrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,10 +1626,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm new value</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032539Z">
+        <seg>Confirmar novo valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm password</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025110Z">
         <seg>Confirmar senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confusing Ternary</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122347Z">
+        <seg>Ternário confuso</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,10 +1666,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy rule</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030608Z">
+        <seg>Copiar regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coupling - excessive imports</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123325Z">
+        <seg>Acoplamento - importações excessivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coupling between objects</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124055Z">
+        <seg>Acoplamento entre os objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coverage</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024149Z">
         <seg>Cobertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coverage by unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033506Z">
+        <seg>Cobertura por testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coverage hits by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132410Z">
+        <seg>Cobertura por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coverage hits by line by Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133324Z">
+        <seg>Cobertura por linha de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coverage of new/changed code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033542Z">
+        <seg>Cobertura de código novo/alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Covered branches by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132932Z">
+        <seg>Branches cobertos por linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1766,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201652Z">
         <seg>Criar um plano de ação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create alert</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130240Z">
+        <seg>Criar alerta</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1828,24 @@
       <tuv lang="EN-US">
         <seg>Critical</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015938Z">
-        <seg>Crítico</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141922Z">
+        <seg>Alta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Critical violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T142135Z">
+        <seg>Violações altas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently deleting resources... ({0} out of {1})</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131049Z">
+        <seg>Atualmente excluindo recursos... ({0} de {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,10 +1866,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyclomatic complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032745Z">
+        <seg>Complexidade ciclomática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dashboard</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135542Z">
-        <seg>Painal</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140209Z">
+        <seg>Painel</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,6 +1954,118 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default is 1.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125535Z">
+        <seg>O padrão é 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 10.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122609Z">
+        <seg>O padrão é 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 100.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125754Z">
+        <seg>O padrão é 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 1000.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131051Z">
+        <seg>O padrão é 1000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 1500.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124406Z">
+        <seg>O padrão é 1500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 17.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124602Z">
+        <seg>O padrão é 17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 20.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T153209Z">
+        <seg>O padrão é 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 200.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124045Z">
+        <seg>O padrão é 200.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 3.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125023Z">
+        <seg>O padrão é 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is 30.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123332Z">
+        <seg>O padrão é 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is LOG</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125946Z">
+        <seg>O padrão é LOG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is ^[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}$</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131152Z">
+        <seg>O padrão é ^[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is false.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122452Z">
+        <seg>O padrão é falso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is true.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122850Z">
+        <seg>O padrão é verdadeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default profile is "{0}".</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171858Z">
@@ -1302,6 +2130,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting resources...</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131005Z">
+        <seg>Excluindo recursos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Density of classes having LCOM4&gt;1</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145807Z">
+        <seg>Densidade de classes com LCOM4&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Density of successful unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132200Z">
+        <seg>Densidade de testes unitários bem sucedidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dependencies</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024205Z">
@@ -1314,6 +2166,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144232Z">
         <seg>Dependências a cortar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dependency Matrix</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142350Z">
+        <seg>Matriz de dependências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth in Inheritance Tree</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145611Z">
+        <seg>Profundidade na árvore de herança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth in Tree</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145601Z">
+        <seg>Profundidade na árvore</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +2230,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023631Z">
         <seg>Conexão de desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032629Z">
+        <seg>Desenvolvedores</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +2354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145548Z">
+        <seg>Distância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribution chart</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171436Z">
@@ -1482,6 +2374,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171428Z">
         <seg>Distribuições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do Not Call System Exit</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124742Z">
+        <seg>Não invoque System Exit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not call garbage collection explicitly</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124138Z">
+        <seg>Não invocar explicitamente a coleta de lixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you really want to delete this note?</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030923Z">
+        <seg>Deseja realmente excluir esta nota?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,6 +2458,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dont Import Java Lang</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131259Z">
+        <seg>Não importar Java Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dont Import Sun</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130046Z">
+        <seg>Não importar Sun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020259Z">
@@ -1574,6 +2506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate Imports</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125921Z">
+        <seg>Importações duplicadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate key</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170840Z">
@@ -1582,10 +2522,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicated blocks</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141326Z">
+        <seg>Blocos duplicados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicated files</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141331Z">
+        <seg>Arquivos duplicados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicated lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141317Z">
+        <seg>Linhas duplicadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicated lines (%)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141338Z">
+        <seg>Linhas duplicadas (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicated lines balanced by statements</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141424Z">
+        <seg>Linhas duplicadas em relação a instruções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplication</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032705Z">
+        <seg>Duplicação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplications</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024222Z">
         <seg>Duplicidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplications details</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141449Z">
+        <seg>Detalhes das duplicações</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,8 +2628,8 @@
       <tuv lang="EN-US">
         <seg>Edit filter</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025216Z">
-        <seg>Edutar filtro</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135845Z">
+        <seg>Editar filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,10 +2642,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit note</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030908Z">
+        <seg>Editar nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit rule</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030310Z">
+        <seg>Editar regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing alert</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130234Z">
+        <seg>Editar alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing profile</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172149Z">
-        <seg>Editando perfil</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130324Z">
+        <seg>Editar perfil</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,10 +2682,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Efferent couplings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145839Z">
+        <seg>Acoplamentos eferentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Efficiency</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141540Z">
+        <seg>Eficiência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Email</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135306Z">
-        <seg>Email</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032402Z">
+        <seg>E-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,6 +2710,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024230Z">
         <seg>Configurações de e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email prefix</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031636Z">
+        <seg>Prefixo de e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email was sent to {0}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031924Z">
+        <seg>O e-mail foi enviado para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emails will come from this address.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031528Z">
+        <seg>E-mail virão a partir deste endereço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1690,6 +2750,62 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122749Z">
         <seg>Adotar qualidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty Catch Block</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131330Z">
+        <seg>Bloco Catch vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty Finally Block</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130904Z">
+        <seg>Bloco Finally vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty Static Initializer</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T121947Z">
+        <seg>Inicializador estático vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty Synchronized Block</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124815Z">
+        <seg>Bloco Synchronized vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty Try Block</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124941Z">
+        <seg>Bloco Try vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty While Stmt</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131502Z">
+        <seg>Bloco While vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty file</seg>
+      </tuv>
+      <tuv lang="PT" changeid="Vinicius" changedate="20120830T150733Z">
+        <seg>Arquivo vazio</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +2830,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021948Z">
         <seg>Igual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error threshold</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130504Z">
+        <seg>Limite de erro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,6 +2906,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133116Z">
+        <seg>Exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excessive Class Length</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131028Z">
+        <seg>Classe de tamanho excessivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excessive Method Length</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131047Z">
+        <seg>Método de tamanho excessivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excessive Parameter List</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122531Z">
+        <seg>Lista de parâmetros excessivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclusions</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T164415Z">
@@ -1790,10 +2946,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Execution duration of unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131853Z">
+        <seg>Duração da execução dos testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151315Z">
         <seg>Expandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend description</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030905Z">
+        <seg>Expandir descrição</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,8 +2980,8 @@
       <tuv lang="EN-US">
         <seg>False positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144957Z">
-        <seg>Falsos positivos</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140056Z">
+        <seg>Falsos-positivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,6 +2990,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022008Z">
         <seg>Falso-positivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>False-positive reviews</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143056Z">
+        <seg>Revisões de falsos-positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,10 +3026,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File cycles</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150210Z">
+        <seg>Ciclos de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File dependencies to cut</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142500Z">
+        <seg>Dependências de arquivos a remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File design</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T143345Z">
         <seg>Estrutura do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File edges weight</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150417Z">
+        <seg>Peso das extremidades de arquivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +3066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File tangles</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150250Z">
+        <seg>Arquivos emaranhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Files</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020319Z">
@@ -1870,10 +3082,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Files distribution /complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033253Z">
+        <seg>Distribuição de arquivos /complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files tangles</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150330Z">
+        <seg>Arquivos emaranhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020327Z">
         <seg>Filtrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter by name:</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032635Z">
+        <seg>Filtrar por nome:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +3126,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024253Z">
         <seg>Filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finalize Does Not Call Super Finalize</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130028Z">
+        <seg>Finalize não invoca Super Finalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finalize Only Calls Super Finalize</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123831Z">
+        <seg>O método Finalize invoca apenas o Super Finalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finalize Overloaded</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125116Z">
+        <seg>Finalize sobrecarregado</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +3186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fixed IP Address</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032138Z">
+        <seg>Endereço IP fixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T113901Z">
@@ -1934,10 +3202,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For Loops Must Use Braces</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124545Z">
+        <seg>Blocos FOR devem usar chaves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example "smtp.gmail.com".</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031136Z">
+        <seg>Por exemplo "smtp.gmail.com"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example - "noreply@sonarsource.com".</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031556Z">
+        <seg>Por exemplo - "noreply@sonarsource.com".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, '31/12/2011'.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201910Z">
         <seg>Por exemplo, "31/12/2011".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From address</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031513Z">
+        <seg>Endereço de envio</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,6 +3282,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate ID</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031935Z">
+        <seg>Gerar ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generated Lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032801Z">
+        <seg>Linhas geradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generated lines of code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032819Z">
+        <seg>Linhas de código geradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generated non Commenting Lines of Code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032846Z">
+        <seg>Linhas de código geradas mas não comentadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating ID...</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031942Z">
+        <seg>Gerando ID...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Global</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020339Z">
@@ -2022,6 +3362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTML is allowed.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030518Z">
+        <seg>HTML é permitido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handle events and delete quality snapshots from history.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210259Z">
@@ -2042,6 +3390,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020343Z">
         <seg>Ocultar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide message</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130857Z">
+        <seg>Ocultar mensagem</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,10 +3450,138 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, some failures occurred.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131131Z">
+        <seg>No entanto, ocorreram algumas falhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Branch Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133427Z">
+        <seg>Cobertura de branches de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Branches by Line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133523Z">
+        <seg>Branches de testes de integração por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Branches by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133539Z">
+        <seg>Branches de testes de integração por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Branches to Cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133337Z">
+        <seg>Branches a cobrir de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133106Z">
+        <seg>Cobertura de Testes de Integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Coverage hits by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133235Z">
+        <seg>Cobertura de testes de integração por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Covered Branches by Line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133558Z">
+        <seg>Branches de testes de integração cobertos por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Covered branches by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133609Z">
+        <seg>Branches de testes de integração cobertos por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Line Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133207Z">
+        <seg>Cobertura de linhas de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Lines to Cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133059Z">
+        <seg>Linhas a cobrir de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Uncovered Branches</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133404Z">
+        <seg>Branches de testes de integração não cobertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT Uncovered Lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133131Z">
+        <seg>Linhas de testes de integração não cobertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Id</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020349Z">
         <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Idempotent Operations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124356Z">
+        <seg>Operações idempotentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identification</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031109Z">
+        <seg>Identificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If Else Stmts Must Use Braces</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124517Z">
+        <seg>Blocos IF e ELSE devem usar chaves</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,10 +3594,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Stmts Must Use Braces</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130831Z">
+        <seg>Blocos IF devem usar chaves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the server IP address was to change, the server ID will have to be regenerated.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032326Z">
+        <seg>Se o endereço IP do servidor foi alterado, o ID do servidor terá que ser regenerado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignore annotations.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131540Z">
+        <seg>Ignorar anotações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150236Z">
         <seg>Imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immutable Field</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123841Z">
+        <seg>Campo imutável</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,10 +3650,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inefficient Empty String Check</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T121808Z">
+        <seg>Verificação de String vazia ineficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inefficient String Buffering</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125648Z">
+        <seg>Buffer de String ineficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020404Z">
-        <seg>Informação</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141936Z">
+        <seg>Muito baixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T143307Z">
+        <seg>Violações muito baixas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +3694,102 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020411Z">
         <seg>Herança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inherited</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030657Z">
+        <seg>Herdado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inherited from parent</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030531Z">
+        <seg>Herdado de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instability</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145533Z">
+        <seg>Instabilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instantiation To Get Class</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123031Z">
+        <seg>Instanciação para obter classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient branch coverage by unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124406Z">
+        <seg>Cobertura de branch insuficiente por testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient comment density</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124550Z">
+        <seg>Densidade de comentários insuficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insufficient line coverage by unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124720Z">
+        <seg>Cobertura de linha insuficiente por testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integer Instantiation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124110Z">
+        <seg>Instanciação de Integer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration Test Branch Coverage of new/changed code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141313Z">
+        <seg>Cobertura de branch de testes de integração de código novo/alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration Test Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133009Z">
+        <seg>Cobertura de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration Test Coverage of new/changed code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T140720Z">
+        <seg>Cobertura de testes de integração de código novo/alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration Test Line coverage of added/changed code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141110Z">
+        <seg>Cobertura de linha de testes de integração de código adicionado/alterado</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,10 +3818,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is used for example to obtain a license key for the SonarSource's commercial plugins.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032053Z">
+        <seg>É usado, por exemplo, para obter uma chave de licença para plugins comerciais da SonarSource.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135325Z">
         <seg>Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java5 migration - Byte instantiation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125313Z">
+        <seg>Migração Java5 - instanciação de Byte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java5 migration - Long instantiation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123315Z">
+        <seg>Migração Java5 - instanciação de Long</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just copy it from the profiles page.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030430Z">
+        <seg>Basta copiá-lo a partir da página de perfis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +3870,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T164421Z">
         <seg>LCOM4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LCOM4 blocks</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142315Z">
+        <seg>Blocos LCOM4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lack of Cohesion of Methods</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145647Z">
+        <seg>Métodos com falta de coesão</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,10 +3914,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last commit</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150543Z">
+        <seg>Última submissão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last commit dates by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150612Z">
+        <seg>Últimas datas de submissão por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last snapshot</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210431Z">
         <seg>Último instantâneo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave blank to disable email sending.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031150Z">
+        <seg>Deixe em branco para desativar o envio de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left click to zoom in.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131323Z">
+        <seg>Clique no botão esquerdo para ampliar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +3986,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033627Z">
+        <seg>Cobertura de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line coverage by Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133221Z">
+        <seg>Cobertura de linha por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line coverage of added/changed code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132318Z">
+        <seg>Cobertura de linha de código adicionado/alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lines</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142147Z">
@@ -2282,6 +4022,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142143Z">
         <seg>Linhas de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lines to cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033552Z">
+        <seg>Linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lines to cover by Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133118Z">
+        <seg>Linhas a cobrir por testes de integração</seg>
       </tuv>
     </tu>
     <tu>
@@ -2318,6 +4074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local variable could be final</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125221Z">
+        <seg>Variável local poderia ser final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135405Z">
@@ -2344,16 +4108,48 @@
       <tuv lang="EN-US">
         <seg>Login</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020436Z">
-        <seg>Login</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135737Z">
+        <seg>Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long Variable</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124556Z">
+        <seg>Variável Long</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loose coupling</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125100Z">
+        <seg>Acoplamento fraco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maintainability</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141604Z">
+        <seg>Facilidade de manutenção</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Major</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020456Z">
-        <seg>Grave</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141928Z">
+        <seg>Média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Major violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T142139Z">
+        <seg>Violações médias</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,6 +4182,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151842Z">
         <seg>Gerenciar métricas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Management</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032715Z">
+        <seg>Gerenciamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,6 +4234,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031853Z">
+        <seg>Mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message Driven Bean And Session Bean Naming Convention</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123140Z">
+        <seg>Convenção de nomenclatura para Message Driven Bean e Session Bean</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method Argument Could Be Final</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125238Z">
+        <seg>Argumento de método poderia ser final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Methods</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032755Z">
+        <seg>Métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Methods distribution /complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033242Z">
+        <seg>Distribuição de métodos /complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metric</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T205730Z">
@@ -2456,8 +4300,32 @@
       <tuv lang="EN-US">
         <seg>Minor</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020535Z">
-        <seg>Secundário</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T141932Z">
+        <seg>Baixa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minor violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T143301Z">
+        <seg>Violações baixas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing Break In Switch</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124627Z">
+        <seg>Faltando Break no Switch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing Serial Version UID</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123421Z">
+        <seg>Serial Version UID ausente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +4354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modules, packages and classes are ignored.&lt;/p&gt;Project health icons represent :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T125918Z">
+        <seg>Módulos, pacotes e classes são ignorados.&lt;/p&gt;Ícones da saúde do projeto representam:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Month</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210303Z">
@@ -2498,6 +4374,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135723Z">
         <seg>Mais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More Than One Logger</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124933Z">
+        <seg>Mais de um Logger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More about this rule on profile "{0}"</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031104Z">
+        <seg>Mais informações sobre esta regra no perfil "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,10 +4498,106 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name (required)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130712Z">
+        <seg>Nome (obrigatório)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name for the new profile</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172103Z">
         <seg>Nome para o novo perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of the organisation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032131Z">
+        <seg>Nome da organização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Avoid dollar signs</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122807Z">
+        <seg>Nomenclatura - Evite o símbolo dólar ($)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Avoid field name matching method name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123008Z">
+        <seg>Nomenclatura - Evite nome de campos correspondentes a nome de métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Avoid field name matching type name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123933Z">
+        <seg>Nomenclatura - Evite nome de campos correspondentes a nome de tipos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Class naming conventions</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130815Z">
+        <seg>Nomenclatura - convenções de nomenclatura de classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Method with same name as enclosing class</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125513Z">
+        <seg>Nomenclatura - Método com mesmo nome de classe inclusora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Short method name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122407Z">
+        <seg>Nomenclatura - nome do método de curto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Suspicious Hashcode method name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123049Z">
+        <seg>Nomenclatura - nome do método Hashcode suspeito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Suspicious constant field name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123704Z">
+        <seg>Nomenclatura - nome de constante suspeito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Suspicious equals method name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130931Z">
+        <seg>Nomenclatura - nome do método suspeito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Variable naming conventions</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122214Z">
+        <seg>Nomenclatura - Convenções de nomenclatura de variável</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,10 +4610,170 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ncss Method Count</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125747Z">
+        <seg>Contagem NCSS de método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Blocker violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141911Z">
+        <seg>Novas violações impeditivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Branches Uncovered by IT</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141154Z">
+        <seg>Novos branches não cobertos por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Branches to Cover by IT</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141127Z">
+        <seg>Novos branches a cobrir por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Critical violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141925Z">
+        <seg>Novas violações críticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New IT Branch Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141248Z">
+        <seg>Nova cobertura de branch de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New IT Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133621Z">
+        <seg>novos branches de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New IT Line Coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141030Z">
+        <seg>Nova cobertura de linha de testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Info violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142058Z">
+        <seg>Novas violações informativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Lines Uncovered by IT</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T140806Z">
+        <seg>Novas linhas sem cobertura por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Lines to Cover by IT</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T140735Z">
+        <seg>Novas linhas a cobrir por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Major violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141940Z">
+        <seg>Novas violações graves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Minor violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142045Z">
+        <seg>Novas violações secundárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Rule</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151532Z">
         <seg>Nova regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141858Z">
+        <seg>Novas violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New alert</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130228Z">
+        <seg>Novo alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New branch coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132752Z">
+        <seg>Nova cobertura de branche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New branches that are not covered by IT</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141216Z">
+        <seg>Novos branches que não são cobertos por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New branches to cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132605Z">
+        <seg>Novos branches a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New branches to cover by integration tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141136Z">
+        <seg>Novos branches a cobrir por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033510Z">
+        <seg>Nova cobertura</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,6 +4802,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New line coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132300Z">
+        <seg>Nova cobertura de linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New lines that are not covered by integration tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T140808Z">
+        <seg>Novas linhas sem cobertura por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New lines to cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033600Z">
+        <seg>Novas linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New lines to cover by integration tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T140746Z">
+        <seg>Novas linhas a cobrir por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New name</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172054Z">
@@ -2670,6 +4850,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New rule</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030307Z">
+        <seg>Nova regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New severity:</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T183412Z">
@@ -2678,10 +4866,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New uncovered branches</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132658Z">
+        <seg>Novos branches não cobertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New uncovered lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033621Z">
+        <seg>Novas linhas descobertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New unreviewed violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142951Z">
+        <seg>Novas violações não revisadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New value</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032528Z">
+        <seg>Novo valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New violations</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022248Z">
         <seg>Novas violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New violations on my favourite projects introduced during the first differential view period</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032457Z">
+        <seg>Novas violações em meus projetos favoritos introduzida durante o primeiro período de visualização diferencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New violations that have not been reviewed yet</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143010Z">
+        <seg>Novas violações que ainda não foram revisadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,6 +4950,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T140047Z">
         <seg>Nenhum alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No alerts.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032503Z">
+        <seg>Nenhum alerta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No changes has been done on this quality profile.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025517Z">
+        <seg>Nenhuma alteração foi feito neste perfil de qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,6 +5034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No package</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125829Z">
+        <seg>Nenhum pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No projects are explicitly associated to the profile "{0}".</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172301Z">
@@ -2814,6 +5074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No results.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131024Z">
+        <seg>Nenhum resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No review.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144857Z">
@@ -2842,6 +5110,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150833Z">
         <seg>Não há violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non Commenting Lines of Code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032855Z">
+        <seg>Linhas de código não comentadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +5170,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not inherited</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030635Z">
+        <seg>Não herdado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not used</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T133930Z">
@@ -2902,10 +5186,106 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that server may ignore this setting (like does GMail).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031620Z">
+        <seg>note que o servidor pode ignorar essa configuração (como no GMail).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that these changes will impact all users and all projects.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150726Z">
         <seg>Note que essas alterações afetarão todos os usuários e projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032546Z">
+        <seg>Notificações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of Children</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142214Z">
+        <seg>Número de filhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of comment lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131455Z">
+        <seg>Número de linhas de comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of files</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032752Z">
+        <seg>Número de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of generated lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032807Z">
+        <seg>Número de linhas geradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of paragraphs</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032917Z">
+        <seg>Número de parágrafos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of skipped unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033433Z">
+        <seg>Número de testes unitários ignorados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of statements</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033100Z">
+        <seg>Número de instruções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of unit test errors</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033409Z">
+        <seg>Número de erros de testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of unit test failures</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131927Z">
+        <seg>Número de falhas em testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033323Z">
+        <seg>Número de testes unitários</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,6 +5306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Old value</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032525Z">
+        <seg>Valor antigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020553Z">
@@ -2942,6 +5330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only One Return</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122632Z">
+        <seg>Apenas um Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only digits are allowed</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135513Z">
@@ -2952,8 +5348,16 @@
       <tuv lang="EN-US">
         <seg>Only false positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182457Z">
-        <seg>Somente falsos positivos</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140033Z">
+        <seg>Somente falsos-positivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only in {0}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030137Z">
+        <seg>Somente em {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,10 +5402,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optional - as above, enter your password if you use authenticated SMTP.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031411Z">
+        <seg>Opcional - assim como acima, digite sua senha se você utilizar SMTP autenticado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional - if you use authenticated SMTP, enter your username.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031336Z">
+        <seg>Opcional - se você usar SMTP autenticado, digite seu nome de usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional configuration file</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171634Z">
         <seg>Arquivo de configuração opcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="Vinicius" changedate="20120830T151106Z">
+        <seg>Opcional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,10 +5442,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Organisation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032126Z">
+        <seg>Organização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organisation and/or IP address are not valid.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032358Z">
+        <seg>Organização e/ou endereço IP não são válidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original severity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031040Z">
+        <seg>Severidade original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original value</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031034Z">
+        <seg>Valor original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023653Z">
         <seg>Outro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Override both equals and hashcode</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124022Z">
+        <seg>Sobrescrever tanto equals quanto hashcode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overrides</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030744Z">
+        <seg>Substituições</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overrides parent definition</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030549Z">
+        <seg>Substitui a definição pai</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,10 +5522,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Package cycles</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145919Z">
+        <seg>Ciclos de pacotes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package dependencies to cut</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142509Z">
+        <seg>Dependências de pacote a remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Package design</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144140Z">
         <seg>Estrutura do pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package edges weight</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150156Z">
+        <seg>Peso das extremidades de pacote</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,6 +5578,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paragraph distribution /complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033309Z">
+        <seg>Distribuição de parágrafos /complexidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paragraphs</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032910Z">
+        <seg>Parágrafos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; changed from &lt;b&gt;{1}&lt;/b&gt; to &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030130Z">
+        <seg>O parametro &lt;b&gt;{0}&lt;/b&gt; foi alterado de &lt;b&gt;{1}&lt;/b&gt; para &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; reset to default value (was &lt;b&gt;{1}&lt;/b&gt;)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030102Z">
+        <seg>O parâmetro &lt;b&gt;{0}&lt;/b&gt; foi redefinido para o valor padrão (era &lt;b&gt;{1}&lt;/b&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; set to &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025934Z">
+        <seg>O parâmetro &lt;b&gt;{0}&lt;/b&gt; foi alterado para &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parameter &lt;b&gt;{0}&lt;/b&gt; was &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025927Z">
+        <seg>O parâmetro &lt;b&gt;{0}&lt;/b&gt; era &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameters</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020651Z">
@@ -3082,6 +5638,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020656Z">
         <seg>Senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password can not be empty</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032601Z">
+        <seg>A senha não pode estar vazia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password changed</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032554Z">
+        <seg>Senha alterada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password mismatch</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032610Z">
+        <seg>Incompatibiliade de senhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3150,6 +5730,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please check the logs to know more about it.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130848Z">
+        <seg>Por favor, verifique os logs para saber mais sobre isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check the organisation and the IP address.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032003Z">
+        <seg>Por favor, verifique a organização e o endereço IP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please configure the widget &lt;b&gt;{0}&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T134305Z">
@@ -3170,6 +5766,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151714Z">
         <seg>Por favor, entre em contato com seu administrador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select at least one resource to delete.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130957Z">
+        <seg>Por favor, selecione pelo menos um recurso para excluir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,10 +5810,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Port number to connect with SMTP server.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031213Z">
+        <seg>Número da porta para conectar com o servidor SMTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portability</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141549Z">
+        <seg>Portabilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powered by</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023824Z">
         <seg>Produzido por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preserve Stack Trace</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130014Z">
+        <seg>Preservar rastreamento de pilha (stack trace)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3294,6 +5922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Profile version</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025710Z">
+        <seg>Versão do perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Progress</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201148Z">
@@ -3330,6 +5966,54 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020711Z">
         <seg>Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proper Logger</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125942Z">
+        <seg>Logger adequado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public API</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032922Z">
+        <seg>API pública</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public documented API (%)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032939Z">
+        <seg>API pública documentada (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public documented classes and methods balanced by ncloc</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131726Z">
+        <seg>Classes e métodos públicos documentados em relação a ncloc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public undocumented API</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032957Z">
+        <seg>API pública não documentada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public undocumented classes, methods and variables</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131823Z">
+        <seg>Classes, métodos e variáveis públicos e não documentados</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,10 +6082,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regular Expression.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131128Z">
+        <seg>Expressão regular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reliability</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141526Z">
+        <seg>Confiabilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember me on this computer</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025027Z">
         <seg>Lembre-se de mim neste computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote Interface Naming Convention</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T121730Z">
+        <seg>Convenção de nomenclatura de interfaces remotas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,6 +6174,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170624Z">
         <seg>Substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace Hashtable With Map</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131517Z">
+        <seg>Substituir Hashtable por Map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace Vector With List</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130102Z">
+        <seg>Substituir Vetor por Lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,6 +6282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031044Z">
+        <seg>Repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020729Z">
@@ -3586,6 +6318,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T202159Z">
         <seg>Revisões resolvidas - {0}% ({1} revisões)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource deletion completed.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131114Z">
+        <seg>Exclusão de recursos concluída.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3638,6 +6378,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return empty array rather than null</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123254Z">
+        <seg>Retornar matriz (array) vazia em vez de null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert to parent definition</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030629Z">
+        <seg>Reverter para a definição do pai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020836Z">
@@ -3678,6 +6434,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revision</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142531Z">
+        <seg>Revisão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revisions by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142602Z">
+        <seg>Revisões por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right click to zoom out.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131341Z">
+        <seg>Clique no botão direito para reduzir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roles</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024447Z">
@@ -3702,6 +6482,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rule deleted</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030807Z">
+        <seg>Regra excluída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rule inherited from profile "{0}"</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030942Z">
+        <seg>Regra herdada do perfil "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rule is not valid: &lt;br/&gt;{0}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030801Z">
+        <seg>A regra não é válida: &lt;br/&gt;{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rule overrides parent definition from profile "{0}"</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031028Z">
+        <seg>A regra substitui a definição do perfil "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rules</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020900Z">
@@ -3722,6 +6534,46 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142042Z">
         <seg>Regras em conformidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCM</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032711Z">
+        <seg>SCM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMTP host</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031121Z">
+        <seg>Servidor SMTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMTP password</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031341Z">
+        <seg>Senha SMTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMTP port</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031153Z">
+        <seg>Porta SMTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMTP username</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031320Z">
+        <seg>Nome de usuário do SMTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,10 +6610,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save Email Settings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031725Z">
+        <seg>Salvar configurações de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save changes</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032550Z">
+        <seg>Salvar alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save {0} Settings</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135300Z">
         <seg>Salvar configurações de {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031732Z">
+        <seg>Salvando</seg>
       </tuv>
     </tu>
     <tu>
@@ -3830,6 +6706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select all {0} resources</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130740Z">
+        <seg>Selecionar todos os {0} recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select library</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T133840Z">
@@ -3850,6 +6734,38 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T133855Z">
         <seg>Selecionar versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected quality profile</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142627Z">
+        <seg>Perfil de qualidade selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected quality profile version</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142640Z">
+        <seg>Versão do perfil de qualidade selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send Test Email</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031908Z">
+        <seg>Enviar e-mail de teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending Test Email</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031913Z">
+        <seg>Enviando e-mail de teste</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,10 +6818,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Settings are saved.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031746Z">
+        <seg>As configurações foram salvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Severity</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T114318Z">
         <seg>Severidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Severity changed from {0}&lt;b&gt;{1}&lt;/b&gt; to</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025953Z">
+        <seg>A severidade foi alterada de {0}&lt;b&gt;{1}&lt;/b&gt; para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Severity set to {0}&lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025941Z">
+        <seg>A severidade foi alterada para {0}&lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Severity was {0}&lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025946Z">
+        <seg>A severidade era {0}&lt;b&gt;{1}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3976,8 +6924,8 @@
       <tuv lang="EN-US">
         <seg>Showing false positives only</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182600Z">
-        <seg>Exibindo apenas falsos positivos</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140106Z">
+        <seg>Exibindo apenas falsos-positivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3992,8 +6940,8 @@
       <tuv lang="EN-US">
         <seg>Shows all the false positives found on the project.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T145028Z">
-        <seg>Exibe todos os falsos positivos encontrados no projeto.</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140117Z">
+        <seg>Exibe todos os falsos-positivo encontrados no projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +7034,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signature Declare Throws Exception</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122116Z">
+        <seg>A assinatura declara Throws Exception</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplify Conditional</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125627Z">
+        <seg>Simplificar condição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021127Z">
@@ -4098,6 +7062,22 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142110Z">
         <seg>Métricas de tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size of the project team</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142718Z">
+        <seg>Tamanho do time do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipped unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033418Z">
+        <seg>Testes unitários ignorados</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,10 +7106,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Started {0} ago</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131223Z">
+        <seg>Iniciado {0} atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Statements</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033055Z">
+        <seg>Instruções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static EJB Field Should Be Final</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123914Z">
+        <seg>Campo EJB estático deve ser final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Status</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021129Z">
         <seg>Situação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strict Exception - Do not throw exception in finally</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122052Z">
+        <seg>Exceção estrita - Não lanche exceções no bloco finally</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>String Buffer Instantiation With Char</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123349Z">
+        <seg>Instanciação de String Buffer com Char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>String Instantiation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T121626Z">
+        <seg>Instanciação de String</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,10 +7194,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031844Z">
+        <seg>Assunto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suspect LCOM4 density</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145752Z">
+        <seg>Densidade LCOM4 suspeita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suspect file dependencies</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T143741Z">
         <seg>Dependências de arquivo suspeitas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch statements should have default</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124836Z">
+        <seg>Blocos Switch devem possuir default</seg>
       </tuv>
     </tu>
     <tu>
@@ -4198,6 +7250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Println</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131234Z">
+        <seg>System Println</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021151Z">
@@ -4206,10 +7266,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Team size</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142707Z">
+        <seg>Tamanho do time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Template</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021154Z">
         <seg>Modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Configuration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031805Z">
+        <seg>Testar configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Message from Sonar</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031850Z">
+        <seg>Mensagem de teste do Sonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032644Z">
+        <seg>testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests=Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032657Z">
+        <seg>Testes=Testes de Integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ID is not valid anymore.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031950Z">
+        <seg>O ID não é mais válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Server ID is a unique identifier of this Sonar instance.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032019Z">
+        <seg>O ID do servidor é um identificador exclusivo desta instância do Sonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The budget already used in the project</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150707Z">
+        <seg>O orçamento já utilizada no projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4246,6 +7370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following resources could not be deleted.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130830Z">
+        <seg>Os recursos a seguir não podem ser excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The key has successfully been updated for all required resources.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170147Z">
@@ -4258,6 +7390,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170508Z">
         <seg>A chave do projeto "{0}" está atualmente "&lt;b&gt; {1} &lt;/ b&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum required branch coverage ratio.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124747Z">
+        <seg>A taxa de cobertura de branch mínima exigida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum required comment density.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124700Z">
+        <seg>A densidade de comentários mínima exigida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum required line coverage ratio.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120903T124739Z">
+        <seg>A taxa de cobertura de linha mínima exigida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,6 +7470,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170042Z">
         <seg>A atualização foi cancelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The valid addresses are :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032340Z">
+        <seg>Endereços válidos são:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,10 +7578,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a test message from Sonar</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031900Z">
+        <seg>Esta é uma mensagem de teste do Sonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This operation can not be undone.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171300Z">
         <seg>Esta operação não pode ser desfeita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This prefix will be prepended to all outgoing email subjects.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031717Z">
+        <seg>Este prefixo será colocado no início do assunto para todos os e-mail de saída.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,6 +7614,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172657Z">
         <seg>Este perfil não pode ser editado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This profile can not be updated but it can be used as a template for your own configuration.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030400Z">
+        <seg>Este perfil não pode ser editado, mas pode ser utilizado como um modelo para a sua própria configuração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4496,8 +7684,8 @@
       <tuv lang="EN-US">
         <seg>Time changes</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122619Z">
-        <seg>Alterações de horário</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T135841Z">
+        <seg>Mudanças no tempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,6 +7718,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201048Z">
         <seg>Até a data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too many methods</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131306Z">
+        <seg>Muitos métodos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,10 +7778,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two fields have to be provided to generate the ID : organisation name and one of the IP addresses of the machine that hosts this server.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032122Z">
+        <seg>Dois campos têm que ser fornecidos parra gerar o ID: nome da organização e um dos endereços IP da máquina que hospeda o servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unassigned</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150857Z">
         <seg>Não atribuído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unassigned reviews</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143145Z">
+        <seg>Revisões não atribuídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncommented Empty Constructor</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122428Z">
+        <seg>Construtor vazio sem comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unconditional If Statement</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123531Z">
+        <seg>Declaração de IF incondicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncovered branches</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132633Z">
+        <seg>Branches não cobertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncovered branches by Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133414Z">
+        <seg>Branches não cobertor por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncovered lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033610Z">
+        <seg>Linhas descobertas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncovered lines by Integration Tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133143Z">
+        <seg>Linhas não cobertas por testes de integração</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,10 +7890,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unit test errors</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033346Z">
+        <seg>Erros dos testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit test failures</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T131924Z">
+        <seg>Falhas em testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unit test success</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T140651Z">
-        <seg>Sucesso de teste unitário</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132030Z">
+        <seg>Sucesso em testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit test success (%)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132021Z">
+        <seg>Sucesso em testes unitários (%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4646,6 +7930,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unit tests details</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033458Z">
+        <seg>Detalhes do teste unitário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit tests duration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033332Z">
+        <seg>Duração dos testes unitários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown assignee</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151749Z">
@@ -4654,10 +7954,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown rule</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030813Z">
+        <seg>Regra desconhecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlink</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T200730Z">
         <seg>Desvincular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unnecessary Local Before Return</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124451Z">
+        <seg>Variável local desnecessária antes do return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unnecessary constructor</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125136Z">
+        <seg>Construtor desnecessário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unnecessary parentheses</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124648Z">
+        <seg>Parênteses desnecessários</seg>
       </tuv>
     </tu>
     <tu>
@@ -4702,6 +8034,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unused formal parameter</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122509Z">
+        <seg>Parâmetro formal não utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused local variable</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123629Z">
+        <seg>Variável local não utilizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused private method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124917Z">
+        <seg>Método privado não utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021444Z">
@@ -4738,6 +8094,46 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021441Z">
         <seg>Atualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usability</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141454Z">
+        <seg>Usabilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Equals To Compare Strings</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122137Z">
+        <seg>Use Equals para comparar Strings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Notify All Instead Of Notify</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124923Z">
+        <seg>Utilizar Notify All ao invés de Notify</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use String Buffer For String Appends</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122648Z">
+        <seg>Use String Buffer para concatenar Strings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use secure connection</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031224Z">
+        <seg>Utilizar uma conexão segura</seg>
       </tuv>
     </tu>
     <tu>
@@ -4870,10 +8266,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Violations that have not been reviewed yet</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142938Z">
+        <seg>Violações que ainda não foram revisadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning threshold</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130425Z">
+        <seg>Limite de aviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weighted Violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141636Z">
+        <seg>Violações ponderadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weighted violations</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141630Z">
+        <seg>Violações ponderadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When no language is selected, no filter will apply</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T181500Z">
         <seg>Quando nenhuma linguagem for selecionada, nenhum filtro será aplicado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether to use secure connection and its type.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031308Z">
+        <seg>Se pretende utilizar conexão segura e seu tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4894,10 +8330,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With different configuration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030155Z">
+        <seg>Com diferentes configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With same configuration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030201Z">
+        <seg>Com as mesmas configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Without false positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T182537Z">
-        <seg>Sem falsos positivos</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140044Z">
+        <seg>Sem falsos-positivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong old password</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032622Z">
+        <seg>A senha antiga está errada</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +8374,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T025157Z">
         <seg>Você foi desconectado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must provide address where to send test email</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T034118Z">
+        <seg>Você deve fornecer o endereço de teste para onde os e-mails serão enviados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +8414,30 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142314Z">
         <seg>acessores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>at least one error threshold is reached.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130419Z">
+        <seg>pelo menos um limite de erro foi atingido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>at least one threshold is defined, no threshold is reached.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130101Z">
+        <seg>pelo menos um limite está definido, nenhum limite foi atingido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>at least one warning threshold is reached, no error threshold is reached.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130411Z">
+        <seg>pelo menos um limite de aviso foi atingido, nenhum limite de erro foi atingido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4984,8 +8476,8 @@
       <tuv lang="EN-US">
         <seg>branch coverage</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T140356Z">
-        <seg>cobertura de ramificação</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132730Z">
+        <seg>cobertura de branches</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,10 +8522,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>empty</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030552Z">
+        <seg>vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>equals</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130647Z">
+        <seg>é igual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>errors</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T140716Z">
         <seg>erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>expand/collapse</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030511Z">
+        <seg>expandir/recolher</seg>
       </tuv>
     </tu>
     <tu>
@@ -5070,6 +8586,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is greater than</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130633Z">
+        <seg>é maior que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is less than</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130628Z">
+        <seg>é menor que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is not</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130653Z">
+        <seg>é diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>last version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025654Z">
+        <seg>última versão {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>line coverage</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T140212Z">
@@ -5098,6 +8646,14 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142240Z">
         <seg>métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no version</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025627Z">
+        <seg>Nenhuma versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,10 +8818,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025702Z">
+        <seg>versão {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} Deletion</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T164444Z">
         <seg>{0} exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} found in active rules</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030446Z">
+        <seg>{0} encontrado em regras ativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} found in inactive rules</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030456Z">
+        <seg>{0} encontrado em regras inativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +8878,38 @@
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020757Z">
         <seg>{0} resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} rules have a different configuration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030300Z">
+        <seg>{0} regras têm uma configuração diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} rules have been activated.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030827Z">
+        <seg>{0} regras foram ativadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} rules have been deactivated.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030852Z">
+        <seg>{0} regras foram desativadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} rules only in</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030239Z">
+        <seg>{0} regras somente em</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
