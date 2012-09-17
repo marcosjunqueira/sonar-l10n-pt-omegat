@@ -162,6 +162,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A prefix for member variables</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004211Z">
+        <seg>Um prefixo para variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A prefix for static variables</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122302Z">
@@ -178,10 +186,58 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A suffix for member variables</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004204Z">
+        <seg>Um sufixo para variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A suffix for static variables</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122305Z">
         <seg>Um sufixo para variáveis ​​estáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A variable prefix to skip, i.e., m_</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010348Z">
+        <seg>Um prefixo de variável a ignorar, isto é, m_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A violation is created on a file as soon as the branch coverage on this file is less than the required threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T134713Z">
+        <seg>Uma violação é criada em um arquivo quando a cobertura de branch neste arquivo for menor que o limite exigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A violation is created on a file as soon as the comment density coverage on this file is less than the required threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T135053Z">
+        <seg>Uma violação é criada em um arquivo quando a densidade de comentários neste arquivo for menor que o limite exigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A violation is created on a file as soon as the line coverage on this file is less than the required threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T135222Z">
+        <seg>Uma violação é criada em um arquivo quando a cobertura de linhas neste arquivo for menor que o limite exigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A violation is created on a file as soon as there is a block of duplicated code on this file.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T134443Z">
+        <seg>Uma violação é criada em um arquivo assim porque há um bloco de código duplicado neste arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +690,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Android - call super last</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005544Z">
+        <seg>Android - chamada super last</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T013705Z">
@@ -882,10 +946,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid Throwing Raw Exception Types</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010536Z">
+        <seg>Evite lançar tipos de exceção primárias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid Using Native Code</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125037Z">
         <seg>Evite utilizar códico nativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Using Short Type</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004744Z">
+        <seg>Evite utilizar o tipo Short</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +1006,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T014234Z">
         <seg>Executar backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bean Members Should Serialize</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010253Z">
+        <seg>Membros dos Beans devem ser Serializados</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1126,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T133350Z">
         <seg>Branches a cobrir por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broken Null Check</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005612Z">
+        <seg>Verificação Nula Quebrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2570,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double checked locking</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004131Z">
+        <seg>Bloqueio duplamente verificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020259Z">
@@ -3618,6 +3722,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ignore explicit constructor invocation when deciding whether constructor is empty or not.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004435Z">
+        <seg>Ignorar invocação explícita do construtor ao decidir se construtor é vazio ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150236Z">
@@ -3634,6 +3746,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import From Same Package</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010610Z">
+        <seg>Importação do mesmo pacote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In any other case, please refer to the &lt;a href="http://www.sonarsource.org/documentation"&gt;documentation&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150645Z">
@@ -3646,6 +3766,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020357Z">
         <seg>Inativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicate if class average violation should be added to the report.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005007Z">
+        <seg>Indica se a violação média da classe deve ser adicionado ao relatório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indicate if method average violation should be added to the report.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004941Z">
+        <seg>Indica se a violação média de método deve ser adicionado ao relatório.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3950,30 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122631Z">
         <seg>Problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It gives the number of blocks in the file.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T134741Z">
+        <seg>Ela dá o número de blocos no arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It gives the number of comment lines to be written in order to reach the required threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T135205Z">
+        <seg>Ela dá o número de linhas de comentários a serem escritas, a fim de atingir o limite desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It gives the number of lines to be covered in order to reach the required threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T134800Z">
+        <seg>Ela dá o número de linhas a ser coberta, a fim de atingir o limite desejado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,6 +4650,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NPath complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005629Z">
+        <seg>Complexidade NPath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020545Z">
@@ -4614,6 +4782,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125747Z">
         <seg>Contagem NCSS de método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ncss Type Count</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010417Z">
+        <seg>NCSS Contagem de Tipo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5110,6 +5286,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150833Z">
         <seg>Não há violações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non Case Label In Switch Statement</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004852Z">
+        <seg>Sem Case Label na instrução Switch</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,6 +6006,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141549Z">
         <seg>Portabilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position Literals First In Comparisons</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T004338Z">
+        <seg>Literais de primeira posição em comparações</seg>
       </tuv>
     </tu>
     <tu>
@@ -6890,6 +7082,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short Variable</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005431Z">
+        <seg>Variável Short</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021121Z">
@@ -7162,6 +7362,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>String To String</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005424Z">
+        <seg>String To String</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sub-project</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T114544Z">
@@ -7314,6 +7522,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cyclomatic Complexity reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005252Z">
+        <seg>Limite para relatar Complexidade Ciclomática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ID is not valid anymore.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031950Z">
@@ -7378,6 +7594,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The import count reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005414Z">
+        <seg>Limite para relatar Número de Importações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The key has successfully been updated for all required resources.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170147Z">
@@ -7434,6 +7658,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The npath reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010201Z">
+        <seg>Limite para relatar NPath.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The parameter count reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005239Z">
+        <seg>Limite para relatar Número de Parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The replacement of "{0}" by "{1}" is impossible as it would result in duplicate keys (in red below):</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170758Z">
@@ -7462,6 +7702,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170222Z">
         <seg>Os dois campos não podem estar em branco para a atualização em massa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The type NCSS count reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010455Z">
+        <seg>Limite para relatar Número de tipos NCSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The unique type reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010222Z">
+        <seg>Limite para relatar tipo único.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8106,10 +8362,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Array List Instead Of Vector</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005510Z">
+        <seg>Utilizar ArrayList ao invés de Vector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Equals To Compare Strings</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122137Z">
         <seg>Use Equals para comparar Strings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Index Of Char</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010629Z">
+        <seg>Utilizar Index Of Char</seg>
       </tuv>
     </tu>
     <tu>
@@ -8150,6 +8422,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T133922Z">
         <seg>Utilizado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Useless Operation On Immutable</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005335Z">
+        <seg>Operação inútil Em Imutável</seg>
       </tuv>
     </tu>
     <tu>
