@@ -5696,8 +5696,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Nevertheless, most of the time, a very complex class is a class which breaks the &lt;a0&gt;Single Responsibility Principle&lt;/a0&gt; and which should be re-factored to be split in several classes.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175242Z">
-        <seg>No entanto, na maioria das vezes, uma classe muito complexa é uma classe que rompe com o &lt;a0&gt;Princípio da Responsabilidade Única&lt;/ a0&gt;, e que deverá ser refatorada e dividida em várias classes.</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T200042Z">
+        <seg>No entanto, na maioria das vezes, uma classe muito complexa é uma classe que rompe com o &lt;a0&gt;Princípio da Responsabilidade Única&lt;/a0&gt;, e que deverá ser refatorada e dividida em várias classes.</seg>
       </tuv>
     </tu>
     <tu>

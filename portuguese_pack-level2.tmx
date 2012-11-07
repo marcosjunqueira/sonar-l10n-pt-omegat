@@ -9400,8 +9400,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Usage of method File#deleteOnExit() is not recommended for following reasons:</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T171704Z">
-        <seg>Uso do método File#deleteOnExit () não é recomendado pelos seguintes motivos:</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T200540Z">
+        <seg>Uso do método File#deleteOnExit() não é recomendado pelos seguintes motivos:</seg>
       </tuv>
     </tu>
     <tu>
