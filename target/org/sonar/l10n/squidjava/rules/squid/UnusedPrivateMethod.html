@@ -1,13 +1,6 @@
-<p>Private methods that are never executed are dead code. Dead code
-	means unnecessary, inoperative code that should be removed. This helps
-	in maintenance by decreasing the maintained code size, making it easier
-	to understand the program and preventing bugs from being introduced.</p>
-<p>In the following two cases, private methods are not considered as
-	dead code by Sonar :</p>
+<p>Métodos privados que nunca são executados são código morto. Código morto significa que o código é inoperante e desnecessário e deve ser removido. Isto ajuda na manutenção, diminuindo o tamanho do código mantido, o que facilita a compreensão do programa e impedindo a introdução de erros.</p>
+<p>Nos dois casos seguintes, os métodos privados não são considerados como código morto pelo Sonar:</p>
 <ul>
-	<li>Private empty constructors that are intentionally used to
-		prevent any direct instantiation of a class.</li>
-	<li>Private methods : readObject(...), writeObject(...),
-		writeReplace(...), readResolve(...) which can contractually be used
-		when implementing the Serializable interface.</li>
+	<li>Construtores vazios privados que são intencionalmente utilizados para evitar qualquer instanciação direta de uma classe.</li>
+	<li>Métodos privados: readObject (...), writeObject (...), writeReplace (...), readResolve (...) que podem ser utilizados ao implementar a interface Serializable.</li>
 </ul>

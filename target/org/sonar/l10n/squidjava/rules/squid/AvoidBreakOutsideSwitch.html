@@ -1,9 +1,5 @@
-<p>The use of the 'break' branching statement increases the
-	essential complexity of the source code and so prevents any refactoring
-	of this source code to replace all well structured control structures
-	with a single statement.</p>
-<p>For instance, with the following java program fragment, it's not
-	possible to apply the 'extract method' refactoring pattern :</p>
+<p>O uso da declaração 'break' aumenta a complexidade essencial do código fonte e assim evita qualquer refatoração do código fonte para substituir todas as estruturas de controle bem estruturados com uma única instrução.</p>
+<p>Por exemplo, com o seguinte fragmento de código java, não é possível aplicar o padrão de refatoração 'extrair método':</p>
 <pre>
 mylabel : for (int i = 0 ; i&lt; 3; i++) {
   for (int j = 0; j &lt; 4 ; j++) {
@@ -14,5 +10,4 @@ mylabel : for (int i = 0 ; i&lt; 3; i++) {
   }
 }
 </pre>
-<p>The use of the 'break' branching statement is only authorized
-	inside a 'switch' statement.</p>
+<p>O uso da declaração 'break' só é permitido dentro de uma declaração 'switch'.</p>

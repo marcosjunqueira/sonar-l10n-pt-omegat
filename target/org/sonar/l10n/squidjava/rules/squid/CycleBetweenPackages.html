@@ -1,9 +1,3 @@
 <p>
-
-When several packages are involved in a cycle (package A &gt; package B &gt; package C &gt; package A where "&gt;" means "depends upon"),
-that means that those packages are highly coupled and that there is no way to reuse/extract one of those packages without importing all the other packages.
-Such cycle could quickly increase the effort required to maintain an application and to embrace business change.
-Sonar not only detect cycles between packages but also determines what is the minimum effort to break those cycles.
-This rule log a violation on each source file having an outgoing dependency to be but in order to break a cycle.
-
+Quando vários pacotes estão envolvidas num ciclo (pacote A &gt; pacote B &gt; pacote C &gt; pacote A onde "&gt;" significa "depende de"), o que significa que os pacotes são altamente acoplados e que não há maneira de reutilizar/extrair um desses pacotes, sem a importação de todos os outros pacotes. Tal ciclo pode rapidamente aumentar o esforço necessário para manter uma aplicação e para aceitar a mudança do negócio. O Sonar não só detecta ciclos entre os pacotes, mas também determina qual é o esforço mínimo para quebrar esses ciclos. Esta regra registra uma violação em cada arquivo fonte com uma dependência de saída, a fim de quebrar um ciclo.
 </p>
