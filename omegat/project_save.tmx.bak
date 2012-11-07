@@ -98,6 +98,18 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>//package org.foo;
+//
+//public class Bar {}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180548Z">
+        <seg>//package org.foo;
+//
+//public class Bar {}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/class</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141621Z">
@@ -178,6 +190,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A constraint allows to deny references between classes by pattern.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185405Z">
+        <seg>Uma restrição permite negar referências entre classes por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dashboard already exists with the same name</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T134804Z">
@@ -214,6 +234,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032242Z">
         <seg>O ID do servidor está ligado ao endereço IP do servidor que executa o Sonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A source code comply to an architectural model when it fully adheres to a set of architectural constraints.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185339Z">
+        <seg>Um código de fonte está em conformidade com um modelo de arquitectura, quando se adere plenamente a um conjunto de restrições de arquitectura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,10 +798,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any violation to quality rule can be deactivated with the //NOSONAR marker.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181505Z">
+        <seg>Qualquer violação à regra de qualidade pode ser desativada com o marcador //NOSONAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applies to every project.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T123459Z">
         <seg>Aplica-se a todos os projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Architectural constraint</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T170629Z">
+        <seg>Restrição de arquitetura</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1118,54 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid commented-out lines of code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171442Z">
+        <seg>Evite comentar linhas de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid cycle between java packages</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171501Z">
+        <seg>Evite ciclos entre pacotes java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid too complex class</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171104Z">
+        <seg>Evite classes muito complexas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid too complex method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171213Z">
+        <seg>Evite métodos muito complexos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid too deep inheritance tree</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171149Z">
+        <seg>Evite árvore de herança muito profundas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid too high LCOM4</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185125Z">
+        <seg>Evitar LCOM4 muito alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid unnecessary comparisons in boolean expressions</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123750Z">
@@ -1086,6 +1178,38 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133110Z">
         <seg>Evite declarações de importação não utilizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid use of //NOSONAR marker</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171247Z">
+        <seg>Evite o uso do marcador //NOSONAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid use of deprecated method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171051Z">
+        <seg>Evite o uso de métodos obsoletos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid using 'break' branching statement outside a 'switch' statement</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T170942Z">
+        <seg>Evite o uso da instrução 'break' fora de uma instrução 'switch'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid using 'continue' branching statement</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171021Z">
+        <seg>Evite o uso da instrução 'continue'</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1318,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Branch coverage by all tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132213Z">
+        <seg>Cobertura do branch por todos os testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Branch coverage by integration tests</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131225Z">
@@ -1214,6 +1346,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132832Z">
         <seg>Cobertura de branches de código novo/alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Branch coverage of new/changed code by all tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T133011Z">
+        <seg>Cobertura do branch de código novo/alterado por todos os testes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1478,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But abusing of this concept by creating a deep inheritance tree can lead to very complex and unmaintainable source code.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180828Z">
+        <seg>Mas abusar desse conceito, criando uma árvore de herança muito profunda pode levar a um código fonte muito complexo e insustentável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170649Z">
@@ -1454,6 +1602,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T123338Z">
         <seg>As alterações serão aplicadas durante a próxima análise de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check that each public class, interface, method and constructor has a Javadoc comment.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182000Z">
+        <seg>Verifique se cada classe, interface, método e construtor público tem um comentário Javadoc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,6 +2366,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dead code means unnecessary, inoperative code that should be removed.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182315Z">
+        <seg>Código morto significa que o código é inoperante e desnecessário e deve ser removido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020051Z">
@@ -2522,6 +2686,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detect empty files, which do not have any lines of code.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180538Z">
+        <seg>Detecta arquivos vazios, que não têm nenhuma linha de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detects classes that should be reviewed because of a high LCOM4 metric.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181217Z">
+        <seg>Detecta classes que devem ser revistos por causa da métrica LCOM4 elevada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Developer connection</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023631Z">
@@ -2686,6 +2866,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124138Z">
         <seg>Não invocar explicitamente a coleta de lixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not use File#deleteOnExit()</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185220Z">
+        <seg>Não use File#deleteOnExit()</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3326,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Empty constructor</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182124Z">
+        <seg>Construtor vazio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Empty file</seg>
       </tuv>
       <tuv lang="PT" changeid="Vinicius" changedate="20120830T150733Z">
@@ -3174,6 +3370,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130504Z">
         <seg>Limite de erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even when the Cyclomatic Complexity of a class is very high, this complexity might be well distributed among all methods.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T174854Z">
+        <seg>Mesmo quando a complexidade ciclomática de uma classe é muito elevado, esta complexidade pode ser bem distribuída entre todos os métodos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3430,38 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everybody will forget very quickly how relevant the commented code is</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175536Z">
+        <seg>Todo mundo vai esquecer rapidamente o quão relevante é o código comentado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ex : **.api.**</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171320Z">
+        <seg>Ex : **.api.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ex : **.web.**</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T170719Z">
+        <seg>Ex : **.web.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ex : java.util.Vector, java.util.Hashtable, java.util.Enumeration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T170742Z">
+        <seg>Ex : java.util.Vector, java.util.Hashtable, java.util.Enumeration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ex.: "com.myNewCompany"</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170710Z">
@@ -3246,6 +3482,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T133116Z">
         <seg>Exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180544Z">
+        <seg>Exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,6 +3838,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each file handler, the memory associated to this handler is released only at the end of the process</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171905Z">
+        <seg>Para cada manipulador de arquivo, a memória associada a este manipulador é liberada somente no final do processo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example "smtp.gmail.com".</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031136Z">
@@ -3614,6 +3866,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T201910Z">
         <seg>Por exemplo, "31/12/2011".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, with the following java program fragment, it's not possible to apply the 'extract method' refactoring pattern :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185942Z">
+        <seg>Por exemplo, com o seguinte fragmento de código java, não é possível aplicar o padrão de refatoração 'extrair método':</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,6 +3966,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getter / Setter</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182054Z">
+        <seg>Acessores (Getter / Setter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Global</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020339Z">
@@ -3782,6 +4050,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122214Z">
         <seg>Dicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are the main reasons why commented code is a code smell :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175458Z">
+        <seg>Aqui estão as principais razões pelas quais código comentado cheira mal:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4090,6 +4366,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this property is not defined, all classes should adhere to this constraint.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T170712Z">
+        <seg>Se essa propriedade não está definida, todas as classes devem respeitar esta restrição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignore annotations.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131540Z">
@@ -4134,6 +4418,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150645Z">
         <seg>Em qualquer outro caso, por favor, consulte a &lt;a href="http://www.sonarsource.org/documentation"&gt;documentação&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following case, unused protected methods are not considered as dead code by Sonar :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T183100Z">
+        <seg>Nos casos seguintes, métodos protegidos não utilizados não são considerados como código morto pelo Sonar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following two cases, private methods are not considered as dead code by Sonar :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182517Z">
+        <seg>Nos dois casos seguintes, os métodos privados não são considerados como código morto pelo Sonar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4506,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020411Z">
         <seg>Herança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inheritance is certainly one of the most valuable concept of object-oriented programming.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180631Z">
+        <seg>A herança é certamente um dos conceito mais valioso de programação orientada a objetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,6 +4670,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It always raises more questions than it gives answers</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175515Z">
+        <seg>Ele sempre levanta mais perguntas do que dá respostas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It gives the number of blocks in the file.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120914T134741Z">
@@ -4386,6 +4702,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a bad SCM engine : Subversion, CVS and Git are really more trustworthy !</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175730Z">
+        <seg>É um mecanismo SCM ruim: Subversion, CVS e Git são realmente mais confiáveis!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is used for example to obtain a license key for the SonarSource's commercial plugins.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032053Z">
@@ -4394,10 +4718,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's a way to compartmentalize and reuse code by creating collections of attributes and behaviors called classes which can be based on previously created classes.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180741Z">
+        <seg>É uma maneira de compartimentar e reutilizar código através da criação de coleções de atributos e comportamentos, chamadas classes, que podem ser baseadas em classes criadas anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135325Z">
         <seg>Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java parser failure</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185100Z">
+        <seg>Falha no analisador Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,6 +4942,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line coverage of added/changed code by all tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132733Z">
+        <seg>Cobertura de linha de código adicionado/alterado por todos os testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lines</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142147Z">
@@ -4802,6 +5150,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mandatory.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T170738Z">
+        <seg>Obrigatório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual Measures</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024419Z">
@@ -4866,6 +5222,30 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum LCOM4 allowed.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185153Z">
+        <seg>LCOM4 máximo permitido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum complexity allowed.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171119Z">
+        <seg>Complexidade máxima permitida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum depth of the inheritance tree.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171203Z">
+        <seg>Profundidade máxima da árvore de herança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Me</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T114049Z">
@@ -4894,6 +5274,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125238Z">
         <seg>Argumento de método poderia ser final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method with @Override annotation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182112Z">
+        <seg>Métodos com a anotação @Override</seg>
       </tuv>
     </tu>
     <tu>
@@ -5046,6 +5434,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144427Z">
         <seg>Regras mais violadas recentemente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of the time a too deep inheritance tree is due to bad object oriented design which has led to systematically use 'inheritance' when 'composition' would suit better.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181101Z">
+        <seg>Na maioria das vezes, uma árvore de herança muito profunda é devido ao uso incorreto do design orientado a objeto que levou a usar sistematicamente 'herança' quando 'composição' poderia atender melhor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5686,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nevertheless, most of the time, a very complex class is a class which breaks the &lt;a0&gt;Single Responsibility Principle&lt;/a0&gt; and which should be re-factored to be split in several classes.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175242Z">
+        <seg>No entanto, na maioria das vezes, uma classe muito complexa é uma classe que rompe com o &lt;a0&gt;Princípio da Responsabilidade Única&lt;/ a0&gt;, e que deverá ser refatorada e dividida em várias classes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Blocker violations</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141911Z">
@@ -5450,6 +5854,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New branches that are not covered by any test</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132919Z">
+        <seg>Novos branches que não estão cobertos por quaisquer testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New branches that are not covered by integration tests</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131317Z">
@@ -5470,6 +5882,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131307Z">
         <seg>Novos branches a cobrir por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New branches to cover by all tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132828Z">
+        <seg>Novos branches a cobrir por todos os testes</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,6 +5950,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New lines that are not covered by any tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132627Z">
+        <seg>Novas linhas que não são cobertas por quaisquer testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New lines that are not covered by integration tests</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T140808Z">
@@ -5550,6 +5978,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131247Z">
         <seg>Novas linhas a cobrir por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New lines to cover by all tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132534Z">
+        <seg>Novas linhas a cobrir por todos os testes</seg>
       </tuv>
     </tu>
     <tu>
@@ -6098,6 +6534,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once deprecated, a method should no longer be used as it means that the method might be removed sooner or later.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171612Z">
+        <seg>Uma vez obsoleto, um método não deve mais ser usado, pois significa que o método pode ser removido, mais cedo ou mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only One Return</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122632Z">
@@ -6258,6 +6702,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall branches by all tests and by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132258Z">
+        <seg>Total de branches por todos os testes e por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall branches by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132241Z">
+        <seg>Total de branches por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overall branches to cover</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131753Z">
@@ -6282,6 +6742,30 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall coverage of new/changed code</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132457Z">
+        <seg>Cobertura geral do código novo/alterado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall covered branches by all tests and by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132358Z">
+        <seg>Total de branches coberto por todos os testes e por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall covered branches by line</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132322Z">
+        <seg>Total de branches cobertos por linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overall line coverage</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131613Z">
@@ -6294,6 +6778,62 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131455Z">
         <seg>Total de linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall new branch coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132942Z">
+        <seg>Total de cobertura de novo branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall new branches to cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132812Z">
+        <seg>Total de novos branches a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall new branches uncovered</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132848Z">
+        <seg>Total de novos branches descobertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall new coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132416Z">
+        <seg>Total de novas coberturas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall new line coverage</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132711Z">
+        <seg>Total de cobertura de novas linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall new lines to cover</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132518Z">
+        <seg>Total de novas linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overall new lines uncovered</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T132559Z">
+        <seg>Total de novas linhas descobertas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6730,6 +7270,30 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Private empty constructors that are intentionally used to prevent any direct instantiation of a class.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182558Z">
+        <seg>Construtores vazios privados que são intencionalmente utilizados para evitar qualquer instanciação direta de uma classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private methods : readObject(...), writeObject(...), writeReplace(...), readResolve(...) which can contractually be used when implementing the Serializable interface.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182706Z">
+        <seg>Métodos privados: readObject (...), writeObject (...), writeReplace (...), readResolve (...) que podem ser utilizados ao implementar a interface Serializable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private methods that are never executed are dead code.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182151Z">
+        <seg>Métodos privados que nunca são executados são código morto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Profile</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023642Z">
@@ -6838,6 +7402,30 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125942Z">
         <seg>Logger adequado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protected methods of an abstract class.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T183018Z">
+        <seg>Métodos protegidos de uma classe abstrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protected methods that are never used by any classes in the same project are strongly suspected to be dead code.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182820Z">
+        <seg>Métodos protegidos, que nunca são usados ​​por nenhuma classe no mesmo projeto, são fortemente suspeitos de serem código morto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protected methods which override a method from a parent class.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182959Z">
+        <seg>Métodos protegidos que sobrescrevem um método de uma classe pai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8026,6 +8614,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sonar not only detect cycles between packages but also determines what is the minimum effort to break those cycles.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180301Z">
+        <seg>O Sonar não só detecta ciclos entre os pacotes, mas também determina qual é o esforço mínimo para quebrar esses ciclos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024542Z">
@@ -8154,6 +8750,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such cycle could quickly increase the effort required to maintain an application and to embrace business change.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180207Z">
+        <seg>Tal ciclo pode rapidamente aumentar o esforço necessário para manter uma aplicação e para aceitar a mudança do negócio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suspect LCOM4 density</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145752Z">
@@ -8266,6 +8870,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cyclomatic Complexity is measured by the number of (&amp;&amp;, ||) operators and (if, while, do, for, ?:, catch, switch, case, return, throw) statements in the body of a class plus one for each constructor, method (but not getter/setter), static initializer, or instance initializer in the class.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T174459Z">
+        <seg>A complexidade ciclomática é medida pelo número de operadores (&amp;&amp;, ||) e declarações (if, while, do, for, ?:, catch, switch, case, return, throw) no corpo de uma classe mais um para cada construtor, método (mas não getter/setter), inicializador estático, ou inicializador de instância da classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Cyclomatic Complexity reporting threshold.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005252Z">
@@ -8346,6 +8958,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The deletion occurs only in case of normal JVM shutdown but not when the JVM is killed or crashes</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171802Z">
+        <seg>A exclusão ocorrerá apenas em caso de encerramento normal da JVM, mas não quando a ela morre ou trava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following public methods/constructors are not concerned by this rule :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182043Z">
+        <seg>Os seguintes métodos/construtores públicos não são abrangidos por esta regra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following resources could not be deleted.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T130830Z">
@@ -8374,6 +9002,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170508Z">
         <seg>A chave do projeto "{0}" está atualmente "&lt;b&gt; {1} &lt;/ b&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The last return stament in method, if exists, is not taken into account.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T174616Z">
+        <seg>A última instrução de retorno no método, se existir, não é levada em conta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8450,6 +9086,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The simple fact of understanding why code was commented out in the first place can take a lot of time</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175846Z">
+        <seg>O simples fato de entender por que o código foi comentado em primeiro lugar pode tomar muito tempo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The snapshot is deleted.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210515Z">
@@ -8486,6 +9130,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170042Z">
         <seg>A atualização foi cancelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The use of the 'break' branching statement increases the essential complexity of the source code and so prevents any refactoring of this source code to replace all well structured control structures with a single statement.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185834Z">
+        <seg>O uso da declaração 'break' aumenta a complexidade essencial do código fonte e assim evita qualquer refatoração do código fonte para substituir todas as estruturas de controle bem estruturados com uma única instrução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The use of the 'break' branching statement is only authorized inside a 'switch' statement.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185958Z">
+        <seg>The use of the 'break' branching statement is only authorized inside a 'switch' statement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8554,6 +9214,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They possibly violate the Single Responsibility Principle.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181243Z">
+        <seg>Elas possivelmente violam o Princípio da Responsabilidade Única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This administration page allows to change the key of a project and of its modules.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T211134Z">
@@ -8602,10 +9270,34 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This helps in maintenance by decreasing the maintained code size, making it easier to understand the program and preventing bugs from being introduced.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182425Z">
+        <seg>Isto ajuda na manutenção, diminuindo o tamanho do código mantido, o que facilita a compreensão do programa e impedindo a introdução de erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a test message from Sonar</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031900Z">
         <seg>Esta é uma mensagem de teste do Sonar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is distraction when going down the code as it stops the flow of eyes</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175659Z">
+        <seg>É umaa distração ao ler o código, interrompendo o fluxo de leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This marker is pretty useful to exclude false-positive results but sometimes it can abusively be used to hide real quality flaws.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181702Z">
+        <seg>Este marcador é muito útil para excluir falsos positivos, mas às vezes pode ser utilizado de forma abusiva para esconder falhas reais de qualidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8678,6 +9370,30 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150851Z">
         <seg>Esse recurso foi excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This rule allows to track and/or forbid use of this marker</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181729Z">
+        <seg>Esta regra permite controlar e/ou proibir a utilização do marcador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This rule log a violation on each source file having an outgoing dependency to be but in order to break a cycle.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180519Z">
+        <seg>Esta regra registra uma violação em cada arquivo fonte com uma dependência de saída, a fim de quebrar um ciclo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This way, not only it is possible to track the number of files that do not parse but also to easily find out why they do not parse.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181908Z">
+        <seg>Desta forma, não só é possível controlar o número de arquivos que não foram analisados, mas também, facilmente descobrir por que eles não foram analisados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,6 +9626,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T131140Z">
         <seg>Linhas não cobertas por testes de integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undocumented API</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171312Z">
+        <seg>API não documentada</seg>
       </tuv>
     </tu>
     <tu>
@@ -9154,6 +9878,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unused protected method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171401Z">
+        <seg>Método protegido (protected) não utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021444Z">
@@ -9206,6 +9938,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141454Z">
         <seg>Usabilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage of method File#deleteOnExit() is not recommended for following reasons:</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171704Z">
+        <seg>Uso do método File#deleteOnExit () não é recomendado pelos seguintes motivos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9450,6 +10190,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When several packages are involved in a cycle (package A &gt; package B &gt; package C &gt; package A where "&gt;" means "depends upon"), that means that those packages are highly coupled and that there is no way to reuse/extract one of those packages without importing all the other packages.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180101Z">
+        <seg>Quando vários pacotes estão envolvidas num ciclo (pacote A &gt; pacote B &gt; pacote C &gt; pacote A onde "&gt;" significa "depende de"), o que significa que os pacotes são altamente acoplados e que não há maneira de reutilizar/extrair um desses pacotes, sem a importação de todos os outros pacotes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Java parser fails, it is possible to record the failure as a violation on the file.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181802Z">
+        <seg>Quando o analisador Java falhar, é possível registrar a falha como uma violação no arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether to use secure connection and its type.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031308Z">
@@ -9534,6 +10290,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210301Z">
         <seg>Ano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can for instance use this rule to :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185431Z">
+        <seg>Você pode, por exemplo, usar essa regra para:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9650,6 +10414,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>break mylabel;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185953Z">
+        <seg>break mylabel;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>by all tests</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T130427Z">
@@ -9702,6 +10474,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142236Z">
         <seg>diretórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>doSomething();</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185948Z">
+        <seg>doSomething();</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,10 +10550,58 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>for (int j = 0; j &lt; 4 ; j++) {</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185947Z">
+        <seg>for (int j = 0; j &lt; 4 ; j++) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forbid access to **.web.** from **.dao.** classes</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185511Z">
+        <seg>proibir o acesso às classes **.web.** from **.dao.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forbid access to java.sql.** from **.ui.** and **.web.** classes</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185720Z">
+        <seg>proibir o acesso a java.sql.** a partir das classes em **.ui.** e **.web.**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forbid access to java.util.Vector, java.util.Hashtable and java.util.Enumeration from any classes</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185618Z">
+        <seg>proibir o acesso a jjava.util.Vector, java.util.Hashtable and java.util.Enumeration a partir quaisquer classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>generated</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142159Z">
         <seg>gerado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://en.wikipedia.org/wiki/Single_responsibility_principle</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T174808Z">
+        <seg>http://en.wikipedia.org/wiki/Single_responsibility_principle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if (checkSomething()) {</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185951Z">
+        <seg>if (checkSomething()) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -9878,6 +10706,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142240Z">
         <seg>métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mylabel : for (int i = 0 ; i&lt; 3; i++) {</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185946Z">
+        <seg>mylabel : for (int i = 0 ; i&lt; 3; i++) {</seg>
       </tuv>
     </tu>
     <tu>
@@ -10294,6 +11130,24 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030239Z">
         <seg>{0} regras somente em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185955Z">
+        <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}
+}</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185956Z">
+        <seg>}
+}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
