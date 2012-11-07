@@ -62,22 +62,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>*</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124231Z">
-        <seg>*</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>**</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124250Z">
-        <seg>**</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>, incl.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172339Z">
@@ -178,14 +162,6 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T125324Z">
         <seg>&lt;p&gt;Somente medidas de projeto são verificadas em relação limites.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>?</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124313Z">
-        <seg>?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,14 +3366,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Examples:</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124357Z">
-        <seg>Exemplos:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Excessive Class Length</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131028Z">
@@ -3714,14 +3682,6 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T113901Z">
         <seg>Acompanhar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Following rules are applied:</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124216Z">
-        <seg>As seguintes regras são aplicadas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4918,38 +4878,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Match a single character</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124350Z">
-        <seg>Corresponder um único caractere</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Match zero or more characters</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124247Z">
-        <seg>Corresponder zero ou mais caracteres</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Match zero or more directories</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124310Z">
-        <seg>Corresponder zero ou mais diretórios</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Matches</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124410Z">
-        <seg>Correspondências</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Max</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020505Z">
@@ -5424,8 +5352,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Nevertheless, most of the time, a very complex class is a class which breaks the Single Responsibility Principle and which should be re-factored to be split in several classes.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175242Z">
-        <seg>No entanto, na maioria das vezes, uma classe muito complexa é uma classe que rompe com o Princípio da Responsabilidade Única&lt;/ a0&gt;, e que deverá ser refatorada e dividida em várias classes.</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T200042Z">
+        <seg>No entanto, na maioria das vezes, uma classe muito complexa é uma classe que rompe com o Princípio da Responsabilidade Única, e que deverá ser refatorada e dividida em várias classes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9750,14 +9678,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Wildcards</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124204Z">
-        <seg>Curingas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>With different configuration</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030155Z">
@@ -10166,46 +10086,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>matches all .java files in the org/mycompany directory</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124555Z">
-        <seg>corresponde a todos os arquivos .java no diretório org/mycompany</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>matches all .java files underneath the org directory</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125113Z">
-        <seg>corresponde a todos os arquivos .java sob o diretório org</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>matches all .java files with Model in filename and in the org directory</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124803Z">
-        <seg>corresponde a todos os arquivos .java com Model no nome do arquivo eno diretório org</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>matches all Dummy.java files underneath the org directory</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125020Z">
-        <seg>corresponte a todos os arquivos Dummy.java sob o diretório org</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>matches all files underneath the org directory</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124953Z">
-        <seg>corresponde a todos arquivos sob o diretórioorg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>methods</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142240Z">
@@ -10234,142 +10114,6 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T025627Z">
         <seg>Nenhuma versão</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/**</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124811Z">
-        <seg>org/**</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/**/*.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125040Z">
-        <seg>org/**/*.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/**/Dummy.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124852Z">
-        <seg>org/**/Dummy.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/*Model*.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124604Z">
-        <seg>org/*Model*.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/Dummy.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125035Z">
-        <seg>org/Dummy.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/FirstModel.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124806Z">
-        <seg>org/FirstModel.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/Foo.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124850Z">
-        <seg>org/Foo.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/Model.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124805Z">
-        <seg>org/Model.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/ModelTest.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124809Z">
-        <seg>org/ModelTest.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/foo/Bar.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125115Z">
-        <seg>org/foo/Bar.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/foo/Dummy.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125036Z">
-        <seg>org/foo/Dummy.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/foo/bar.jsp</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124851Z">
-        <seg>org/foo/bar.jsp</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/foo/bar/Baz.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125116Z">
-        <seg>org/foo/bar/Baz.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/foo/bar/Dummy.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125039Z">
-        <seg>org/foo/bar/Dummy.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/mycompany/*.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124414Z">
-        <seg>org/mycompany/*.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/mycompany/Bar.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124600Z">
-        <seg>org/mycompany/Bar.java</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>org/mycompany/Foo.java</seg>
-      </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T124557Z">
-        <seg>org/mycompany/Foo.java</seg>
       </tuv>
     </tu>
     <tu>

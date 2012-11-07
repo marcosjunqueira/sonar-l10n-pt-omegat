@@ -3870,6 +3870,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For instance, in the following java program fragment, it's not possible to apply the 'extract method' refactoring pattern :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T190150Z">
+        <seg>Por exemplo, no seguinte fragmento de código java, não é possível aplicar o padrão de refatoração 'extrair método':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, with the following java program fragment, it's not possible to apply the 'extract method' refactoring pattern :</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185942Z">
@@ -9144,8 +9152,16 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>The use of the 'break' branching statement is only authorized inside a 'switch' statement.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185958Z">
-        <seg>The use of the 'break' branching statement is only authorized inside a 'switch' statement.</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T190051Z">
+        <seg>O uso da declaração 'break' só é permitido dentro de uma declaração 'switch'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The use of the 'continue' branching statement increase the essential complexity of the source code and so prevent any refactoring of this source code to replace all well structured control structures with a single statement.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T190132Z">
+        <seg>O uso da declaração 'continue' aumenta a complexidade essencial do código fonte e assim evita qualquer refatoração do código fonte para substituir todas as estruturas de controle bem estruturados com uma única instrução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10454,6 +10470,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>continue mylabel;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T190156Z">
+        <seg>continue mylabel;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cycles</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T143717Z">
@@ -10714,6 +10738,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185946Z">
         <seg>mylabel : for (int i = 0 ; i&lt; 3; i++) {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mylabel : for(int i = 0 ; i&lt; 3; i++) {</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T190153Z">
+        <seg>mylabel : for(int i = 0 ; i&lt; 3; i++) {</seg>
       </tuv>
     </tu>
     <tu>
