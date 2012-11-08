@@ -176,8 +176,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>&lt;p&gt;Only project measures are checked against thresholds.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T125324Z">
-        <seg>&lt;p&gt;Somente medidas de projeto são verificadas em relação limites.</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T120419Z">
+        <seg>&lt;p&gt;Somente as medidas de projeto são verificadas em relação a limites.</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +960,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Assigned to</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021802Z">
-        <seg>Designar para</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T115648Z">
+        <seg>Atribuido a</seg>
       </tuv>
     </tu>
     <tu>
@@ -2928,8 +2928,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Do you want to delete this filter?</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T122927Z">
-        <seg>Deseja realmente exluir este filtro?</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T163610Z">
+        <seg>Deseja realmente excluir este filtro?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4784,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Key like</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T122750Z">
-        <seg>Chave link</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T163521Z">
+        <seg>Chave like</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,8 +5392,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Modules, packages and classes are ignored.&lt;/p&gt;Project health icons represent :</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T125918Z">
-        <seg>Módulos, pacotes e classes são ignorados.&lt;/p&gt;Ícones da saúde do projeto representam:</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T120328Z">
+        <seg>Módulos, pacotes e classes são ignorados.&lt;/p&gt;Os ícones abaixo representam:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6136,8 +6136,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>No alerts.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032503Z">
-        <seg>Nenhum alerta</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T120754Z">
+        <seg>Nenhum alerta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6568,8 +6568,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Only false positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140033Z">
-        <seg>Somente falsos-positivo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T120301Z">
+        <seg>Somente falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7120,8 +7120,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Planned reviews</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T145303Z">
-        <seg>Reviões planejadas</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T163701Z">
+        <seg>Revisões planejadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -7344,8 +7344,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Profile inheritance</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T172221Z">
-        <seg>Herança de perfil</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T121537Z">
+        <seg>Heranças do perfil</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,8 +7984,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Roles</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024447Z">
-        <seg>Regras</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T163440Z">
+        <seg>Papéis</seg>
       </tuv>
     </tu>
     <tu>
@@ -9840,8 +9840,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Unplanned reviews</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T145402Z">
-        <seg>Reviões não planejadas</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T163720Z">
+        <seg>Revisões não planejadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10288,8 +10288,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Without false positives</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120830T140044Z">
-        <seg>Sem falsos-positivo</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T115714Z">
+        <seg>Sem falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11072,8 +11072,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>{0} Deletion</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T164444Z">
-        <seg>{0} exclusão</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T163326Z">
+        <seg>Excluir {0}</seg>
       </tuv>
     </tu>
     <tu>
