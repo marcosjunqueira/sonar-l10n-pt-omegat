@@ -376,8 +376,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Active false-positive reviews</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T143114Z">
-        <seg>Revisões ativas de falsos-positivos</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115655Z">
+        <seg>Revisões ativas de falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3464,32 +3464,32 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>False positives</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T140056Z">
-        <seg>Falsos-positivo</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115631Z">
+        <seg>Falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>False-positive</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022008Z">
-        <seg>Falso-positivo</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115537Z">
+        <seg>Falso positivo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>False-positive reviews</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T143056Z">
-        <seg>Revisões de falsos-positivos</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115702Z">
+        <seg>Revisões de falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>False-positives only</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022051Z">
-        <seg>Apenas falso-positivos</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115554Z">
+        <seg>Apenas falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5960,8 +5960,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Not false-positive</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182310Z">
-        <seg>Não é falso-positivo</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115603Z">
+        <seg>Não é falso positivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,8 +7984,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Showing false positives only</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T140106Z">
-        <seg>Exibindo apenas falsos-positivo</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115522Z">
+        <seg>Exibindo apenas falsos positivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8000,8 +8000,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Shows all the false positives found on the project.</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T140117Z">
-        <seg>Exibe todos os falsos-positivo encontrados no projeto.</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115637Z">
+        <seg>Exibe todos os falsos positivos encontrados no projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,8 +9672,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Why is it not a false-positive anymore?</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T123016Z">
-        <seg>Por que não é mais um falso-positivo?</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115513Z">
+        <seg>Por que não é mais um falso positivo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10417,6 +10417,16 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T200726Z">
         <seg>Vincular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">org/sonar/l10n/core.properties</prop>
+      <prop type="id">reviews.status.OPEN</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115326Z">
+        <seg>Aberto</seg>
       </tuv>
     </tu>
   </body>
