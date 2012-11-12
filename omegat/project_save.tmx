@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- uses &gt;</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121301Z">
+        <seg>- utiliza &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>// this is bad
 import java.io.File;
 public class Foo {}</seg>
@@ -1686,6 +1694,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to highlight, double-click to display more details</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120132Z">
+        <seg>Clique para destacar, clique duas vezes para exibir mais detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to highlight, double-click to zoom</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120147Z">
+        <seg>Clique para destacar, clique duas vezes para ampliar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to remove from favourites</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021856Z">
@@ -1794,6 +1818,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151511Z">
         <seg>Recolher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse all</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120234Z">
+        <seg>Recolher todos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,6 +2662,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dependency</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120025Z">
+        <seg>Dependência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dependency Matrix</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142350Z">
@@ -2648,8 +2688,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Depth in Tree</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145601Z">
-        <seg>Profundidade na árvore</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121128Z">
+        <seg>Profundidade de herança</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,6 +2834,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T140031Z">
         <seg>Exibir os alertas atuais do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display test libraries</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121320Z">
+        <seg>Exibir bibliotecas de teste</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,6 +3146,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T141449Z">
         <seg>Detalhes das duplicações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120914Z">
+        <seg>Duração</seg>
       </tuv>
     </tu>
     <tu>
@@ -3582,10 +3638,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expand all</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120221Z">
+        <seg>Expandir todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extend description</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T030905Z">
         <seg>Expandir descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failures/Errors</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120938Z">
+        <seg>Falhas/Erros</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,6 +3802,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032635Z">
         <seg>Filtrar por nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120156Z">
+        <seg>Filtro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4054,6 +4134,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120010Z">
+        <seg>Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help tips</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T122214Z">
@@ -4090,6 +4178,46 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T200917Z">
         <seg>Ocultar esta mensagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121649Z">
+        <seg>Maiores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest average method complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121526Z">
+        <seg>Maior complexidade média por método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest complexity</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121436Z">
+        <seg>Maiores complexidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest duplications</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121458Z">
+        <seg>Maiores duplicações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest untested lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121514Z">
+        <seg>Menos linhas testadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4808,8 +4936,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Lack of Cohesion of Methods</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T145647Z">
-        <seg>Métodos com falta de coesão</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121625Z">
+        <seg>Falta de coesão dos métodos (LCOM4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,6 +5210,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124556Z">
         <seg>Variável Long</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Longest unit tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121434Z">
+        <seg>Testes unitários mais demorados</seg>
       </tuv>
     </tu>
     <tu>
@@ -5454,6 +5590,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most undocumented APIs</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121537Z">
+        <seg>APIs menos documentadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most violated</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120403Z">
+        <seg>Mais violados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most violated resources</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144702Z">
@@ -5673,6 +5825,14 @@ public class Foo {}</seg>
         <seg>Nb Lines</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T151259Z">
+        <seg>Num. de linhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nb lines</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120342Z">
         <seg>Num. de linhas</seg>
       </tuv>
     </tu>
@@ -6214,6 +6374,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No libraries</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121957Z">
+        <seg>Não há bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No lines match your filter criteria.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022558Z">
@@ -6226,6 +6394,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T125741Z">
         <seg>Nenhuma correspondência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No measures</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121600Z">
+        <seg>Sem métricas</seg>
       </tuv>
     </tu>
     <tu>
@@ -7864,7 +8040,7 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Response for class</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T130348Z">
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121639Z">
         <seg>Resposta para a Classe</seg>
       </tuv>
     </tu>
@@ -8774,6 +8950,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suspect dependency (cycle)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121212Z">
+        <seg>Dependência suspeita (cíclica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suspect file dependencies</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T143741Z">
@@ -8864,8 +9048,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Tests</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032644Z">
-        <seg>testes</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120931Z">
+        <seg>Testes</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9894,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unit test name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120925Z">
+        <seg>Nome do teste unitário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unit test success</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T132030Z">
@@ -9962,6 +10154,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T200540Z">
         <seg>Uso do método File#deleteOnExit() não é recomendado pelos seguintes motivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usages</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121332Z">
+        <seg>Utilizações</seg>
       </tuv>
     </tu>
     <tu>
@@ -10730,6 +10930,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T142240Z">
         <seg>métodos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>more</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T120855Z">
+        <seg>Mais</seg>
       </tuv>
     </tu>
     <tu>
