@@ -9496,8 +9496,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>This is distraction when going down the code as it stops the flow of eyes</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T175659Z">
-        <seg>É umaa distração ao ler o código, interrompendo o fluxo de leitura</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T132158Z">
+        <seg>É uma distração ao ler o código, interrompendo o fluxo de leitura</seg>
       </tuv>
     </tu>
     <tu>
