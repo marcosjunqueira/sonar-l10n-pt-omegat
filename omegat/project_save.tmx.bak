@@ -6376,8 +6376,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>No libraries</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121323Z">
-        <seg>Não há biblioteca</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121112T121957Z">
+        <seg>Não há bibliotecas</seg>
       </tuv>
     </tu>
     <tu>

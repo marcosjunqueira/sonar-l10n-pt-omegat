@@ -7462,6 +7462,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reports on code coverage by all tests</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T120144Z">
+        <seg>Relatórios sobre a cobertura de código por todos os testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reports on code coverage by integration tests.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121103T130050Z">
