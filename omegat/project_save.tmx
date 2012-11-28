@@ -734,10 +734,10 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Allows for certain classes via a star notation to be excluded such as java.lang.Math.* or specific static members to be excluded like java.lang.System.out for a variable or java.lang.Math.random for a method.</seg>
+        <seg>Also, it is pretty common to see null check right before equals comparisons which is not necessary in the below example.</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T184649Z">
-        <seg>Permite que certas classes através de uma notação estrela sejam excluídas, como java.lang.Math.* ou membros estáticos específicos a serem excluídos como a variável java.lang.System.out ou o método java.lang.Math.random.</seg>
+      <tuv lang="PT" changeid="david" changedate="20121128T161226Z">
+        <seg>Além disso, é muito comum ver uma verificação por nulo logo antes de uma comparação equals, o que não é necessário como no exemplo abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,6 +1662,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check that the default is after all the cases in a switch statement.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T155204Z">
+        <seg>Verifica se o default é depois de todos os casos em uma declaração "switch".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checks for braces around code blocks.</seg>
       </tuv>
       <tuv lang="PT" changeid="david" changedate="20121121T140833Z">
@@ -1686,6 +1694,46 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checks if array initialization contains optional trailing comma.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T154523Z">
+        <seg>Verifica se o array de inicialização contém vírgula no final opcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks that any combination of String literals with optional assignment is on the left side of an equals() comparison.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T155426Z">
+        <seg>Verifica se qualquer combinação de literais String com atribuição opcional está no lado esquerdo de uma comparação equals().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks that classes that override equals() also override hashCode().</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T162830Z">
+        <seg>Verifia se as classes que sobrescrevem equals() também sobrescrevem hashCode().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks that if a class defines a covariant method equals, then it defines method equals(java.lang.Object).</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T154729Z">
+        <seg>Checa se uma classe define um método covariante "equals", então ele define o método equals(java.lang.Object).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks that the parts of a class or interface declaration appear in the order suggested by the Code Convention for the Java Programming Language :</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T155025Z">
+        <seg>Verifica se as partes da declaração de uma classe ou interface aparecem na ordem sugerida pela Convenção de Códigos para a Linguagem de Programação Java :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checks the placement of right curly braces.</seg>
       </tuv>
       <tuv lang="PT" changeid="david" changedate="20121121T140924Z">
@@ -1706,6 +1754,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015833Z">
         <seg>Classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Class (static) variables.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T155109Z">
+        <seg>Classe (estática) variáveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2218,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122347Z">
         <seg>Ternário confuso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructors</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T155422Z">
+        <seg>Construtores</seg>
       </tuv>
     </tu>
     <tu>
@@ -2966,10 +3030,34 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detect the double-checked locking idiom, a technique that tries to avoid synchronization overhead but is incorrect because of subtle artifacts of the java memory model.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T155054Z">
+        <seg>Verifica o bloqueio de duplo check do idioma, uma técnica que tenta evitar a sobrecarga de sincronização, mas é incorreto por causa dos artefatos sutis do modelo de memória do java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detects classes that should be reviewed because of a high LCOM4 metric.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T181217Z">
         <seg>Detecta classes que devem ser revistos por causa da métrica LCOM4 elevada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detects empty statements (standalone ';').</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T155256Z">
+        <seg>Verifica declarações vazias (independente ';').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detects inline conditionals.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T154616Z">
+        <seg>Detecta condições em linha. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4134,6 +4222,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First the public class variables, then the protected, then package level (no access modifier), and then the private.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T155318Z">
+        <seg>Primeiro as variáveis ​​de classe "public", em seguida, "protected", depois de nível de pacote (sem modificador de acesso), e, em seguida, de "private".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fixed</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T200634Z">
@@ -4194,6 +4290,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T031556Z">
         <seg>Por exemplo - "noreply@sonarsource.com".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T161232Z">
+        <seg>Por exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4990,6 +5094,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instance variables.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121126T155327Z">
+        <seg>Variáveis de instância.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instantiation To Get Class</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123031Z">
@@ -5198,6 +5310,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Java's Autoboxing feature has an affect on how this check is implemented.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T161925Z">
+        <seg>A característica "Autoboxing" do Java tem um efeito em como essa verificação é implementada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java5 migration - Byte instantiation</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125313Z">
@@ -5362,6 +5482,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020419Z">
         <seg>Biblioteca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limitations: If the equals method is overridden or a covariant equals method is defined and the implementation is incorrect (where s.equals(t) does not return the same result as t.equals(s)) then rearranging the called on object and parameter may have unexpected results.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T161627Z">
+        <seg>Limitações: se um método "equals" é sobrescrito ou um método "equals" covariante é definido e a implementação está incorreta (onde s.equals(t) nãp retorna o mesmo que t.equals(s)), então reorganizando a chamada no objeto e o parâmetro podem trazer resultados inesperados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7814,6 +7942,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre Java 5 all IDENT + IDENT object concatenations would not cause a NullPointerException even if null.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T162043Z">
+        <seg>Pré Java 5, todas as concatenações de objetos IDENT + IDENT não causriam um NullPointerException mesmo se fossem null.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preserve Stack Trace</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130014Z">
@@ -8090,6 +8226,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T141928Z">
         <seg>Feed RSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rationale: Calling the equals() method on String literals will avoid a potential NullPointerException.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T162104Z">
+        <seg>Justificativa: Chamar o método equals() em literais Strings vai evitar um potencial NullPointerException.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9174,6 +9318,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since, it is difficult to determine what kind of Object is being concatenated all ident concatenation is considered unsafe.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T162750Z">
+        <seg>Desde que seja difícil determinar qual tipo de Object está sendo concatenado, todas as concatenações ident são consideradas inseguras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021127Z">
@@ -9574,6 +9726,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following example will cause a NullPointerException as a result of what autoboxing does.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T162602Z">
+        <seg>O exemplo seguinte irá causar um NullPointerException como um resultado do que um autoboxing faz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following public methods/constructors are not concerned by this rule :</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182043Z">
@@ -9846,6 +10006,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They would simply act as if they surrounded by String.valueof() which would concatenate the String null.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T162438Z">
+        <seg>Eles simplesmente agiriam como se eles fossem cercados por String.valueof() que concatenaria a String null.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This administration page allows to change the key of a project and of its modules.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T211134Z">
@@ -10042,6 +10210,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T211223Z">
         <seg>Essas alterações devem ser feitas ANTES de analisar o projeto com as novas chaves caso contrário esta operação irá falhar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those situations could have been included in this check.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121128T162207Z">
+        <seg>Estas situações poderiam ter sido incluidas nesta verificação.</seg>
       </tuv>
     </tu>
     <tu>
