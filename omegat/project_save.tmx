@@ -246,6 +246,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A simple example is the &lt;c0&gt;java.lang.Boolean&lt;/c0&gt; class.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T162741Z">
+        <seg>Um exemplo simples é a classe &lt;c0&gt;java.lang.Boolean&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A source code comply to an architectural model when it fully adheres to a set of architectural constraints.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T185339Z">
@@ -1590,10 +1598,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Catching java.lang.Exception, java.lang.Error or java.lang.RuntimeException is almost never acceptable.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T162043Z">
+        <seg>Fazer um catch de java.lang.Exception, java.lang.Error or java.lang.RuntimeException é quase nunca aceitável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Category</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T015817Z">
         <seg>Categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certain language features often lead to hard to maintain code or are non-obvious to novice developers.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163409Z">
+        <seg>Certas características de linguagem muitas vezes levam à difícil manutenção do código ou não são óbvias para desenvolvedores novatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1654,6 +1678,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for ensuring that for loop control variables are not modified inside the for block.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T164947Z">
+        <seg>Verifica para garantir que as variáveis ​​de controle do loop for não são modificados dentro do bloco flor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check that each public class, interface, method and constructor has a Javadoc comment.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T182000Z">
@@ -1666,6 +1698,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="david" changedate="20121128T155204Z">
         <seg>Verifica se o default é depois de todos os casos em uma declaração "switch".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for assignments in subexpressions, such as in String s = Integer.toString(i = 2);.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163950Z">
+        <seg>Cheques para atribuições em subexpressões, como em String s = Integer.toString(i = 2);.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,10 +1726,58 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checks for fall through in switch statements Finds locations where a case contains Java code - but lacks a break, return, throw or continue statement.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T160400Z">
+        <seg>Verifica por quedas em declarações switch. Encontra locais onde contém código Java - mas falta uma declaração break, return, throw ou continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for illegal instantiations where a factory method is preferred.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T162616Z">
+        <seg>Verificar por instanciações ilegais onde um método fábrica é preferido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for illegal token text.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163634Z">
+        <seg>Verifica por texto de token ilegal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for illegal tokens.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163208Z">
+        <seg>Verifica por tokens ilegais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for magic numbers.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T164003Z">
+        <seg>Verifica por números mágicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checks for the placement of left curly braces for code blocks.</seg>
       </tuv>
       <tuv lang="PT" changeid="david" changedate="20121121T140626Z">
         <seg>Verifica a colocação de chaves esquerdas em blocos de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks if any class or object member explicitly initialized to default for its type value (null for object references, zero for numeric types and char and false for boolean.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T155929Z">
+        <seg>Verifica se algum membro de uma classe ou de um objeto foi explicitamente inicializado como padrão para o seu tipo de valor (null para referências a objetos, zero para tipos numéricos e char e falso para boolean).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,10 +1790,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checks that a local variable or a parameter does not shadow a field that is defined in the same class.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T161821Z">
+        <seg>Verifica se uma variável local ou um parâmetro não esconte um campo que é definido na mesma classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checks that any combination of String literals with optional assignment is on the left side of an equals() comparison.</seg>
       </tuv>
       <tuv lang="PT" changeid="david" changedate="20121128T155426Z">
         <seg>Verifica se qualquer combinação de literais String com atribuição opcional está no lado esquerdo de uma comparação equals().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks that classes (except abstract one) define a constructor and don't rely on the default one.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T164401Z">
+        <seg>Verifica se classes (exceto as abstratas) definem um construtor e não dependem do construtor padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1826,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="david" changedate="20121126T154729Z">
         <seg>Checa se uma classe define um método covariante "equals", então ele define o método equals(java.lang.Object).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks that particular class are never used as types in variable declarations, return values or parameters.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163917Z">
+        <seg>Verifica se determinadas classes nunca são usadas ​​como tipos de declarações de variáveis​​, valores de retorno ou de parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks that switch statement has default clause.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T164457Z">
+        <seg>Verifica se uma declaração switch possui uma cláusula padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2338,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122347Z">
         <seg>Ternário confuso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructor invocations should be replaced by calls to &lt;c1&gt;Boolean.valueOf()&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T162930Z">
+        <seg>Invocações de construtores deveriam ser trocadas por chamadas de &lt;c1&gt;Boolean.valueOf()&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +3090,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142350Z">
         <seg>Matriz de dependências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the project, for some classes it might be preferable to create instances through factory methods rather than calling the constructor.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T162717Z">
+        <seg>Dependendo do projeto, para algumas classes pode ser preferível criar instâncias através de métodos de fábricas ao invés de chamar o construtor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,6 +3866,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135319Z">
         <seg>Criptografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensures that local variables that never get their values changed, must be declared final.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T161712Z">
+        <seg>Garante que variáveis locais que nunca tiverem seus valores alterados devam ser declaradas como final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,6 +5114,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150645Z">
         <seg>Em qualquer outro caso, por favor, consulte a &lt;a href="http://www.sonarsource.org/documentation"&gt;documentação&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to save memory and CPU cycles, it is preferable to use the predefined constants TRUE and FALSE.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T162850Z">
+        <seg>A fim de economizar memória e ciclos de CPU, é preferível usar as constantes predefinidas TRUE e FALSE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7382,6 +7534,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other features may be discouraged in certain frameworks, such as not having native methods in EJB components.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163518Z">
+        <seg>Outras características podem ser desencorajados em certos frameworks, como não ter métodos nativos em componentes EJB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outer Type Number</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T182724Z">
@@ -9358,6 +9518,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some extremely performance sensitive projects may require the use of factory methods for other classes as well, to enforce the usage of number caches or object pools.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163100Z">
+        <seg>Alguns projetos extremamente sensíveis de desempenho podem exigir o uso de métodos de fábrica para outras classes, bem como, para impor o uso de caches numéricos ou pools de objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sonar not only detect cycles between packages but also determines what is the minimum effort to break those cycles.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T180301Z">
@@ -10218,6 +10386,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="david" changedate="20121128T162207Z">
         <seg>Estas situações poderiam ter sido incluidas nesta verificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throwing java.lang.Error or java.lang.RuntimeException is almost never acceptable.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="david" changedate="20121210T163158Z">
+        <seg>Lançando java.lang.Error or java.lang.RuntimeException é quase nunca aceitável.</seg>
       </tuv>
     </tu>
     <tu>
