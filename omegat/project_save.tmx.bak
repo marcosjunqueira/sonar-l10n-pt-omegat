@@ -470,6 +470,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active rws</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200700Z">
+        <seg>Revs. ativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active unassigned reviews</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143158Z">
@@ -3494,6 +3502,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dup.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200250Z">
+        <seg>Dup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate Imports</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125921Z">
@@ -4150,6 +4166,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>False-positive rws</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200653Z">
+        <seg>Revs. de falsos positivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>False-positives only</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121109T115554Z">
@@ -4202,6 +4226,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T143345Z">
         <seg>Estrutura do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File dpds to cut</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200525Z">
+        <seg>dpds de arquivos a remover</seg>
       </tuv>
     </tu>
     <tu>
@@ -8054,6 +8086,30 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pkgs cycles</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200419Z">
+        <seg>Pkgs com ciclos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pkgs dpds to cut</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200538Z">
+        <seg>Dods de pacote a remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pkgs tangle</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200458Z">
+        <seg>Pkgs confusos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plan</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T200650Z">
@@ -8514,6 +8570,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171513Z">
         <seg>Vitórias rápidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RCI</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200359Z">
+        <seg>RCI</seg>
       </tuv>
     </tu>
     <tu>
@@ -9702,6 +9766,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skipped UTs</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200115Z">
+        <seg>UTs ignorados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skipped unit tests</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T033418Z">
@@ -10734,6 +10806,46 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UTs</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200034Z">
+        <seg>UTs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UTs dur.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200041Z">
+        <seg>UTs dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UTs errors</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200127Z">
+        <seg>UTs com erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UTs failures</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200136Z">
+        <seg>UTs com falha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UTs success</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200238Z">
+        <seg>UTs em sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unassigned</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T150857Z">
@@ -10746,6 +10858,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T143145Z">
         <seg>Revisões não atribuídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unassigned rws</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200719Z">
+        <seg>Revs. nao atribuídas</seg>
       </tuv>
     </tu>
     <tu>
@@ -11042,6 +11162,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121108T163720Z">
         <seg>Revisões não planejadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unplanned rws</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200739Z">
+        <seg>Revs. não planejadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -11994,6 +12122,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T140837Z">
         <seg>linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lines(%)</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T200341Z">
+        <seg>linhas(%)</seg>
       </tuv>
     </tu>
     <tu>

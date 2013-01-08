@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Optional) Second example snippet of the anti-pattern to be detected</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T202009Z">
+        <seg>(Opicional) O segundo fragmento de exemplo do anti-padrão que será detectado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>({0} seconds)</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T135719Z">
@@ -1346,6 +1354,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T171021Z">
         <seg>Evite o uso da instrução 'continue'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid using the given anti-pattern</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T201807Z">
+        <seg>Evite usar o dado anti-padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -4378,6 +4394,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T022734Z">
         <seg>Primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First example snippet of the anti-pattern to be detected</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T201944Z">
+        <seg>O primeiro fragmento de exemplo do anti-padrão que será detectado</seg>
       </tuv>
     </tu>
     <tu>
@@ -10118,6 +10142,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The XPath query</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T202041Z">
+        <seg>A consulta XPath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The budget already used in the project</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T150707Z">
@@ -10294,6 +10326,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The refactored first snippet</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T201902Z">
+        <seg>O fragmento refatorado primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The replacement of "{0}" by "{1}" is impossible as it would result in duplicate keys (in red below):</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170758Z">
@@ -10394,6 +10434,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010801Z">
         <seg>Limite para relatar tamanho da variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The violation message</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T202031Z">
+        <seg>A mensagem de violação</seg>
       </tuv>
     </tu>
     <tu>
@@ -11682,6 +11730,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T032622Z">
         <seg>A senha antiga está errada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XPath rule</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T202022Z">
+        <seg>Regra XPath</seg>
       </tuv>
     </tu>
     <tu>
