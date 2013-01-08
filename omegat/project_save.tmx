@@ -4249,7 +4249,7 @@ public class Foo {}</seg>
         <seg>File tangle index</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T143709Z">
-        <seg>√çndice de emaranhado de arquivo</seg>
+        <seg>√?ndice de emaranhado de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7929,7 +7929,7 @@ public class Foo {}</seg>
         <seg>Package tangle index</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120822T144209Z">
-        <seg>√çndice de emaranhado de pacote</seg>
+        <seg>√?ndice de emaranhado de pacote</seg>
       </tuv>
     </tu>
     <tu>
