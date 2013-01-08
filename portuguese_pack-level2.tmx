@@ -14,50 +14,18 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>&amp;Delta; over {0} days</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T122014Z">
-        <seg>&amp;Delta; ao longo de {0} dias</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>&amp;Delta; since previous analysis</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T121543Z">
-        <seg>&amp;Delta; desde a análise anterior</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>&amp;Delta; since previous version</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T121934Z">
-        <seg>&amp;Delta; desde a versão anterior</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>&amp;Delta; since version {0}</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T122033Z">
-        <seg>&amp;Delta; desde a versão {0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>&amp;Delta; since {0}</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T122023Z">
-        <seg>&amp;Delta; desde {0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>({0} seconds)</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T135719Z">
         <seg>({0} segundos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>+ More Criteria</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130131Z">
+        <seg>+ Mais critérios</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +134,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>&lt;h3 class="marginbottom5"&gt;Welcome to Sonar Dashboard<it pos="end" x="3">&lt;/h3&gt;</it>&lt;p class="marginbottom5"&gt;Since you are able to read this, it means that you have successfully started your Sonar server.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T194100Z">
+        <seg>&lt;h3 class="marginbottom5"&gt;Bem-vindo ao Painel de Controle do Sonar<it pos="end" x="3">&lt;/h3&gt;</it>&lt;p class="marginbottom5"&gt; Já que você é capaz de ler isto, significa que já iniciou o seu servidor Sonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>&lt;p&gt;Only project measures are checked against thresholds.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121108T120419Z">
         <seg>&lt;p&gt;Somente as medidas de projeto são verificadas em relação a limites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130642Z">
+        <seg>A</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +286,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>API(%)</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130802Z">
+        <seg>API(%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Abstract Class Without Abstract Method</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120911T125807Z">
@@ -414,6 +406,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Active rws</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200700Z">
+        <seg>Revs. ativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Active unassigned reviews</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T143158Z">
@@ -434,6 +434,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T013642Z">
         <seg>Adicionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add Column</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T192844Z">
+        <seg>Adicionar coluna</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,22 +478,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Add column</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181806Z">
-        <seg>Adicionar coluna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>Add filter</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T025211Z">
-        <seg>Adicionar filtro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Add manual measure</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T205828Z">
@@ -502,10 +494,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Add metric</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130425Z">
+        <seg>Adicionar métrica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Add note</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030911Z">
         <seg>Adicionar nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add project</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130428Z">
+        <seg>Adicionar projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,14 +598,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Advanced search</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T140017Z">
-        <seg>Pesquisa avançada</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Afferent (incoming) couplings</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T140149Z">
@@ -678,10 +678,34 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>All Developers</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125806Z">
+        <seg>Todos os desenvolvedores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All Projects</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125748Z">
+        <seg>Todos os projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>All Tests</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T130432Z">
         <seg>Todos os testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All Views</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125758Z">
+        <seg>Todas as visualizações</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +842,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T170629Z">
         <seg>Restrição de arquitetura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Are you sure that you want to delete the filter "{0}"?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130300Z">
+        <seg>Deseja realmente excluir o filtro "{0}"?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1566,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Change Columns</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130323Z">
+        <seg>Alterar colunas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Change Treemap</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130331Z">
+        <seg>Alterar treemap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Change password</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T032518Z">
@@ -1586,6 +1634,38 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T182000Z">
         <seg>Verifique se cada classe, interface, método e construtor público tem um comentário Javadoc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Checks for braces around code blocks.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="david" changedate="20121121T140833Z">
+        <seg>Verifica por chaves envolvendo blocos de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Checks for empty blocks.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="david" changedate="20121121T140945Z">
+        <seg>Verifica que há blocos vazios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Checks for the placement of left curly braces for code blocks.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="david" changedate="20121121T140626Z">
+        <seg>Verifica a colocação de chaves esquerdas em blocos de código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Checks the placement of right curly braces.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="david" changedate="20121121T140924Z">
+        <seg>Verifica a colocação de chaves a direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,6 +1822,38 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Cmpx</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130710Z">
+        <seg>Cmpx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cmpx/class</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195953Z">
+        <seg>Cmpx/classe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cmpx/file</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195949Z">
+        <seg>Cmpx/arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cmpx/method</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195933Z">
+        <seg>Cmpx/método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Code</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T015902Z">
@@ -1886,18 +1998,18 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Compare on chart</seg>
+        <seg>Compare Profiles</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171445Z">
-        <seg>Comparar no gráfico</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130617Z">
+        <seg>Comparar perfis</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Compare profiles</seg>
+        <seg>Compare on chart</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171609Z">
-        <seg>Comparar perfis</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171445Z">
+        <seg>Comparar no gráfico</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,6 +2090,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T024142Z">
         <seg>Componentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Components of</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130049Z">
+        <seg>Componentes de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Components of project</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130057Z">
+        <seg>Componentes do projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,14 +2358,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Criteria</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182026Z">
-        <seg>Critério</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Critical</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T141922Z">
@@ -2386,14 +2506,6 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T134909Z">
         <seg>Os painéis padrão foram restaurados</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>Default filters</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182051Z">
-        <seg>Filtros padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,14 +2742,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Default sorted column</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181823Z">
-        <seg>Coluna de ordenação padrão</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Default value is "" (empty).</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121120T175011Z">
@@ -2670,10 +2774,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Delete Filter</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130247Z">
+        <seg>Excluir filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Delete Profile</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T130556Z">
         <seg>Excluir perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Delete column</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125843Z">
+        <seg>Excluir coluna</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,22 +2974,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Differential period</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181420Z">
-        <seg>Período de diferencial</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>Direct Children</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182245Z">
-        <seg>Filhos diretos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Directories</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020225Z">
@@ -2882,6 +2986,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020229Z">
         <seg>Diretório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dirs</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130720Z">
+        <seg>Dirs</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,6 +3058,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T141759Z">
         <seg>Exibe as informações gerais do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Displays the result of a pre-configured measure filter as a list</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T194946Z">
+        <seg>Apresenta o resultado de um filtro de medida pré-configurado como uma lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Displays the result of pre-configured measure filter as a Treemap</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195111Z">
+        <seg>Apresenta o resultado de um filtro de medida pré-configurado como uma Treemap</seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,22 +3174,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Do you want to delete this filter?</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121108T163610Z">
-        <seg>Deseja realmente excluir este filtro?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>Do you want to stop following this filter?</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T122959Z">
-        <seg>Deseja realmente parar de acompanhar este filtro?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Documentation</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T023831Z">
@@ -3130,6 +3242,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T122318Z">
         <seg>Devido às configurações de segurança, alguns resultados não estão sendo exibidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dup.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200250Z">
+        <seg>Dup.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,14 +3342,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>During last</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181727Z">
-        <seg>Durante a última</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>E.g.: org.apache.struts, struts-core or Struts</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T133822Z">
@@ -3258,14 +3370,6 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T134602Z">
         <seg>Editar painel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>Edit filter</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T135845Z">
-        <seg>Editar filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -3502,6 +3606,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130601Z">
+        <seg>Erros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Even when the Cyclomatic Complexity of a class is very high, this complexity might be well distributed among all methods.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T174854Z">
@@ -3726,6 +3838,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Failures</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130555Z">
+        <seg>Falhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Failures/Errors</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121112T120938Z">
@@ -3766,10 +3886,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>False-positive rws</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200653Z">
+        <seg>Revs. de falsos positivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>False-positives only</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121109T115554Z">
         <seg>Apenas falsos positivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Favourite Filters</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130119Z">
+        <seg>Filtros favoritos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3810,6 +3946,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T143345Z">
         <seg>Estrutura do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>File dpds to cut</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200525Z">
+        <seg>dpds de arquivos a remover</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,6 +4074,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T133756Z">
         <seg>Saiba quais projetos dependem de uma determinada biblioteca.&lt;br/&gt;Pesquisa por grupo, artefato ou nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finds nested blocks.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="david" changedate="20121121T140938Z">
+        <seg>Localiza blocos aninhados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,6 +4218,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022134Z">
         <seg>Código-fonte completo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Gen.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195738Z">
+        <seg>Ger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4694,6 +4854,38 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Inspected before</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T191828Z">
+        <seg>Inspecionado antes de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inspected more than</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T191957Z">
+        <seg>Inspecionado mais de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inspected since</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T191505Z">
+        <seg>Inspecionado desde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Inspected within the last</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T192041Z">
+        <seg>inspecionado nos últimos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Instability</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T145533Z">
@@ -4926,6 +5118,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>LOC</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130735Z">
+        <seg>LOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>LOCs</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130740Z">
+        <seg>LOCs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Lack of Cohesion of Methods</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121112T121625Z">
@@ -4934,10 +5142,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Lang.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130211Z">
+        <seg>Ling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Language</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020417Z">
         <seg>Linguagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130136Z">
+        <seg>Linguagens</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,7 +5288,7 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Lines</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T142147Z">
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195743Z">
         <seg>Linhas</seg>
       </tuv>
     </tu>
@@ -5114,6 +5338,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T020423Z">
         <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>List</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130312Z">
+        <seg>Lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,6 +5454,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Manage</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125612Z">
+        <seg>Gerenciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Manage Action Plans</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T201059Z">
@@ -5230,18 +5470,18 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Manage dashboards</seg>
+        <seg>Manage Filters</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T134224Z">
-        <seg>Gerenciar painéis</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130308Z">
+        <seg>Gerenciar filtros</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Manage filters</seg>
+        <seg>Manage dashboards</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T025227Z">
-        <seg>Gerenciar filtros</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T134224Z">
+        <seg>Gerenciar painéis</seg>
       </tuv>
     </tu>
     <tu>
@@ -5330,6 +5570,30 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T114049Z">
         <seg>Mim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Measure Filter as List</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T194920Z">
+        <seg>Filtro de medidas como uma lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Measure Filter as Treemap</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195033Z">
+        <seg>Filtro de medidas como uma Treemap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Measures</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125812Z">
+        <seg>Medidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5854,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Move down</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130457Z">
+        <seg>Mover para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Move left</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022236Z">
@@ -5602,6 +5874,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022241Z">
         <seg>Mover à direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Move up</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130459Z">
+        <seg>Mover para cima</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,10 +5934,10 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>My filters</seg>
+        <seg>My profile</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181941Z">
-        <seg>Meus filtros</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125826Z">
+        <seg>Meu perfil</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,6 +5978,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T172103Z">
         <seg>Nome para o novo perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Name is missing</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130229Z">
+        <seg>Está faltando o nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Name is too long</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130236Z">
+        <seg>O nome é muito longo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5902,6 +6198,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>New Profile</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130612Z">
+        <seg>Novo perfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>New Rule</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T151532Z">
@@ -6006,14 +6310,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>New filter</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T025201Z">
-        <seg>Novo filtro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>New key</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T211415Z">
@@ -6094,18 +6390,18 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>New profile</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171601Z">
-        <seg>Novo perfil</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>New rule</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030307Z">
         <seg>Nova regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>New search</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130102Z">
+        <seg>Nova pesquisa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7190,6 +7486,38 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Pkgs</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130746Z">
+        <seg>Pkgs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pkgs cycles</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200419Z">
+        <seg>Pkgs com ciclos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pkgs dpds to cut</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200538Z">
+        <seg>Dods de pacote a remover</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pkgs tangle</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200458Z">
+        <seg>Pkgs confusos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Plan</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T200650Z">
@@ -7270,6 +7598,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Please refine your search.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130419Z">
+        <seg>Por favor, refine sua pesquisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Please select at least one resource to delete.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T130957Z">
@@ -7306,6 +7642,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T023915Z">
         <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Policies <bpt i="0" x="0">&lt;c0&gt;</bpt>eol<ept i="0">&lt;/c0&gt;</ept> and <bpt i="1" x="1">&lt;c1&gt;</bpt>nlow<ept i="1">&lt;/c1&gt;</ept> take into account property maxLineLength.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="david" changedate="20121121T140712Z">
+        <seg>Políticas <bpt i="0" x="0">&lt;c0&gt;</bpt>eol<ept i="0">&lt;/c0&gt;</ept> e <bpt i="1" x="1">&lt;c1&gt;</bpt>nlow<ept i="1">&lt;/c1&gt;</ept> levam em consideração a propriedade maxLineLength.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7366,10 +7710,10 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Prior to last</seg>
+        <seg>Private</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181740Z">
-        <seg>Antes da última</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125857Z">
+        <seg>Privado</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,6 +7846,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Projects, files...</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125926Z">
+        <seg>Projetos, arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Proper Logger</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120911T125942Z">
@@ -7530,6 +7882,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T182959Z">
         <seg>Métodos protegidos que sobrescrevem um método de uma classe pai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pub.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130751Z">
+        <seg>Pub.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7582,18 +7942,18 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Quality profiles</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171556Z">
-        <seg>Perfis de qualidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Quick wins</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171513Z">
         <seg>Vitórias rápidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>RCI</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200359Z">
+        <seg>RCI</seg>
       </tuv>
     </tu>
     <tu>
@@ -7618,6 +7978,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T023534Z">
         <seg>Conexão só para leitura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recent Projects</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125828Z">
+        <seg>Projetos recentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125603Z">
+        <seg>Atualizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7934,9 +8310,9 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Restore profile</seg>
+        <seg>Restore Profile</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171616Z">
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130620Z">
         <seg>Restaurar perfil</seg>
       </tuv>
     </tu>
@@ -8174,14 +8550,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Save &amp; Close</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022825Z">
-        <seg>Salvar &amp; fechar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Save &amp; Preview</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022844Z">
@@ -8194,6 +8562,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T031725Z">
         <seg>Salvar configurações de e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Save as</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125607Z">
+        <seg>Salvar como</seg>
       </tuv>
     </tu>
     <tu>
@@ -8238,14 +8614,6 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Search by name</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181759Z">
-        <seg>Pesquisar por nome</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Search library</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T202256Z">
@@ -8282,6 +8650,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022854Z">
         <seg>Selecione uma métrica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Select a version</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T193115Z">
+        <seg>Selecione uma versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8830,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Shared Filters</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125903Z">
+        <seg>Filtros compartilhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Shared by</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T022913Z">
@@ -8462,10 +8846,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Shared filters</seg>
+        <seg>Shared with all users</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182121Z">
-        <seg>Filtros compartilhados</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125853Z">
+        <seg>Compartilhado com todos os usuários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sharing</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130240Z">
+        <seg>Compartilhando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Short Name</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130153Z">
+        <seg>Nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -8662,10 +9062,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Skipped UTs</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200115Z">
+        <seg>UTs ignorados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Skipped unit tests</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T033418Z">
         <seg>Testes unitários ignorados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>So here are a few pointers for your next step:&lt;/p&gt;&lt;ul class="bullet"&gt;&lt;li&gt;Do you now want to &lt;a href="http://redirect.sonarsource.com/1"&gt;run analysis&lt;/a&gt; on a project?&lt;/li&gt;&lt;li&gt;Maybe start &lt;a href="http://redirect.sonarsource.com/2"&gt;customizing dashboards&lt;/a&gt;?&lt;/li&gt;&lt;li&gt;Or simply browse the &lt;a href="http://redirect.sonarsource.com/3"&gt;complete documentation&lt;/a&gt;?&lt;/li&gt;&lt;li&gt;If you have a question or an issue, please report it on the &lt;a href="http://redirect.sonarsource.com/4"&gt;mailing list&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T194816Z">
+        <seg>Então, aqui estão algumas dicas para o seu próximo passo:&lt;/p&gt;&lt;ul class="bullet"&gt;&lt;li&gt;Deseja &lt;a href="http://redirect.sonarsource.com/1"&gt;executar a análise&lt;/a&gt; em um projeto?&lt;/li&gt;&lt;li&gt;Talvez começar a &lt;a href="http://redirect.sonarsource.com/2"&gt;personalizar painéis&lt;/a&gt;?&lt;/li&gt;&lt;li&gt;Ou simplesmente navegar pela &lt;a href="http://redirect.sonarsource.com/3"&gt;documentação&lt;/a&gt;?&lt;/li&gt;&lt;li&gt;Se você tem alguma dúvida ou problema, por favor entre em contato na &lt;a href="http://redirect.sonarsource.com/4"&gt;lista de discussão&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8738,6 +9154,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T021129Z">
         <seg>Situação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Stmts</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130813Z">
+        <seg>Stmts</seg>
       </tuv>
     </tu>
     <tu>
@@ -8818,6 +9242,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T180207Z">
         <seg>Tal ciclo pode rapidamente aumentar o esforço necessário para manter uma aplicação e para aceitar a mudança do negócio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Suppress column</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130446Z">
+        <seg>Suprimir coluna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Suppress line</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130451Z">
+        <seg>Suprimir linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -9134,6 +9574,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The policy to verify is specified using property option.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="david" changedate="20121121T140637Z">
+        <seg>A política de verificar é especificada usando a propriedade "option".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The replacement of "{0}" by "{1}" is impossible as it would result in duplicate keys (in red below):</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T170758Z">
@@ -9266,22 +9714,6 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T135222Z">
         <seg>Esses painéis podem ser adicionados aos painéis padrão.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>These filters are displayed on the homepage.</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182107Z">
-        <seg>Esses filtros são exibidos na página inicial.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>These filters are shared by administrators and can be added to default filters.</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T182228Z">
-        <seg>Esses filtros são compartilhados pelos administradores e podem ser adicionados aos filtros padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9454,6 +9886,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This widget is configured to display a measure filter that doesn't exist anymore.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T192921Z">
+        <seg>Este widget está configurado para exibir um filtro de medida que não existe mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Those changes must be done BEFORE analyzing the project with the new keys otherwise this operation will fail.</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120825T211223Z">
@@ -9480,8 +9920,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Time changes</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120830T135841Z">
-        <seg>Mudanças no tempo</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T190704Z">
+        <seg>Mudanças através do tempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9526,6 +9966,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Too many results.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130403Z">
+        <seg>Muitos resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125833Z">
+        <seg>Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Top risk</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120828T171531Z">
@@ -9546,14 +10002,6 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T114851Z">
         <seg>Treemap</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>Treemap does not support yet the selection of a period.</seg>
-      </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181937Z">
-        <seg>A Treemap ainda não suporta a seleção de um período.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9590,6 +10038,46 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>UTs</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200034Z">
+        <seg>UTs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>UTs dur.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200041Z">
+        <seg>UTs dur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>UTs errors</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200127Z">
+        <seg>UTs com erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>UTs failures</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200136Z">
+        <seg>UTs com falha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>UTs success</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200238Z">
+        <seg>UTs em sucesso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Unassigned</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T150857Z">
@@ -9602,6 +10090,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T143145Z">
         <seg>Revisões não atribuídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unassigned rws</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200719Z">
+        <seg>Revs. nao atribuídas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9674,6 +10170,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T171312Z">
         <seg>API não documentada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unexpected error.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130352Z">
+        <seg>Erro inesperado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9854,6 +10358,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Unplanned rws</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200739Z">
+        <seg>Revs. não planejadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Unreviewed violations</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T150141Z">
@@ -9984,8 +10496,8 @@ public class Foo {}</seg>
       <tuv xml:lang="EN-US">
         <seg>Use * to match zero or more characters and ?</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T122820Z">
-        <seg>Use * para corresponder zero ou mais caracteres e?</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T191402Z">
+        <seg>Use * para corresponder zero ou mais caracteres e ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,18 +10710,42 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>When both the code coverage by unit tests and by integration tests are available, an overall code coverage is also computed and displayed in this widget.</seg>
+        <seg>Welcome</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T130150Z">
-        <seg>Quando tanto a cobertura do código por testes unitários e testes de integração estão disponíveis, uma cobertura geral do código é também calculado e exibido neste widget.</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130513Z">
+        <seg>Bem-vindo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>When no language is selected, no filter will apply</seg>
+        <seg>Welcome message used to provide links to the most valuable resources like documentation and support</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120821T181500Z">
-        <seg>Quando nenhuma linguagem for selecionada, nenhum filtro será aplicado</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T193930Z">
+        <seg>Mensagem de boas vindas usado para fornecer links para os recursos mais valiosos como documentação e suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Well done!&lt;/p&gt;&lt;p class="marginbottom5"&gt;If you have not removed this text, it also means that you have not yet played much with Sonar.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T194252Z">
+        <seg>Muito bem!&lt;/p&gt;&lt;p class="marginbottom5"&gt;Se você não removeu este texto, isso significa que você não tem usado muito o Sonar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What?</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125911Z">
+        <seg>O que?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When both the code coverage by unit tests and by integration tests are available, an overall code coverage is also computed and displayed in this widget.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T130150Z">
+        <seg>Quando tanto a cobertura do código por testes unitários e testes de integração estão disponíveis, uma cobertura geral do código é também calculado e exibido neste widget.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10462,6 +10998,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>collapse</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195257Z">
+        <seg>recolher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>commented LOCs</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T141408Z">
@@ -10486,6 +11030,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>days</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130038Z">
+        <seg>dias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>days ago</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130036Z">
+        <seg>dias atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>directories</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T142236Z">
@@ -10498,6 +11058,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T185948Z">
         <seg>doSomething();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>doc.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130757Z">
+        <seg>doc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10542,10 +11110,10 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>expand/collapse</seg>
+        <seg>expand</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120829T030511Z">
-        <seg>expandir/recolher</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T195309Z">
+        <seg>expandir</seg>
       </tuv>
     </tu>
     <tu>
@@ -10690,6 +11258,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T140837Z">
         <seg>linhas a cobrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>lines(%)</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T200341Z">
+        <seg>linhas(%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10926,10 +11502,10 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>to match any single character.</seg>
+        <seg>to match any single character</seg>
       </tuv>
-      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T122844Z">
-        <seg>para corresponder qualquer caractere único.</seg>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125946Z">
+        <seg>para corresponder qualquer caractere único</seg>
       </tuv>
     </tu>
     <tu>
@@ -10954,6 +11530,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20120822T150107Z">
         <seg>não atribuído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>undoc.</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130808Z">
+        <seg>undoc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11022,6 +11606,30 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>year-month-day (2013-01-31)</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T130025Z">
+        <seg>ano-mês-dia (2013-01-31)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125632Z">
+        <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125701Z">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>{0} Deletion</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121108T163326Z">
@@ -11034,6 +11642,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121103T130459Z">
         <seg>{0} perfis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>{0} days</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125624Z">
+        <seg>{0} dias</seg>
       </tuv>
     </tu>
     <tu>
@@ -11124,6 +11740,38 @@ public class Foo {}</seg>
       <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20121107T185956Z">
         <seg>}
 }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Δ last</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125647Z">
+        <seg>Δ último</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Δ last ({0})</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125659Z">
+        <seg>Δ último ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Δ version</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125715Z">
+        <seg>Δ versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Δ version ({0})</seg>
+      </tuv>
+      <tuv xml:lang="PT" changeid="marcos.junqueira" changedate="20130108T125739Z">
+        <seg>Δ versão ({0})</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
