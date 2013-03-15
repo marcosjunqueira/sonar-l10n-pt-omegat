@@ -1272,8 +1272,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Backup</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T014234Z">
-        <seg>Executar backup</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130110T135919Z">
+        <seg>Backup</seg>
       </tuv>
     </tu>
     <tu>
@@ -9328,8 +9328,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>System Administrators</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024329Z">
-        <seg>Administradores do sistema</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130110T135905Z">
+        <seg>Administradores</seg>
       </tuv>
     </tu>
     <tu>

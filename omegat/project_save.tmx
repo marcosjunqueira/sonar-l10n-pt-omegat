@@ -382,6 +382,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abstract naming</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T143057Z">
+        <seg>Nomenclatura Abstrata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abstractness</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142149Z">
@@ -514,6 +522,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20130108T192844Z">
         <seg>Adicionar coluna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Empty String</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144758Z">
+        <seg>Adicionando String vazia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,6 +1174,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid Accessibility Alteration</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144311Z">
+        <seg>Evite alterações de acessibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid Array Loops</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123610Z">
@@ -1170,6 +1194,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125248Z">
         <seg>Evite Assert como identificador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Calling Finalize</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145549Z">
+        <seg>Evite chamar Finalize</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +1230,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid Reassigning Parameters</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144409Z">
+        <seg>Evite reatribuir parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid Rethrowing Exception</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T131120Z">
@@ -1218,6 +1258,22 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T184351Z">
         <seg>Evite Importação Estática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid StringBuffer field</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145152Z">
+        <seg>Evite campo StringBuffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Synchronized At Method Level</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T142810Z">
+        <seg>Evite Synchronized em nível de método</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,10 +1302,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid Using Hard Coded IP</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145847Z">
+        <seg>Evite usar o IP fixo em código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoid Using Native Code</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125037Z">
         <seg>Evite utilizar códico nativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid Using Octal Values</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145534Z">
+        <seg>Evite usar valores octais</seg>
       </tuv>
     </tu>
     <tu>
@@ -1384,8 +1456,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>Backup</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T014234Z">
-        <seg>Executar backup</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130110T135919Z">
+        <seg>Backup</seg>
       </tuv>
     </tu>
     <tu>
@@ -2342,6 +2414,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consecutive Literal Appends</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T142357Z">
+        <seg>Anexa consecutivos literais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continuous integration</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T023417Z">
@@ -2726,6 +2806,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default is ,</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T150339Z">
+        <seg>O padrão é ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default is -1.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T174920Z">
@@ -2838,6 +2926,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default is 4.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T150434Z">
+        <seg>O padrão é 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default is 50.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T175359Z">
@@ -2922,6 +3018,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122850Z">
         <seg>O padrão é verdadeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default label not last in switch statement</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145459Z">
+        <seg>Rótulo padrão não é o último da declaração switch</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3458,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124742Z">
         <seg>Não invoque System Exit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do Not Extend Java Lang Error</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T143220Z">
+        <seg>Não extenda Java Lang Error</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +3918,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Empty Statement Not In Loop</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T142724Z">
+        <seg>Declaração vazia não necessária no laço (loop)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Empty Static Initializer</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T121947Z">
@@ -3882,6 +4002,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121120T172459Z">
         <seg>Evite invocar equals a partir de 'null'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equals Null</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144853Z">
+        <seg>Equals Null</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,6 +4470,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final Field Could Be Static</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145719Z">
+        <seg>Campo Final poderia ser estático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finalize Does Not Call Super Finalize</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T130028Z">
@@ -4362,6 +4498,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125116Z">
         <seg>Finalize sobrecarregado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finalize Should Be Protected</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144649Z">
+        <seg>Métodos Finalize devem ser declarados como Protected</seg>
       </tuv>
     </tu>
     <tu>
@@ -5846,6 +5990,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local Home Naming Convention</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T142226Z">
+        <seg>Convenção de nomenclatura de interface Local Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Interface Session Naming Convention</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T142220Z">
+        <seg>Convenção de nomenclatura de interface Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local variable could be final</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125221Z">
@@ -6574,10 +6734,26 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Naming - Method naming conventions</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T150159Z">
+        <seg>Nomenclatura - convenções de nomenclatura de método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Naming - Method with same name as enclosing class</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125513Z">
         <seg>Nomenclatura - Método com mesmo nome de classe inclusora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naming - Misleading variable name</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T141329Z">
+        <seg>Nomenclatura - Nome de variável enganosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7610,6 +7786,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T020614Z">
         <seg>Operações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimizable To Array Call</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144529Z">
+        <seg>Chamada To Array otimizável</seg>
       </tuv>
     </tu>
     <tu>
@@ -9766,6 +9950,22 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simplify boolean returns</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145308Z">
+        <seg>Simplifique o retorno de booleano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Singular Field</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T150606Z">
+        <seg>Campo singular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T021127Z">
@@ -9786,6 +9986,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120829T142718Z">
         <seg>Tamanho do time do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skip literals within Annotations.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T150414Z">
+        <seg>Ignorar literais dentro de Anotações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,6 +10222,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch Density</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T143517Z">
+        <seg>Densidade de Switch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch statements should have default</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T124836Z">
@@ -10032,8 +10248,8 @@ public class Foo {}</seg>
       <tuv lang="EN-US">
         <seg>System Administrators</seg>
       </tuv>
-      <tuv lang="PT" changeid="marcos.junqueira" changedate="20120821T024329Z">
-        <seg>Administradores do sistema</seg>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130110T135905Z">
+        <seg>Administradores</seg>
       </tuv>
     </tu>
     <tu>
@@ -10166,6 +10382,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The class size reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145607Z">
+        <seg>O limite do tamanho da classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current project can not be updated with the following profile: "{0}".</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T171149Z">
@@ -10230,6 +10454,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The if statement depth reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T141736Z">
+        <seg>O Limite para reportar a profundidade de declarações IF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The import count reporting threshold.</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T005414Z">
@@ -10258,6 +10490,30 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20121107T174616Z">
         <seg>A última instrução de retorno no método, se existir, não é levada em conta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method NCSS count reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T142955Z">
+        <seg>Limite para relatar NCSS de método</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method count reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T150248Z">
+        <seg>O limite de número de métodos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method size reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T143332Z">
+        <seg>O limite de tamanho de método.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10342,6 +10598,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The report threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T142311Z">
+        <seg>O limite para relatar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The resources will be updated as follows (updated keys in bold):</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120828T170831Z">
@@ -10362,6 +10626,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120825T210515Z">
         <seg>O instantâneo foi excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The switch statement ratio reporting threshold.</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T143734Z">
+        <seg>A taxa limite da declaração switch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10926,6 +11198,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uncommented Empty Method</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144049Z">
+        <seg>Método vazio sem comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unconditional If Statement</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T123531Z">
@@ -11182,6 +11462,14 @@ public class Foo {}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unnecessary Wrapper Object Creation</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T145043Z">
+        <seg>Criação de objetos Wrapper desnecessários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unnecessary constructor</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T125136Z">
@@ -11250,6 +11538,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120911T122509Z">
         <seg>Parâmetro formal não utilizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused imports</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T150633Z">
+        <seg>Importações não utilizadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -11378,6 +11674,14 @@ public class Foo {}</seg>
       </tuv>
       <tuv lang="PT" changeid="marcos.junqueira" changedate="20120917T010629Z">
         <seg>Utilizar Index Of Char</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Locale With Case Conversions</seg>
+      </tuv>
+      <tuv lang="PT" changeid="marcos.junqueira" changedate="20130315T144007Z">
+        <seg>Use Locale em conversões para maiúsculas/minúsculas</seg>
       </tuv>
     </tu>
     <tu>
